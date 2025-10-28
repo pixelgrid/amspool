@@ -1,2 +1,1 @@
-# amspool
-pool tournaments in ams 
+Pool games happening in Amsterdam today
