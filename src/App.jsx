@@ -1,29 +1,41 @@
 import { useEffect, useState } from 'react'
 
-import Calendar from './assets/calendar.svg'
+import Calendar from './assets/calendar-black.svg'
+import mokumLogo from './assets/venues/mokum.png';
+import boventijLogo from './assets/venues/boventij.png'
+import degrachtLogo from './assets/venues/degracht.jpeg'
+import planbLogo from './assets/venues/planb.png'
+import genericLogo from './assets/venues/genericvenue.png'
+import purplepoolLogo from './assets/venues/purplepool.png'
 
-import eerste_divisie from '../league_data/eerste_divisie'
-import tweede_divisie from '../league_data/tweede_divisie'
-import derde_divisie from '../league_data/derde_divisie'
+import eerste_divisie from '../league_data/eerste_divisie_parsed'
+import tweede_divisie from '../league_data/tweede_divisie_parsed'
+import derde_divisie from '../league_data/derde_divisie_parsed'
 
-import eerste_klasse from '../league_data/eerste_klasse'
-import tweede_klasse from '../league_data/tweede_klasse'
-import derde_klasse from '../league_data/derde_klasse'
+import eerste_klasse from '../league_data/eerste_klasse_parsed'
+import tweede_klasse from '../league_data/tweede_klasse_parsed'
+import derde_klasse from '../league_data/derde_klasse_parsed'
 
-function find_todays_games(leagues_list){
-  const today = new Date().toISOString().split('T')[0]
-  const results = {};
+const MOKUM_POOL_DARTS_VENUE_ID = '60451687'
+const BOVEN_T_IJ_VENUE_ID = '1172427'
+const PLAN_B_VENUE_ID = '1167894'
+const DE_GRACHT_VENUE_ID = '1168481'
+const PURPLE_POOL_VENUE_ID = '1126046'
+
+function find_games_for_date(date){
+  const targetDate = new Date(date).toISOString().split('T')[0]
+  const results = [];
   for(let league of leagues_list){
     let league_games = [];
-    for(let match of league.matches){
-      const startTime = new Date(match.starttime).toISOString().split('T')[0]
-      if (startTime === today)
+    for(let match of league){
+      const startTime = new Date(match.startDate).toISOString().split('T')[0]
+      if (startTime === targetDate)
        league_games.push(match)
     }
     if(league_games.length > 0)
-    results[league.name] = league_games
+    results.push(league_games)
   }
-  return results
+  return [targetDate, results]
 }
 
 const leagues_list = [eerste_divisie, tweede_divisie, derde_divisie, eerste_klasse, tweede_klasse, derde_klasse];
@@ -31,38 +43,68 @@ function App() {
   const [matches, setMatches] = useState(null)
 
   useEffect(() => {
-    setMatches(find_todays_games(leagues_list))
+    const today = new Date();
+    const result = [];
+    for(let i = 0; i < 7; i++){
+      const date = today.setDate(today.getDate() + 1);
+      const res = find_games_for_date(date);
+      if(res[1].length > 0)
+      result.push(res)
+    }
+    setMatches(result);
   }, []);
 
-  return (
-    <>
-      <img src={Calendar} />
-      <h1>This week in Amsterdam</h1>
-      {Object.entries(matches || {}).map(([league, games]) => {
-        return <div key={league}>
-        <h2>{league}</h2>
-        <ul>
-          {games.map(game => {
-            return <li><a href={game.playerA.url}>{game.playerA.name}</a> - <a href={game.playerB.url}>{game.playerB.name}</a> </li>
-          })}
-        </ul>
-        </div>
-      })}
-    </>
-  )
+  return (matches || []).map(([date, games]) => {
+    return <div key={date}>
+      <DateRow date={new Date(date)} />
+      {games.map((game, index) => game.map(g => <GameRow 
+                                    key={index} 
+      playerA={g.teamA} 
+      playerB={g.teamB} 
+      venue={g.venueName} 
+      tournament={g.tournament} 
+      venueUrl={g.venueUrl}
+      venueId={g.venueID}/>))}
+    </div>
+  })
 }
 
 function DateRow({date}){
-  return <div className="date">
+    const formattedToday = new Intl.DateTimeFormat('en-US', {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  }).format(date);
+  return <span className='date-header'> <img src={Calendar} className="calendar-m" /> {formattedToday}</span>
+}
 
+function GameRow({venue, venueId, playerA, playerB, tournament, venueUrl}){
+  return <div className="game">
+    <VenueLogo venueId={venueId} />
+    <div className='game-details'>
+      <div className="comp-name">{tournament}</div>
+      <div><a href="">{playerA}</a> - <a href="">{playerB}</a></div>
+      <div className="organizer"><a href={venueUrl}>{venue}</a></div>
+    </div>
   </div>
 }
-function GameRow({venue, venueLogo, playerA, playerB}){
-  return <div className="game">
-    <img src={venueLogo} alt="" className="venue"/>
-    <div>{playerA} - {playerB}</div>
-    <div>{venue}</div>
-  </div>
+
+function VenueLogo({venueId}){
+  switch(venueId){
+    case MOKUM_POOL_DARTS_VENUE_ID:
+      return <img src={mokumLogo} alt="" className="venue-logo" />
+    case BOVEN_T_IJ_VENUE_ID:
+      return <img src={boventijLogo} alt="" className="venue-logo" />
+    case PLAN_B_VENUE_ID:
+      return <img src={planbLogo} alt="" className="venue-logo" />
+    case DE_GRACHT_VENUE_ID:
+      return <img src={degrachtLogo} alt="" className="venue-logo" />
+    case PURPLE_POOL_VENUE_ID:
+      return <img src={purplepoolLogo} alt="" className="venue-logo" />
+    default:
+      return <img src={genericLogo} alt="" className="venue-logo" />
+  }
 }
 
 export default App
