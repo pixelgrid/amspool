@@ -8,13 +8,13 @@ import planbLogo from './assets/venues/planb.png'
 import genericLogo from './assets/venues/genericvenue.png'
 import purplepoolLogo from './assets/venues/purplepool.png'
 
-import eerste_divisie from '../league_data/eerste_divisie_parsed'
-import tweede_divisie from '../league_data/tweede_divisie_parsed'
-import derde_divisie from '../league_data/derde_divisie_parsed'
+import eerste_divisie from '../league_data/generated/61204921_generated'
+import tweede_divisie from '../league_data/generated/61204927_generated'
+import derde_divisie from '../league_data/generated/61204939_generated'
 
-import eerste_klasse from '../league_data/eerste_klasse_parsed'
-import tweede_klasse from '../league_data/tweede_klasse_parsed'
-import derde_klasse from '../league_data/derde_klasse_parsed'
+import eerste_klasse from '../league_data/generated/61204738_generated'
+import tweede_klasse from '../league_data/generated/61204744_generated'
+import derde_klasse from '../league_data/generated/61204750_generated'
 
 const MOKUM_POOL_DARTS_VENUE_ID = '60451687'
 const BOVEN_T_IJ_VENUE_ID = '1172427'
@@ -28,7 +28,7 @@ function find_games_for_date(date){
   for(let league of leagues_list){
     let league_games = [];
     for(let match of league){
-      const startTime = new Date(match.startDate).toISOString().split('T')[0]
+      const startTime = new Date(match.startTime).toISOString().split('T')[0]
       if (startTime === targetDate)
        league_games.push(match)
     }
@@ -57,14 +57,19 @@ function App() {
   return (matches || []).map(([date, games]) => {
     return <div key={date}>
       <DateRow date={new Date(date)} />
-      {games.map((game, index) => game.map(g => <GameRow 
-                                    key={index} 
-      playerA={g.teamA} 
-      playerB={g.teamB} 
-      venue={g.venueName} 
-      tournament={g.tournament} 
-      venueUrl={g.venueUrl}
-      venueId={g.venueID}/>))}
+      {games.map((game, index) => game.map(g => 
+        <GameRow 
+          key={index} 
+          playerA={g.playerA}
+          playerAUrl={g.playerAUrl} 
+          playerB={g.playerB}
+          playerBUrl={g.playerBUrl}
+          venue={g.venueData.venueName} 
+          tournament={g.tournamentName}
+          tournamentUrl={g.tournamentUrl} 
+          venueUrl={g.venueData.venueUrl}
+          venueId={g.venueData.venueID}
+        />))}
     </div>
   })
 }
@@ -79,12 +84,12 @@ function DateRow({date}){
   return <span className='date-header'> <img src={Calendar} className="calendar-m" /> {formattedToday}</span>
 }
 
-function GameRow({venue, venueId, playerA, playerB, tournament, venueUrl}){
+function GameRow({venue, venueId, playerA, playerAUrl, playerB, playerBUrl, tournament, tournamentUrl, venueUrl}){
   return <div className="game">
     <VenueLogo venueId={venueId} />
     <div className='game-details'>
-      <div className="comp-name">{tournament}</div>
-      <div><a href="">{playerA}</a> - <a href="">{playerB}</a></div>
+      <div className="comp-name"><a href={tournamentUrl}>{tournament}</a> </div>
+      <div><a href={playerAUrl}>{playerA}</a> - <a href={playerBUrl}>{playerB}</a></div>
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
     </div>
   </div>

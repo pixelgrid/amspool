@@ -1,1 +1,1 @@
-Pool games happening in Amsterdam today
+Pool games happening in Amsterdam soon
