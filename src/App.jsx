@@ -43,11 +43,12 @@ function App() {
   const [matches, setMatches] = useState(null)
 
   useEffect(() => {
-    const today = new Date();
+    const date = new Date();
+    date.setDate(date.getDate()-1);
     const result = [];
     for(let i = 0; i < 7; i++){
-      const date = today.setDate(today.getDate() + 1);
-      const res = find_games_for_date(date);
+      const dt = date.setDate(date.getDate() + 1);
+      const res = find_games_for_date(dt);
       if(res[1].length > 0)
       result.push(res)
     }
