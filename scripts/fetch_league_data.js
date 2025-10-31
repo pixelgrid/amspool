@@ -37,6 +37,7 @@ async function fetch_league_api_data(tournamentID){
   const matchesByID = matches.reduce((acc, curr) => {
     curr.tournamentUrl = json.url;
     curr.tournamentName = json.name;
+    curr.tournamentId = json.tournamentId;
     acc[curr.matchno] = curr
     return acc
   }, {})
@@ -62,8 +63,8 @@ async function main() {
         const league_data = [];
 
         // for each game in the league
-        for(let matchId in apiRes){
-            const matchData = apiRes[matchId];
+        for(let matchno in apiRes){
+            const matchData = apiRes[matchno];
             const playerA = matchData.playerA.name;
             const playerB = matchData.playerB.name;
             const playerAUrl = matchData.playerA.url;
@@ -72,8 +73,22 @@ async function main() {
             const venueData = teamToVenueMapping[playerA];
             const tournamentUrl = matchData.tournamentUrl;
             const tournamentName = matchData.tournamentName;
+            const matchId = matchData.matchId;
+            const tournamentId = matchData.tournamentId;
 
-            league_data.push({playerA, playerB, playerAUrl, playerBUrl, startTime, venueData, tournamentUrl, tournamentName})
+            league_data.push({
+                playerA, 
+                playerB, 
+                playerAUrl, 
+                playerBUrl, 
+                startTime, 
+                venueData, 
+                tournamentUrl, 
+                tournamentName,
+                tournamentId,
+                matchId,
+                matchno
+            })
         }
         writeToDisk(league_data);
     }
