@@ -10,6 +10,11 @@ import purplepoolLogo from './assets/venues/purplepool.png'
 import wizardsLogo from './assets/venues/wizards.png'
 import gocustomsLogo from './assets/venues/gocustoms.png'
 
+import eightballImage from './assets/balls/8ball.png'
+import nineballImage from './assets/balls/9ball.png'
+import tenballImage from './assets/balls/10ball.png'
+import fourteenballImage from './assets/balls/straight.png'
+
 import eerste_divisie from '../league_data/generated/61204921_generated'
 import tweede_divisie from '../league_data/generated/61204927_generated'
 import derde_divisie from '../league_data/generated/61204939_generated'
@@ -98,8 +103,11 @@ function DateRow({date}){
 }
 
 function GameRow({venue, venueId, playerA, playerAUrl, playerB, playerBUrl, tournament, tournamentUrl, venueUrl, matchno, today, tournamentId, matchId}){
-  // const individualMatches = useIndividualMatchData(today, tournamentId, matchId)
-  return <div className="game">
+  const [showDetails, setShowDetails] = React.useState(false);
+  const individualMatches = useIndividualMatchData(today, tournamentId, matchId)
+  const running = individualMatches.some(match => match.status === 'running')
+  return <>
+  <div className={`game ${running ? 'running' : ''}`} onClick={() => setShowDetails(c => !c)}>
     <VenueLogo venueId={venueId} />
     <div className='game-details'>
       <div className="comp-name"><a href={`${tournamentUrl}#match-${matchno}`}>{tournament}</a> </div>
@@ -107,8 +115,43 @@ function GameRow({venue, venueId, playerA, playerAUrl, playerB, playerBUrl, tour
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
     </div>
   </div>
+  {showDetails && <IndividualMatches running={running} matches={individualMatches} />}
+  </>
 }
 
+function IndividualMatches({running, matches}){
+  if(!running)
+    return null
+
+  return <div className="matchesoverview">{matches.map(match => {
+    return <div className={`individualMatch ${match.status}`}>
+      <Discipline discipline={match.discipline} />
+      <span>RT{match.raceTo}</span>
+      <span className="player A">{match.playerA}</span>
+      <span className={`score winner-${match.winner}`}><span className="scoreA">{match.scoreA}</span> - <span className="scoreB">{match.scoreB}</span></span>
+      <span className="player">{match.playerB}</span>
+    </div>
+  })}</div>
+}
+
+function Discipline({discipline}){
+  switch (discipline){
+    case 2:
+    case '2':
+      return <img className="discipline" src={eightballImage} />
+    case 3:
+    case '3':
+      return <img className="discipline" src={nineballImage} />
+    case 4:
+    case '4':
+      return <img className="discipline" src={tenballImage} />
+    case 5:
+    case '5':
+      return <img className="discipline" src={fourteenballImage} />
+    default:
+      return null;
+  }
+}
 function useIndividualMatchData(today, tournamentId, matchId){
   const [matches, setMatches] = React.useState([]);
   // hacky way to find if time in amsterdam is past 20:00
@@ -120,7 +163,7 @@ function useIndividualMatchData(today, tournamentId, matchId){
       return
     const fetchHtml = async (tournamentId, matchId) => {
         const encoded = encodeURIComponent(`https://cuescore.com/ajax/match/matchDetails.php?tournamentId=${tournamentId}&id=${matchId}`)
-        const res = await fetch(`https://api.allorigins.win/get?url=${encoded}`);
+        const res = await fetch(`https://api.codetabs.com/v1/proxy?quest=${encoded}`);
         const html = await res.text();
         setMatches(extractDataFromHTML(html))
     }
@@ -132,8 +175,33 @@ function useIndividualMatchData(today, tournamentId, matchId){
 function extractDataFromHTML(html){
   const parser = new DOMParser();
   const htmlDoc = parser.parseFromString(html, 'text/html');
-  console.log(htmlDoc.querySelectorAll("tr"))
-  return {};
+  const allRows = htmlDoc.querySelectorAll("tr");
+  const games = [];
+
+  // in chunks of 2. first row game metadata, second game score and players.
+  for(let i = 0; i < allRows.length; i += 2){
+    const metadataRow = allRows[i];
+    const gameRow = allRows[i + 1];
+
+    const discipline = gameRow.dataset.discipline;
+    const raceTo = metadataRow.querySelector(".readonlyFields .raceTo .raceTo").textContent;
+    const running = metadataRow.classList.contains("playing");
+    const finished = metadataRow.classList.contains("finished");
+    const waiting = metadataRow.classList.contains("waiting");
+
+    const status = waiting ? 'waiting' : running ? 'running' : 'finished';
+    const playerA = gameRow.querySelector(".playerA .name").textContent;
+    const playerB = gameRow.querySelector(".playerB .name").textContent;
+    const scoreA = gameRow.querySelector(".scoreA input").value;
+    const scoreB = gameRow.querySelector(".scoreB input").value;
+    const playerAWinner = gameRow.querySelector(".scoreA").classList.contains("winner");
+    const playerBWinner = gameRow.querySelector(".scoreB").classList.contains("winner");
+    const runoutsA = gameRow.querySelector(".playerA .runouts").textContent;
+    const runoutsB = gameRow.querySelector(".playerB .runouts").textContent;
+    const winner = playerAWinner ? 1 : playerBWinner ? 2 : 0;
+    games.push({discipline, raceTo, status, playerA, playerB, scoreA, scoreB, runoutsA, runoutsB, winner})
+  }
+  return games;
 }
 function VenueLogo({venueId}){
   switch(venueId){
