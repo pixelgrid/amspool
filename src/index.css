@@ -132,7 +132,8 @@ span.score {
   padding: 20px;
 }
 
-.game.running:after {
+.game.running:after,
+.game.finished:after {
   content: 'Click to show match details';
   position: absolute;
   bottom: 5px;

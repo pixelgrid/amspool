@@ -15,7 +15,7 @@ export function extractDataFromHTML(html){
     const finished = metadataRow.classList.contains("finished");
     const waiting = metadataRow.classList.contains("waiting");
 
-    const status = waiting ? 'waiting' : running ? 'running' : 'finished';
+    const status = waiting ? 'waiting' : running ? 'running' : finished ? 'finished' : '';
     const playerA = gameRow.querySelector(".playerA .name").textContent;
     const playerB = gameRow.querySelector(".playerB .name").textContent;
     const scoreA = gameRow.querySelector(".scoreA input").value;

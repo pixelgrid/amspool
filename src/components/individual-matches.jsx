@@ -1,9 +1,6 @@
 import DisciplineImage from '../components/discipline-image.jsx'
 
-export default function IndividualMatches({running, matches}){
-  if(!running)
-    return null
-
+export default function IndividualMatches({matches}){
   return <div className="matchesoverview">{matches.map(match => {
     return <div className={`individualMatch ${match.status}`}>
       <DisciplineImage discipline={match.discipline} />
