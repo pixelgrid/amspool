@@ -14,13 +14,14 @@ export default function GameRow({venue, venueId, playerA, playerAUrl, playerB, p
       status = 'finished'
   }
   return <>
-  <div className={`game ${status}`} onClick={() => setShowDetails(c => !c)}>
+  <div className={`game ${status}`}>
     <VenueLogo venueId={venueId} />
     <div className='game-details'>
       <div className="comp-name"><a href={`${tournamentUrl}#match-${matchno}`}>{tournament}</a> </div>
       <div><a href={playerAUrl}>{playerA}</a> - <a href={playerBUrl}>{playerB}</a></div>
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
     </div>
+  {['running', 'finished'].includes(status) && <span className="showmore" onClick={() => setShowDetails(c => !c)}>Click to show match details</span>}
   </div>
   {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} />}
   </>

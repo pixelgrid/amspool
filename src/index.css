@@ -132,12 +132,29 @@ span.score {
   padding: 20px;
 }
 
-.game.running:after,
-.game.finished:after {
-  content: 'Click to show match details';
+
+.showmore {
   position: absolute;
   bottom: 5px;
   right: 5px;
   font-size: 12px;
   text-decoration: underline;
+}
+
+.player {
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 450px){
+  .individualMatch{
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: 4fr 2fr 4fr;
+  }
+  .player.A {
+    grid-column: 1;
+  }
+  .player {
+    font-size: 14px;
+  }
 }
