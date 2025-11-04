@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "M.Hiep & R.Beugeling",
+    "playerB": "O.Maalikoum & R.Vasselli",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Dylan van Keulen",
+    "playerB": "Roberto Vasselli",
+    "scoreA": "5",
+    "scoreB": "0",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "60",
+    "status": "finished",
+    "playerA": "Dylan van Keulen",
+    "playerB": "Jerrel Nanhekhan",
+    "scoreA": "60",
+    "scoreB": "51",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Michiel Hiep",
+    "playerB": "Omar Maalikoum",
+    "scoreA": "5",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Rutger Beugeling",
+    "playerB": "Youssef ZKak",
+    "scoreA": "6",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Michiel Hiep",
+    "playerB": "Jerrel Nanhekhan",
+    "scoreA": "4",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

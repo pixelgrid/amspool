@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "K.Schuurman & N.Siebeling",
+    "playerB": "B.Auée & J.de Winkel",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Krijn Schuurman",
+    "playerB": "Matt Sinclair",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "R1",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "60",
+    "status": "finished",
+    "playerA": "Erlanga Agnalre",
+    "playerB": "Daniël Bruens",
+    "scoreA": "60",
+    "scoreB": "25",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Erlanga Agnalre",
+    "playerB": "Koen Hoevenaars",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Krijn Schuurman",
+    "playerB": "Joris de Winkel",
+    "scoreA": "2",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Nick Siebeling",
+    "playerB": "Bart Auée",
+    "scoreA": "5",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

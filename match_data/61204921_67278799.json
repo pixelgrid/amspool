@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Joshua Harkelijn",
+    "playerB": "Hassan Osman",
+    "scoreA": "3",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Damiën Jesich",
+    "playerB": "Hoa Nguyen",
+    "scoreA": "7",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "100",
+    "status": "finished",
+    "playerA": "Valen Tino",
+    "playerB": "Anthony CHEUNG",
+    "scoreA": "74",
+    "scoreB": "100",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "V.Tino & W.Brouwer",
+    "playerB": "A.CHEUNG & L.Weeterings",
+    "scoreA": "5",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Willie Brouwer",
+    "playerB": "Hoa Nguyen",
+    "scoreA": "2",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Joshua Harkelijn",
+    "playerB": "Lesley Weeterings",
+    "scoreA": "7",
+    "scoreB": "9",
+    "runoutsA": "R2",
+    "runoutsB": "R3",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Damiën Jesich",
+    "playerB": "Hassan Osman",
+    "scoreA": "8",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Arthur de Groot",
+    "playerB": "Tim Anes",
+    "scoreA": "8",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Anthony Martilia",
+    "playerB": "Tim Anes",
+    "scoreA": "5",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Yayan Ahaddian Wijayanto",
+    "playerB": "Ahmet Bozkurt",
+    "scoreA": "75",
+    "scoreB": "54",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "K.Schuurman & Y.Ahaddian Wijayanto",
+    "playerB": "A.Bozkurt & T.Anes",
+    "scoreA": "5",
+    "scoreB": "6",
+    "runoutsA": "R1",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Arno Hartman",
+    "playerB": "Olesya Bila",
+    "scoreA": "6",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Krijn Schuurman",
+    "playerB": "Ahmet Bozkurt",
+    "scoreA": "5",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Anthony Martilia",
+    "playerB": "Olesya Bila",
+    "scoreA": "7",
+    "scoreB": "3",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

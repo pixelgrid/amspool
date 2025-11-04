@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Mostafa",
+    "playerB": "Mark Ekkerman",
+    "scoreA": "8",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Harry van Schaik",
+    "playerB": "Mark Ekkerman",
+    "scoreA": "6",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Joris de Winkel",
+    "playerB": "Jiwan Chaturi",
+    "scoreA": "40",
+    "scoreB": "75",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "B.Haarms & H.van Schaik",
+    "playerB": "J.Chaturi & R.Kema",
+    "scoreA": "2",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Mostafa",
+    "playerB": "Jiwan Chaturi",
+    "scoreA": "6",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Joris de Winkel",
+    "playerB": "Richard Kema",
+    "scoreA": "8",
+    "scoreB": "6",
+    "runoutsA": "R1",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Barry Haarms",
+    "playerB": "Richard Kema",
+    "scoreA": "5",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

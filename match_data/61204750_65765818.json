@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Y.Lukianchuk & S.van Heiningen",
+    "playerB": "M.Smit & D.McLean",
+    "scoreA": "4",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Oscar Boot",
+    "playerB": "Sarah McLean",
+    "scoreA": "4",
+    "scoreB": "0",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Peter van unnik",
+    "playerB": "Sarah McLean",
+    "scoreA": "5",
+    "scoreB": "0",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Dimitrios Georgoutsakos",
+    "playerB": "Dylan McLean",
+    "scoreA": "4",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Daan Appel-Eijgenbrood",
+    "playerB": "Maks Smit",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Dimitrios Georgoutsakos",
+    "playerB": "Riska de Wit",
+    "scoreA": "5",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

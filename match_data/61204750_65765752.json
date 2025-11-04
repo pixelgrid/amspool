@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "A.Van Unnik & S.Zwart",
+    "playerB": "O.K & D.Gunes",
+    "scoreA": "4",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Simon Zwart",
+    "playerB": "Doruk Gunes",
+    "scoreA": "1",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Jotte Kop",
+    "playerB": "Ozzy K",
+    "scoreA": "5",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Dennis Jongejan",
+    "playerB": "Assem Issa",
+    "scoreA": "4",
+    "scoreB": "3",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Alex Van Unnik",
+    "playerB": "Assem Issa",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Frank Dingshoff",
+    "playerB": "Doruk Gunes",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

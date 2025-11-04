@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Floris Willaert",
+    "playerB": "Adam Kiernicki",
+    "scoreA": "9",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Gilliano Smit",
+    "playerB": "Patrick Berkenpas",
+    "scoreA": "7",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "100",
+    "status": "finished",
+    "playerA": "Gilliano Smit",
+    "playerB": "Bram Hofland",
+    "scoreA": "100",
+    "scoreB": "88",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "F.Willaert & D.van Streepen",
+    "playerB": "B.Hofland & P.Berkenpas",
+    "scoreA": "6",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Richard van velthoven",
+    "playerB": "Bram Hofland",
+    "scoreA": "2",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "David van Streepen",
+    "playerB": "Patrick Berkenpas",
+    "scoreA": "8",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Floris Willaert",
+    "playerB": "Adam Kiernicki",
+    "scoreA": "8",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

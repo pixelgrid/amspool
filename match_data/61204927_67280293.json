@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Jolien Schuurman",
+    "playerB": "Kim Uytenbogaardt",
+    "scoreA": "5",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Sky van den Berg",
+    "playerB": "Kim Uytenbogaardt",
+    "scoreA": "7",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Nick van den Berg",
+    "playerB": "Michael kerck",
+    "scoreA": "107",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "J.Schuurman & S.van den Berg",
+    "playerB": "K.Uytenbogaardt & M.kerck",
+    "scoreA": "4",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Nick van den Berg",
+    "playerB": "Michael kerck",
+    "scoreA": "7",
+    "scoreB": "1",
+    "runoutsA": "R4",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Sky van den Berg",
+    "playerB": "Bas Scheffers",
+    "scoreA": "9",
+    "scoreB": "7",
+    "runoutsA": "R1",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Jolien Schuurman",
+    "playerB": "Bas Scheffers",
+    "scoreA": "4",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 2
+  }
+]
