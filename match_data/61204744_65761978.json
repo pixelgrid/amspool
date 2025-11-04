@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "S.Bakker & W.Janssen",
+    "playerB": "C.Dean & M.Munro",
+    "scoreA": "5",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Wout Janssen",
+    "playerB": "Christopher Dean",
+    "scoreA": "5",
+    "scoreB": "0",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "50",
+    "status": "finished",
+    "playerA": "Nima Dabiran Zohouri",
+    "playerB": "Chris Jones",
+    "scoreA": "50",
+    "scoreB": "47",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Bertan Isik",
+    "playerB": "Dave Haig",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Stefan Bakker",
+    "playerB": "Chris Jones",
+    "scoreA": "6",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Nima Dabiran Zohouri",
+    "playerB": "Mac Munro",
+    "scoreA": "1",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     const date = new Date();
-    date.setDate(date.getDate()-1);
+    date.setDate(date.getDate()-2);
     const result = [];
     for(let i = 0; i < 7; i++){
       const dt = date.setDate(date.getDate() + 1);

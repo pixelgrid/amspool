@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Sky van den Berg",
+    "playerB": "Hindrik de Haan",
+    "scoreA": "9",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Jolien Schuurman",
+    "playerB": "Hindrik de Haan",
+    "scoreA": "7",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Jerry Scholten",
+    "playerB": "Joeke Kloosterman",
+    "scoreA": "75",
+    "scoreB": "63",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "J.Scholten & J.Schuurman",
+    "playerB": "H.de Haan & J.Kloosterman",
+    "scoreA": "4",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Jerry Scholten",
+    "playerB": "Johan Koops",
+    "scoreA": "4",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Jolien Schuurman",
+    "playerB": "Joeke Kloosterman",
+    "scoreA": "7",
+    "scoreB": "9",
+    "runoutsA": "R1",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Sky van den Berg",
+    "playerB": "Johan Koops",
+    "scoreA": "7",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

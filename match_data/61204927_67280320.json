@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Edward Dantz",
+    "playerB": "Martin Hielkema",
+    "scoreA": "9",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Gerrit van der Velden",
+    "playerB": "Michael kerck",
+    "scoreA": "7",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Wilko Moraal",
+    "playerB": "Martin Hielkema",
+    "scoreA": "75",
+    "scoreB": "31",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "E.Dantz & W.Moraal",
+    "playerB": "M.kerck & M.Hielkema",
+    "scoreA": "1",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Henk de Ruiter",
+    "playerB": "Kim Uytenbogaardt",
+    "scoreA": "4",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Gerrit van der Velden",
+    "playerB": "Bas Scheffers",
+    "scoreA": "2",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Henk de Ruiter",
+    "playerB": "Kim Uytenbogaardt",
+    "scoreA": "8",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

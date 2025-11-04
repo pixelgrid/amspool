@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Ali Abu-Rashed",
+    "playerB": "Jacob Siemaszko",
+    "scoreA": "6",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Marcel Minnis",
+    "playerB": "Mozes Leeflang",
+    "scoreA": "1",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Richard Klein",
+    "playerB": "Robin Hospers",
+    "scoreA": "75",
+    "scoreB": "52",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "R.Klein & M.Minnis",
+    "playerB": "R.Hospers & J.Siemaszko",
+    "scoreA": "6",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Ali Abu-Rashed",
+    "playerB": "Robin Hospers",
+    "scoreA": "4",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Richard Klein",
+    "playerB": "Jacob Siemaszko",
+    "scoreA": "9",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Marcel Minnis",
+    "playerB": "Mozes Leeflang",
+    "scoreA": "7",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

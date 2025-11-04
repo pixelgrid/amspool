@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Aytel Soliano",
+    "playerB": "Krijn Schuurman",
+    "scoreA": "6",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Richard Tsang",
+    "playerB": "Brian Pauw",
+    "scoreA": "6",
+    "scoreB": "3",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Caro Line",
+    "playerB": "Yayan Ahaddian Wijayanto",
+    "scoreA": "53",
+    "scoreB": "75",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "A.Soliano & R.Tsang",
+    "playerB": "B.Pauw & Y.Ahaddian Wijayanto",
+    "scoreA": "3",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Aytel Soliano",
+    "playerB": "Anthony Martilia",
+    "scoreA": "6",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Richard Tsang",
+    "playerB": "Anthony Martilia",
+    "scoreA": "8",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Caro Line",
+    "playerB": "Krijn Schuurman",
+    "scoreA": "7",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Rienus Gennissen",
+    "playerB": "Leon Qian",
+    "scoreA": "8",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Olesya Bila",
+    "playerB": "Mostafa",
+    "scoreA": "4",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Ahmet Bozkurt",
+    "playerB": "Koen Hoevenaars",
+    "scoreA": "75",
+    "scoreB": "60",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "A.Bozkurt & O.Bila",
+    "playerB": "L.Qian & M.",
+    "scoreA": "1",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Ahmet Bozkurt",
+    "playerB": "Koen Hoevenaars",
+    "scoreA": "2",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Rienus Gennissen",
+    "playerB": "Mostafa",
+    "scoreA": "8",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Olesya Bila",
+    "playerB": "Leon Qian",
+    "scoreA": "7",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

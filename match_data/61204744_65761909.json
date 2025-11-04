@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "N.M & L.Qian",
+    "playerB": "E.Kamami & T.Pasma",
+    "scoreA": "4",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Niels Veeninga",
+    "playerB": "Joachim Sullivan",
+    "scoreA": "5",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "50",
+    "status": "finished",
+    "playerA": "Leon Qian",
+    "playerB": "Joachim Sullivan",
+    "scoreA": "50",
+    "scoreB": "20",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Nezar M",
+    "playerB": "Tjeerd Pasma",
+    "scoreA": "5",
+    "scoreB": "3",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Chloe Liu",
+    "playerB": "Elton Kamami",
+    "scoreA": "0",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Marten Hoekstra",
+    "playerB": "Elton Kamami",
+    "scoreA": "4",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

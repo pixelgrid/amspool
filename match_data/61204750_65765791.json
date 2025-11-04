@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "J.Ooms & B.Croese",
+    "playerB": "D.Georgoutsakos & P.van unnik",
+    "scoreA": "3",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Dennis Jongejan",
+    "playerB": "Oscar Boot",
+    "scoreA": "4",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Jotte Kop",
+    "playerB": "Dimitrios Georgoutsakos",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Simon Zwart",
+    "playerB": "Yulia Lukianchuk",
+    "scoreA": "4",
+    "scoreB": "0",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Jaap Ooms",
+    "playerB": "Peter van unnik",
+    "scoreA": "0",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Frank Dingshoff",
+    "playerB": "Oscar Boot",
+    "scoreA": "1",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

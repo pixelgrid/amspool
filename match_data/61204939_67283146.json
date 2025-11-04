@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Yayan Ahaddian Wijayanto",
+    "playerB": "Bertan Isik",
+    "scoreA": "2",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Anthony Martilia",
+    "playerB": "Omar Maalikoum",
+    "scoreA": "2",
+    "scoreB": "6",
+    "runoutsA": "R1",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Arno Hartman",
+    "playerB": "Nima Dabiran Zohouri",
+    "scoreA": "68",
+    "scoreB": "75",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "A.Martilia & Y.Ahaddian Wijayanto",
+    "playerB": "A.Alekberov & O.Maalikoum",
+    "scoreA": "6",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Arno Hartman",
+    "playerB": "Nima Dabiran Zohouri",
+    "scoreA": "6",
+    "scoreB": "0",
+    "runoutsA": "R2",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Krijn Schuurman",
+    "playerB": "Youssef ZKak",
+    "scoreA": "6",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Krijn Schuurman",
+    "playerB": "Bertan Isik",
+    "scoreA": "7",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

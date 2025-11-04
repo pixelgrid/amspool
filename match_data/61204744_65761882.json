@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "A.Isik & H.Nazir",
+    "playerB": "B.The Painter & W.Moes",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Roderick Cicilia",
+    "playerB": "Harry van Schaik",
+    "scoreA": "1",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "50",
+    "status": "finished",
+    "playerA": "Roderick Cicilia",
+    "playerB": "Mostafa",
+    "scoreA": "11",
+    "scoreB": "50",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Hashmatullah Nazir",
+    "playerB": "Mostafa",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Aser \"Sakalam\"",
+    "playerB": "Bilal The Painter",
+    "scoreA": "1",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Aser \"Sakalam\"",
+    "playerB": "Wouter Moes",
+    "scoreA": "1",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

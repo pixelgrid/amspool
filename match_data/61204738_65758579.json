@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "M.Hiep & V.van Tongeren",
+    "playerB": "H.Asyari & N.Sio",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Dylan van Keulen",
+    "playerB": "Hasyim Asyari",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "60",
+    "status": "finished",
+    "playerA": "Dylan van Keulen",
+    "playerB": "Damien Phan",
+    "scoreA": "60",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Michiel Hiep",
+    "playerB": "Hasyim Asyari",
+    "scoreA": "4",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Victor van Tongeren",
+    "playerB": "Damien Phan",
+    "scoreA": "5",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Michiel Hiep",
+    "playerB": "Nelson Sio",
+    "scoreA": "5",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "M.Nielsen & S.Vriens",
+    "playerB": "A.Petrović & I.Coskun",
+    "scoreA": "3",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Yan Chan",
+    "playerB": "Aleksandar Petrović",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "60",
+    "status": "finished",
+    "playerA": "Govert de With",
+    "playerB": "Valen Tino",
+    "scoreA": "60",
+    "scoreB": "58",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Marko Nielsen",
+    "playerB": "Valen Tino",
+    "scoreA": "3",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Sander Vriens",
+    "playerB": "Aleksandar Petrović",
+    "scoreA": "4",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Jeroen van der Linde",
+    "playerB": "Idris Coskun",
+    "scoreA": "5",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

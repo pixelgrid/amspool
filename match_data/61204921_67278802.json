@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Peter de Vries",
+    "playerB": "Muhsin Yağlı",
+    "scoreA": "4",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "John Koot",
+    "playerB": "Jan Rempe",
+    "scoreA": "4",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "100",
+    "status": "finished",
+    "playerA": "Xavier Karis",
+    "playerB": "Jan Rempe",
+    "scoreA": "9",
+    "scoreB": "100",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "P.de Vries & X.Karis",
+    "playerB": "J.Nanhekhan & U.Sarkas",
+    "scoreA": "1",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Peter de Vries",
+    "playerB": "Umut Sarkas",
+    "scoreA": "2",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "R2",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Xavier Karis",
+    "playerB": "Jerrel Nanhekhan",
+    "scoreA": "9",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "John Koot",
+    "playerB": "Muhsin Yağlı",
+    "scoreA": "5",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "I.Khodareva & M.Al-Attas",
+    "playerB": "🐆.D.B 🦞 & A.Fung",
+    "scoreA": "5",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Tolga B.",
+    "playerB": "🐆 Dominic B 🦞",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "50",
+    "status": "finished",
+    "playerA": "Enes Cumali",
+    "playerB": "Matt Bodger",
+    "scoreA": "50",
+    "scoreB": "43",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Etienne Verheem",
+    "playerB": "Andy Fung",
+    "scoreA": "1",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Mohamed Al-Attas",
+    "playerB": "Matt Bodger",
+    "scoreA": "4",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Irina Khodareva",
+    "playerB": "🐆 Dominic B 🦞",
+    "scoreA": "0",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

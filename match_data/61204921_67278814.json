@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Pascal de Smit",
+    "playerB": "Tjeerd Hoekema",
+    "scoreA": "9",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "OC CHAN",
+    "playerB": "Sanne Krom",
+    "scoreA": "7",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "100",
+    "status": "finished",
+    "playerA": "Hoa Nguyen",
+    "playerB": "Xavier Karis",
+    "scoreA": "100",
+    "scoreB": "79",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "H.Osman & H.Nguyen",
+    "playerB": "S.Krom & X.Karis",
+    "scoreA": "6",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Hassan Osman",
+    "playerB": "Tjeerd Hoekema",
+    "scoreA": "4",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "OC CHAN",
+    "playerB": "Xavier Karis",
+    "scoreA": "9",
+    "scoreB": "2",
+    "runoutsA": "R2",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Pascal de Smit",
+    "playerB": "Sanne Krom",
+    "scoreA": "8",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "M.ten Thij & M.Poruban",
+    "playerB": "L.Duyn & J.van Dokkum",
+    "scoreA": "3",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Espen Falkenhaug",
+    "playerB": "Lennert Duyn",
+    "scoreA": "4",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "60",
+    "status": "finished",
+    "playerA": "Espen Falkenhaug",
+    "playerB": "Youssef Jouidi",
+    "scoreA": "49",
+    "scoreB": "60",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Marijn ten Thij",
+    "playerB": "Jeffrey Bosch",
+    "scoreA": "5",
+    "scoreB": "0",
+    "runoutsA": "R1",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Matus Poruban",
+    "playerB": "Youssef Jouidi",
+    "scoreA": "2",
+    "scoreB": "6",
+    "runoutsA": "R1",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Matus Poruban",
+    "playerB": "Jeroen van Dokkum",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

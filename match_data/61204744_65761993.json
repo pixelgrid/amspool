@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "B.Mensonides & C.Dean",
+    "playerB": "G.Szotsenyi & M.Valk",
+    "scoreA": "5",
+    "scoreB": "0",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Dave Haig",
+    "playerB": "Arthur “ Panda “ Sieger",
+    "scoreA": "5",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "50",
+    "status": "finished",
+    "playerA": "Marius Sandman",
+    "playerB": "Nawaf Maudha",
+    "scoreA": "50",
+    "scoreB": "13",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Matt Parker",
+    "playerB": "Gabor Szotsenyi",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Mac Munro",
+    "playerB": "M. Valk",
+    "scoreA": "3",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Chris Jones",
+    "playerB": "Arthur “ Panda “ Sieger",
+    "scoreA": "5",
+    "scoreB": "3",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

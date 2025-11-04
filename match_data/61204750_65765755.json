@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "M.Smit & N.L.Roelofs",
+    "playerB": "C.Ruddock & O.Bounoun",
+    "scoreA": "2",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Pieter Theunissen",
+    "playerB": "Daan van Doorne",
+    "scoreA": "2",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Nicky Lee Roelofs",
+    "playerB": "Bram Singor",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Sanne Withagen",
+    "playerB": "Chris Ruddock",
+    "scoreA": "0",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Maks Smit",
+    "playerB": "Rustam Ahmedbaev",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Dylan McLean",
+    "playerB": "Omar Bounoun",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  }
+]

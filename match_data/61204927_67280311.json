@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Stefan Bakker",
+    "playerB": "Sky van den Berg",
+    "scoreA": "3",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Hervis Hamid",
+    "playerB": "Jerry Scholten",
+    "scoreA": "6",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "75",
+    "status": "finished",
+    "playerA": "Rahadi",
+    "playerB": "Richard Floris",
+    "scoreA": "67",
+    "scoreB": "75",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "R. & H.Hamid",
+    "playerB": "S.van den Berg & R.Floris",
+    "scoreA": "6",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Rahadi",
+    "playerB": "Richard Floris",
+    "scoreA": "7",
+    "scoreB": "3",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Aleksandar Petrović",
+    "playerB": "Jerry Scholten",
+    "scoreA": "7",
+    "scoreB": "9",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Hervis Hamid",
+    "playerB": "Sky van den Berg",
+    "scoreA": "8",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "O.Bounoun & R.Homan",
+    "playerB": "A.Van Unnik & D.Jongejan",
+    "scoreA": "4",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Daan van Doorne",
+    "playerB": "Dennis Jongejan",
+    "scoreA": "1",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Rustam Ahmedbaev",
+    "playerB": "Alex Van Unnik",
+    "scoreA": "5",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "4",
+    "status": "finished",
+    "playerA": "Chris Ruddock",
+    "playerB": "Jaap Ooms",
+    "scoreA": "4",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "3",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Remco Homan",
+    "playerB": "Jotte Kop",
+    "scoreA": "5",
+    "scoreB": "3",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Omar Bounoun",
+    "playerB": "Jaap Ooms",
+    "scoreA": "5",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

@@ -1,7 +1,5 @@
-export function extractDataFromHTML(html){
-  const parser = new DOMParser();
-  const htmlDoc = parser.parseFromString(html, 'text/html');
-  const allRows = htmlDoc.querySelectorAll("tr");
+export function extractDataFromHTML(htmlTree){
+  const allRows = htmlTree.querySelectorAll("tr");
   const games = [];
 
   // in chunks of 2. first row game metadata, second game score and players.
@@ -10,7 +8,7 @@ export function extractDataFromHTML(html){
     const gameRow = allRows[i + 1];
 
     const discipline = gameRow.dataset.discipline;
-    const raceTo = metadataRow.querySelector(".readonlyFields .raceTo .raceTo").textContent;
+    const raceTo = metadataRow.querySelector("span.raceTo").textContent;
     const running = metadataRow.classList.contains("playing");
     const finished = metadataRow.classList.contains("finished");
     const waiting = metadataRow.classList.contains("waiting");

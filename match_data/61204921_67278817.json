@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Antonie Nguyen",
+    "playerB": "Idris Coskun",
+    "scoreA": "9",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Dylan Dasar",
+    "playerB": "Willie Brouwer",
+    "scoreA": "5",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "100",
+    "status": "finished",
+    "playerA": "Vidjindre Ramcharan",
+    "playerB": "Valen Tino",
+    "scoreA": "59",
+    "scoreB": "100",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "A.Nguyen & D.Dasar",
+    "playerB": "V.Tino & W.Brouwer",
+    "scoreA": "6",
+    "scoreB": "2",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Vidjindre Ramcharan",
+    "playerB": "Willie Brouwer",
+    "scoreA": "2",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Antonie Nguyen",
+    "playerB": "Valen Tino",
+    "scoreA": "9",
+    "scoreB": "6",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Dylan Dasar",
+    "playerB": "Idris Coskun",
+    "scoreA": "5",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "R1",
+    "winner": 2
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "E.Kamami & J.Sullivan",
+    "playerB": "B.Lambers & P.Spaans",
+    "scoreA": "3",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Joachim Sullivan",
+    "playerB": "Barry Lambers",
+    "scoreA": "2",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "5",
+    "raceTo": "50",
+    "status": "finished",
+    "playerA": "Mads Voorhoeve",
+    "playerB": "Judge Akins",
+    "scoreA": "12",
+    "scoreB": "50",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "2",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Rein Scheidegger",
+    "playerB": "Joris Collet",
+    "scoreA": "0",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "Elton Kamami",
+    "playerB": "Paul Spaans",
+    "scoreA": "6",
+    "scoreB": "1",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "5",
+    "status": "finished",
+    "playerA": "Tjeerd Pasma",
+    "playerB": "Judge Akins",
+    "scoreA": "4",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "R2",
+    "winner": 2
+  }
+]

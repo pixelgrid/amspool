@@ -1,0 +1,86 @@
+[
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Shamir Tremus seintje",
+    "playerB": "Muhsin Yağlı",
+    "scoreA": "9",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Shamir Tremus seintje",
+    "playerB": "Umut Sarkas",
+    "scoreA": "7",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "5",
+    "raceTo": "100",
+    "status": "finished",
+    "playerA": "Vidjindre Ramcharan",
+    "playerB": "Jan Rempe",
+    "scoreA": "30",
+    "scoreB": "100",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "4",
+    "raceTo": "6",
+    "status": "finished",
+    "playerA": "A.Frans & M.Carvalho",
+    "playerB": "J.Rempe & M.Yağlı",
+    "scoreA": "6",
+    "scoreB": "4",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "2",
+    "raceTo": "7",
+    "status": "finished",
+    "playerA": "Allan Frans",
+    "playerB": "Moudar A",
+    "scoreA": "6",
+    "scoreB": "7",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 2
+  },
+  {
+    "discipline": "3",
+    "raceTo": "9",
+    "status": "finished",
+    "playerA": "Marco Carvalho",
+    "playerB": "Jerrel Nanhekhan",
+    "scoreA": "9",
+    "scoreB": "8",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  },
+  {
+    "discipline": "4",
+    "raceTo": "8",
+    "status": "finished",
+    "playerA": "Vidjindre Ramcharan",
+    "playerB": "Chaka Sanichar",
+    "scoreA": "8",
+    "scoreB": "5",
+    "runoutsA": "",
+    "runoutsB": "",
+    "winner": 1
+  }
+]

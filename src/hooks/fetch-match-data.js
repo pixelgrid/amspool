@@ -7,15 +7,24 @@ export function useIndividualMatchData(today, tournamentId, matchId){
 
  
   useEffect(() => {
-    if(!today /*|| !isTournametStartTime*/)
-      return
+    const fetchStaticData = async (tournamentId, matchId) => {
+      const res = await fetch(`/amspool/match_data/${tournamentId}_${matchId}.json`);
+      const matchData = await res.json();
+      setMatches(matchData);
+    }
     const fetchHtml = async (tournamentId, matchId) => {
         const encoded = encodeURIComponent(`https://cuescore.com/ajax/match/matchDetails.php?tournamentId=${tournamentId}&id=${matchId}`)
         const res = await fetch(`https://api.codetabs.com/v1/proxy?quest=${encoded}`);
         const html = await res.text();
-        setMatches(extractDataFromHTML(html))
+        const parser = new DOMParser();
+        const htmlTree = parser.parseFromString(html, 'text/html');
+        setMatches(extractDataFromHTML(htmlTree))
     }
-    fetchHtml(tournamentId, matchId);
+    if(!today){
+      fetchStaticData(tournamentId, matchId);
+    } else {
+      fetchHtml(tournamentId, matchId);
+    }
   }, [])
   return matches;
 }
