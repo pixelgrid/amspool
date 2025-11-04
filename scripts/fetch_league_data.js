@@ -135,7 +135,7 @@ function writeMatchesToDisk(finishedMatches, matchData){
 
     for(let i = 0; i < finishedMatches.length; i++){
         const {matchId, tournamentId} = finishedMatches[i];
-        const fileName = `./match_data/${tournamentId}_${matchId}.json`;
+        const fileName = `./public/match_data/${tournamentId}_${matchId}.json`;
         try {
             fs.writeFileSync(fileName, JSON.stringify(matchData[i], null, 2), 'utf8');
             console.log('Data successfully saved to disk');
