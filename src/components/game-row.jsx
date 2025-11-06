@@ -3,9 +3,9 @@ import IndividualMatches from "./individual-matches";
 import { useIndividualMatchData } from "../hooks/fetch-match-data";
 import VenueLogo from '../components/venue-logo.jsx'
 
-export default function GameRow({venue, venueId, playerA, playerAUrl, playerB, playerBUrl, tournament, tournamentUrl, venueUrl, matchno, today, tournamentId, matchId}){
+export default function GameRow({venue, venueId, playerA, playerAUrl, playerB, playerBUrl, tournament, tournamentUrl, venueUrl, matchno, shouldFetch, tournamentId, matchId}){
   const [showDetails, setShowDetails] = useState(false);
-  const individualMatches = useIndividualMatchData(today, tournamentId, matchId)
+  const individualMatches = useIndividualMatchData(shouldFetch, tournamentId, matchId)
   let scoreA = 0;
   let scoreB = 0;
 

@@ -39,7 +39,7 @@ function App() {
           venueId={g.venueData.venueID}
           matchno={g.matchno}
           matchId={g.matchId}
-          today={g.today}
+          shouldFetch={g.shouldFetch}
           tournamentId={g.tournamentId}
         />))}
     </div>
