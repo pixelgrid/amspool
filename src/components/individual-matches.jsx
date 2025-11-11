@@ -2,7 +2,7 @@ import DisciplineImage from '../components/discipline-image.jsx'
 
 export default function IndividualMatches({matches}){
   return <div className="matchesoverview">{matches.map(match => {
-    return <div className={`individualMatch ${match.status} winner-${match.winner}`}>
+    return <div className={`individualMatch ${match.status} winner-${match.winner} match-${match.matchId}`}>
       <DisciplineImage discipline={match.discipline} />
       <span>RT{match.raceTo}</span>
       <span className="player A">{match.playerA}</span>

@@ -22,7 +22,7 @@ export default function GameRow({venue, venueId, playerA, playerAUrl, playerB, p
     else if(individualMatches.every(match => match.status === 'finished'))
       status = 'finished'
     else
-      status = 'running'
+      status = 'playing'
   }
 
   if(status === 'waiting'){
@@ -33,12 +33,12 @@ export default function GameRow({venue, venueId, playerA, playerAUrl, playerB, p
   return <>
   <div className={`game ${status}`}>
     <VenueLogo venueId={venueId} />
-    <div className='game-details'>
+    <div className={`game-details match-${matchId}`}>
       <div className="comp-name"><a href={`${tournamentUrl}#match-${matchno}`}>{tournament}</a> </div>
-      <div><a href={playerAUrl}>{playerA}</a> <strong>{scoreA}</strong> - <strong>{scoreB}</strong> <a href={playerBUrl}>{playerB}</a></div>
+      <div><a href={playerAUrl}>{playerA}</a> <strong className="scoreA">{scoreA}</strong> - <strong  className="scoreB">{scoreB}</strong> <a href={playerBUrl}>{playerB}</a></div>
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
     </div>
-  {['running', 'finished'].includes(status) && <span className="showmore" onClick={() => setShowDetails(c => !c)}>Click to show match details</span>}
+  {['playing', 'finished'].includes(status) && <span className="showmore" onClick={() => setShowDetails(c => !c)}>Click to show match details</span>}
   </div>
   {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} />}
   </>

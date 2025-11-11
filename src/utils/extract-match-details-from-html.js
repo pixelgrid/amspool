@@ -7,13 +7,14 @@ export function extractDataFromHTML(htmlTree){
     const metadataRow = allRows[i];
     const gameRow = allRows[i + 1];
 
+    const matchId = gameRow.getAttribute("id").split("-").at(-1);
     const discipline = gameRow.dataset.discipline;
     const raceTo = metadataRow.querySelector("span.raceTo").textContent;
-    const running = metadataRow.classList.contains("playing");
+    const playing = metadataRow.classList.contains("playing");
     const finished = metadataRow.classList.contains("finished");
     const waiting = metadataRow.classList.contains("waiting");
 
-    const status = waiting ? 'waiting' : running ? 'running' : finished ? 'finished' : '';
+    const status = waiting ? 'waiting' : playing ? 'playing' : finished ? 'finished' : '';
     const playerA = gameRow.querySelector(".playerA .name").textContent;
     const playerB = gameRow.querySelector(".playerB .name").textContent;
     const scoreA = gameRow.querySelector(".scoreA input").value;
@@ -23,7 +24,7 @@ export function extractDataFromHTML(htmlTree){
     const runoutsA = gameRow.querySelector(".playerA .runouts").textContent;
     const runoutsB = gameRow.querySelector(".playerB .runouts").textContent;
     const winner = playerAWinner ? 1 : playerBWinner ? 2 : 0;
-    games.push({discipline, raceTo, status, playerA, playerB, scoreA, scoreB, runoutsA, runoutsB, winner})
+    games.push({discipline, raceTo, status, playerA, playerB, scoreA, scoreB, runoutsA, runoutsB, winner, matchId})
   }
   return games;
 }

@@ -72,7 +72,7 @@ h1 {
   font-size: 12px;
 }
 
-.game.running:before {
+.game.playing:before {
     content: "► LIVE";
     position: absolute;
     top: 5px;
@@ -115,7 +115,7 @@ span.score {
   background: rgb(36, 58, 116);
   color: white;
 }
-.individualMatch.running {
+.individualMatch.playing {
   background: rgb(70, 125, 247);
   color: white;
 }
