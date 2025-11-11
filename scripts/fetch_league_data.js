@@ -91,9 +91,10 @@ async function main() {
             const matchId = matchData.matchId;
             const tournamentId = matchData.tournamentId;
 
+            /*
             if(matchData.matchstatus === 'finished'){
                 finishedMatches.push({matchId, tournamentId});
-            }
+            }*/
 
             league_data.push({
                 playerA, 
@@ -111,8 +112,10 @@ async function main() {
         }
         writeToDisk(league_data);
     }
+    /*
     const matchData = await Promise.all(finishedMatches.map(fetch_match_html_data));
     writeMatchesToDisk(finishedMatches, matchData);
+    */
 }
 
 function logAndExit(data){

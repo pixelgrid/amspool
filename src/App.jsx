@@ -4,10 +4,16 @@ import {find_games_for_date} from './utils/filter-games.js'
 
 import DateRow from './components/date-row.jsx'
 import GameRow from './components/game-row.jsx'
+import settingsImg from './assets/settings.png'
 
+
+function FiltersButton(){
+  return <button>&#9881;</button>
+}
 
 function App() {
-  const [matches, setMatches] = useState(null)
+  const [matches, setMatches] = useState(null);
+  const [showSettings, setShowSettings] = useState(false);
 
   useEffect(() => {
     const date = new Date();
@@ -22,7 +28,8 @@ function App() {
     setMatches(result);
   }, []);
 
-  return (matches || []).map(([date, games]) => {
+  return <>
+  {(matches || []).map(([date, games]) => {
     return <div key={date}>
       <DateRow date={new Date(date)} />
       {games.map((game, index) => game.map(g => 
@@ -41,9 +48,9 @@ function App() {
           matchId={g.matchId}
           shouldFetch={g.shouldFetch}
           tournamentId={g.tournamentId}
-        />))}
-    </div>
-  })
+        />))}</div>})}
+  <FiltersButton />
+  </>
 }
 
 

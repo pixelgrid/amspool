@@ -99,12 +99,17 @@ span.score {
     font-size: 20px;
     font-weight: bold;
 }
-.score.winner-1 .scoreA {
+.individualMatch.winner-1 .scoreA {
     color: rgb(255, 152, 0);
 }
-
-.score.winner-2 .scoreB {
+.individualMatch.winner-1 .player.A{
+  font-weight: bold;
+}
+.individualMatch.winner-2 .scoreB {
     color: rgb(255, 152, 0);
+}
+.individualMatch.winner-2 .player.B{
+  font-weight: bold;
 }
 .individualMatch.finished {
   background: rgb(36, 58, 116);
