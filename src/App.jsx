@@ -45,7 +45,7 @@ function App() {
             gameRow.classList.remove("playing", "waiting", "finished");
             gameRow.classList.add(status);
           }
-          if(status === "finised"){
+          if(status === "finished"){
             const winner = scoreA > scoreB ? 1 : 2;
             gameRow.classList.add("winner-"+winner);
           }
