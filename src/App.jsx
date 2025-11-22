@@ -10,11 +10,10 @@ const SOCKET = new WebSocket("wss://ws.cuescore.com:11443/");
 
 
 function App(){
-    const pathName = window.location.pathname;
-    if(pathName === '/amspool' || pathName === '/amspool/')
-        return <LeagueMatches />
-    if(pathName === '/amspool/streams')
-        return <Streams />
+    const showStreams = window.location.search.includes("streams");
+    if(showStreams)
+      return <Streams />
+    return <LeagueMatches />   
 }
 
 function LeagueMatches() {
