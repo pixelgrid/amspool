@@ -565,7 +565,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2025-11-18T20:00:00",
+    "startTime": "2025-12-17T10:49:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -888,7 +888,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2025-11-26T20:00:00",
+    "startTime": "2025-11-25T10:40:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1177,7 +1177,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2025-12-09T20:00:00",
+    "startTime": "2025-12-16T20:00:00",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",

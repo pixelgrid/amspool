@@ -718,7 +718,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2025-11-12T20:00:00",
+    "startTime": "2025-12-30T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -990,7 +990,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2025-12-02T20:00:00",
+    "startTime": "2025-12-16T20:00:00",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",

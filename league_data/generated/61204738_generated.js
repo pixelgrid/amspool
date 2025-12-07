@@ -735,7 +735,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2025-11-25T20:00:00",
+    "startTime": "2025-12-18T20:00:00",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -803,7 +803,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2025-11-24T20:00:00",
+    "startTime": "2025-11-26T20:00:00",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -922,7 +922,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2025-12-09T20:00:00",
+    "startTime": "2025-12-15T20:00:00",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
