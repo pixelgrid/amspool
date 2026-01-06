@@ -344,7 +344,7 @@ export default [
     "playerB": "The N-Joyable Basterds",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "startTime": "2026-01-04T13:00:00",
+    "startTime": "2026-01-18T13:00:00",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",

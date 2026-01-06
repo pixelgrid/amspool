@@ -1211,7 +1211,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-01-06T20:00:00",
+    "startTime": "2026-01-27T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1228,7 +1228,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-01-07T20:00:00",
+    "startTime": "2026-01-28T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",

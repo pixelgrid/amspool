@@ -1075,7 +1075,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2025-12-09T20:00:00",
+    "startTime": "2026-01-19T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1143,7 +1143,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2025-12-09T20:00:00",
+    "startTime": "2026-02-24T20:00:00",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -1194,7 +1194,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-01-05T20:00:00",
+    "startTime": "2026-01-26T20:00:00",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -2129,7 +2129,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2026-03-10T20:00:00",
+    "startTime": "2026-04-07T20:00:00",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
