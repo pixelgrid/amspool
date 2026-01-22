@@ -735,7 +735,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2025-12-18T20:00:00",
+    "startTime": "2026-01-29T20:00:00",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1041,7 +1041,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-01-07T20:00:00",
+    "startTime": "2026-01-28T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",

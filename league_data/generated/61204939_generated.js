@@ -344,7 +344,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2026-01-04T13:00:00",
+    "startTime": "2026-03-22T13:00:00",
     "venueData": {
       "venueName": "GO Customs",
       "venueID": "32618059",
@@ -463,7 +463,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2026-01-25T13:00:00",
+    "startTime": "2026-02-15T13:00:00",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",

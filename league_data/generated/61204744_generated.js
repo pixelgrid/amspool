@@ -1500,7 +1500,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-01-20T20:00:00",
+    "startTime": "2026-02-24T20:00:00",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",

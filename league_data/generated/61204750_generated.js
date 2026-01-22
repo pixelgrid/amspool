@@ -1279,7 +1279,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-01-07T20:00:00",
+    "startTime": "2026-01-26T20:00:00",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -1296,7 +1296,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-01-07T20:00:00",
+    "startTime": "2026-02-25T20:00:00",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
