@@ -9,6 +9,10 @@ import gocustomsLogo from '../assets/venues/gocustoms.png'
 import njoyLogo from '../assets/venues/njoy.png'
 import focusLogo from '../assets/venues/focus.png'
 import renesLogo from '../assets/venues/rene.png'
+import delfshavenLogo from '../assets/venues/delfshaven.png'
+import desjoelLogo from '../assets/venues/desjoel.png'
+import infinityLogo from '../assets/venues/infinity.png'
+import padocLogo from '../assets/venues/padoc.png'
 
 const MOKUM_POOL_DARTS_VENUE_ID = '60451687'
 const BOVEN_T_IJ_VENUE_ID = '1172427'
@@ -21,6 +25,10 @@ const GOCUSTOMS_VENUE_ID = '32618059'
 const NJOY_VENUE_ID = '1184224'
 const FOCUS_VENUE_ID = '62655235'
 const RENES_VENUE_ID = '36729730'
+const DELFSHAVEN_VENUE_ID = '1168520'
+const DESJOEL_VENUE_ID = '60355510'
+const INFINITY_VENUE_ID = '1168038'
+const PADOC_VENUE_ID = '1172420'
 
 export default function VenueLogo({venueId}){
   switch(venueId){
@@ -45,6 +53,14 @@ export default function VenueLogo({venueId}){
       return <img src={focusLogo} alt="" className="venue-logo" />
     case NJOY_VENUE_ID:
       return <img src={njoyLogo} alt="" className="venue-logo" />
+    case DELFSHAVEN_VENUE_ID:
+      return <img src={delfshavenLogo} alt="" className="venue-logo" />
+    case DESJOEL_VENUE_ID:
+      return <img src={desjoelLogo} alt="" className="venue-logo" />
+    case INFINITY_VENUE_ID:
+      return <img src={infinityLogo} alt="" className="venue-logo" />
+    case PADOC_VENUE_ID:
+      return <img src={padocLogo} alt="" className="venue-logo" />
     default:
       return <img src={genericLogo} alt="" className="venue-logo" />
   }
