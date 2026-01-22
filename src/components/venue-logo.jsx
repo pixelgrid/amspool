@@ -6,6 +6,9 @@ import genericLogo from '../assets/venues/genericvenue.png'
 import purplepoolLogo from '../assets/venues/purplepool.png'
 import wizardsLogo from '../assets/venues/wizards.png'
 import gocustomsLogo from '../assets/venues/gocustoms.png'
+import njoyLogo from '../assets/venues/njoy.png'
+import focusLogo from '../assets/venues/focus.png'
+import renesLogo from '../assets/venues/rene.png'
 
 const MOKUM_POOL_DARTS_VENUE_ID = '60451687'
 const BOVEN_T_IJ_VENUE_ID = '1172427'
@@ -15,6 +18,9 @@ const DE_GRACHT_VENUE_ID = '1168481'
 const PURPLE_POOL_VENUE_ID = '1126046'
 const WIZARDS_VENUE_ID = '1168741'
 const GOCUSTOMS_VENUE_ID = '32618059'
+const NJOY_VENUE_ID = '1184224'
+const FOCUS_VENUE_ID = '62655235'
+const RENES_VENUE_ID = '36729730'
 
 export default function VenueLogo({venueId}){
   switch(venueId){
@@ -33,6 +39,12 @@ export default function VenueLogo({venueId}){
       return <img src={wizardsLogo} alt="" className="venue-logo" />
     case GOCUSTOMS_VENUE_ID:
       return <img src={gocustomsLogo} alt="" className="venue-logo" />
+    case RENES_VENUE_ID:
+      return <img src={renesLogo} alt="" className="venue-logo" />
+    case FOCUS_VENUE_ID:
+      return <img src={focusLogo} alt="" className="venue-logo" />
+    case NJOY_VENUE_ID:
+      return <img src={njoyLogo} alt="" className="venue-logo" />
     default:
       return <img src={genericLogo} alt="" className="venue-logo" />
   }
