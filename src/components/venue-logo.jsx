@@ -13,9 +13,13 @@ import delfshavenLogo from '../assets/venues/delfshaven.png'
 import desjoelLogo from '../assets/venues/desjoel.png'
 import infinityLogo from '../assets/venues/infinity.png'
 import padocLogo from '../assets/venues/padoc.png'
+import cueactionLogo from '../assets/venues/cueaction.png'
+import cuesdartsLogo from '../assets/venues/cuesdarts.png'
+import walburgLogo from '../assets/venues/walburg.png'
 
 const MOKUM_POOL_DARTS_VENUE_ID = '60451687'
 const BOVEN_T_IJ_VENUE_ID = '1172427'
+const BOVEN_T_IJ_VENUE_ID_2 = '2902906'
 const PLAN_B_VENUE_ID = '1167894'
 const PLAN_B_VENUE_ID_2 = '1343989'
 const DE_GRACHT_VENUE_ID = '1168481'
@@ -29,12 +33,16 @@ const DELFSHAVEN_VENUE_ID = '1168520'
 const DESJOEL_VENUE_ID = '60355510'
 const INFINITY_VENUE_ID = '1168038'
 const PADOC_VENUE_ID = '1172420'
+const CUEACTION_VENUE_ID = '9191729'
+const CUESDARTS_VENUE_ID = '1167973'
+const WALBURG_VENUE_ID = '30113122'
 
 export default function VenueLogo({venueId}){
   switch(venueId){
     case MOKUM_POOL_DARTS_VENUE_ID:
       return <img src={mokumLogo} alt="" className="venue-logo" />
     case BOVEN_T_IJ_VENUE_ID:
+    case BOVEN_T_IJ_VENUE_ID_2:
       return <img src={boventijLogo} alt="" className="venue-logo" />
     case PLAN_B_VENUE_ID:
     case PLAN_B_VENUE_ID_2:
@@ -61,6 +69,12 @@ export default function VenueLogo({venueId}){
       return <img src={infinityLogo} alt="" className="venue-logo" />
     case PADOC_VENUE_ID:
       return <img src={padocLogo} alt="" className="venue-logo" />
+    case CUEACTION_VENUE_ID:
+      return <img src={cueactionLogo} alt="" className="venue-logo" />
+    case CUESDARTS_VENUE_ID:
+      return <img src={cuesdartsLogo} alt="" className="venue-logo" />
+    case WALBURG_VENUE_ID:
+      return <img src={walburgLogo} alt="" className="venue-logo" />
     default:
       return <img src={genericLogo} alt="" className="venue-logo" />
   }
