@@ -14,7 +14,59 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280290,
-    "matchno": "1"
+    "matchno": "1",
+    "teamA": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ]
   },
   {
     "playerA": "Mokumse Straatratten",
@@ -31,7 +83,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280293,
-    "matchno": "2"
+    "matchno": "2",
+    "teamA": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ]
   },
   {
     "playerA": "N-Joyriders",
@@ -48,7 +156,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280296,
-    "matchno": "3"
+    "matchno": "3",
+    "teamA": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ]
   },
   {
     "playerA": "Infinity BiedieBiedie",
@@ -65,7 +233,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280299,
-    "matchno": "4"
+    "matchno": "4",
+    "teamA": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ]
   },
   {
     "playerA": "Nog 1tje dan",
@@ -82,7 +306,71 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280302,
-    "matchno": "5"
+    "matchno": "5",
+    "teamA": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ]
   },
   {
     "playerA": "Time-Out",
@@ -99,7 +387,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280305,
-    "matchno": "6"
+    "matchno": "6",
+    "teamA": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ]
   },
   {
     "playerA": "The N-Joyable Basterds",
@@ -116,7 +460,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280308,
-    "matchno": "7"
+    "matchno": "7",
+    "teamA": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ]
   },
   {
     "playerA": "Mannen van Noord",
@@ -133,7 +533,55 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280311,
-    "matchno": "8"
+    "matchno": "8",
+    "teamA": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ]
   },
   {
     "playerA": "Mokumse Straatratten",
@@ -150,7 +598,71 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280314,
-    "matchno": "9"
+    "matchno": "9",
+    "teamA": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ]
   },
   {
     "playerA": "N-Joyriders",
@@ -167,7 +679,55 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280317,
-    "matchno": "10"
+    "matchno": "10",
+    "teamA": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ]
   },
   {
     "playerA": "Infinity BiedieBiedie",
@@ -184,7 +744,59 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280320,
-    "matchno": "11"
+    "matchno": "11",
+    "teamA": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ]
   },
   {
     "playerA": "De Sjoel 99",
@@ -201,7 +813,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280323,
-    "matchno": "12"
+    "matchno": "12",
+    "teamA": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ]
   },
   {
     "playerA": "Nog 1tje dan",
@@ -218,7 +890,71 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280326,
-    "matchno": "13"
+    "matchno": "13",
+    "teamA": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ]
   },
   {
     "playerA": "The N-Joyable Basterds",
@@ -235,7 +971,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280329,
-    "matchno": "14"
+    "matchno": "14",
+    "teamA": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ]
   },
   {
     "playerA": "Mannen van Noord",
@@ -252,7 +1044,51 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280332,
-    "matchno": "15"
+    "matchno": "15",
+    "teamA": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ]
   },
   {
     "playerA": "Mokumse Straatratten",
@@ -269,7 +1105,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280335,
-    "matchno": "16"
+    "matchno": "16",
+    "teamA": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ]
   },
   {
     "playerA": "N-Joyriders",
@@ -286,7 +1182,71 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280338,
-    "matchno": "17"
+    "matchno": "17",
+    "teamA": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ]
   },
   {
     "playerA": "Infinity BiedieBiedie",
@@ -303,7 +1263,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280341,
-    "matchno": "18"
+    "matchno": "18",
+    "teamA": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ]
   },
   {
     "playerA": "De Sjoel 99",
@@ -320,7 +1336,55 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280344,
-    "matchno": "19"
+    "matchno": "19",
+    "teamA": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ]
   },
   {
     "playerA": "Time-Out",
@@ -337,7 +1401,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280347,
-    "matchno": "20"
+    "matchno": "20",
+    "teamA": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ]
   },
   {
     "playerA": "Nog 1tje dan",
@@ -354,7 +1474,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280350,
-    "matchno": "21"
+    "matchno": "21",
+    "teamA": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ]
   },
   {
     "playerA": "Mannen van Noord",
@@ -371,7 +1551,55 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280353,
-    "matchno": "22"
+    "matchno": "22",
+    "teamA": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ]
   },
   {
     "playerA": "Mokumse Straatratten",
@@ -388,7 +1616,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280356,
-    "matchno": "23"
+    "matchno": "23",
+    "teamA": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ]
   },
   {
     "playerA": "N-Joyriders",
@@ -405,7 +1693,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280359,
-    "matchno": "24"
+    "matchno": "24",
+    "teamA": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ]
   },
   {
     "playerA": "Infinity BiedieBiedie",
@@ -422,7 +1766,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280362,
-    "matchno": "25"
+    "matchno": "25",
+    "teamA": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ]
   },
   {
     "playerA": "De Sjoel 99",
@@ -439,7 +1843,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280365,
-    "matchno": "26"
+    "matchno": "26",
+    "teamA": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ]
   },
   {
     "playerA": "Time-Out",
@@ -456,7 +1920,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280368,
-    "matchno": "27"
+    "matchno": "27",
+    "teamA": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ]
   },
   {
     "playerA": "The N-Joyable Basterds",
@@ -473,7 +1997,51 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280371,
-    "matchno": "28"
+    "matchno": "28",
+    "teamA": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ]
   },
   {
     "playerA": "Nog 1tje dan",
@@ -490,7 +2058,59 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280374,
-    "matchno": "29"
+    "matchno": "29",
+    "teamA": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ]
   },
   {
     "playerA": "The N-Joyable Basterds",
@@ -507,7 +2127,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280377,
-    "matchno": "30"
+    "matchno": "30",
+    "teamA": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ]
   },
   {
     "playerA": "Time-Out",
@@ -524,7 +2200,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280380,
-    "matchno": "31"
+    "matchno": "31",
+    "teamA": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ]
   },
   {
     "playerA": "De Sjoel 99",
@@ -541,7 +2277,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280383,
-    "matchno": "32"
+    "matchno": "32",
+    "teamA": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ]
   },
   {
     "playerA": "De Sjoel 99",
@@ -558,7 +2350,71 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280386,
-    "matchno": "33"
+    "matchno": "33",
+    "teamA": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ]
   },
   {
     "playerA": "Infinity BiedieBiedie",
@@ -575,7 +2431,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280389,
-    "matchno": "34"
+    "matchno": "34",
+    "teamA": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ]
   },
   {
     "playerA": "N-Joyriders",
@@ -592,7 +2504,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280392,
-    "matchno": "35"
+    "matchno": "35",
+    "teamA": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ]
   },
   {
     "playerA": "Mokumse Straatratten",
@@ -609,7 +2577,55 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280395,
-    "matchno": "36"
+    "matchno": "36",
+    "teamA": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ]
   },
   {
     "playerA": "Nog 1tje dan",
@@ -626,7 +2642,71 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280398,
-    "matchno": "37"
+    "matchno": "37",
+    "teamA": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ]
   },
   {
     "playerA": "Mannen van Noord",
@@ -643,7 +2723,55 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280401,
-    "matchno": "38"
+    "matchno": "38",
+    "teamA": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ]
   },
   {
     "playerA": "The N-Joyable Basterds",
@@ -660,7 +2788,59 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280404,
-    "matchno": "39"
+    "matchno": "39",
+    "teamA": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ]
   },
   {
     "playerA": "Time-Out",
@@ -677,7 +2857,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280407,
-    "matchno": "40"
+    "matchno": "40",
+    "teamA": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ]
   },
   {
     "playerA": "Time-Out",
@@ -694,7 +2934,71 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280410,
-    "matchno": "41"
+    "matchno": "41",
+    "teamA": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ]
   },
   {
     "playerA": "De Sjoel 99",
@@ -711,7 +3015,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280413,
-    "matchno": "42"
+    "matchno": "42",
+    "teamA": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ]
   },
   {
     "playerA": "Infinity BiedieBiedie",
@@ -728,7 +3088,51 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280416,
-    "matchno": "43"
+    "matchno": "43",
+    "teamA": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ]
   },
   {
     "playerA": "N-Joyriders",
@@ -745,7 +3149,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280419,
-    "matchno": "44"
+    "matchno": "44",
+    "teamA": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ]
   },
   {
     "playerA": "Nog 1tje dan",
@@ -762,7 +3226,71 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280422,
-    "matchno": "45"
+    "matchno": "45",
+    "teamA": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ]
   },
   {
     "playerA": "Mokumse Straatratten",
@@ -779,7 +3307,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280425,
-    "matchno": "46"
+    "matchno": "46",
+    "teamA": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ]
   },
   {
     "playerA": "Mannen van Noord",
@@ -796,7 +3380,55 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280428,
-    "matchno": "47"
+    "matchno": "47",
+    "teamA": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ]
   },
   {
     "playerA": "The N-Joyable Basterds",
@@ -813,7 +3445,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280431,
-    "matchno": "48"
+    "matchno": "48",
+    "teamA": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ]
   },
   {
     "playerA": "The N-Joyable Basterds",
@@ -830,7 +3518,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280434,
-    "matchno": "49"
+    "matchno": "49",
+    "teamA": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ]
   },
   {
     "playerA": "Time-Out",
@@ -847,7 +3595,55 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280437,
-    "matchno": "50"
+    "matchno": "50",
+    "teamA": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ]
   },
   {
     "playerA": "De Sjoel 99",
@@ -864,7 +3660,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280440,
-    "matchno": "51"
+    "matchno": "51",
+    "teamA": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ]
   },
   {
     "playerA": "Infinity BiedieBiedie",
@@ -881,7 +3737,63 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280443,
-    "matchno": "52"
+    "matchno": "52",
+    "teamA": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ]
   },
   {
     "playerA": "Nog 1tje dan",
@@ -898,7 +3810,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280446,
-    "matchno": "53"
+    "matchno": "53",
+    "teamA": [
+      {
+        "name": "Marcel Minnis",
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
+        "name": "Marten de Haas"
+      },
+      {
+        "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
+        "name": "Ronald Haanstra"
+      },
+      {
+        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
+        "name": "Yorrick Bos"
+      },
+      {
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
+        "name": "Arjan Grooten"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
+        "name": "Dennis Niemeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Klein/1160346",
+        "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
+        "name": "Ali Abu Rashed"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Sander van Houwelingen",
+        "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
+      },
+      {
+        "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
+        "name": "Gerrit van der Velden"
+      },
+      {
+        "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
+        "name": "Wilko Moraal"
+      },
+      {
+        "url": "https://cuescore.com/player/Edwin+Boin/1161407",
+        "name": "Edwin Boin"
+      },
+      {
+        "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
+        "name": "Henk de Ruiter"
+      },
+      {
+        "url": "https://cuescore.com/player/Edward+Dantz/1161409",
+        "name": "Edward Dantz"
+      }
+    ]
   },
   {
     "playerA": "N-Joyriders",
@@ -915,7 +3887,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280449,
-    "matchno": "54"
+    "matchno": "54",
+    "teamA": [
+      {
+        "name": "Joeke Kloosterman",
+        "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
+      },
+      {
+        "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
+        "name": "Timothy Voortman"
+      },
+      {
+        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
+        "name": "Jimmy Lin"
+      },
+      {
+        "url": "https://cuescore.com/player/Bauke+de+With/1187403",
+        "name": "Bauke de With"
+      },
+      {
+        "url": "https://cuescore.com/player/Johan+Koops/1160287",
+        "name": "Johan Koops"
+      },
+      {
+        "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
+        "name": "Hindrik de Haan"
+      },
+      {
+        "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
+        "name": "Gregor Badzwol"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
+      },
+      {
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen"
+      },
+      {
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang"
+      },
+      {
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
+        "name": "Bas Klaasen"
+      }
+    ]
   },
   {
     "playerA": "Mokumse Straatratten",
@@ -932,7 +3964,67 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280452,
-    "matchno": "55"
+    "matchno": "55",
+    "teamA": [
+      {
+        "name": "Richard Floris",
+        "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
+        "name": "Jerry Scholten"
+      },
+      {
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
+      },
+      {
+        "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
+        "name": "Jolien Schuurman"
+      },
+      {
+        "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
+        "name": "Erlanga Agnalre"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Wouter Frans",
+        "url": "https://cuescore.com/player/Wouter+Frans/1160309"
+      },
+      {
+        "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
+        "name": "Dennis G Tahapary"
+      },
+      {
+        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
+        "name": "Erwin Okken"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
+        "name": "Alexander Hulshof"
+      },
+      {
+        "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
+        "name": "Jules Dijcks"
+      },
+      {
+        "url": "https://cuescore.com/player/Zadrach+Singadji/1137367",
+        "name": "Zadrach Singadji"
+      },
+      {
+        "url": "https://cuescore.com/player/M.+Frans/7087352",
+        "name": "M. Frans"
+      }
+    ]
   },
   {
     "playerA": "Mannen van Noord",
@@ -949,6 +4041,50 @@ export default [
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
     "matchId": 67280455,
-    "matchno": "56"
+    "matchno": "56",
+    "teamA": [
+      {
+        "name": "Rahadi",
+        "url": "https://cuescore.com/player/Rahadi/1162362"
+      },
+      {
+        "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
+        "name": "Aleksandar Petrović"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
+        "name": "Stefan Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+      },
+      {
+        "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
+        "name": "Bas Scheffers"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+kerck/9202997",
+        "name": "Michael kerck"
+      },
+      {
+        "url": "https://cuescore.com/player/Alex+Bakker/26729542",
+        "name": "Alex Bakker"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Hesling/1160289",
+        "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
+        "name": "Martin Hielkema"
+      }
+    ]
   }
 ]

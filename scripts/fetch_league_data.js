@@ -57,18 +57,42 @@ export async function fetch_league_api_data(tournamentID){
   return matchesByID
 }
 
+async function fetch_league_teams_data(tournamentID){
+    const req = await fetch(`https://api.cuescore.com/tournament/?id=${tournamentID}&participants=Participants+list`)
+    return await req.json();
+}
+
+function formatTeamMembers(teamData){
+    let result = {};
+    for(let team of teamData){
+        const teamId = team.teamId;
+        const captainId = team.captain.playerId;
+        // captain always first in the array
+        let members = [{name: team.captain.name, url: team.captain.url}];
+        for(let member of team.members){
+            const {playerId, url, name} = member;
+            if(playerId === captainId){
+                continue;
+            }
+            members.push({url, name})
+        }
+        result[teamId] = members;
+    }
+    return result;
+}
 async function main() {
 
     //return console.log(await fetch_league_html_data(leagues[0]))
     //return console.log(await fetch_league_api_data("61204750"))
-    let htmlRequests = leagues.map(fetch_league_html_data);
-    let apiRequests = leagues.map(url => url.split("/").at(-1)).map(fetch_league_api_data);
+    const htmlRequests = leagues.map(fetch_league_html_data);
+    const leagueIDs = leagues.map(url => url.split("/").at(-1));
+    const apiRequests = leagueIDs.map(fetch_league_api_data);
+    const teamRequests = leagueIDs.map(fetch_league_teams_data);
 
     const htmlData = await Promise.all(htmlRequests);
     const apiData = await Promise.all(apiRequests);
-
-    const finishedMatches = [];
-
+    const teamData = await Promise.all(teamRequests);
+    const formatedTeamMembers = formatTeamMembers(teamData.flat());
     // enrich html data with api provided ones
 
     // for each league
@@ -84,6 +108,8 @@ async function main() {
             const playerB = matchData.playerB.name;
             const playerAUrl = matchData.playerA.url;
             const playerBUrl = matchData.playerB.url;
+            const playerAId = matchData.playerA.teamId;
+            const playerBId = matchData.playerB.teamId;
             const startTime = matchData.starttime;
             const venueData = teamToVenueMapping[playerA];
             const tournamentUrl = matchData.tournamentUrl;
@@ -107,7 +133,9 @@ async function main() {
                 tournamentName,
                 tournamentId,
                 matchId,
-                matchno
+                matchno,
+                teamA: formatedTeamMembers[playerAId],
+                teamB: formatedTeamMembers[playerBId]
             })
         }
         writeToDisk(league_data);

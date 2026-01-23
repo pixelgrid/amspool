@@ -67,7 +67,7 @@ function LeagueMatches() {
     const date = new Date();
     date.setDate(date.getDate()-2);
     const result = [];
-    for(let i = 0; i < 107; i++){
+    for(let i = 0; i < 7; i++){
       const dt = date.setDate(date.getDate() + 1);
       const res = find_games_for_date(dt);
       if(res[1].length > 0)
@@ -115,6 +115,8 @@ function LeagueMatches() {
           matchId={g.matchId}
           shouldFetch={g.shouldFetch}
           tournamentId={g.tournamentId}
+          teamA={g.teamA}
+          teamB={g.teamB}
         />))}
     </div>})
 }
