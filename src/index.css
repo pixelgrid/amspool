@@ -93,6 +93,11 @@ img.discipline {
     padding: 10px;
     grid-template-columns: 1fr 1fr 4fr 2fr 4fr;
 }
+.individualMatch > * {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
 
 span.score {
     font-size: 20px;
@@ -168,6 +173,7 @@ span.score {
   gap: 20px;
   padding: 20px;
   background: #f5f5f5;
+  justify-content: space-between;
 }
 .teamOverview {
   font-size: 16px;
