@@ -5,7 +5,7 @@ import VenueLogo from '../components/venue-logo.jsx'
 
 
 function Team({name, members}){
-  return <div className='teamOverview'>{name}: {members.map(m => <a href={m.url}>{m.name}</a>)}</div>
+  return <div className='teamOverview'><span className="teamname">{name}</span> {members.map(m => <a href={m.url}>{m.name}</a>)}</div>
 }
 
 export default function GameRow({
@@ -61,8 +61,8 @@ export default function GameRow({
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
     </div>
     <div class="actions">
-      {['playing', 'finished'].includes(status) && <span className="showmore" onClick={() => setShowDetails(c => !c)}>See matches</span>}
       <span className="showteams" onClick={() => setShowTeams(c => !c)}>See teams</span>
+      {['playing', 'finished'].includes(status) && <span className="showmore" onClick={() => setShowDetails(c => !c)}>See matches</span>}
     </div>
   </div>
   {showTeams && <div className="teammembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}

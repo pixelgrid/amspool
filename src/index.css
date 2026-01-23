@@ -40,7 +40,7 @@ h1 {
 
 .calendar-m {
   width: 20px;
-  margin: 5px;
+  margin: 5px 5px 5px 0;
 }
 
 .date-header {
@@ -134,20 +134,21 @@ span.score {
 
 .matchesoverview {
   padding: 20px;
+  background: #f5f5f5;
 }
-
+.teamname {
+  font-weight: bold;
+}
 .actions{
-  top: 5px;
-  right: 5px;
   font-size: 12px;
-  cursor: pointer;
   flex-basis: 100%;
+  display: flex;
+  gap: 10px;
 }
 .actions span {
     display: inline-block;
     padding: 5px;
     border: 1px solid gray;
-    margin: 0px 5px;
     border-radius: 2px;
 }
 
@@ -160,6 +161,7 @@ span.score {
   display: flex;
   gap: 20px;
   padding: 20px;
+  background: #f5f5f5;
 }
 .teamOverview {
   font-size: 16px;
