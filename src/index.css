@@ -139,6 +139,12 @@ span.score {
 .teamname {
   font-weight: bold;
 }
+.selectedPlayer{
+  color: orange;
+  font-weight: bold;
+  border-left: 4px solid;
+  padding-left: 10px;
+}
 .actions{
   font-size: 12px;
   flex-basis: 100%;
