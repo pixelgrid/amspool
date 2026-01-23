@@ -65,7 +65,7 @@ export default function GameRow({
       <span className="showteams" onClick={() => setShowTeams(c => !c)}>See teams</span>
     </div>
   </div>
-  {showTeams && <div className="teamsmembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}
+  {showTeams && <div className="teammembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}
   {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} />}
   </>
 }
