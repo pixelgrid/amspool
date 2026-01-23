@@ -59,13 +59,13 @@ export default function GameRow({
       <div className="comp-name"><a href={`${tournamentUrl}#match-${matchno}`}>{tournament}</a> </div>
       <div><a href={playerAUrl}>{playerA}</a> <strong className="scoreA">{scoreA}</strong> - <strong  className="scoreB">{scoreB}</strong> <a href={playerBUrl}>{playerB}</a></div>
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
-      {showTeams && <div className="teamsmembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}
     </div>
     <div class="actions">
       {['playing', 'finished'].includes(status) && <span className="showmore" onClick={() => setShowDetails(c => !c)}>See matches</span>}
       <span className="showteams" onClick={() => setShowTeams(c => !c)}>See teams</span>
     </div>
   </div>
+  {showTeams && <div className="teamsmembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}
   {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} />}
   </>
 }

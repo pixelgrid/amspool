@@ -62,6 +62,7 @@ h1 {
   border-bottom: 1px solid rgb(229, 229, 229);
   padding: 10px;
   position: relative;
+  flex-wrap: wrap;
 }
 .comp-name {
   font-size: 12px;
@@ -135,13 +136,12 @@ span.score {
   padding: 20px;
 }
 
-
 .actions{
-  position: absolute;
-  bottom: 5px;
+  top: 5px;
   right: 5px;
   font-size: 12px;
   cursor: pointer;
+  flex-basis: 100%;
 }
 .actions span {
     display: inline-block;
@@ -156,8 +156,16 @@ span.score {
     color: white;
 }
 
+.teammembers{
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
 .teamOverview {
-  font-size: 14px;
+  font-size: 16px;
+  padding: 10px 0;
+  display: flex;
+  flex-flow: column;
 }
 .teamOverview a {
   margin-right: 10px;
@@ -195,9 +203,6 @@ span.score {
     flex-basis: 100%;
 }
 
-@media (max-width: 500px){
-  .game{padding-bottom: 50px;}
-}
 @media (max-width: 700px){
   .individualMatch{
     grid-template-rows: repeat(2, auto);
