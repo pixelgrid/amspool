@@ -1,8 +1,8 @@
-import {useState} from 'react'
+import {use, useState} from 'react'
 import IndividualMatches from "./individual-matches";
 import { useIndividualMatchData } from "../hooks/fetch-match-data";
 import VenueLogo from '../components/venue-logo.jsx'
-
+import { useMatchUpdates } from '../context/match-context.jsx';
 
 function Team({name, members}){
   return <div className='teamOverview'><span className="teamname">{name}</span> {members.map(m => <a href={m.url}>{m.name}</a>)}</div>
@@ -27,7 +27,9 @@ export default function GameRow({
 }){
   const [showDetails, setShowDetails] = useState(false);
   const [showTeams, setShowTeams] = useState(false);
+  const {matchUpdates} = useMatchUpdates();
   const individualMatches = useIndividualMatchData(shouldFetch, tournamentId, matchId)
+  const updates = matchUpdates[matchId] || {};
   let scoreA = 0;
   let scoreB = 0;
 
@@ -46,6 +48,11 @@ export default function GameRow({
     else
       status = 'playing'
   }
+
+  if(updates.scoreA !== undefined)
+    scoreA = updates.scoreA;
+  if(updates.scoreB !== undefined)
+    scoreB = updates.scoreB;
 
   if(status === 'waiting'){
    scoreA = null;

@@ -5,6 +5,7 @@ import {find_games_for_date} from './utils/filter-games.js'
 import DateRow from './components/date-row.jsx'
 import GameRow from './components/game-row.jsx'
 import {Streams} from './components/streams.jsx'
+import { useMatchUpdates, MatchProvider } from './context/match-context.jsx'
 
 const SOCKET = new WebSocket("wss://ws.cuescore.com:11443/");
 
@@ -13,52 +14,23 @@ function App(){
     const showStreams = window.location.search.includes("streams");
     if(showStreams)
       return <Streams />
-    return <LeagueMatches />   
+    return <MatchProvider><LeagueMatches /></MatchProvider>
 }
 
 function LeagueMatches() {
   const [matches, setMatches] = useState(null);
-
+  const { updateMatch } = useMatchUpdates();
   function handleSocketMessage(message){
     const data = JSON.parse(message.data);
     if(data.action === "UPDATE MATCHES"){
       for(let match of data.data){
-        const scoreA = String(match.scoreA);
-        const scoreB = String(match.scoreB);
-        const status = match.matchstatus;
-        const gameRow = document.querySelector(`.match-${match.matchId}`);
-        if(gameRow){
-          const currentScoreA = document.querySelector(`.match-${match.matchId} .scoreA`).innerHTML;
-          const currentScoreB = document.querySelector(`.match-${match.matchId} .scoreB`).innerHTML;
-
-          if(currentScoreA !== scoreA){
-            document.querySelector(`.match-${match.matchId} .scoreA`).innerHTML = scoreA;
-            document.querySelector(`.match-${match.matchId} .scoreA`).animate([
-              {background: 'rgba(255, 206, 70, 1)', color: 'white', transform: "scale(1.4)"},
-            ], {
-              easing: 'ease-in-out',
-              duration: 3000
-            })
-          }
-          if(currentScoreB !== scoreB){
-            document.querySelector(`.match-${match.matchId} .scoreB`).innerHTML = scoreB;
-            document.querySelector(`.match-${match.matchId} .scoreB`).animate([
-              {background: 'rgba(255, 206, 70, 1)', color: 'white', transform: "scale(1.4)"},
-            ], {
-              easing: 'ease-in-out',
-              duration: 3000
-            })
-          }
-          
-          if(!gameRow.classList.contains(status)){
-            gameRow.classList.remove("playing", "waiting", "finished");
-            gameRow.classList.add(status);
-          }
-          if(status === "finished"){
-            const winner = scoreA > scoreB ? 1 : 2;
-            gameRow.classList.add("winner-"+winner);
-          }
-        } 
+        updateMatch(
+          match.matchId,
+          String(match.scoreA),
+          String(match.scoreB),
+          match.matchstatus,
+          match.matchstatus === "finished" ? match.scoreA > match.scoreB ? 1 : 2 : 0
+        );
       }
     }
   }
