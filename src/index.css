@@ -49,6 +49,8 @@ h1 {
   display: flex;
   align-items: center;
   padding: 10px;
+  background: #f1f1f1;
+  color: black;
 }
 
 .venue-logo {
