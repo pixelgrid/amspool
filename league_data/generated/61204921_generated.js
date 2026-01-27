@@ -197,6 +197,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -254,8 +258,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -272,10 +280,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -331,8 +335,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -349,10 +357,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -392,6 +396,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -812,8 +820,12 @@ export default [
     "matchno": "12",
     "teamA": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -830,10 +842,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -856,6 +864,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -919,6 +931,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -968,8 +984,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -986,10 +1006,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -1311,8 +1327,12 @@ export default [
     "matchno": "19",
     "teamA": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -1329,10 +1349,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -1406,6 +1422,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -1572,6 +1592,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -1625,8 +1649,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -1643,10 +1671,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -1822,8 +1846,12 @@ export default [
     "matchno": "26",
     "teamA": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -1840,10 +1868,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -1901,6 +1925,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -2195,6 +2223,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -2236,8 +2268,12 @@ export default [
     "matchno": "32",
     "teamA": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -2254,10 +2290,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -2321,8 +2353,12 @@ export default [
     "matchno": "33",
     "teamA": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -2339,10 +2375,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -2442,6 +2474,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -2840,14 +2876,22 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
     ],
     "teamB": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -2864,10 +2908,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -2907,6 +2947,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -2958,8 +3002,12 @@ export default [
     "matchno": "42",
     "teamA": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -2976,10 +3024,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -3361,8 +3405,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -3379,10 +3427,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -3448,6 +3492,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -3554,6 +3602,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -3611,8 +3663,12 @@ export default [
     "matchno": "51",
     "teamA": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -3629,10 +3685,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -3856,8 +3908,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Mario Martokarijo",
-        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979"
+        "name": "Chris Pronk",
+        "url": "https://cuescore.com/player/Chris+Pronk/1161320"
+      },
+      {
+        "url": "https://cuescore.com/player/Mario+Martokarijo/1160979",
+        "name": "Mario Martokarijo"
       },
       {
         "url": "https://cuescore.com/player/Geordie+Sahilatua/1160980",
@@ -3874,10 +3930,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
-      },
-      {
-        "url": "https://cuescore.com/player/Chris+Pronk/1161320",
-        "name": "Chris Pronk"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -3947,6 +3999,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
+        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",

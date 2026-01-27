@@ -5647,7 +5647,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-01-06T20:00:00",
+    "startTime": "2026-01-29T20:00:00",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",

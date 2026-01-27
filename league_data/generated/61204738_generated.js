@@ -5247,7 +5247,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2026-01-13T20:00:00",
+    "startTime": "2026-02-24T20:00:00",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",

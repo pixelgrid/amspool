@@ -2066,7 +2066,7 @@ export default [
     "playerB": "FC Bloemendaal",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
-    "startTime": "2026-01-25T13:00:00",
+    "startTime": "2026-01-25T13:03:27",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
