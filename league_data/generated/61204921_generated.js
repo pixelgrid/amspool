@@ -55,6 +55,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -102,8 +106,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -154,7 +158,7 @@ export default [
     "playerB": "Schedels Plan B",
     "playerAUrl": "https://cuescore.com/team/BallBarians/30787960",
     "playerBUrl": "https://cuescore.com/team/Schedels+Plan+B/1172422",
-    "startTime": "2026-02-15T13:00:00",
+    "startTime": "2026-02-14T13:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -311,6 +315,10 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -562,8 +570,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -609,8 +617,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -633,6 +641,10 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -897,6 +909,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -1128,8 +1144,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -1205,6 +1221,10 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -1288,8 +1308,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -1481,6 +1501,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -1627,8 +1651,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -1807,6 +1831,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -1945,8 +1973,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -2065,6 +2093,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -2172,8 +2204,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -2391,6 +2423,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -2572,8 +2608,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -2649,6 +2685,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -2679,8 +2719,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -2963,6 +3003,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -3190,8 +3234,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -3231,6 +3275,10 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -3298,8 +3346,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -3551,6 +3599,10 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -3705,8 +3757,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -3815,6 +3867,10 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -3967,8 +4023,8 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/Allan+%E2%80%9C+EL+LEON%E2%80%9D+Frans/1161832",
+        "name": "Allan “ EL LEON” Frans"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",

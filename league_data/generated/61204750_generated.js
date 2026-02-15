@@ -191,12 +191,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -499,6 +499,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -517,8 +521,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -586,8 +590,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -665,6 +669,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -963,12 +971,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -1172,12 +1180,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -1488,6 +1496,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -1553,8 +1565,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -1721,8 +1733,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -1808,6 +1820,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -2106,12 +2122,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -2157,12 +2173,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -2469,6 +2485,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -2534,8 +2554,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -2864,8 +2884,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -2951,6 +2971,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -3142,12 +3166,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -3314,12 +3338,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -3450,6 +3474,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -3515,8 +3543,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -4007,8 +4035,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -4096,6 +4124,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -4135,12 +4167,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -4427,6 +4459,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -4449,12 +4485,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -4496,8 +4532,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -5124,12 +5160,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -5154,8 +5190,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -5233,6 +5269,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -5420,6 +5460,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -5481,8 +5525,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -5580,12 +5624,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -6113,12 +6157,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -6285,8 +6329,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -6366,6 +6410,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -6411,6 +6459,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -6474,8 +6526,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -6723,12 +6775,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -6907,7 +6959,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-02-03T20:00:00",
+    "startTime": "2026-02-24T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7124,12 +7176,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -7146,7 +7198,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-02-04T20:00:00",
+    "startTime": "2026-02-24T20:00:00",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -7390,8 +7442,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -7426,6 +7478,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -7463,8 +7519,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -7542,6 +7598,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -7832,12 +7892,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -8105,12 +8165,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -8421,6 +8481,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -8482,8 +8546,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -8594,8 +8658,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -8677,6 +8741,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -8975,12 +9043,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -9086,12 +9154,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -9402,6 +9470,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -9471,8 +9543,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -9737,8 +9809,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -9820,6 +9892,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -10071,12 +10147,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -10191,12 +10267,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -10383,6 +10459,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -10452,8 +10532,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -10880,8 +10960,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -10963,6 +11043,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -11064,12 +11148,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -11322,12 +11406,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -11362,6 +11446,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -11433,8 +11521,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -12023,8 +12111,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -12053,12 +12141,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -12110,6 +12198,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -12349,6 +12441,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -12410,8 +12506,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -12457,12 +12553,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -13046,12 +13142,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",
@@ -13162,8 +13258,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -13241,6 +13337,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
       },
       {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
@@ -13342,6 +13442,10 @@ export default [
         "name": "Dave Lanfermeijer"
       },
       {
+        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
+        "name": "Ilse Molenaar"
+      },
+      {
         "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
         "name": "Daan Appel-Eijgenbrood"
       }
@@ -13403,8 +13507,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio+alexander/5450329",
-        "name": "Ferreira kaspers Antonio alexander"
+        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
+        "name": "Ferreira kaspers Antonio  A🐑🦁"
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -13592,12 +13696,12 @@ export default [
         "name": "Willy White"
       },
       {
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable"
-      },
-      {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul"
+      },
+      {
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah"
       },
       {
         "url": "https://cuescore.com/player/Alan+Campbell/3126494",

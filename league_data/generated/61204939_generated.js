@@ -128,8 +128,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -495,8 +495,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -841,8 +841,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -1046,8 +1046,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -1550,8 +1550,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -1635,8 +1635,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -2156,8 +2156,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -2310,8 +2310,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -2741,8 +2741,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -3023,8 +3023,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -3292,8 +3292,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -3736,8 +3736,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -3813,8 +3813,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
@@ -4394,8 +4394,8 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
+        "name": "Bas van Kaam"
       },
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
