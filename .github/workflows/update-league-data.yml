@@ -2,6 +2,7 @@ name: Update League Data
 
 permissions:
   contents: write
+  pages: write
 
 on:
   schedule:
