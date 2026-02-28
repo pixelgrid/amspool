@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit updated data
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name "pixelgrid"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if ! git diff --quiet; then
             git add league_data/generated streamdata
