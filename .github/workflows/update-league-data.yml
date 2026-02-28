@@ -1,5 +1,8 @@
 name: Update League Data
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # run daily at 17:00 UTC which corresponds to 18:00 CET (standard time)
