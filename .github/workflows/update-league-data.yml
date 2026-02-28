@@ -1,0 +1,47 @@
+name: Update League Data
+
+on:
+  schedule:
+    # run daily at 17:00 UTC which corresponds to 18:00 CET (standard time)
+    - cron: '0 17 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true # allows the job to push changes back
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch league data
+        run: node ./scripts/fetch_league_data.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet; then
+            git add league_data generated streamdata
+            git commit -m "Update league data"
+          fi
+
+      - name: Deploy
+        run: npm run deploy
+
+      - name: Push changes
+        run: |
+          # push only if there is a commit
+          if git rev-parse --verify HEAD >/dev/null 2>&1; then
+            git push origin HEAD:main
+          fi
