@@ -18,8 +18,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          repository: pixelgrid/amspool
-          token: ${{ secrets.ACCESS_TOKEN }}
           persist-credentials: true # allows the job to push changes back
 
       - name: Use Node.js 22+
