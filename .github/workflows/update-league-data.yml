@@ -45,7 +45,9 @@ jobs:
       - name: Deploy
         run: npm run deploy
         env:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_USER: github-actions[bot]
+          GIT_EMAIL: github-actions[bot]@users.noreply.github.com
 
       - name: Push changes
         run: |
