@@ -18,6 +18,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
+          repository: pixelgrid/amspool
+          token: ${{ secrets.ACCESS_TOKEN }}
           persist-credentials: true # allows the job to push changes back
 
       - name: Use Node.js 22+
@@ -33,7 +35,7 @@ jobs:
 
       - name: Commit updated data
         run: |
-          git config user.name "pixelgrid"
+          git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if ! git diff --quiet; then
             git add league_data/generated streamdata
@@ -42,8 +44,8 @@ jobs:
 
       - name: Deploy
         run: npm run deploy
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push changes
         run: |
