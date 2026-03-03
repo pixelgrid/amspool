@@ -8106,7 +8106,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-02-18T20:00:00",
+    "startTime": "2026-04-08T20:00:00",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8337,7 +8337,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-02-18T20:00:00",
+    "startTime": "2026-04-08T20:00:00",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -8941,7 +8941,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-03-04T20:00:00",
+    "startTime": "2026-04-29T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",

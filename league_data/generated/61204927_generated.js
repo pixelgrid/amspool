@@ -2421,7 +2421,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2026-03-01T13:00:00",
+    "startTime": "2026-04-19T13:00:00",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
       "venueID": "1168038",
@@ -2632,7 +2632,7 @@ export default [
     "playerB": "Mokumse Straatratten",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "startTime": "2026-03-08T13:00:00",
+    "startTime": "2026-03-22T13:00:00",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",

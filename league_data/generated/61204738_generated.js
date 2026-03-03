@@ -444,10 +444,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -578,10 +574,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -1311,10 +1303,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -1599,10 +1587,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -2186,10 +2170,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -2616,10 +2596,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -3059,10 +3035,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -3651,10 +3623,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -3926,10 +3894,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -4676,10 +4640,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -4797,10 +4757,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -5595,7 +5551,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2026-01-12T20:00:00",
+    "startTime": "2026-02-25T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5703,10 +5659,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -6381,7 +6333,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-02-04T20:00:00",
+    "startTime": "2026-03-25T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6564,10 +6516,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -6624,7 +6572,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-02-09T20:00:00",
+    "startTime": "2026-02-24T20:00:00",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6758,10 +6706,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -7179,7 +7123,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-02-17T20:00:00",
+    "startTime": "2026-02-24T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7433,10 +7377,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -7775,10 +7715,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -8306,10 +8242,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -8798,10 +8730,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -9179,10 +9107,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -9835,10 +9759,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -10050,10 +9970,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -10860,10 +10776,6 @@ export default [
         "name": "Jelte Velink"
       },
       {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
-      },
-      {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
         "name": "Matt Sinclair"
       },
@@ -10913,10 +10825,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
@@ -11887,10 +11795,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jelte+Velink/1162852",
         "name": "Jelte Velink"
-      },
-      {
-        "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
-        "name": "Cosmin Sarbanescu"
       },
       {
         "url": "https://cuescore.com/player/Matt+Sinclair/1163434",

@@ -5055,7 +5055,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2025-12-09T20:00:00",
+    "startTime": "2026-03-15T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6628,7 +6628,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-02-24T20:00:00",
+    "startTime": "2026-02-25T09:39:00",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",

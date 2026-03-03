@@ -144,6 +144,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
@@ -197,6 +201,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
         "name": "Cosmin Sarbanescu"
+      },
+      {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
       },
       {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
@@ -511,6 +519,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
@@ -547,6 +559,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
         "name": "Cosmin Sarbanescu"
+      },
+      {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
       },
       {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
@@ -754,6 +770,10 @@ export default [
         "name": "Cosmin Sarbanescu"
       },
       {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
+      },
+      {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico"
       },
@@ -855,6 +875,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
@@ -1062,6 +1086,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
@@ -1254,6 +1282,10 @@ export default [
         "name": "Cosmin Sarbanescu"
       },
       {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
+      },
+      {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico"
       },
@@ -1303,6 +1335,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
         "name": "Cosmin Sarbanescu"
+      },
+      {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
       },
       {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
@@ -1566,6 +1602,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
@@ -1649,6 +1689,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
@@ -1856,6 +1900,10 @@ export default [
         "name": "Cosmin Sarbanescu"
       },
       {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
+      },
+      {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico"
       },
@@ -2052,6 +2100,10 @@ export default [
         "name": "Cosmin Sarbanescu"
       },
       {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
+      },
+      {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico"
       },
@@ -2170,6 +2222,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
@@ -2326,6 +2382,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
@@ -2435,6 +2495,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
         "name": "Cosmin Sarbanescu"
+      },
+      {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
       },
       {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
@@ -2617,7 +2681,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2026-03-01T13:00:00",
+    "startTime": "2026-03-01T13:04:34",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -2727,6 +2791,10 @@ export default [
         "name": "Cosmin Sarbanescu"
       },
       {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
+      },
+      {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico"
       },
@@ -2755,6 +2823,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
@@ -2992,6 +3064,10 @@ export default [
         "name": "Cosmin Sarbanescu"
       },
       {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
+      },
+      {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico"
       },
@@ -3037,6 +3113,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
@@ -3308,6 +3388,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
@@ -3436,6 +3520,10 @@ export default [
         "name": "Cosmin Sarbanescu"
       },
       {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
+      },
+      {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico"
       },
@@ -3549,6 +3637,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
         "name": "Cosmin Sarbanescu"
+      },
+      {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
       },
       {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
@@ -3752,6 +3844,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
@@ -3827,6 +3923,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
@@ -4098,6 +4198,10 @@ export default [
         "name": "Cosmin Sarbanescu"
       },
       {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
+      },
+      {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico"
       },
@@ -4228,6 +4332,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Cosmin+Sarbanescu/6783906",
         "name": "Cosmin Sarbanescu"
+      },
+      {
+        "url": "https://cuescore.com/player/Matt+Sinclair/1163434",
+        "name": "Matt Sinclair"
       },
       {
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
@@ -4408,6 +4516,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
