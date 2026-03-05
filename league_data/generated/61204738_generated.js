@@ -290,10 +290,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -373,10 +369,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -669,10 +661,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -740,10 +728,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -1157,10 +1141,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -1236,10 +1216,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -1678,10 +1654,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -1753,10 +1725,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -2016,10 +1984,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -2099,10 +2063,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -2691,10 +2651,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -2766,10 +2722,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -2879,10 +2831,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -2966,10 +2914,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -3720,10 +3664,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -3793,10 +3733,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -3829,10 +3765,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -4682,10 +4614,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -4735,10 +4663,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -4816,10 +4740,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -5533,10 +5453,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -5620,10 +5536,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -5758,10 +5670,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -5833,10 +5741,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -6366,10 +6270,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -6445,10 +6345,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -6797,10 +6693,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -6868,10 +6760,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -7229,10 +7117,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -7312,10 +7196,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -7810,10 +7690,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -7885,10 +7761,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -8088,10 +7960,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -8171,10 +8039,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -8823,10 +8687,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -8904,10 +8764,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -8953,10 +8809,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -9034,10 +8886,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -9848,10 +9696,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -9899,10 +9743,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -9927,10 +9767,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -10750,10 +10586,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -10873,10 +10705,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -10952,10 +10780,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -11605,10 +11429,6 @@ export default [
         "name": "Hervis Hamid"
       },
       {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -11688,10 +11508,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Damien+Phan/37884802",
         "name": "Damien Phan"
-      },
-      {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -11890,10 +11706,6 @@ export default [
         "name": "Damien Phan"
       },
       {
-        "url": "https://cuescore.com/player/Jun+Torres/1559251",
-        "name": "Jun Torres"
-      },
-      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -11965,10 +11777,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
-      },
-      {
-        "url": "https://cuescore.com/player/Rahadi/1162362",
-        "name": "Rahadi"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
