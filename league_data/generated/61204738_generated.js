@@ -8162,7 +8162,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-03-09T20:00:00",
+    "startTime": "2026-04-07T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
