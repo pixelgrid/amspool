@@ -98,10 +98,6 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
       },
@@ -558,10 +554,6 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
       },
@@ -607,10 +599,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
         "name": "Shamir Tremus seintje"
-      },
-      {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
       },
       {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
@@ -1124,10 +1112,6 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
       },
@@ -1282,10 +1266,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
         "name": "Shamir Tremus seintje"
-      },
-      {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
       },
       {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
@@ -1623,10 +1603,6 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
       },
@@ -1941,10 +1917,6 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
       },
@@ -2166,10 +2138,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
         "name": "Shamir Tremus seintje"
-      },
-      {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
       },
       {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
@@ -2568,10 +2536,6 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
       },
@@ -2673,10 +2637,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
         "name": "Shamir Tremus seintje"
-      },
-      {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
       },
       {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
@@ -3186,10 +3146,6 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
       },
@@ -3292,10 +3248,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
         "name": "Shamir Tremus seintje"
-      },
-      {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
       },
       {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
@@ -3701,10 +3653,6 @@ export default [
         "name": "Shamir Tremus seintje"
       },
       {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
       },
@@ -3961,10 +3909,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
         "name": "Shamir Tremus seintje"
-      },
-      {
-        "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
       },
       {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
