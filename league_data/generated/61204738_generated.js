@@ -286,6 +286,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -726,6 +730,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -1135,6 +1143,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -1723,6 +1735,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -1978,6 +1994,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -2720,6 +2740,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -2825,6 +2849,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -3729,6 +3757,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -4610,6 +4642,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -4736,6 +4772,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -5449,6 +5489,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -5737,6 +5781,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -6266,6 +6314,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -6758,6 +6810,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -7111,6 +7167,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -7759,6 +7819,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -7954,6 +8018,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -8760,6 +8828,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -8805,6 +8877,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -9765,6 +9841,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -10582,6 +10662,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -10776,6 +10860,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -11425,6 +11513,10 @@ export default [
         "name": "Joshua Harkelijn"
       },
       {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       },
@@ -11773,6 +11865,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
+      },
+      {
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",

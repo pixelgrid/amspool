@@ -150,7 +150,7 @@ export default [
     "playerB": "Schedels Plan B",
     "playerAUrl": "https://cuescore.com/team/BallBarians/30787960",
     "playerBUrl": "https://cuescore.com/team/Schedels+Plan+B/1172422",
-    "startTime": "2026-02-14T13:00:00",
+    "startTime": "2026-04-19T13:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -191,10 +191,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -388,10 +384,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -854,10 +846,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -913,10 +901,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -1404,10 +1388,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -1566,10 +1546,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -1899,10 +1875,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -2191,10 +2163,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -2438,10 +2406,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -2836,10 +2800,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -2907,10 +2867,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -3446,10 +3402,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -3548,10 +3500,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -3943,10 +3891,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
