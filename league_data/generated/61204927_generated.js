@@ -17,8 +17,8 @@ export default [
     "matchno": "1",
     "teamA": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -540,8 +540,8 @@ export default [
     "matchno": "8",
     "teamA": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -724,8 +724,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -1059,8 +1059,8 @@ export default [
     "matchno": "15",
     "teamA": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -1389,8 +1389,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -1574,8 +1574,8 @@ export default [
     "matchno": "22",
     "teamA": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -2054,8 +2054,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -2123,8 +2123,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -2646,8 +2646,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -2766,8 +2766,8 @@ export default [
     "matchno": "38",
     "teamA": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -3157,8 +3157,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -3431,8 +3431,8 @@ export default [
     "matchno": "47",
     "teamA": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -3676,8 +3676,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
@@ -4100,8 +4100,8 @@ export default [
     "matchno": "56",
     "teamA": [
       {
-        "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "name": "Rahadi Hamid",
+        "url": "https://cuescore.com/player/Rahadi+Hamid/1162362"
       },
       {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
