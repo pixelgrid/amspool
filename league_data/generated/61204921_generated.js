@@ -2844,7 +2844,7 @@ export default [
     "playerB": "MOKUM 1",
     "playerAUrl": "https://cuescore.com/team/Schedels+Plan+B/1172422",
     "playerBUrl": "https://cuescore.com/team/MOKUM+1/63827755",
-    "startTime": "2026-03-29T12:00:00",
+    "startTime": "2026-03-29T11:00:00",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -2901,7 +2901,7 @@ export default [
     "playerB": "Strijders",
     "playerAUrl": "https://cuescore.com/team/Hustlin+PCD/6221102",
     "playerBUrl": "https://cuescore.com/team/Strijders/1172428",
-    "startTime": "2026-03-29T14:00:00",
+    "startTime": "2026-03-29T13:00:00",
     "venueData": {
       "venueName": "Poolcafé Delfshaven",
       "venueID": "1168520",
@@ -2978,7 +2978,7 @@ export default [
     "playerB": "Shinobi",
     "playerAUrl": "https://cuescore.com/team/Focus+Billiards+1/1172435",
     "playerBUrl": "https://cuescore.com/team/Shinobi/1172425",
-    "startTime": "2026-03-29T14:00:00",
+    "startTime": "2026-03-29T13:00:00",
     "venueData": {
       "venueName": "Focus Billiards",
       "venueID": "62655235",
@@ -3063,7 +3063,7 @@ export default [
     "playerB": "Cues & Darts",
     "playerAUrl": "https://cuescore.com/team/BallBarians/30787960",
     "playerBUrl": "https://cuescore.com/team/Cues+%2526+Darts/63838384",
-    "startTime": "2026-03-29T14:00:00",
+    "startTime": "2026-03-29T13:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
