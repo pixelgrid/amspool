@@ -98,10 +98,6 @@ export default [
         "name": "Jerry Scholten"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
       },
@@ -570,10 +566,6 @@ export default [
         "name": "Jerry Scholten"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
       },
@@ -619,10 +611,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
@@ -1132,10 +1120,6 @@ export default [
         "name": "Jerry Scholten"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
       },
@@ -1318,10 +1302,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
@@ -1649,10 +1629,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
@@ -1989,10 +1965,6 @@ export default [
         "name": "Jerry Scholten"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
       },
@@ -2194,10 +2166,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
@@ -2624,10 +2592,6 @@ export default [
         "name": "Jerry Scholten"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
       },
@@ -2725,10 +2689,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
@@ -3234,10 +3194,6 @@ export default [
         "name": "Jerry Scholten"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
       },
@@ -3364,10 +3320,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
@@ -3753,10 +3705,6 @@ export default [
         "name": "Jerry Scholten"
       },
       {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
-      },
-      {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
       },
@@ -4029,10 +3977,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
-      },
-      {
-        "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "name": "Marijn ten Thij"
       },
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
