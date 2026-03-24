@@ -193,6 +193,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -384,6 +388,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -846,6 +854,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -901,6 +913,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -1388,6 +1404,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -1546,6 +1566,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -1875,6 +1899,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -2163,6 +2191,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -2406,6 +2438,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -2800,6 +2836,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -2867,6 +2907,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -3402,6 +3446,10 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -3500,6 +3548,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -3891,6 +3943,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
