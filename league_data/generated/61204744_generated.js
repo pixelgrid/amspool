@@ -10471,7 +10471,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2026-03-24T20:00:00",
+    "startTime": "2026-05-12T20:00:00",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
