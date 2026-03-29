@@ -98,10 +98,6 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
-      },
-      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
@@ -626,10 +622,6 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
-      },
-      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
@@ -675,10 +667,6 @@ export default [
       {
         "name": "Kevin Den Hartigh",
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
-      },
-      {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
       },
       {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
@@ -1244,10 +1232,6 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
-      },
-      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
@@ -1450,10 +1434,6 @@ export default [
       {
         "name": "Kevin Den Hartigh",
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
-      },
-      {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
       },
       {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
@@ -1819,10 +1799,6 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
-      },
-      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
@@ -2185,10 +2161,6 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
-      },
-      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
@@ -2430,10 +2402,6 @@ export default [
       {
         "name": "Kevin Den Hartigh",
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
-      },
-      {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
       },
       {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
@@ -2896,10 +2864,6 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
-      },
-      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
@@ -3005,10 +2969,6 @@ export default [
       {
         "name": "Kevin Den Hartigh",
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
-      },
-      {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
       },
       {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
@@ -3450,7 +3410,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2026-03-29T13:00:00",
+    "startTime": "2026-03-29T12:58:00",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -3576,10 +3536,6 @@ export default [
       {
         "name": "Kevin Den Hartigh",
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
-      },
-      {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
       },
       {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
@@ -3716,10 +3672,6 @@ export default [
       {
         "name": "Kevin Den Hartigh",
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
-      },
-      {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
       },
       {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
@@ -4149,10 +4101,6 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
-      },
-      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
@@ -4453,10 +4401,6 @@ export default [
       {
         "name": "Kevin Den Hartigh",
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
-      },
-      {
-        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
-        "name": "Ron Fortgens"
       },
       {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
