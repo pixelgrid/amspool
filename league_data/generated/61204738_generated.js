@@ -6285,7 +6285,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-03-25T20:00:00",
+    "startTime": "2026-04-08T20:00:00",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8927,7 +8927,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2026-03-23T20:00:00",
+    "startTime": "2026-04-01T20:00:00",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
