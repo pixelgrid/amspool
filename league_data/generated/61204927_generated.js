@@ -3435,7 +3435,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2026-04-26T13:00:00",
+    "startTime": "2026-04-25T13:00:00",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
