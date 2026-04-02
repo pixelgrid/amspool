@@ -25,8 +25,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -906,8 +906,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -1034,8 +1034,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -1761,8 +1761,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -2039,8 +2039,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -2608,8 +2608,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -3056,8 +3056,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -3463,8 +3463,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -4069,8 +4069,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -4318,8 +4318,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -5078,8 +5078,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -5181,8 +5181,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -6109,8 +6109,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -6926,8 +6926,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -7114,8 +7114,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -7781,8 +7781,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -8123,8 +8123,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -8628,8 +8628,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -9144,8 +9144,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -9487,8 +9487,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -10153,8 +10153,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -10346,8 +10346,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -11158,8 +11158,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -11205,8 +11205,8 @@ export default [
         "name": "Kevin Oei"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",

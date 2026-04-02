@@ -193,10 +193,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -232,8 +228,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -390,10 +386,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -412,8 +404,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -743,8 +735,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -854,10 +846,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -913,10 +901,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -1065,8 +1049,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -1238,8 +1222,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -1404,10 +1388,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -1568,10 +1548,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -1706,8 +1682,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -1757,8 +1733,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -1897,10 +1873,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -2191,10 +2163,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -2282,8 +2250,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -2406,8 +2374,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -2438,10 +2406,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -2785,8 +2749,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -2834,10 +2798,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -2907,10 +2867,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -3047,8 +3003,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -3284,8 +3240,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -3446,10 +3402,6 @@ export default [
         "name": "Berk Mehmetcik"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
         "name": "Jur Kous"
       }
@@ -3548,10 +3500,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
@@ -3704,8 +3652,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -3795,8 +3743,8 @@ export default [
         "name": "Alex Lely"
       },
       {
-        "url": "https://cuescore.com/player/Peter+de+Vries+%F0%9F%8E%B1/1159534",
-        "name": "Peter de Vries 🎱"
+        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
+        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/John+Koot/1162446",
@@ -3943,10 +3891,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
         "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Jur+Kous/1161113",
