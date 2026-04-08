@@ -187,8 +187,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -545,8 +545,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -754,8 +754,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -1266,8 +1266,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -1321,8 +1321,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -1884,8 +1884,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -2084,8 +2084,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -2481,8 +2481,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -2775,8 +2775,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -3048,8 +3048,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -3504,8 +3504,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -3623,8 +3623,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -4182,8 +4182,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
@@ -4318,8 +4318,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+H/3369296",
+        "name": "Mostafa H"
       },
       {
         "url": "https://cuescore.com/player/Leon+Qian/1533289",
