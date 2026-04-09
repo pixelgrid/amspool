@@ -128,8 +128,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -455,8 +455,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -773,8 +773,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -946,8 +946,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1418,8 +1418,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1487,8 +1487,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1960,8 +1960,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -2114,8 +2114,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -2489,8 +2489,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -2755,8 +2755,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -2996,8 +2996,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -3416,8 +3416,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -3477,8 +3477,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -4010,8 +4010,8 @@ export default [
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
       },
       {
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808",
-        "name": "Muhsin Yağlı"
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",

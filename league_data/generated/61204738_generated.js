@@ -479,8 +479,8 @@ export default [
     "matchno": "7",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -1360,8 +1360,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -1488,8 +1488,8 @@ export default [
     "matchno": "20",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -2215,8 +2215,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -2485,8 +2485,8 @@ export default [
     "matchno": "33",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -3078,8 +3078,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -3502,8 +3502,8 @@ export default [
     "matchno": "46",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -3933,8 +3933,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -4515,8 +4515,8 @@ export default [
     "matchno": "59",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -4792,8 +4792,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -5524,8 +5524,8 @@ export default [
     "matchno": "72",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -5639,8 +5639,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -6563,8 +6563,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -7384,8 +7384,8 @@ export default [
     "matchno": "96",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -7568,8 +7568,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -8243,8 +8243,8 @@ export default [
     "matchno": "107",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -8569,8 +8569,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -9102,8 +9102,8 @@ export default [
     "matchno": "118",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -9586,8 +9586,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -9953,8 +9953,8 @@ export default [
     "matchno": "129",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -10595,8 +10595,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -10812,8 +10812,8 @@ export default [
     "matchno": "140",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -11608,8 +11608,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -11659,8 +11659,8 @@ export default [
     "matchno": "151",
     "teamA": [
       {
-        "name": "Muhsin Yağlı",
-        "url": "https://cuescore.com/player/Muhsin+Ya%C4%9Fl%C4%B1/1163808"
+        "name": "Muhsin Yagli",
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
