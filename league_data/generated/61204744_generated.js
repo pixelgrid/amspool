@@ -420,8 +420,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -621,8 +621,8 @@ export default [
     "matchno": "9",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -1547,8 +1547,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -1628,8 +1628,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -2571,8 +2571,8 @@ export default [
     "matchno": "35",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -2755,8 +2755,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -3548,8 +3548,8 @@ export default [
     "matchno": "48",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -3894,8 +3894,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -4525,8 +4525,8 @@ export default [
     "matchno": "61",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -5017,8 +5017,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -5506,8 +5506,8 @@ export default [
     "matchno": "74",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -6152,8 +6152,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -6483,8 +6483,8 @@ export default [
     "matchno": "87",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -7249,8 +7249,8 @@ export default [
     "matchno": "97",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -7498,8 +7498,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -8368,8 +8368,8 @@ export default [
     "matchno": "112",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -8449,8 +8449,8 @@ export default [
     "matchno": "113",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -9452,8 +9452,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -9580,8 +9580,8 @@ export default [
     "matchno": "128",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -10433,8 +10433,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -10711,8 +10711,8 @@ export default [
     "matchno": "143",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -11402,8 +11402,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -11842,8 +11842,8 @@ export default [
     "matchno": "158",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -12387,8 +12387,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -12969,8 +12969,8 @@ export default [
     "matchno": "173",
     "teamA": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -13360,8 +13360,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Steffen Klein",
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947"
+        "name": "Klein, Steffen",
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947"
       },
       {
         "url": "https://cuescore.com/player/Sami+Arous/6563601",
