@@ -9490,7 +9490,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-03-17T20:00:00",
+    "startTime": "2026-04-15T20:00:00",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",

@@ -8453,7 +8453,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-03-17T20:00:00",
+    "startTime": "2026-04-28T20:00:00",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
