@@ -39,6 +39,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ],
     "teamB": [
@@ -614,6 +618,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ],
     "teamB": [
@@ -806,6 +814,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ]
   },
@@ -1177,6 +1189,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ],
     "teamB": [
@@ -1535,6 +1551,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ]
   },
@@ -1748,6 +1768,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ],
     "teamB": [
@@ -2264,6 +2288,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ]
   },
@@ -2341,6 +2369,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ]
   },
@@ -2912,6 +2944,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ]
   },
@@ -3036,6 +3072,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ],
     "teamB": [
@@ -3475,6 +3515,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ]
   },
@@ -3769,6 +3813,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ],
     "teamB": [
@@ -4042,6 +4090,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ]
   },
@@ -4494,6 +4546,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Wout+Janssen/1159836",
         "name": "Wout Janssen"
+      },
+      {
+        "url": "https://cuescore.com/player/Klein%2C+Steffen/5216947",
+        "name": "Klein, Steffen"
       }
     ],
     "teamB": [
