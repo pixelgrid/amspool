@@ -120,6 +120,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -572,6 +576,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ]
   },
@@ -619,6 +627,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -1130,6 +1142,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -1290,6 +1306,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ]
   },
@@ -1621,6 +1641,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -1935,6 +1959,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ]
   },
@@ -2162,6 +2190,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ]
   },
@@ -2554,6 +2586,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -2661,6 +2697,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ]
   },
@@ -3164,6 +3204,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ]
   },
@@ -3272,6 +3316,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -3671,6 +3719,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ]
   },
@@ -3933,6 +3985,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
+        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
