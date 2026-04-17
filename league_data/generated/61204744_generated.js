@@ -4,7 +4,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2025-09-17T20:00:00",
+    "startTime": "2025-09-17T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -77,7 +77,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2025-09-15T20:00:00",
+    "startTime": "2025-09-15T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -154,7 +154,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2025-09-16T20:00:00",
+    "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -235,7 +235,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2025-09-16T20:00:00",
+    "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -312,7 +312,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2025-09-16T20:00:00",
+    "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -385,7 +385,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2025-09-15T20:00:00",
+    "startTime": "2025-09-15T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -458,7 +458,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2025-09-16T20:00:00",
+    "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -531,7 +531,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2025-09-25T20:00:00",
+    "startTime": "2025-09-25T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -608,7 +608,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2025-09-22T20:00:00",
+    "startTime": "2025-09-22T18:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -685,7 +685,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2025-09-23T20:00:00",
+    "startTime": "2025-09-23T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -754,7 +754,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2025-09-23T20:00:00",
+    "startTime": "2025-09-23T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -823,7 +823,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2025-09-22T20:00:00",
+    "startTime": "2025-09-22T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -908,7 +908,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2025-09-30T20:00:00",
+    "startTime": "2025-09-30T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -989,7 +989,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2025-09-24T20:00:00",
+    "startTime": "2025-09-24T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1058,7 +1058,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2025-10-06T20:00:00",
+    "startTime": "2025-10-06T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1131,7 +1131,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2025-10-07T20:00:00",
+    "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1204,7 +1204,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2025-10-07T20:00:00",
+    "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -1289,7 +1289,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2025-10-07T20:00:00",
+    "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -1366,7 +1366,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2025-10-06T20:00:00",
+    "startTime": "2025-10-06T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1431,7 +1431,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2025-10-07T20:00:00",
+    "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1504,7 +1504,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2025-10-08T20:00:00",
+    "startTime": "2025-10-08T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1585,7 +1585,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2025-10-16T20:00:00",
+    "startTime": "2025-10-16T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1666,7 +1666,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2025-10-14T20:00:00",
+    "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -1743,7 +1743,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2025-10-14T20:00:00",
+    "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -1812,7 +1812,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2025-10-13T20:00:00",
+    "startTime": "2025-10-13T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -1885,7 +1885,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2025-10-14T20:00:00",
+    "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -1962,7 +1962,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2025-10-15T20:00:00",
+    "startTime": "2025-10-15T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2039,7 +2039,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2025-10-13T20:00:00",
+    "startTime": "2025-10-13T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2112,7 +2112,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2025-10-28T20:00:00",
+    "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2189,7 +2189,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2025-10-28T20:00:00",
+    "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -2266,7 +2266,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2025-10-28T20:00:00",
+    "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -2335,7 +2335,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2025-10-27T20:00:00",
+    "startTime": "2025-10-27T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2408,7 +2408,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2025-10-28T20:00:00",
+    "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2485,7 +2485,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2025-12-17T10:49:00",
+    "startTime": "2025-12-17T09:49:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2558,7 +2558,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2025-10-27T20:00:00",
+    "startTime": "2025-10-27T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -2639,7 +2639,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2025-11-06T20:00:00",
+    "startTime": "2025-11-06T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2716,7 +2716,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2025-11-04T20:00:00",
+    "startTime": "2025-11-04T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -2793,7 +2793,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2025-11-03T20:00:00",
+    "startTime": "2025-11-03T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -2874,7 +2874,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2025-11-04T20:00:00",
+    "startTime": "2025-11-04T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -2951,7 +2951,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2025-11-05T20:00:00",
+    "startTime": "2025-11-05T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3016,7 +3016,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2025-11-03T20:00:00",
+    "startTime": "2025-11-03T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3085,7 +3085,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2025-11-04T20:00:00",
+    "startTime": "2025-11-04T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3166,7 +3166,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -3247,7 +3247,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -3320,7 +3320,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2025-11-10T20:00:00",
+    "startTime": "2025-11-10T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3385,7 +3385,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3454,7 +3454,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2025-11-12T20:00:00",
+    "startTime": "2025-11-12T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3535,7 +3535,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2025-11-10T20:00:00",
+    "startTime": "2025-11-10T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -3620,7 +3620,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -3693,7 +3693,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2025-11-27T20:00:00",
+    "startTime": "2025-11-27T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3766,7 +3766,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2025-11-24T20:00:00",
+    "startTime": "2025-11-24T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -3847,7 +3847,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2025-11-25T20:00:00",
+    "startTime": "2025-11-25T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -3932,7 +3932,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2025-11-25T10:40:00",
+    "startTime": "2025-11-25T09:40:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4005,7 +4005,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2025-11-24T20:00:00",
+    "startTime": "2025-11-24T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4074,7 +4074,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2025-11-25T20:00:00",
+    "startTime": "2025-11-25T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4143,7 +4143,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2025-11-25T20:00:00",
+    "startTime": "2025-11-25T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -4220,7 +4220,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2025-12-02T20:00:00",
+    "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -4293,7 +4293,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2025-12-01T20:00:00",
+    "startTime": "2025-12-01T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4366,7 +4366,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2025-12-02T20:00:00",
+    "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4439,7 +4439,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2025-12-03T20:00:00",
+    "startTime": "2025-12-03T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4512,7 +4512,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2025-12-01T20:00:00",
+    "startTime": "2025-12-01T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -4589,7 +4589,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2025-12-02T20:00:00",
+    "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -4670,7 +4670,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2025-12-02T20:00:00",
+    "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -4747,7 +4747,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2025-12-11T20:00:00",
+    "startTime": "2025-12-11T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4828,7 +4828,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2025-12-09T20:00:00",
+    "startTime": "2025-12-09T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -4905,7 +4905,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2025-12-10T20:00:00",
+    "startTime": "2025-12-10T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4978,7 +4978,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2025-12-08T20:00:00",
+    "startTime": "2025-12-08T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5055,7 +5055,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-03-15T20:00:00",
+    "startTime": "2026-03-15T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5132,7 +5132,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2025-12-09T20:00:00",
+    "startTime": "2025-12-09T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -5209,7 +5209,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2025-12-16T20:00:00",
+    "startTime": "2025-12-16T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -5274,7 +5274,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-01-05T20:00:00",
+    "startTime": "2026-01-05T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5343,7 +5343,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-01-27T20:00:00",
+    "startTime": "2026-01-27T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5412,7 +5412,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-01-28T20:00:00",
+    "startTime": "2026-01-28T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5493,7 +5493,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-01-05T20:00:00",
+    "startTime": "2026-01-05T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -5574,7 +5574,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-01-06T20:00:00",
+    "startTime": "2026-01-06T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -5647,7 +5647,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-01-29T20:00:00",
+    "startTime": "2026-01-29T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -5716,7 +5716,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2026-01-05T20:00:00",
+    "startTime": "2026-01-05T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -5801,7 +5801,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2026-01-15T20:00:00",
+    "startTime": "2026-01-15T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5882,7 +5882,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2026-01-14T20:00:00",
+    "startTime": "2026-01-14T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5959,7 +5959,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2026-01-12T20:00:00",
+    "startTime": "2026-01-12T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6028,7 +6028,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2026-01-13T20:00:00",
+    "startTime": "2026-01-13T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6105,7 +6105,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2026-01-13T20:00:00",
+    "startTime": "2026-01-13T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -6190,7 +6190,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-01-13T20:00:00",
+    "startTime": "2026-01-13T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -6263,7 +6263,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2026-01-12T20:00:00",
+    "startTime": "2026-01-12T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6328,7 +6328,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-01-20T20:00:00",
+    "startTime": "2026-01-20T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6401,7 +6401,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2026-01-21T20:00:00",
+    "startTime": "2026-01-21T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6470,7 +6470,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-01-19T20:00:00",
+    "startTime": "2026-01-19T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -6547,7 +6547,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-01-20T20:00:00",
+    "startTime": "2026-01-20T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -6628,7 +6628,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-02-25T09:39:00",
+    "startTime": "2026-02-25T08:39:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -6701,7 +6701,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-01-19T20:00:00",
+    "startTime": "2026-01-19T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -6778,7 +6778,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-01-20T20:00:00",
+    "startTime": "2026-01-20T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -6855,7 +6855,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-02-05T20:00:00",
+    "startTime": "2026-02-05T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6928,7 +6928,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-02-03T20:00:00",
+    "startTime": "2026-02-03T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -7005,7 +7005,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-02-02T20:00:00",
+    "startTime": "2026-02-02T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -7086,7 +7086,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-02-03T20:00:00",
+    "startTime": "2026-02-03T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -7163,7 +7163,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-02-03T20:00:00",
+    "startTime": "2026-02-03T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -7236,7 +7236,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2026-02-02T20:00:00",
+    "startTime": "2026-02-02T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -7309,7 +7309,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2026-02-04T20:00:00",
+    "startTime": "2026-02-04T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7382,7 +7382,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-02-11T20:00:00",
+    "startTime": "2026-02-11T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7459,7 +7459,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2026-02-10T20:00:00",
+    "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7536,7 +7536,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2026-02-09T20:00:00",
+    "startTime": "2026-02-09T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7605,7 +7605,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2026-02-10T20:00:00",
+    "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -7674,7 +7674,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2026-02-10T20:00:00",
+    "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -7759,7 +7759,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2026-02-10T20:00:00",
+    "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7840,7 +7840,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-02-09T20:00:00",
+    "startTime": "2026-02-09T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7909,7 +7909,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-02-19T20:00:00",
+    "startTime": "2026-02-19T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7982,7 +7982,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-02-18T20:00:00",
+    "startTime": "2026-02-18T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8055,7 +8055,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-02-17T20:00:00",
+    "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -8140,7 +8140,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-02-16T20:00:00",
+    "startTime": "2026-02-16T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -8217,7 +8217,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2026-02-17T20:00:00",
+    "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -8282,7 +8282,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2026-02-17T20:00:00",
+    "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -8355,7 +8355,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-02-16T20:00:00",
+    "startTime": "2026-02-16T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -8436,7 +8436,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-03-02T20:00:00",
+    "startTime": "2026-03-02T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -8517,7 +8517,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2026-03-04T20:00:00",
+    "startTime": "2026-03-04T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8594,7 +8594,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2026-03-03T20:00:00",
+    "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8663,7 +8663,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2026-03-02T20:00:00",
+    "startTime": "2026-03-02T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8736,7 +8736,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2026-03-03T20:00:00",
+    "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -8813,7 +8813,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-03-03T20:00:00",
+    "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -8890,7 +8890,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-03-03T20:00:00",
+    "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8963,7 +8963,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-03-12T20:00:00",
+    "startTime": "2026-03-12T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9040,7 +9040,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-03-09T20:00:00",
+    "startTime": "2026-03-09T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -9117,7 +9117,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-03-11T20:00:00",
+    "startTime": "2026-03-11T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -9186,7 +9186,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2026-03-10T20:00:00",
+    "startTime": "2026-03-10T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -9259,7 +9259,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2026-03-09T20:00:00",
+    "startTime": "2026-03-09T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -9336,7 +9336,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-03-10T20:00:00",
+    "startTime": "2026-03-10T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -9409,7 +9409,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2026-03-10T20:00:00",
+    "startTime": "2026-03-10T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -9490,7 +9490,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-04-15T20:00:00",
+    "startTime": "2026-04-15T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -9567,7 +9567,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2026-03-16T20:00:00",
+    "startTime": "2026-03-16T19:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -9644,7 +9644,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2026-03-18T20:00:00",
+    "startTime": "2026-03-18T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -9725,7 +9725,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2026-03-17T20:00:00",
+    "startTime": "2026-03-17T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -9802,7 +9802,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-03-16T20:00:00",
+    "startTime": "2026-03-16T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9867,7 +9867,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-03-17T20:00:00",
+    "startTime": "2026-03-17T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -9936,7 +9936,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-03-17T20:00:00",
+    "startTime": "2026-03-17T19:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -10017,7 +10017,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-03-26T20:00:00",
+    "startTime": "2026-03-26T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10098,7 +10098,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-03-24T20:00:00",
+    "startTime": "2026-03-24T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10171,7 +10171,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2026-03-23T20:00:00",
+    "startTime": "2026-03-23T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10236,7 +10236,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2026-03-25T20:00:00",
+    "startTime": "2026-03-25T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10305,7 +10305,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-03-24T20:00:00",
+    "startTime": "2026-03-24T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -10386,7 +10386,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2026-03-23T20:00:00",
+    "startTime": "2026-03-23T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -10471,7 +10471,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -10544,7 +10544,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -10617,7 +10617,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -10698,7 +10698,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2026-03-30T20:00:00",
+    "startTime": "2026-03-30T18:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -10783,7 +10783,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-04-01T20:00:00",
+    "startTime": "2026-04-01T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10856,7 +10856,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10925,7 +10925,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-03-30T20:00:00",
+    "startTime": "2026-03-30T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10994,7 +10994,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -11071,7 +11071,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-04-16T20:00:00",
+    "startTime": "2026-04-16T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11144,7 +11144,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2026-04-14T20:00:00",
+    "startTime": "2026-04-14T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -11217,7 +11217,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2026-04-14T20:00:00",
+    "startTime": "2026-04-14T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11290,7 +11290,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-04-13T20:00:00",
+    "startTime": "2026-04-13T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11363,7 +11363,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2026-04-15T20:00:00",
+    "startTime": "2026-04-15T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11440,7 +11440,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2026-04-14T20:00:00",
+    "startTime": "2026-04-14T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -11521,7 +11521,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2026-04-13T20:00:00",
+    "startTime": "2026-04-13T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -11598,7 +11598,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-04-20T20:00:00",
+    "startTime": "2026-04-20T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -11679,7 +11679,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2026-04-21T20:00:00",
+    "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -11756,7 +11756,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-04-21T20:00:00",
+    "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -11829,7 +11829,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-04-20T20:00:00",
+    "startTime": "2026-04-20T18:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -11906,7 +11906,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-04-22T20:00:00",
+    "startTime": "2026-04-22T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11983,7 +11983,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-04-21T20:00:00",
+    "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -12060,7 +12060,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-04-20T20:00:00",
+    "startTime": "2026-04-20T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -12125,7 +12125,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2026-05-14T20:00:00",
+    "startTime": "2026-05-14T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -12194,7 +12194,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -12263,7 +12263,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -12344,7 +12344,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -12425,7 +12425,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2026-05-11T20:00:00",
+    "startTime": "2026-05-11T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -12498,7 +12498,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2026-05-13T20:00:00",
+    "startTime": "2026-05-13T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -12567,7 +12567,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -12652,7 +12652,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-05-26T20:00:00",
+    "startTime": "2026-05-26T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -12733,7 +12733,7 @@ export default [
     "playerB": "No Stress 2.0",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "startTime": "2026-05-18T20:00:00",
+    "startTime": "2026-05-18T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -12810,7 +12810,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-05-19T20:00:00",
+    "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -12879,7 +12879,7 @@ export default [
     "playerB": "Noord Boven t IJ 25/26",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
-    "startTime": "2026-05-19T20:00:00",
+    "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -12956,7 +12956,7 @@ export default [
     "playerB": "No Pro's",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "startTime": "2026-05-18T20:00:00",
+    "startTime": "2026-05-18T18:00:00Z",
     "venueData": {
       "venueName": "Boven t IJ Amsterdam",
       "venueID": "2902906",
@@ -13041,7 +13041,7 @@ export default [
     "playerB": "Breaking Badly",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "startTime": "2026-05-27T20:00:00",
+    "startTime": "2026-05-27T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -13114,7 +13114,7 @@ export default [
     "playerB": "Rackless in Mokum",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "startTime": "2026-05-19T20:00:00",
+    "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -13179,7 +13179,7 @@ export default [
     "playerB": "NOORD GESTOORD",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -13252,7 +13252,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -13321,7 +13321,7 @@ export default [
     "playerB": "Team Volendam",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -13398,7 +13398,7 @@ export default [
     "playerB": "The Pocketeers",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -13479,7 +13479,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -13552,7 +13552,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -13629,7 +13629,7 @@ export default [
     "playerB": "Ongewenst Effect",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",

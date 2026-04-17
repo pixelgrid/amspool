@@ -4,7 +4,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2025-09-18T20:00:00",
+    "startTime": "2025-09-18T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -81,7 +81,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2025-10-01T20:00:00",
+    "startTime": "2025-10-01T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -162,7 +162,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2025-09-16T20:00:00",
+    "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -231,7 +231,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2025-09-17T20:00:00",
+    "startTime": "2025-09-17T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -308,7 +308,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2025-09-16T20:00:00",
+    "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -385,7 +385,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2025-09-15T20:00:00",
+    "startTime": "2025-09-15T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -466,7 +466,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2025-11-18T20:00:00",
+    "startTime": "2025-11-18T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -547,7 +547,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2025-10-20T20:00:00",
+    "startTime": "2025-10-20T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -628,7 +628,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2025-09-22T20:00:00",
+    "startTime": "2025-09-22T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -701,7 +701,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2025-09-24T20:00:00",
+    "startTime": "2025-09-24T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -778,7 +778,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2025-09-23T20:00:00",
+    "startTime": "2025-09-23T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -851,7 +851,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2025-09-23T20:00:00",
+    "startTime": "2025-09-23T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -932,7 +932,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2025-10-06T20:00:00",
+    "startTime": "2025-10-06T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1013,7 +1013,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2025-10-09T20:00:00",
+    "startTime": "2025-10-09T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1086,7 +1086,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2025-10-08T20:00:00",
+    "startTime": "2025-10-08T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -1167,7 +1167,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2025-10-07T20:00:00",
+    "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -1240,7 +1240,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2025-10-01T20:00:00",
+    "startTime": "2025-10-01T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -1317,7 +1317,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2025-10-07T20:00:00",
+    "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1398,7 +1398,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2025-10-14T20:00:00",
+    "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1475,7 +1475,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2025-11-17T20:00:00",
+    "startTime": "2025-11-17T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1552,7 +1552,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2025-10-13T20:00:00",
+    "startTime": "2025-10-13T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1629,7 +1629,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2025-10-13T20:00:00",
+    "startTime": "2025-10-13T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -1706,7 +1706,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2025-10-15T20:00:00",
+    "startTime": "2025-10-15T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1787,7 +1787,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2025-10-14T20:00:00",
+    "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1860,7 +1860,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2025-10-28T20:00:00",
+    "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1937,7 +1937,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2025-10-27T20:00:00",
+    "startTime": "2025-10-27T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2018,7 +2018,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2025-10-30T20:00:00",
+    "startTime": "2025-10-30T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2095,7 +2095,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2025-10-29T20:00:00",
+    "startTime": "2025-10-29T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -2176,7 +2176,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2025-10-28T20:00:00",
+    "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -2253,7 +2253,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2025-10-29T20:00:00",
+    "startTime": "2025-10-29T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -2326,7 +2326,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2025-11-04T20:00:00",
+    "startTime": "2025-11-04T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2399,7 +2399,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2025-11-03T20:00:00",
+    "startTime": "2025-11-03T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2472,7 +2472,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2025-11-03T20:00:00",
+    "startTime": "2025-11-03T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2553,7 +2553,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2025-11-03T20:00:00",
+    "startTime": "2025-11-03T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2634,7 +2634,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2025-11-03T20:00:00",
+    "startTime": "2025-11-03T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -2711,7 +2711,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2025-11-05T20:00:00",
+    "startTime": "2025-11-05T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2796,7 +2796,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2873,7 +2873,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2954,7 +2954,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2025-11-10T20:00:00",
+    "startTime": "2025-11-10T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3035,7 +3035,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2025-11-13T20:00:00",
+    "startTime": "2025-11-13T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3116,7 +3116,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2025-11-12T20:00:00",
+    "startTime": "2025-11-12T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -3193,7 +3193,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -3266,7 +3266,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2025-11-26T20:00:00",
+    "startTime": "2025-11-26T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -3335,7 +3335,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2026-01-29T20:00:00",
+    "startTime": "2026-01-29T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3412,7 +3412,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2025-11-24T20:00:00",
+    "startTime": "2025-11-24T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3489,7 +3489,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2025-11-24T20:00:00",
+    "startTime": "2025-11-24T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3570,7 +3570,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2025-11-24T20:00:00",
+    "startTime": "2025-11-24T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3655,7 +3655,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2025-11-26T20:00:00",
+    "startTime": "2025-11-26T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -3728,7 +3728,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2025-12-03T20:00:00",
+    "startTime": "2025-12-03T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3809,7 +3809,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2025-12-02T20:00:00",
+    "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3886,7 +3886,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2025-12-02T20:00:00",
+    "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3971,7 +3971,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2025-12-01T20:00:00",
+    "startTime": "2025-12-01T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4048,7 +4048,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2025-12-04T20:00:00",
+    "startTime": "2025-12-04T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4125,7 +4125,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2025-12-03T20:00:00",
+    "startTime": "2025-12-03T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -4198,7 +4198,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2025-12-15T20:00:00",
+    "startTime": "2025-12-15T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -4271,7 +4271,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2025-12-10T20:00:00",
+    "startTime": "2025-12-10T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -4344,7 +4344,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2025-12-09T20:00:00",
+    "startTime": "2025-12-09T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4421,7 +4421,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2025-12-08T20:00:00",
+    "startTime": "2025-12-08T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4502,7 +4502,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2025-12-08T20:00:00",
+    "startTime": "2025-12-08T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4579,7 +4579,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2025-12-08T20:00:00",
+    "startTime": "2025-12-08T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4664,7 +4664,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2026-01-05T20:00:00",
+    "startTime": "2026-01-05T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -4745,7 +4745,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-01-28T20:00:00",
+    "startTime": "2026-01-28T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4830,7 +4830,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-01-06T20:00:00",
+    "startTime": "2026-01-06T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4903,7 +4903,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2026-01-06T20:00:00",
+    "startTime": "2026-01-06T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4984,7 +4984,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-01-05T20:00:00",
+    "startTime": "2026-01-05T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5057,7 +5057,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-01-08T20:00:00",
+    "startTime": "2026-01-08T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5130,7 +5130,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-01-14T20:00:00",
+    "startTime": "2026-01-14T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -5207,7 +5207,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2026-02-24T20:00:00",
+    "startTime": "2026-02-24T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -5280,7 +5280,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2026-01-14T20:00:00",
+    "startTime": "2026-01-14T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -5357,7 +5357,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2026-01-13T20:00:00",
+    "startTime": "2026-01-13T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5430,7 +5430,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2026-01-12T20:00:00",
+    "startTime": "2026-01-12T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5511,7 +5511,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2026-02-25T20:00:00",
+    "startTime": "2026-02-25T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5592,7 +5592,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-01-19T20:00:00",
+    "startTime": "2026-01-19T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5677,7 +5677,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-01-19T20:00:00",
+    "startTime": "2026-01-19T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -5754,7 +5754,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2026-01-21T20:00:00",
+    "startTime": "2026-01-21T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5835,7 +5835,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-01-20T20:00:00",
+    "startTime": "2026-01-20T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5904,7 +5904,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-01-20T20:00:00",
+    "startTime": "2026-01-20T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5981,7 +5981,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2026-01-19T20:00:00",
+    "startTime": "2026-01-19T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6058,7 +6058,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-02-02T20:00:00",
+    "startTime": "2026-02-02T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6135,7 +6135,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2026-02-03T20:00:00",
+    "startTime": "2026-02-03T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6216,7 +6216,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-02-03T20:00:00",
+    "startTime": "2026-02-03T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6285,7 +6285,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-04-08T20:00:00",
+    "startTime": "2026-04-08T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6362,7 +6362,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2026-02-02T20:00:00",
+    "startTime": "2026-02-02T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -6439,7 +6439,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-02-02T20:00:00",
+    "startTime": "2026-02-02T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6520,7 +6520,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-02-24T20:00:00",
+    "startTime": "2026-02-24T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6601,7 +6601,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2026-02-10T20:00:00",
+    "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6682,7 +6682,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2026-02-11T20:00:00",
+    "startTime": "2026-02-11T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -6755,7 +6755,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2026-02-10T20:00:00",
+    "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -6832,7 +6832,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2026-02-11T20:00:00",
+    "startTime": "2026-02-11T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -6905,7 +6905,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2026-02-26T20:00:00",
+    "startTime": "2026-02-26T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6986,7 +6986,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2026-02-17T20:00:00",
+    "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7067,7 +7067,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-02-24T20:00:00",
+    "startTime": "2026-02-24T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7140,7 +7140,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2026-02-18T20:00:00",
+    "startTime": "2026-02-18T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7221,7 +7221,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-02-16T20:00:00",
+    "startTime": "2026-02-16T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -7294,7 +7294,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-02-16T20:00:00",
+    "startTime": "2026-02-16T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7371,7 +7371,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2026-02-16T20:00:00",
+    "startTime": "2026-02-16T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7452,7 +7452,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-03-03T20:00:00",
+    "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7529,7 +7529,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-03-04T20:00:00",
+    "startTime": "2026-03-04T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -7606,7 +7606,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2026-03-03T20:00:00",
+    "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -7683,7 +7683,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2026-03-04T20:00:00",
+    "startTime": "2026-03-04T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -7760,7 +7760,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2026-03-05T20:00:00",
+    "startTime": "2026-03-05T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7841,7 +7841,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2026-03-02T20:00:00",
+    "startTime": "2026-03-02T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7914,7 +7914,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2026-03-10T20:00:00",
+    "startTime": "2026-03-10T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7991,7 +7991,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2026-03-11T20:00:00",
+    "startTime": "2026-03-11T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8072,7 +8072,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-03-11T20:00:00",
+    "startTime": "2026-03-11T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -8149,7 +8149,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2026-03-09T20:00:00",
+    "startTime": "2026-03-09T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8230,7 +8230,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-04-07T20:00:00",
+    "startTime": "2026-04-07T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8307,7 +8307,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-03-09T20:00:00",
+    "startTime": "2026-03-09T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8380,7 +8380,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2026-03-18T20:00:00",
+    "startTime": "2026-03-18T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -8453,7 +8453,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-04-28T20:00:00",
+    "startTime": "2026-04-28T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -8526,7 +8526,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-03-18T20:00:00",
+    "startTime": "2026-03-18T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -8607,7 +8607,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2026-03-19T20:00:00",
+    "startTime": "2026-03-19T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8688,7 +8688,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2026-03-16T20:00:00",
+    "startTime": "2026-03-16T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8765,7 +8765,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2026-03-17T20:00:00",
+    "startTime": "2026-03-17T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8850,7 +8850,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2026-03-25T20:00:00",
+    "startTime": "2026-03-25T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8927,7 +8927,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2026-04-01T20:00:00",
+    "startTime": "2026-04-01T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -9008,7 +9008,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2026-03-23T20:00:00",
+    "startTime": "2026-03-23T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9089,7 +9089,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-03-23T20:00:00",
+    "startTime": "2026-03-23T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -9170,7 +9170,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2026-03-23T20:00:00",
+    "startTime": "2026-03-23T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9247,7 +9247,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-03-24T20:00:00",
+    "startTime": "2026-03-24T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9320,7 +9320,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -9389,7 +9389,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2026-04-01T20:00:00",
+    "startTime": "2026-04-01T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -9466,7 +9466,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-04-02T20:00:00",
+    "startTime": "2026-04-02T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9543,7 +9543,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-03-30T20:00:00",
+    "startTime": "2026-03-30T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9624,7 +9624,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9709,7 +9709,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -9782,7 +9782,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2026-04-13T20:00:00",
+    "startTime": "2026-04-13T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -9863,7 +9863,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2026-04-13T20:00:00",
+    "startTime": "2026-04-13T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9940,7 +9940,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2026-04-13T20:00:00",
+    "startTime": "2026-04-13T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10025,7 +10025,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2026-04-13T20:00:00",
+    "startTime": "2026-04-13T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10102,7 +10102,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-04-14T20:00:00",
+    "startTime": "2026-04-14T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10179,7 +10179,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2026-04-15T20:00:00",
+    "startTime": "2026-04-15T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -10252,7 +10252,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-04-22T20:00:00",
+    "startTime": "2026-04-22T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -10325,7 +10325,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-04-23T20:00:00",
+    "startTime": "2026-04-23T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10398,7 +10398,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2026-04-20T20:00:00",
+    "startTime": "2026-04-20T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10475,7 +10475,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-04-21T20:00:00",
+    "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10556,7 +10556,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-04-21T20:00:00",
+    "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10633,7 +10633,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2026-04-22T20:00:00",
+    "startTime": "2026-04-22T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10718,7 +10718,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2026-05-11T20:00:00",
+    "startTime": "2026-05-11T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10799,7 +10799,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2026-05-11T20:00:00",
+    "startTime": "2026-05-11T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10884,7 +10884,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2026-05-11T20:00:00",
+    "startTime": "2026-05-11T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10957,7 +10957,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11038,7 +11038,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2026-05-13T20:00:00",
+    "startTime": "2026-05-13T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -11111,7 +11111,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -11184,7 +11184,7 @@ export default [
     "playerB": "Restless",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
-    "startTime": "2026-05-28T20:00:00",
+    "startTime": "2026-05-28T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11261,7 +11261,7 @@ export default [
     "playerB": "Mooie Ballen",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "startTime": "2026-05-18T20:00:00",
+    "startTime": "2026-05-18T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11334,7 +11334,7 @@ export default [
     "playerB": "Purple Reign",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "startTime": "2026-05-19T20:00:00",
+    "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11411,7 +11411,7 @@ export default [
     "playerB": "Mokum Magic",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "startTime": "2026-05-19T20:00:00",
+    "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11484,7 +11484,7 @@ export default [
     "playerB": "Mokum Masters",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "startTime": "2026-05-27T20:00:00",
+    "startTime": "2026-05-27T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11565,7 +11565,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-05-18T20:00:00",
+    "startTime": "2026-05-18T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -11646,7 +11646,7 @@ export default [
     "playerB": "Rechalk Mokum",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11731,7 +11731,7 @@ export default [
     "playerB": "Lost & Found",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11808,7 +11808,7 @@ export default [
     "playerB": "Quality Strokes",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11889,7 +11889,7 @@ export default [
     "playerB": "Alkmaar Noord",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -11958,7 +11958,7 @@ export default [
     "playerB": "Mokum Mayhem",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -12035,7 +12035,7 @@ export default [
     "playerB": "Mokumse Maaiers",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",

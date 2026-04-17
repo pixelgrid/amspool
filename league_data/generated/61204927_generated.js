@@ -4,7 +4,7 @@ export default [
     "playerB": "Nog 1tje dan",
     "playerAUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
     "playerBUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
-    "startTime": "2025-11-16T13:00:00",
+    "startTime": "2025-11-16T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -73,7 +73,7 @@ export default [
     "playerB": "The N-Joyable Basterds",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "startTime": "2025-09-14T12:00:00",
+    "startTime": "2025-09-14T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -146,7 +146,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/N-Joyriders/1172479",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2025-09-14T13:00:00",
+    "startTime": "2025-09-14T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -223,7 +223,7 @@ export default [
     "playerB": "De Sjoel 99",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "playerBUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
-    "startTime": "2025-09-14T13:00:00",
+    "startTime": "2025-09-14T11:00:00Z",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
       "venueID": "1168038",
@@ -296,7 +296,7 @@ export default [
     "playerB": "De Sjoel 99",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
-    "startTime": "2025-09-28T13:00:00",
+    "startTime": "2025-09-28T11:00:00Z",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",
@@ -377,7 +377,7 @@ export default [
     "playerB": "Infinity BiedieBiedie",
     "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
     "playerBUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
-    "startTime": "2025-09-28T13:00:00",
+    "startTime": "2025-09-28T11:00:00Z",
     "venueData": {
       "venueName": "Rene's Poolcafe",
       "venueID": "36729730",
@@ -450,7 +450,7 @@ export default [
     "playerB": "N-Joyriders",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "startTime": "2025-09-28T13:00:00",
+    "startTime": "2025-09-28T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -523,7 +523,7 @@ export default [
     "playerB": "Mokumse Straatratten",
     "playerAUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "startTime": "2025-09-28T13:00:00",
+    "startTime": "2025-09-28T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -588,7 +588,7 @@ export default [
     "playerB": "Nog 1tje dan",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
     "playerBUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
-    "startTime": "2025-10-12T12:00:00",
+    "startTime": "2025-10-12T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -669,7 +669,7 @@ export default [
     "playerB": "Mannen van Noord",
     "playerAUrl": "https://cuescore.com/team/N-Joyriders/1172479",
     "playerBUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
-    "startTime": "2025-10-12T13:00:00",
+    "startTime": "2025-10-12T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -734,7 +734,7 @@ export default [
     "playerB": "The N-Joyable Basterds",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "startTime": "2025-10-12T13:00:00",
+    "startTime": "2025-10-12T11:00:00Z",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
       "venueID": "1168038",
@@ -803,7 +803,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2025-10-12T13:00:00",
+    "startTime": "2025-10-12T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum de Sjoel",
       "venueID": "60355510",
@@ -880,7 +880,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2025-10-26T13:00:00",
+    "startTime": "2025-10-26T12:00:00Z",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",
@@ -961,7 +961,7 @@ export default [
     "playerB": "De Sjoel 99",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "playerBUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
-    "startTime": "2025-10-26T13:00:00",
+    "startTime": "2025-10-26T12:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -1034,7 +1034,7 @@ export default [
     "playerB": "Infinity BiedieBiedie",
     "playerAUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
     "playerBUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
-    "startTime": "2025-10-26T13:00:00",
+    "startTime": "2025-10-26T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1095,7 +1095,7 @@ export default [
     "playerB": "N-Joyriders",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "startTime": "2025-10-26T12:00:00",
+    "startTime": "2025-10-26T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1172,7 +1172,7 @@ export default [
     "playerB": "Nog 1tje dan",
     "playerAUrl": "https://cuescore.com/team/N-Joyriders/1172479",
     "playerBUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
-    "startTime": "2025-12-07T13:00:00",
+    "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -1253,7 +1253,7 @@ export default [
     "playerB": "Mokumse Straatratten",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "startTime": "2025-12-07T13:00:00",
+    "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
       "venueID": "1168038",
@@ -1326,7 +1326,7 @@ export default [
     "playerB": "Mannen van Noord",
     "playerAUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
     "playerBUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
-    "startTime": "2025-12-07T13:00:00",
+    "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum de Sjoel",
       "venueID": "60355510",
@@ -1391,7 +1391,7 @@ export default [
     "playerB": "The N-Joyable Basterds",
     "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "startTime": "2025-12-07T13:00:00",
+    "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "Rene's Poolcafe",
       "venueID": "36729730",
@@ -1464,7 +1464,7 @@ export default [
     "playerB": "The N-Joyable Basterds",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "startTime": "2026-01-18T13:00:00",
+    "startTime": "2026-01-18T12:00:00Z",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",
@@ -1541,7 +1541,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2026-01-04T13:00:00",
+    "startTime": "2026-01-04T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1606,7 +1606,7 @@ export default [
     "playerB": "De Sjoel 99",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
     "playerBUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
-    "startTime": "2026-01-04T12:00:00",
+    "startTime": "2026-01-04T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1683,7 +1683,7 @@ export default [
     "playerB": "Infinity BiedieBiedie",
     "playerAUrl": "https://cuescore.com/team/N-Joyriders/1172479",
     "playerBUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
-    "startTime": "2026-01-04T13:00:00",
+    "startTime": "2026-01-04T12:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -1756,7 +1756,7 @@ export default [
     "playerB": "Nog 1tje dan",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "playerBUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
-    "startTime": "2026-01-25T13:00:00",
+    "startTime": "2026-01-25T12:00:00Z",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
       "venueID": "1168038",
@@ -1833,7 +1833,7 @@ export default [
     "playerB": "N-Joyriders",
     "playerAUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "startTime": "2026-01-25T13:00:00",
+    "startTime": "2026-01-25T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum de Sjoel",
       "venueID": "60355510",
@@ -1910,7 +1910,7 @@ export default [
     "playerB": "Mokumse Straatratten",
     "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "startTime": "2026-01-25T13:00:00",
+    "startTime": "2026-01-25T12:00:00Z",
     "venueData": {
       "venueName": "Rene's Poolcafe",
       "venueID": "36729730",
@@ -1987,7 +1987,7 @@ export default [
     "playerB": "Mannen van Noord",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "playerBUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
-    "startTime": "2026-01-25T13:00:00",
+    "startTime": "2026-01-25T12:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -2048,7 +2048,7 @@ export default [
     "playerB": "Mannen van Noord",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
-    "startTime": "2026-02-08T13:00:00",
+    "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",
@@ -2117,7 +2117,7 @@ export default [
     "playerB": "Mokumse Straatratten",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "startTime": "2026-02-08T13:00:00",
+    "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -2190,7 +2190,7 @@ export default [
     "playerB": "N-Joyriders",
     "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "startTime": "2026-02-08T13:00:00",
+    "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "Rene's Poolcafe",
       "venueID": "36729730",
@@ -2267,7 +2267,7 @@ export default [
     "playerB": "Infinity BiedieBiedie",
     "playerAUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
     "playerBUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
-    "startTime": "2026-02-08T13:00:00",
+    "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum de Sjoel",
       "venueID": "60355510",
@@ -2340,7 +2340,7 @@ export default [
     "playerB": "Nog 1tje dan",
     "playerAUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
     "playerBUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
-    "startTime": "2026-03-01T13:00:00",
+    "startTime": "2026-03-01T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum de Sjoel",
       "venueID": "60355510",
@@ -2421,7 +2421,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2026-04-19T13:00:00",
+    "startTime": "2026-04-19T11:00:00Z",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
       "venueID": "1168038",
@@ -2494,7 +2494,7 @@ export default [
     "playerB": "The N-Joyable Basterds",
     "playerAUrl": "https://cuescore.com/team/N-Joyriders/1172479",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "startTime": "2026-03-01T13:00:00",
+    "startTime": "2026-03-01T12:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -2567,7 +2567,7 @@ export default [
     "playerB": "Mannen van Noord",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
     "playerBUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
-    "startTime": "2026-03-01T12:00:00",
+    "startTime": "2026-03-01T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2632,7 +2632,7 @@ export default [
     "playerB": "Mokumse Straatratten",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "startTime": "2026-03-22T13:00:00",
+    "startTime": "2026-03-22T12:00:00Z",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",
@@ -2713,7 +2713,7 @@ export default [
     "playerB": "N-Joyriders",
     "playerAUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "startTime": "2026-03-08T13:00:00",
+    "startTime": "2026-03-08T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2778,7 +2778,7 @@ export default [
     "playerB": "Infinity BiedieBiedie",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "playerBUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
-    "startTime": "2026-03-08T13:00:00",
+    "startTime": "2026-03-08T12:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -2847,7 +2847,7 @@ export default [
     "playerB": "De Sjoel 99",
     "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
     "playerBUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
-    "startTime": "2026-03-08T13:00:00",
+    "startTime": "2026-03-08T12:00:00Z",
     "venueData": {
       "venueName": "Rene's Poolcafe",
       "venueID": "36729730",
@@ -2924,7 +2924,7 @@ export default [
     "playerB": "Nog 1tje dan",
     "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
     "playerBUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
-    "startTime": "2026-03-29T13:00:00",
+    "startTime": "2026-03-29T11:00:00Z",
     "venueData": {
       "venueName": "Rene's Poolcafe",
       "venueID": "36729730",
@@ -3005,7 +3005,7 @@ export default [
     "playerB": "The N-Joyable Basterds",
     "playerAUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "startTime": "2026-03-29T13:00:00",
+    "startTime": "2026-03-29T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum de Sjoel",
       "venueID": "60355510",
@@ -3078,7 +3078,7 @@ export default [
     "playerB": "Mannen van Noord",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "playerBUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
-    "startTime": "2026-03-29T13:00:00",
+    "startTime": "2026-03-29T11:00:00Z",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
       "venueID": "1168038",
@@ -3139,7 +3139,7 @@ export default [
     "playerB": "Mokumse Straatratten",
     "playerAUrl": "https://cuescore.com/team/N-Joyriders/1172479",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "startTime": "2026-03-29T13:00:00",
+    "startTime": "2026-03-29T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -3216,7 +3216,7 @@ export default [
     "playerB": "N-Joyriders",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "startTime": "2026-04-26T13:00:00",
+    "startTime": "2026-04-26T11:00:00Z",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",
@@ -3297,7 +3297,7 @@ export default [
     "playerB": "Infinity BiedieBiedie",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
     "playerBUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
-    "startTime": "2026-04-26T12:00:00",
+    "startTime": "2026-04-26T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3370,7 +3370,7 @@ export default [
     "playerB": "De Sjoel 99",
     "playerAUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
     "playerBUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
-    "startTime": "2026-04-26T13:00:00",
+    "startTime": "2026-04-26T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3435,7 +3435,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2026-04-25T13:00:00",
+    "startTime": "2026-04-25T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -3508,7 +3508,7 @@ export default [
     "playerB": "Nog 1tje dan",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "playerBUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
-    "startTime": "2026-05-03T13:00:00",
+    "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -3585,7 +3585,7 @@ export default [
     "playerB": "Mannen van Noord",
     "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
     "playerBUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
-    "startTime": "2026-05-03T13:00:00",
+    "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "Rene's Poolcafe",
       "venueID": "36729730",
@@ -3650,7 +3650,7 @@ export default [
     "playerB": "Mokumse Straatratten",
     "playerAUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "startTime": "2026-05-03T13:00:00",
+    "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum de Sjoel",
       "venueID": "60355510",
@@ -3727,7 +3727,7 @@ export default [
     "playerB": "N-Joyriders",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "startTime": "2026-05-03T13:00:00",
+    "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
       "venueID": "1168038",
@@ -3800,7 +3800,7 @@ export default [
     "playerB": "Infinity BiedieBiedie",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "playerBUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
-    "startTime": "2026-06-07T13:00:00",
+    "startTime": "2026-06-07T11:00:00Z",
     "venueData": {
       "venueName": "Cue Action Groningen",
       "venueID": "9191729",
@@ -3877,7 +3877,7 @@ export default [
     "playerB": "De Sjoel 99",
     "playerAUrl": "https://cuescore.com/team/N-Joyriders/1172479",
     "playerBUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
-    "startTime": "2026-06-07T13:00:00",
+    "startTime": "2026-06-07T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
       "venueID": "1184224",
@@ -3954,7 +3954,7 @@ export default [
     "playerB": "Time-Out",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
     "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
-    "startTime": "2026-06-07T12:00:00",
+    "startTime": "2026-06-07T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4031,7 +4031,7 @@ export default [
     "playerB": "The N-Joyable Basterds",
     "playerAUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "startTime": "2026-06-07T13:00:00",
+    "startTime": "2026-06-07T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",

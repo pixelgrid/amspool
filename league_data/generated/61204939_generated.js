@@ -4,7 +4,7 @@ export default [
     "playerB": "GO Customs 2",
     "playerAUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "playerBUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
-    "startTime": "2025-09-14T13:00:00",
+    "startTime": "2025-09-14T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -85,7 +85,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2025-09-14T12:00:00",
+    "startTime": "2025-09-14T10:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -170,7 +170,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2025-09-14T13:00:00",
+    "startTime": "2025-09-14T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -251,7 +251,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2025-09-14T13:00:00",
+    "startTime": "2025-09-14T11:00:00Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -332,7 +332,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2025-09-28T13:00:00",
+    "startTime": "2025-09-28T11:00:00Z",
     "venueData": {
       "venueName": "GO Customs",
       "venueID": "32618059",
@@ -417,7 +417,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2025-09-28T13:00:00",
+    "startTime": "2025-09-28T11:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -490,7 +490,7 @@ export default [
     "playerB": "Meet the Mokers",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
-    "startTime": "2025-09-28T13:00:00",
+    "startTime": "2025-09-28T11:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -583,7 +583,7 @@ export default [
     "playerB": "FC Bloemendaal",
     "playerAUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
-    "startTime": "2025-11-23T13:00:00",
+    "startTime": "2025-11-23T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -660,7 +660,7 @@ export default [
     "playerB": "GO Customs 2",
     "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
     "playerBUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
-    "startTime": "2025-10-12T12:00:00",
+    "startTime": "2025-10-12T10:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -741,7 +741,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2025-11-30T13:00:00",
+    "startTime": "2025-11-30T12:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -826,7 +826,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2025-10-12T13:00:00",
+    "startTime": "2025-10-12T11:00:00Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -911,7 +911,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2025-10-12T13:00:00",
+    "startTime": "2025-10-12T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -988,7 +988,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2025-10-26T13:00:00",
+    "startTime": "2025-10-26T12:00:00Z",
     "venueData": {
       "venueName": "GO Customs",
       "venueID": "32618059",
@@ -1065,7 +1065,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2025-10-26T13:00:00",
+    "startTime": "2025-10-26T12:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -1154,7 +1154,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2025-10-26T13:00:00",
+    "startTime": "2025-10-26T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1231,7 +1231,7 @@ export default [
     "playerB": "Meet the Mokers",
     "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
     "playerBUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
-    "startTime": "2025-10-26T12:00:00",
+    "startTime": "2025-10-26T11:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -1316,7 +1316,7 @@ export default [
     "playerB": "GO Customs 2",
     "playerAUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
     "playerBUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
-    "startTime": "2025-12-07T13:00:00",
+    "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1405,7 +1405,7 @@ export default [
     "playerB": "FC Bloemendaal",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
-    "startTime": "2025-12-07T13:00:00",
+    "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -1482,7 +1482,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2025-12-07T13:00:00",
+    "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1563,7 +1563,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2025-12-07T13:00:00",
+    "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -1644,7 +1644,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2026-03-22T13:00:00",
+    "startTime": "2026-03-22T12:00:00Z",
     "venueData": {
       "venueName": "GO Customs",
       "venueID": "32618059",
@@ -1733,7 +1733,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2026-01-04T13:00:00",
+    "startTime": "2026-01-04T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1806,7 +1806,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2026-01-04T12:00:00",
+    "startTime": "2026-01-04T11:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -1887,7 +1887,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2026-01-04T13:00:00",
+    "startTime": "2026-01-04T12:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1972,7 +1972,7 @@ export default [
     "playerB": "GO Customs 2",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
-    "startTime": "2026-01-25T13:00:00",
+    "startTime": "2026-01-25T12:00:00Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -2053,7 +2053,7 @@ export default [
     "playerB": "Meet the Mokers",
     "playerAUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "playerBUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
-    "startTime": "2026-01-25T13:00:00",
+    "startTime": "2026-01-25T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2142,7 +2142,7 @@ export default [
     "playerB": "FC Bloemendaal",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
-    "startTime": "2026-01-25T13:03:27",
+    "startTime": "2026-01-25T12:03:27Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -2215,7 +2215,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2026-02-15T13:00:00",
+    "startTime": "2026-02-15T12:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -2300,7 +2300,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2026-02-08T13:00:00",
+    "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "GO Customs",
       "venueID": "32618059",
@@ -2381,7 +2381,7 @@ export default [
     "playerB": "FC Bloemendaal",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
-    "startTime": "2026-02-08T13:00:00",
+    "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -2466,7 +2466,7 @@ export default [
     "playerB": "Meet the Mokers",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
-    "startTime": "2026-02-08T13:00:00",
+    "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -2547,7 +2547,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2026-02-08T13:00:00",
+    "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2628,7 +2628,7 @@ export default [
     "playerB": "GO Customs 2",
     "playerAUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "playerBUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
-    "startTime": "2026-03-01T13:00:00",
+    "startTime": "2026-03-01T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2713,7 +2713,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2026-03-01T13:04:34",
+    "startTime": "2026-03-01T12:04:34Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -2786,7 +2786,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2026-03-01T13:00:00",
+    "startTime": "2026-03-01T12:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2879,7 +2879,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2026-03-01T12:00:00",
+    "startTime": "2026-03-01T11:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -2956,7 +2956,7 @@ export default [
     "playerB": "FC Bloemendaal",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
-    "startTime": "2026-03-08T13:00:00",
+    "startTime": "2026-03-08T12:00:00Z",
     "venueData": {
       "venueName": "GO Customs",
       "venueID": "32618059",
@@ -3037,7 +3037,7 @@ export default [
     "playerB": "Meet the Mokers",
     "playerAUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "playerBUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
-    "startTime": "2026-03-08T13:00:00",
+    "startTime": "2026-03-08T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3122,7 +3122,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2026-03-08T13:00:00",
+    "startTime": "2026-03-08T12:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -3207,7 +3207,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2026-03-08T13:00:00",
+    "startTime": "2026-03-08T12:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -3284,7 +3284,7 @@ export default [
     "playerB": "GO Customs 2",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
-    "startTime": "2026-03-29T13:00:00",
+    "startTime": "2026-03-29T11:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -3361,7 +3361,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2026-03-29T13:00:00",
+    "startTime": "2026-03-29T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3450,7 +3450,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2026-03-29T12:58:00",
+    "startTime": "2026-03-29T10:58:00Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -3527,7 +3527,7 @@ export default [
     "playerB": "FC Bloemendaal",
     "playerAUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
     "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
-    "startTime": "2026-03-29T13:00:00",
+    "startTime": "2026-03-29T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3612,7 +3612,7 @@ export default [
     "playerB": "Meet the Mokers",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "playerBUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
-    "startTime": "2026-04-26T13:00:00",
+    "startTime": "2026-04-26T11:00:00Z",
     "venueData": {
       "venueName": "GO Customs",
       "venueID": "32618059",
@@ -3701,7 +3701,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2026-04-26T12:00:00",
+    "startTime": "2026-04-26T10:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -3778,7 +3778,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2026-04-26T13:00:00",
+    "startTime": "2026-04-26T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3859,7 +3859,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2026-04-26T13:00:00",
+    "startTime": "2026-04-26T11:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -3940,7 +3940,7 @@ export default [
     "playerB": "GO Customs 2",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
-    "startTime": "2026-05-03T13:00:00",
+    "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
@@ -4029,7 +4029,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2026-05-03T13:00:00",
+    "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -4102,7 +4102,7 @@ export default [
     "playerB": "FC Bloemendaal",
     "playerAUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
-    "startTime": "2026-05-03T13:00:00",
+    "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4183,7 +4183,7 @@ export default [
     "playerB": "Meet the Mokers",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
-    "startTime": "2026-05-03T13:00:00",
+    "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -4268,7 +4268,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2026-06-07T13:00:00",
+    "startTime": "2026-06-07T11:00:00Z",
     "venueData": {
       "venueName": "GO Customs",
       "venueID": "32618059",
@@ -4349,7 +4349,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2026-06-07T13:00:00",
+    "startTime": "2026-06-07T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4438,7 +4438,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2026-06-07T12:00:00",
+    "startTime": "2026-06-07T10:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -4511,7 +4511,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2026-06-07T13:00:00",
+    "startTime": "2026-06-07T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",

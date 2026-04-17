@@ -4,7 +4,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2025-09-17T20:00:00",
+    "startTime": "2025-09-17T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -77,7 +77,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2025-09-18T20:00:00",
+    "startTime": "2025-09-18T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -162,7 +162,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2025-09-16T20:00:00",
+    "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -243,7 +243,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2025-09-17T20:00:00",
+    "startTime": "2025-09-17T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -320,7 +320,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2025-09-15T20:00:00",
+    "startTime": "2025-09-15T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -393,7 +393,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2025-09-29T20:00:00",
+    "startTime": "2025-09-29T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -462,7 +462,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2025-09-16T20:00:00",
+    "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -539,7 +539,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2025-09-23T20:00:00",
+    "startTime": "2025-09-23T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -608,7 +608,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2025-09-25T20:00:00",
+    "startTime": "2025-09-25T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -685,7 +685,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2025-09-23T20:00:00",
+    "startTime": "2025-09-23T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -758,7 +758,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2025-10-22T20:00:00",
+    "startTime": "2025-10-22T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -835,7 +835,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2025-09-24T20:00:00",
+    "startTime": "2025-09-24T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -908,7 +908,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2025-11-20T20:00:00",
+    "startTime": "2025-11-20T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -993,7 +993,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2025-09-24T20:00:00",
+    "startTime": "2025-09-24T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1074,7 +1074,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2025-10-09T20:00:00",
+    "startTime": "2025-10-09T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1151,7 +1151,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2025-10-07T20:00:00",
+    "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -1232,7 +1232,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2025-10-08T20:00:00",
+    "startTime": "2025-10-08T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1309,7 +1309,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2025-10-06T20:00:00",
+    "startTime": "2025-10-06T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -1382,7 +1382,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2025-10-06T20:00:00",
+    "startTime": "2025-10-06T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -1459,7 +1459,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2025-10-07T20:00:00",
+    "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -1540,7 +1540,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2025-10-08T20:00:00",
+    "startTime": "2025-10-08T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1609,7 +1609,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2025-10-14T20:00:00",
+    "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -1678,7 +1678,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2025-10-14T20:00:00",
+    "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -1751,7 +1751,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2025-10-15T20:00:00",
+    "startTime": "2025-10-15T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -1836,7 +1836,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2025-10-15T20:00:00",
+    "startTime": "2025-10-15T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -1909,7 +1909,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2025-10-16T20:00:00",
+    "startTime": "2025-10-16T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -1986,7 +1986,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2025-10-15T20:00:00",
+    "startTime": "2025-10-15T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2059,7 +2059,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2025-10-16T20:00:00",
+    "startTime": "2025-10-16T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2144,7 +2144,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2025-10-28T20:00:00",
+    "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -2221,7 +2221,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2025-10-29T20:00:00",
+    "startTime": "2025-10-29T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2298,7 +2298,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2025-10-27T20:00:00",
+    "startTime": "2025-10-27T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -2371,7 +2371,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2025-10-27T20:00:00",
+    "startTime": "2025-10-27T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -2448,7 +2448,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2025-10-28T20:00:00",
+    "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -2529,7 +2529,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2025-10-29T20:00:00",
+    "startTime": "2025-10-29T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2606,7 +2606,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2025-10-30T20:00:00",
+    "startTime": "2025-10-30T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -2679,7 +2679,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2025-11-04T20:00:00",
+    "startTime": "2025-11-04T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -2752,7 +2752,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2025-11-05T20:00:00",
+    "startTime": "2025-11-05T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -2829,7 +2829,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2025-11-05T20:00:00",
+    "startTime": "2025-11-05T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -2902,7 +2902,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2025-11-06T20:00:00",
+    "startTime": "2025-11-06T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -2987,7 +2987,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2025-11-05T20:00:00",
+    "startTime": "2025-11-05T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3060,7 +3060,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2025-11-06T20:00:00",
+    "startTime": "2025-11-06T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3137,7 +3137,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2025-11-04T20:00:00",
+    "startTime": "2025-11-04T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -3214,7 +3214,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2025-12-30T20:00:00",
+    "startTime": "2025-12-30T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3283,7 +3283,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2025-11-10T20:00:00",
+    "startTime": "2025-11-10T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -3360,7 +3360,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2025-11-10T20:00:00",
+    "startTime": "2025-11-10T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -3437,7 +3437,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -3518,7 +3518,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2025-11-12T20:00:00",
+    "startTime": "2025-11-12T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3595,7 +3595,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2025-11-13T20:00:00",
+    "startTime": "2025-11-13T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3668,7 +3668,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2025-11-11T20:00:00",
+    "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3749,7 +3749,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2025-11-25T20:00:00",
+    "startTime": "2025-11-25T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3826,7 +3826,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2025-11-26T20:00:00",
+    "startTime": "2025-11-26T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -3903,7 +3903,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2025-11-27T20:00:00",
+    "startTime": "2025-11-27T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -3980,7 +3980,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2025-11-26T20:00:00",
+    "startTime": "2025-11-26T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4053,7 +4053,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2025-11-27T20:00:00",
+    "startTime": "2025-11-27T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4138,7 +4138,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2025-11-25T20:00:00",
+    "startTime": "2025-11-25T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -4215,7 +4215,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2025-11-26T20:00:00",
+    "startTime": "2025-11-26T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4284,7 +4284,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2025-12-01T20:00:00",
+    "startTime": "2025-12-01T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -4353,7 +4353,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2025-12-01T20:00:00",
+    "startTime": "2025-12-01T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -4422,7 +4422,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2025-12-16T20:00:00",
+    "startTime": "2025-12-16T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -4507,7 +4507,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2025-12-03T20:00:00",
+    "startTime": "2025-12-03T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4584,7 +4584,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2025-12-04T20:00:00",
+    "startTime": "2025-12-04T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4657,7 +4657,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2025-12-02T20:00:00",
+    "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -4738,7 +4738,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2025-12-03T20:00:00",
+    "startTime": "2025-12-03T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -4819,7 +4819,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-01-19T20:00:00",
+    "startTime": "2026-01-19T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -4892,7 +4892,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2025-12-11T20:00:00",
+    "startTime": "2025-12-11T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -4977,7 +4977,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2025-12-10T20:00:00",
+    "startTime": "2025-12-10T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5054,7 +5054,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2025-12-11T20:00:00",
+    "startTime": "2025-12-11T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5131,7 +5131,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2026-02-24T20:00:00",
+    "startTime": "2026-02-24T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -5208,7 +5208,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2025-12-10T20:00:00",
+    "startTime": "2025-12-10T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5285,7 +5285,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2025-12-08T20:00:00",
+    "startTime": "2025-12-08T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -5354,7 +5354,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-01-26T20:00:00",
+    "startTime": "2026-01-26T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -5423,7 +5423,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-01-06T20:00:00",
+    "startTime": "2026-01-06T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -5500,7 +5500,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-01-07T20:00:00",
+    "startTime": "2026-01-07T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5569,7 +5569,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-01-08T20:00:00",
+    "startTime": "2026-01-08T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5646,7 +5646,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-01-06T20:00:00",
+    "startTime": "2026-01-06T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -5727,7 +5727,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-01-26T20:00:00",
+    "startTime": "2026-01-26T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -5808,7 +5808,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-02-25T20:00:00",
+    "startTime": "2026-02-25T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -5889,7 +5889,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-01-13T20:00:00",
+    "startTime": "2026-01-13T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -5966,7 +5966,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-01-14T20:00:00",
+    "startTime": "2026-01-14T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6043,7 +6043,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2026-01-15T20:00:00",
+    "startTime": "2026-01-15T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6128,7 +6128,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2026-01-13T20:00:00",
+    "startTime": "2026-01-13T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -6209,7 +6209,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2026-01-14T20:00:00",
+    "startTime": "2026-01-14T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -6278,7 +6278,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2026-01-12T20:00:00",
+    "startTime": "2026-01-12T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -6347,7 +6347,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2026-01-12T20:00:00",
+    "startTime": "2026-01-12T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -6424,7 +6424,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-01-27T20:00:00",
+    "startTime": "2026-01-27T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -6501,7 +6501,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-01-21T20:00:00",
+    "startTime": "2026-01-21T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6570,7 +6570,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-01-22T20:00:00",
+    "startTime": "2026-01-22T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6639,7 +6639,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-01-20T20:00:00",
+    "startTime": "2026-01-20T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -6712,7 +6712,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-01-21T20:00:00",
+    "startTime": "2026-01-21T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -6797,7 +6797,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-01-21T20:00:00",
+    "startTime": "2026-01-21T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -6878,7 +6878,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-01-28T20:00:00",
+    "startTime": "2026-01-28T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -6959,7 +6959,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-02-24T20:00:00",
+    "startTime": "2026-02-24T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7032,7 +7032,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-02-05T20:00:00",
+    "startTime": "2026-02-05T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -7117,7 +7117,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-02-04T20:00:00",
+    "startTime": "2026-02-04T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -7198,7 +7198,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-02-24T20:00:00",
+    "startTime": "2026-02-24T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -7275,7 +7275,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-02-03T20:00:00",
+    "startTime": "2026-02-03T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7348,7 +7348,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-02-05T20:00:00",
+    "startTime": "2026-02-05T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7417,7 +7417,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2026-02-04T20:00:00",
+    "startTime": "2026-02-04T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7494,7 +7494,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-02-11T20:00:00",
+    "startTime": "2026-02-11T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7563,7 +7563,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2026-02-10T20:00:00",
+    "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -7640,7 +7640,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2026-02-09T20:00:00",
+    "startTime": "2026-02-09T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -7713,7 +7713,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2026-02-09T20:00:00",
+    "startTime": "2026-02-09T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -7790,7 +7790,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-02-11T20:00:00",
+    "startTime": "2026-02-11T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -7863,7 +7863,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-02-10T20:00:00",
+    "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -7948,7 +7948,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-02-12T20:00:00",
+    "startTime": "2026-02-12T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8029,7 +8029,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-02-17T20:00:00",
+    "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -8106,7 +8106,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-04-08T20:00:00",
+    "startTime": "2026-04-08T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8187,7 +8187,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-02-19T20:00:00",
+    "startTime": "2026-02-19T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -8264,7 +8264,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-02-18T20:00:00",
+    "startTime": "2026-02-18T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -8337,7 +8337,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-04-08T20:00:00",
+    "startTime": "2026-04-08T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -8414,7 +8414,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2026-02-17T20:00:00",
+    "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8495,7 +8495,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2026-02-19T20:00:00",
+    "startTime": "2026-02-19T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8564,7 +8564,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-03-05T20:00:00",
+    "startTime": "2026-03-05T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8633,7 +8633,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2026-03-04T20:00:00",
+    "startTime": "2026-03-04T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -8706,7 +8706,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2026-03-03T20:00:00",
+    "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -8791,7 +8791,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-03-02T20:00:00",
+    "startTime": "2026-03-02T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -8864,7 +8864,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-03-02T20:00:00",
+    "startTime": "2026-03-02T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -8941,7 +8941,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-04-29T20:00:00",
+    "startTime": "2026-04-29T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -9014,7 +9014,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-03-03T20:00:00",
+    "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -9099,7 +9099,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-03-10T20:01:00",
+    "startTime": "2026-03-10T19:01:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -9176,7 +9176,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-03-12T20:00:00",
+    "startTime": "2026-03-12T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9253,7 +9253,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-03-11T20:00:00",
+    "startTime": "2026-03-11T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9326,7 +9326,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-03-12T20:00:00",
+    "startTime": "2026-03-12T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -9403,7 +9403,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2026-03-11T20:00:00",
+    "startTime": "2026-03-11T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -9484,7 +9484,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2026-03-11T20:00:00",
+    "startTime": "2026-03-11T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -9561,7 +9561,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2026-04-07T20:00:00",
+    "startTime": "2026-04-07T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9634,7 +9634,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-03-17T20:00:00",
+    "startTime": "2026-03-17T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9707,7 +9707,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2026-03-19T20:00:00",
+    "startTime": "2026-03-19T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9784,7 +9784,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-03-18T20:00:00",
+    "startTime": "2026-03-18T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9857,7 +9857,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-03-17T20:00:00",
+    "startTime": "2026-03-17T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -9942,7 +9942,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-03-16T20:00:00",
+    "startTime": "2026-03-16T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -10015,7 +10015,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-03-16T20:00:00",
+    "startTime": "2026-03-16T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -10092,7 +10092,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-03-18T20:00:00",
+    "startTime": "2026-03-18T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10169,7 +10169,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-03-24T20:00:00",
+    "startTime": "2026-03-24T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -10238,7 +10238,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-03-24T20:00:00",
+    "startTime": "2026-03-24T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -10315,7 +10315,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-03-26T20:00:00",
+    "startTime": "2026-03-26T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10392,7 +10392,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2026-03-25T20:00:00",
+    "startTime": "2026-03-25T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10473,7 +10473,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2026-03-26T20:00:00",
+    "startTime": "2026-03-26T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -10550,7 +10550,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2026-03-25T20:00:00",
+    "startTime": "2026-03-25T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -10623,7 +10623,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2026-03-25T20:00:00",
+    "startTime": "2026-03-25T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -10704,7 +10704,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-04-01T20:00:00",
+    "startTime": "2026-04-01T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -10781,7 +10781,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10858,7 +10858,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-04-02T20:00:00",
+    "startTime": "2026-04-02T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10935,7 +10935,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-04-01T20:00:00",
+    "startTime": "2026-04-01T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11008,7 +11008,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-03-31T20:00:00",
+    "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -11093,7 +11093,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-03-30T20:00:00",
+    "startTime": "2026-03-30T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -11170,7 +11170,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-03-30T20:00:00",
+    "startTime": "2026-03-30T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -11239,7 +11239,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-04-14T20:00:00",
+    "startTime": "2026-04-14T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11308,7 +11308,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-04-15T20:00:00",
+    "startTime": "2026-04-15T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -11377,7 +11377,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2026-04-14T20:00:00",
+    "startTime": "2026-04-14T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -11462,7 +11462,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2026-04-16T20:00:00",
+    "startTime": "2026-04-16T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11539,7 +11539,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2026-04-15T20:00:00",
+    "startTime": "2026-04-15T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -11612,7 +11612,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2026-04-16T20:00:00",
+    "startTime": "2026-04-16T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -11693,7 +11693,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2026-04-15T20:00:00",
+    "startTime": "2026-04-15T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -11774,7 +11774,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-05-06T20:00:00",
+    "startTime": "2026-05-06T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -11847,7 +11847,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-04-22T20:00:00",
+    "startTime": "2026-04-22T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -11932,7 +11932,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-04-21T20:00:00",
+    "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -12009,7 +12009,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-04-23T20:00:00",
+    "startTime": "2026-04-23T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -12086,7 +12086,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-04-22T20:00:00",
+    "startTime": "2026-04-22T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -12163,7 +12163,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-04-21T20:00:00",
+    "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -12240,7 +12240,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-04-20T20:00:00",
+    "startTime": "2026-04-20T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -12309,7 +12309,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -12378,7 +12378,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2026-05-11T20:00:00",
+    "startTime": "2026-05-11T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -12455,7 +12455,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2026-05-13T20:00:00",
+    "startTime": "2026-05-13T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -12524,7 +12524,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2026-05-12T20:00:00",
+    "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -12601,7 +12601,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2026-05-14T20:00:00",
+    "startTime": "2026-05-14T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -12682,7 +12682,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2026-05-13T20:00:00",
+    "startTime": "2026-05-13T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -12763,7 +12763,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-05-14T20:00:00",
+    "startTime": "2026-05-14T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -12844,7 +12844,7 @@ export default [
     "playerB": "Scratch That!",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "startTime": "2026-05-28T20:00:00",
+    "startTime": "2026-05-28T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -12921,7 +12921,7 @@ export default [
     "playerB": "Mokumse mikmak",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "startTime": "2026-05-27T20:00:00",
+    "startTime": "2026-05-27T18:00:00Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -12998,7 +12998,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-05-27T20:00:00",
+    "startTime": "2026-05-27T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -13083,7 +13083,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-05-19T20:00:00",
+    "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -13164,7 +13164,7 @@ export default [
     "playerB": "Beunhazen Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "startTime": "2026-05-28T20:00:00",
+    "startTime": "2026-05-28T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -13233,7 +13233,7 @@ export default [
     "playerB": "Ball in Hand",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "startTime": "2026-05-27T20:00:00",
+    "startTime": "2026-05-27T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -13302,7 +13302,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-05-19T20:00:00",
+    "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -13379,7 +13379,7 @@ export default [
     "playerB": "Hit & Hope",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -13456,7 +13456,7 @@ export default [
     "playerB": "Moko Loco",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -13525,7 +13525,7 @@ export default [
     "playerB": "Smoke ‘Em",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -13594,7 +13594,7 @@ export default [
     "playerB": "Legio Mokum",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -13667,7 +13667,7 @@ export default [
     "playerB": "Pat’s Purple Sinners",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -13752,7 +13752,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -13833,7 +13833,7 @@ export default [
     "playerB": "Wartburgia",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "startTime": "2026-05-30T12:00:00",
+    "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
