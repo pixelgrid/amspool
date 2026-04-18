@@ -432,8 +432,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -621,8 +621,8 @@ export default [
     "matchno": "9",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -1579,8 +1579,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -1648,8 +1648,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -2619,8 +2619,8 @@ export default [
     "matchno": "35",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -2799,8 +2799,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -3608,8 +3608,8 @@ export default [
     "matchno": "48",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -3950,8 +3950,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -4597,8 +4597,8 @@ export default [
     "matchno": "61",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -5101,8 +5101,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -5582,8 +5582,8 @@ export default [
     "matchno": "74",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -6248,8 +6248,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -6583,8 +6583,8 @@ export default [
     "matchno": "87",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -7361,8 +7361,8 @@ export default [
     "matchno": "97",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -7610,8 +7610,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -8508,8 +8508,8 @@ export default [
     "matchno": "112",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -8577,8 +8577,8 @@ export default [
     "matchno": "113",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -9604,8 +9604,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -9720,8 +9720,8 @@ export default [
     "matchno": "128",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -10593,8 +10593,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -10871,8 +10871,8 @@ export default [
     "matchno": "143",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -11582,8 +11582,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -12022,8 +12022,8 @@ export default [
     "matchno": "158",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -12571,8 +12571,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -13177,8 +13177,8 @@ export default [
     "matchno": "173",
     "teamA": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
@@ -13564,8 +13564,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "MKH 🍀",
-        "url": "https://cuescore.com/player/MKH+%F0%9F%8D%80/30252431"
+        "name": "Michelle Konynenberg-Harrison",
+        "url": "https://cuescore.com/player/Michelle+Konynenberg-Harrison/30252431"
       },
       {
         "url": "https://cuescore.com/player/Max+Anholt/52925515",
