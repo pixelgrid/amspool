@@ -110,6 +110,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -120,10 +124,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -566,6 +566,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -576,10 +580,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ]
   },
@@ -617,6 +617,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -627,10 +631,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -1132,6 +1132,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -1142,10 +1146,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -1296,6 +1296,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -1306,10 +1310,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ]
   },
@@ -1631,6 +1631,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -1641,10 +1645,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -1949,6 +1949,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -1959,10 +1963,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ]
   },
@@ -2180,6 +2180,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -2190,10 +2194,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ]
   },
@@ -2576,6 +2576,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -2586,10 +2590,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -2687,6 +2687,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -2697,10 +2701,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ]
   },
@@ -3194,6 +3194,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -3204,10 +3208,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ]
   },
@@ -3306,6 +3306,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -3316,10 +3320,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ],
     "teamB": [
@@ -3709,6 +3709,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -3719,10 +3723,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ]
   },
@@ -3975,6 +3975,10 @@ export default [
         "name": "Marco Carvalho"
       },
       {
+        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
+        "name": "Cemil Yilmaz"
+      },
+      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -3985,10 +3989,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
         "name": "Vidjindre Ramcharan"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+van+Giesen/1184767",
-        "name": "Richard van Giesen"
       }
     ],
     "teamB": [

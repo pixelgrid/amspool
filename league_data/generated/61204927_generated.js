@@ -90,6 +90,10 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
         "name": "Nick van den Berg"
       },
@@ -282,6 +286,10 @@ export default [
         "name": "Robin Hospers"
       },
       {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
+      },
+      {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       },
@@ -361,6 +369,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
       },
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
@@ -558,6 +570,10 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
         "name": "Nick van den Berg"
       },
@@ -603,6 +619,10 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
@@ -836,6 +856,10 @@ export default [
         "name": "Robin Hospers"
       },
       {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
+      },
+      {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       },
@@ -1020,6 +1044,10 @@ export default [
         "name": "Robin Hospers"
       },
       {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
+      },
+      {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       },
@@ -1110,6 +1138,10 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
@@ -1296,6 +1328,10 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
         "name": "Nick van den Berg"
       },
@@ -1357,6 +1393,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
       },
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
@@ -1623,6 +1663,10 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
         "name": "Nick van den Berg"
       },
@@ -1667,6 +1711,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
       },
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
@@ -1866,6 +1914,10 @@ export default [
         "name": "Robin Hospers"
       },
       {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
+      },
+      {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       },
@@ -1955,6 +2007,10 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
@@ -2160,6 +2216,10 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
         "name": "Nick van den Berg"
       },
@@ -2300,6 +2360,10 @@ export default [
         "name": "Robin Hospers"
       },
       {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
+      },
+      {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       },
@@ -2371,6 +2435,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
       },
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
@@ -2584,6 +2652,10 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
         "name": "Nick van den Berg"
       },
@@ -2681,6 +2753,10 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
@@ -2910,6 +2986,10 @@ export default [
         "name": "Robin Hospers"
       },
       {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
+      },
+      {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       },
@@ -3036,6 +3116,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
       },
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
@@ -3186,6 +3270,10 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
         "name": "Nick van den Berg"
       },
@@ -3314,6 +3402,10 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
         "name": "Nick van den Berg"
       },
@@ -3419,6 +3511,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
       },
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
@@ -3683,6 +3779,10 @@ export default [
         "name": "Robin Hospers"
       },
       {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
+      },
+      {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       },
@@ -3695,6 +3795,10 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
@@ -3940,6 +4044,10 @@ export default [
         "name": "Robin Hospers"
       },
       {
+        "url": "https://cuescore.com/player/Sebastian+van+den+Oever/30550465",
+        "name": "Sebastian van den Oever"
+      },
+      {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       },
@@ -3969,6 +4077,10 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
+      },
+      {
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
