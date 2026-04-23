@@ -10305,7 +10305,7 @@ export default [
     "playerB": "Lag & Loaded",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "startTime": "2026-03-24T19:00:00Z",
+    "startTime": "2026-04-28T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
