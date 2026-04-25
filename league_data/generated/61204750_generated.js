@@ -521,8 +521,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -590,8 +590,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -1565,8 +1565,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -1733,8 +1733,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -2554,8 +2554,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -2884,8 +2884,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -3543,8 +3543,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -4035,8 +4035,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -4532,8 +4532,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -5190,8 +5190,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -5525,8 +5525,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -6329,8 +6329,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -6526,8 +6526,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -7442,8 +7442,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -7519,8 +7519,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -8546,8 +8546,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -8658,8 +8658,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -9543,8 +9543,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -9809,8 +9809,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -10532,8 +10532,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -10960,8 +10960,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -11521,8 +11521,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -12111,8 +12111,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -12506,8 +12506,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -13258,8 +13258,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
@@ -13507,8 +13507,8 @@ export default [
         "name": "Casper Caldecourt"
       },
       {
-        "url": "https://cuescore.com/player/Ferreira+kaspers+Antonio++A%F0%9F%90%91%F0%9F%A6%81/5450329",
-        "name": "Ferreira kaspers Antonio  A🐑🦁"
+        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
+        "name": "Antonio.♎️ Alexander ferreira."
       },
       {
         "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
