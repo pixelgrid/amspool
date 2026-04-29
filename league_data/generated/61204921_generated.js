@@ -55,10 +55,6 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -311,10 +307,6 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -639,10 +631,6 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -895,10 +883,6 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -1207,10 +1191,6 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -1479,10 +1459,6 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -1807,10 +1783,6 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -2063,10 +2035,6 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -2391,10 +2359,6 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -2647,10 +2611,6 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -2959,10 +2919,6 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -3231,10 +3187,6 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
@@ -3551,10 +3503,6 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
       },
@@ -3815,10 +3763,6 @@ export default [
       {
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
