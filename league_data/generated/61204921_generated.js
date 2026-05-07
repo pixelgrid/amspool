@@ -37,8 +37,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -528,8 +528,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -704,8 +704,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -1035,8 +1035,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -1365,8 +1365,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -1542,8 +1542,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -2002,8 +2002,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -2075,8 +2075,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -2578,8 +2578,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -2702,8 +2702,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -3085,8 +3085,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -3347,8 +3347,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -3576,8 +3576,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
@@ -3992,8 +3992,8 @@ export default [
         "name": "Hassan Osman"
       },
       {
-        "url": "https://cuescore.com/player/Anthony+CHEUNG/1160131",
-        "name": "Anthony CHEUNG"
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung"
       },
       {
         "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
