@@ -102,6 +102,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -1040,6 +1044,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -1081,6 +1089,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -2064,6 +2076,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -2246,6 +2262,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -3041,6 +3061,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -3365,6 +3389,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -4030,6 +4058,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -4492,6 +4524,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -5001,6 +5037,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -5629,6 +5669,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -5982,6 +6026,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -6760,6 +6808,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -6985,6 +7037,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -7865,6 +7921,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -7909,7 +7969,7 @@ export default [
     "playerB": "Cue Fighters",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "startTime": "2026-02-19T19:00:00Z",
+    "startTime": "2026-05-13T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -7962,6 +8022,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -8945,6 +9009,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -9063,6 +9131,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -9918,6 +9990,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -10194,6 +10270,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -10907,6 +10987,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -11313,6 +11397,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -11888,6 +11976,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -12450,6 +12542,10 @@ export default [
         "name": "Etienne Verheem"
       },
       {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
+      },
+      {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas"
       },
@@ -12567,7 +12663,7 @@ export default [
     "playerB": "Royston Vasey Social Club",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "startTime": "2026-05-12T18:00:00Z",
+    "startTime": "2026-05-30T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -12652,7 +12748,7 @@ export default [
     "playerB": "@mokum",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "startTime": "2026-05-26T18:00:00Z",
+    "startTime": "2026-05-20T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -12859,6 +12955,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
@@ -13575,6 +13675,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem"
+      },
+      {
+        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
+        "name": "Doruk Gunes"
       },
       {
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
