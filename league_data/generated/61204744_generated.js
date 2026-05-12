@@ -47,8 +47,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -114,8 +114,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -552,8 +552,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -1056,8 +1056,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -1103,8 +1103,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -1113,8 +1113,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -1614,8 +1614,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -2088,8 +2088,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -2175,8 +2175,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -2276,8 +2276,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -2676,8 +2676,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -3073,8 +3073,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -3241,8 +3241,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -3403,8 +3403,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -3738,8 +3738,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -4070,8 +4070,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -4295,8 +4295,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -4538,8 +4538,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -4800,8 +4800,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -5051,8 +5051,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -5353,8 +5353,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -5681,8 +5681,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -5862,8 +5862,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -6040,8 +6040,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -6419,8 +6419,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -6820,8 +6820,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -6924,8 +6924,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -7051,8 +7051,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -7485,8 +7485,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -7933,8 +7933,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -7986,8 +7986,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -8036,8 +8036,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -8551,8 +8551,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -9021,8 +9021,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -9048,8 +9048,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -9145,8 +9145,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -9609,8 +9609,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -10002,8 +10002,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -10110,8 +10110,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -10284,8 +10284,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -10667,8 +10667,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -10999,8 +10999,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -11172,8 +11172,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -11411,8 +11411,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -11737,8 +11737,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -11988,8 +11988,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -12234,8 +12234,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -12554,8 +12554,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
@@ -12799,8 +12799,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -12969,8 +12969,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ]
   },
@@ -13296,8 +13296,8 @@ export default [
         "url": "https://cuescore.com/player/Anthony+Amico/21483490"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa+H/3369296",
-        "name": "Mostafa H"
+        "url": "https://cuescore.com/player/Mostafa/3369296",
+        "name": "Mostafa"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -13689,8 +13689,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T+Olga/1702384",
-        "name": "T Olga"
+        "url": "https://cuescore.com/player/T.+O./1702384",
+        "name": "T. O."
       }
     ],
     "teamB": [
