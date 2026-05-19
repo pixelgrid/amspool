@@ -29,8 +29,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -520,8 +520,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -696,8 +696,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -1027,8 +1027,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -1357,8 +1357,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -1534,8 +1534,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -1994,8 +1994,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -2067,8 +2067,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -2570,8 +2570,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -2694,8 +2694,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -3077,8 +3077,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -3339,8 +3339,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -3568,8 +3568,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
@@ -3984,8 +3984,8 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+CHAN/1161839",
-        "name": "OC CHAN"
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
