@@ -94,12 +94,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -546,12 +546,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -597,12 +597,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -1104,12 +1104,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -1264,12 +1264,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -1595,12 +1595,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -1909,12 +1909,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -2136,12 +2136,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -2528,12 +2528,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -2635,12 +2635,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -3138,12 +3138,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -3246,12 +3246,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -3645,12 +3645,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
@@ -3907,12 +3907,12 @@ export default [
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus+seintje/9302281",
-        "name": "Shamir Tremus seintje"
-      },
-      {
         "url": "https://cuescore.com/player/Allan+Frans/1161832",
         "name": "Allan Frans"
+      },
+      {
+        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
+        "name": "Shamir Tremus"
       },
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
