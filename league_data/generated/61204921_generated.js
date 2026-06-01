@@ -106,10 +106,6 @@ export default [
         "name": "Marco Carvalho"
       },
       {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
-      },
-      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -558,10 +554,6 @@ export default [
         "name": "Marco Carvalho"
       },
       {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
-      },
-      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -607,10 +599,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
         "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
       },
       {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
@@ -1116,10 +1104,6 @@ export default [
         "name": "Marco Carvalho"
       },
       {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
-      },
-      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -1274,10 +1258,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
         "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
       },
       {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
@@ -1607,10 +1587,6 @@ export default [
         "name": "Marco Carvalho"
       },
       {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
-      },
-      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -1921,10 +1897,6 @@ export default [
         "name": "Marco Carvalho"
       },
       {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
-      },
-      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -2146,10 +2118,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
         "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
       },
       {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
@@ -2540,10 +2508,6 @@ export default [
         "name": "Marco Carvalho"
       },
       {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
-      },
-      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -2645,10 +2609,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
         "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
       },
       {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
@@ -3150,10 +3110,6 @@ export default [
         "name": "Marco Carvalho"
       },
       {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
-      },
-      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -3256,10 +3212,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
         "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
       },
       {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
@@ -3657,10 +3609,6 @@ export default [
         "name": "Marco Carvalho"
       },
       {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
-      },
-      {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen"
       },
@@ -3748,7 +3696,7 @@ export default [
     "playerB": "Focus Billiards 1",
     "playerAUrl": "https://cuescore.com/team/MOKUM+1/63827755",
     "playerBUrl": "https://cuescore.com/team/Focus+Billiards+1/1172435",
-    "startTime": "2026-06-07T10:00:00Z",
+    "startTime": "2026-06-07T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -3917,10 +3865,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
         "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Cemil+Yilmaz/15538597",
-        "name": "Cemil Yilmaz"
       },
       {
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
