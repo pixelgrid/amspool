@@ -114,8 +114,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -205,8 +205,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -844,8 +844,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -1056,8 +1056,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -1103,8 +1103,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -1344,8 +1344,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -1841,8 +1841,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -2088,8 +2088,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -2276,8 +2276,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -2471,8 +2471,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -2830,8 +2830,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -3073,8 +3073,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -3403,8 +3403,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -3614,8 +3614,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -3811,8 +3811,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -4070,8 +4070,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -4538,8 +4538,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -4749,8 +4749,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -4830,8 +4830,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -5051,8 +5051,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -5681,8 +5681,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -5777,8 +5777,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -5969,8 +5969,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -6040,8 +6040,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -6766,8 +6766,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -6820,8 +6820,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -7051,8 +7051,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -7078,8 +7078,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -7781,8 +7781,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -7933,8 +7933,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -8036,8 +8036,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -8221,8 +8221,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -8766,8 +8766,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -9021,8 +9021,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -9145,8 +9145,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -9348,8 +9348,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -9763,8 +9763,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -10002,8 +10002,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -10284,8 +10284,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -10483,8 +10483,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -10744,8 +10744,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -10999,8 +10999,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -11411,8 +11411,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -11626,8 +11626,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -11703,8 +11703,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -11988,8 +11988,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -12554,8 +12554,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -12714,8 +12714,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -12846,8 +12846,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -12969,8 +12969,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ]
   },
@@ -13689,8 +13689,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/T.+Olga/1702384",
-        "name": "T. Olga"
+        "url": "https://cuescore.com/player/Tolga+B./1702384",
+        "name": "Tolga B."
       }
     ],
     "teamB": [
@@ -13699,8 +13699,8 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+%F0%9F%A6%A1+Haig/16669231",
-        "name": "Dave 🦡 Haig"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
