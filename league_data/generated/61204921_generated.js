@@ -163,16 +163,12 @@ export default [
     "matchno": "3",
     "teamA": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -469,16 +465,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -654,16 +646,12 @@ export default [
     "matchno": "10",
     "teamA": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -1118,16 +1106,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -1153,16 +1137,12 @@ export default [
     "matchno": "17",
     "teamA": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -1652,16 +1632,12 @@ export default [
     "matchno": "24",
     "teamA": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -1828,16 +1804,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -2169,16 +2141,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -2431,16 +2399,12 @@ export default [
     "matchno": "35",
     "teamA": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -2676,16 +2640,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -3076,16 +3036,12 @@ export default [
     "matchno": "44",
     "teamA": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -3163,16 +3119,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -3674,16 +3626,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
@@ -3782,16 +3730,12 @@ export default [
     "matchno": "54",
     "teamA": [
       {
-        "name": "Valen Tino",
-        "url": "https://cuescore.com/player/Valen+Tino/2433503"
+        "name": "Willie Brouwer",
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870"
       },
       {
         "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
         "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
       },
       {
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
