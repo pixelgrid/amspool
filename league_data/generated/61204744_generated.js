@@ -13579,7 +13579,7 @@ export default [
     "playerB": "No ExCues",
     "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "startTime": "2026-05-30T10:00:00Z",
+    "startTime": "2026-06-11T11:39:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
