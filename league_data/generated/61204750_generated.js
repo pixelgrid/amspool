@@ -363,8 +363,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -702,8 +702,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -1510,8 +1510,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -1695,8 +1695,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -2649,8 +2649,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -2722,8 +2722,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -3685,8 +3685,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -3873,8 +3873,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -4674,8 +4674,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -5024,8 +5024,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -5663,8 +5663,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -6179,8 +6179,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -6656,8 +6656,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -7292,8 +7292,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -7683,8 +7683,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -8431,8 +8431,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -8676,8 +8676,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -9578,8 +9578,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -9651,8 +9651,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -10674,8 +10674,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -10798,8 +10798,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -11663,8 +11663,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -11949,8 +11949,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -12652,8 +12652,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -13100,8 +13100,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
@@ -13637,8 +13637,8 @@ export default [
         "url": "https://cuescore.com/player/Marieke+de+Boer/1163611"
       },
       {
-        "url": "https://cuescore.com/player/Hasjiem+Wagid+Hosain/34202416",
-        "name": "Hasjiem Wagid Hosain"
+        "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+        "name": "Hasjiem WH"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
