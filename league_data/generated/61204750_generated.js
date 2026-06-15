@@ -444,8 +444,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -633,8 +633,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -1591,8 +1591,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -1660,8 +1660,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -2631,8 +2631,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -2811,8 +2811,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -3620,8 +3620,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -3962,8 +3962,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -4609,8 +4609,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -5113,8 +5113,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -5594,8 +5594,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -6260,8 +6260,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -6595,8 +6595,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -7373,8 +7373,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -7622,8 +7622,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -8520,8 +8520,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -8589,8 +8589,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -9616,8 +9616,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -9732,8 +9732,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -10605,8 +10605,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -10883,8 +10883,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -11594,8 +11594,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -12034,8 +12034,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -12583,8 +12583,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -13189,8 +13189,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
@@ -13576,8 +13576,8 @@ export default [
         "name": "Floris van de peppel"
       },
       {
-        "url": "https://cuescore.com/player/Gurps/46399831",
-        "name": "Gurps"
+        "url": "https://cuescore.com/player/The+Gurps/46399831",
+        "name": "The Gurps"
       },
       {
         "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",

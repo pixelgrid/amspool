@@ -284,10 +284,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ]
   },
@@ -365,10 +361,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ]
   },
@@ -838,10 +830,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ],
     "teamB": [
@@ -1022,10 +1010,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ]
   },
@@ -1361,10 +1345,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ],
     "teamB": [
@@ -1671,10 +1651,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ]
   },
@@ -1868,10 +1844,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ],
     "teamB": [
@@ -2302,10 +2274,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ],
     "teamB": [
@@ -2375,10 +2343,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ],
     "teamB": [
@@ -2912,10 +2876,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ]
   },
@@ -3040,10 +3000,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ],
     "teamB": [
@@ -3423,10 +3379,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ]
   },
@@ -3685,10 +3637,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ],
     "teamB": [
@@ -3942,10 +3890,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
-      },
-      {
-        "url": "https://cuescore.com/player/Bas+Klaasen/1162693",
-        "name": "Bas Klaasen"
       }
     ]
   },
