@@ -21,14 +21,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -479,8 +471,12 @@ export default [
     "matchno": "7",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -491,16 +487,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -509,6 +497,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -902,14 +894,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -1028,14 +1012,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -1360,8 +1336,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -1372,16 +1352,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -1390,6 +1362,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -1488,8 +1464,12 @@ export default [
     "matchno": "20",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -1500,16 +1480,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -1518,6 +1490,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -1755,14 +1731,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -2035,14 +2003,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -2215,8 +2175,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -2227,16 +2191,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -2245,6 +2201,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -2485,8 +2445,12 @@ export default [
     "matchno": "33",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -2497,16 +2461,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -2515,6 +2471,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -2602,14 +2562,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -3052,14 +3004,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -3078,8 +3022,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -3090,16 +3038,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -3108,6 +3048,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -3459,14 +3403,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -3502,8 +3438,12 @@ export default [
     "matchno": "46",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -3514,16 +3454,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -3532,6 +3464,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -3933,8 +3869,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -3945,16 +3885,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -3963,6 +3895,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -4063,14 +3999,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -4314,14 +4242,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -4515,8 +4435,12 @@ export default [
     "matchno": "59",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -4527,16 +4451,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -4545,6 +4461,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -4792,8 +4712,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -4804,16 +4728,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -4822,6 +4738,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -5074,14 +4994,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -5175,14 +5087,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -5524,8 +5428,12 @@ export default [
     "matchno": "72",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -5536,16 +5444,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -5554,6 +5454,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -5639,8 +5543,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -5651,16 +5559,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -5669,6 +5569,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -6103,14 +6007,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -6563,8 +6459,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -6575,16 +6475,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -6593,6 +6485,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -6922,14 +6818,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -7108,14 +6996,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -7384,8 +7264,12 @@ export default [
     "matchno": "96",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -7396,16 +7280,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -7414,6 +7290,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -7568,8 +7448,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -7580,16 +7464,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -7598,6 +7474,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -7775,14 +7655,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -8119,14 +7991,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -8243,8 +8107,12 @@ export default [
     "matchno": "107",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -8255,16 +8123,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -8273,6 +8133,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -8569,8 +8433,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -8581,16 +8449,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -8599,6 +8459,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -8622,14 +8486,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -9102,8 +8958,12 @@ export default [
     "matchno": "118",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -9114,16 +8974,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -9132,20 +8984,16 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -9483,14 +9331,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -9586,8 +9426,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -9598,16 +9442,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -9616,6 +9452,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -9953,8 +9793,12 @@ export default [
     "matchno": "129",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -9965,16 +9809,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -9983,6 +9819,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -10147,14 +9987,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -10340,14 +10172,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -10595,8 +10419,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -10607,16 +10435,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -10625,6 +10445,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -10812,8 +10636,12 @@ export default [
     "matchno": "140",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -10824,16 +10652,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -10842,6 +10662,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [
@@ -11154,14 +10978,6 @@ export default [
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
-      },
-      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -11199,14 +11015,6 @@ export default [
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
-      },
-      {
-        "url": "https://cuescore.com/player/Kevin+Oei/1172525",
-        "name": "Kevin Oei"
-      },
-      {
-        "url": "https://cuescore.com/player/Peter+de+Vries/1159534",
-        "name": "Peter de Vries"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -11608,8 +11416,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -11620,16 +11432,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -11638,6 +11442,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ]
   },
@@ -11659,8 +11467,12 @@ export default [
     "matchno": "151",
     "teamA": [
       {
-        "name": "Muhsin Yagli",
-        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808"
+        "name": "Idris Coskun",
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023"
+      },
+      {
+        "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
+        "name": "Muhsin Yagli"
       },
       {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
@@ -11671,16 +11483,8 @@ export default [
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Berk+Mehmetcik/20682598",
-        "name": "Berk Mehmetcik"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
-        "name": "Jan Rempe"
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Caro+Line/1160389",
@@ -11689,6 +11493,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
         "name": "Valen Tino"
+      },
+      {
+        "url": "https://cuescore.com/player/Dev+Chatterjee/16340704",
+        "name": "Dev Chatterjee"
       }
     ],
     "teamB": [

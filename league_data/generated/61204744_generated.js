@@ -501,8 +501,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -517,8 +517,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -578,8 +578,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -594,8 +594,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -1529,8 +1529,8 @@ export default [
     "matchno": "21",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -1545,8 +1545,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -1721,8 +1721,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -1737,8 +1737,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -2518,8 +2518,8 @@ export default [
     "matchno": "34",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -2534,8 +2534,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -2860,8 +2860,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -2876,8 +2876,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -3495,8 +3495,8 @@ export default [
     "matchno": "47",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -3511,8 +3511,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -3999,8 +3999,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -4015,8 +4015,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -4484,8 +4484,8 @@ export default [
     "matchno": "60",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -4500,8 +4500,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -5138,8 +5138,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -5154,8 +5154,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -5465,8 +5465,8 @@ export default [
     "matchno": "73",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -5481,8 +5481,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -6277,8 +6277,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -6293,8 +6293,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -6462,8 +6462,8 @@ export default [
     "matchno": "86",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -6478,8 +6478,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -7378,8 +7378,8 @@ export default [
     "matchno": "98",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -7394,8 +7394,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -7451,8 +7451,8 @@ export default [
     "matchno": "99",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -7467,8 +7467,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -8466,8 +8466,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -8482,8 +8482,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -8594,8 +8594,8 @@ export default [
     "matchno": "114",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -8610,8 +8610,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -9447,8 +9447,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -9463,8 +9463,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -9729,8 +9729,8 @@ export default [
     "matchno": "129",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -9745,8 +9745,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -10432,8 +10432,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -10448,8 +10448,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -10876,8 +10876,8 @@ export default [
     "matchno": "144",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -10892,8 +10892,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -11417,8 +11417,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -11433,8 +11433,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -12011,8 +12011,8 @@ export default [
     "matchno": "159",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -12027,8 +12027,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -12402,8 +12402,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -12418,8 +12418,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -13154,8 +13154,8 @@ export default [
     "matchno": "174",
     "teamA": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -13170,8 +13170,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
@@ -13387,8 +13387,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Arthur “ Panda “ Sieger",
-        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+Panda+%E2%80%9C+Sieger/1187470"
+        "name": "Arthur “ panda “ Sieger",
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470"
       },
       {
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -13403,8 +13403,8 @@ export default [
         "name": "Alan Wooter"
       },
       {
-        "url": "https://cuescore.com/player/Mark+Valk/45094462",
-        "name": "Mark Valk"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",

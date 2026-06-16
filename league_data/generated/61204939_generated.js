@@ -21,28 +21,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ],
     "teamB": [
@@ -314,8 +314,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -399,8 +399,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -600,28 +600,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ],
     "teamB": [
@@ -796,28 +796,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ]
   },
@@ -944,8 +944,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -1136,8 +1136,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -1171,28 +1171,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ],
     "teamB": [
@@ -1515,8 +1515,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -1533,28 +1533,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ]
   },
@@ -1750,28 +1750,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ],
     "teamB": [
@@ -1869,8 +1869,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -2086,8 +2086,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -2270,28 +2270,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ]
   },
@@ -2351,28 +2351,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ]
   },
@@ -2580,8 +2580,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -2661,8 +2661,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -2926,28 +2926,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ]
   },
@@ -3054,28 +3054,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ],
     "teamB": [
@@ -3266,8 +3266,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -3394,8 +3394,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -3497,28 +3497,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ]
   },
@@ -3795,28 +3795,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ],
     "teamB": [
@@ -3841,8 +3841,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -4072,28 +4072,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ]
   },
@@ -4135,8 +4135,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -4420,8 +4420,8 @@ export default [
         "name": "Nima Dabiran Zohouri"
       },
       {
-        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-        "name": "Maan Sadal"
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan"
       },
       {
         "url": "https://cuescore.com/player/Bertan+Isik/1163469",
@@ -4528,28 +4528,28 @@ export default [
         "url": "https://cuescore.com/player/Caro+Line/1160389"
       },
       {
-        "url": "https://cuescore.com/player/Roy+van+der+Plas/1160964",
-        "name": "Roy van der Plas"
-      },
-      {
-        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
-        "name": "Richard Tsang"
-      },
-      {
         "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
         "name": "Aytel Soliano"
+      },
+      {
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
         "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
         "name": "Shoaib Momand"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
-        "name": "Wout Janssen"
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun"
       },
       {
-        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
-        "name": "Steffen Klein"
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger"
+      },
+      {
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen"
       }
     ],
     "teamB": [
