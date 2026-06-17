@@ -262,24 +262,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -288,10 +284,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -706,24 +698,20 @@ export default [
     "matchno": "10",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -732,10 +720,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -1105,24 +1089,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -1131,10 +1111,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -1695,24 +1671,20 @@ export default [
     "matchno": "23",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -1721,10 +1693,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -1948,24 +1916,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -1974,10 +1938,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -2676,24 +2636,20 @@ export default [
     "matchno": "36",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -2702,10 +2658,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -2787,24 +2739,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -2813,10 +2761,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -3677,24 +3621,20 @@ export default [
     "matchno": "49",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -3703,10 +3643,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -4546,24 +4482,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -4572,10 +4504,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -4678,24 +4606,20 @@ export default [
     "matchno": "62",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -4704,10 +4628,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -5377,24 +5297,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -5403,10 +5319,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -5671,24 +5583,20 @@ export default [
     "matchno": "75",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -5697,10 +5605,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -6194,24 +6098,20 @@ export default [
     "matchno": "82",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -6220,10 +6120,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -6690,24 +6586,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -6716,10 +6608,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -7033,24 +6921,20 @@ export default [
     "matchno": "93",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -7059,10 +6943,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -7675,24 +7555,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -7701,10 +7577,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -7876,24 +7748,20 @@ export default [
     "matchno": "104",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -7902,10 +7770,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -8668,24 +8532,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -8694,10 +8554,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -8719,24 +8575,20 @@ export default [
     "matchno": "115",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -8745,10 +8597,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -9665,24 +9513,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -9691,10 +9535,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -10470,24 +10310,20 @@ export default [
     "matchno": "138",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -10496,10 +10332,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -10670,24 +10502,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -10696,10 +10524,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
@@ -11305,24 +11129,20 @@ export default [
     "matchno": "149",
     "teamA": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -11331,10 +11151,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ],
     "teamB": [
@@ -11659,24 +11475,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183"
+        "name": "Matthew van Gestel",
+        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259",
-        "name": "Matthew van Gestel"
+        "url": "https://cuescore.com/player/M.A+Alfons/1096728",
+        "name": "M.A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali"
       },
       {
-        "url": "https://cuescore.com/player/Joshua+Harkelijn/1163844",
-        "name": "Joshua Harkelijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
+        "name": "Umut Sarkas"
       },
       {
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
@@ -11685,10 +11497,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       }
     ]
   },
