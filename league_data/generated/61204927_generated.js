@@ -90,10 +90,6 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
       },
@@ -550,10 +546,6 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
       },
@@ -595,10 +587,6 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
@@ -1096,10 +1084,6 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
       },
@@ -1278,10 +1262,6 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
@@ -1601,10 +1581,6 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
@@ -1929,10 +1905,6 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
       },
@@ -2130,10 +2102,6 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
@@ -2548,10 +2516,6 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
       },
@@ -2645,10 +2609,6 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
@@ -3142,10 +3102,6 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
       },
@@ -3268,10 +3224,6 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
@@ -3645,10 +3597,6 @@ export default [
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
       },
       {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
-      },
-      {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
         "name": "Jerry Scholten"
       },
@@ -3913,10 +3861,6 @@ export default [
       {
         "name": "Richard Floris",
         "url": "https://cuescore.com/player/Richard+Floris/1164329"
-      },
-      {
-        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
-        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jerry+Scholten/1162759",
