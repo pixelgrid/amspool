@@ -36,7 +36,10 @@ function LeagueMatches() {
   }
 
   useEffect(() => {
-    const date = new Date();
+    const urlParams = new URLSearchParams(window.location.search);
+    const urlDate = urlParams.get("date");
+    const date = urlDate ? new Date(urlDate) : new Date();
+
     date.setDate(date.getDate()-2);
     const result = [];
     for(let i = 0; i < 7; i++){
