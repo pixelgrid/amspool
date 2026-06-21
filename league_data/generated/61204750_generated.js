@@ -51,8 +51,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -556,8 +556,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -1125,8 +1125,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -1626,8 +1626,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -2195,8 +2195,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -2696,8 +2696,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -3257,8 +3257,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -3766,8 +3766,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -4327,8 +4327,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -4836,8 +4836,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -5397,8 +5397,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -5906,8 +5906,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -6475,8 +6475,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -6976,8 +6976,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -7537,8 +7537,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -8046,8 +8046,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -8607,8 +8607,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -9116,8 +9116,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -9681,8 +9681,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -10186,8 +10186,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -10755,8 +10755,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -11256,8 +11256,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -11821,8 +11821,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -12326,8 +12326,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -12895,8 +12895,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -13396,8 +13396,8 @@ export default [
         "url": "https://cuescore.com/player/Matthijs+Bakker/16760332"
       },
       {
-        "url": "https://cuescore.com/player/Alice+Looringh+van+Beeck/58799629",
-        "name": "Alice Looringh van Beeck"
+        "url": "https://cuescore.com/player/Dave+Haig/16669231",
+        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
