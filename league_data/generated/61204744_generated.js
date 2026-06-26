@@ -406,12 +406,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -736,12 +736,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -1395,12 +1395,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -1875,12 +1875,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -2372,12 +2372,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -3014,12 +3014,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -3361,12 +3361,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -4153,12 +4153,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -4342,12 +4342,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -5292,12 +5292,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -5331,12 +5331,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -6328,12 +6328,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -6496,12 +6496,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -7343,12 +7343,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -7609,12 +7609,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -8324,12 +8324,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -8744,12 +8744,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -9309,12 +9309,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -9891,12 +9891,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -10294,12 +10294,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -11026,12 +11026,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -11279,12 +11279,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -12169,12 +12169,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -12264,12 +12264,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -13257,12 +13257,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
@@ -13369,12 +13369,12 @@ export default [
         "url": "https://cuescore.com/player/Tjeerd+Pasma/1163440"
       },
       {
-        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
-        "name": "Elton Kamami"
-      },
-      {
         "url": "https://cuescore.com/player/Rein+Scheidegger/4798486",
         "name": "Rein Scheidegger"
+      },
+      {
+        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
+        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Joachim+Sullivan/1163937",
