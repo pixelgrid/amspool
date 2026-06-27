@@ -309,6 +309,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -580,6 +584,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -1286,6 +1294,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -1395,6 +1407,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -2263,6 +2279,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -3124,6 +3144,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -3238,6 +3262,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -3959,6 +3987,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -4215,6 +4247,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -4794,6 +4830,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -5196,6 +5236,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -5611,6 +5655,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -6201,6 +6249,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -6408,6 +6460,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -7182,6 +7238,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -7227,6 +7287,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -8151,6 +8215,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -8960,6 +9028,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -9130,6 +9202,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -9799,6 +9875,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -10107,6 +10187,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
@@ -10622,6 +10706,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -11086,6 +11174,10 @@ export default [
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
       },
       {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
+      },
+      {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
         "name": "Jeroen van der Linde"
       },
@@ -11447,6 +11539,10 @@ export default [
       {
         "name": "Govert de With",
         "url": "https://cuescore.com/player/Govert+de+With/1162689"
+      },
+      {
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "name": "Nick van den Berg"
       },
       {
         "url": "https://cuescore.com/player/Jeroen+van+der+Linde/1161737",
