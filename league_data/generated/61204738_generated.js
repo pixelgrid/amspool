@@ -347,8 +347,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -475,20 +475,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -641,8 +641,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -1174,8 +1174,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -1332,20 +1332,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -1464,20 +1464,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -1618,8 +1618,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -2005,8 +2005,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -2159,20 +2159,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -2433,20 +2433,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -2587,8 +2587,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -2844,8 +2844,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -2994,20 +2994,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -3418,20 +3418,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -3584,8 +3584,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -3683,8 +3683,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -3841,20 +3841,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -4415,20 +4415,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -4569,8 +4569,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -4676,20 +4676,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -5392,20 +5392,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -5426,8 +5426,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -5507,20 +5507,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -5558,8 +5558,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -6223,8 +6223,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -6415,20 +6415,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -6577,8 +6577,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -7058,8 +7058,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -7208,20 +7208,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -7400,20 +7400,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -7558,8 +7558,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -7893,8 +7893,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -8043,20 +8043,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -8373,20 +8373,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -8527,8 +8527,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -8720,8 +8720,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -8882,20 +8882,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -9358,20 +9358,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -9520,8 +9520,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -9567,8 +9567,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -9717,20 +9717,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -10351,20 +10351,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -10513,8 +10513,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -10560,20 +10560,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -11302,8 +11302,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",
@@ -11332,20 +11332,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -11383,20 +11383,20 @@ export default [
         "name": "Muhsin Yagli"
       },
       {
-        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
-        "name": "Aytel Soliano"
-      },
-      {
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
+        "url": "https://cuescore.com/player/Jan+Rempe/1105513",
+        "name": "Jan Rempe"
       },
       {
-        "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "name": "Caro Line"
+        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
+        "name": "Hervis Hamid"
+      },
+      {
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun"
       },
       {
         "url": "https://cuescore.com/player/Valen+Tino/2433503",
@@ -11498,8 +11498,8 @@ export default [
         "name": "Hasyim Asyari"
       },
       {
-        "url": "https://cuescore.com/player/Mattias+B/26786110",
-        "name": "Mattias B"
+        "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+        "name": "Anton Bardakhan"
       },
       {
         "url": "https://cuescore.com/player/Nelson+Sio/1162855",

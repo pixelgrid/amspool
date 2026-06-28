@@ -217,10 +217,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -235,6 +231,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -856,10 +860,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -874,6 +874,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -1356,10 +1364,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -1374,6 +1378,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -1857,10 +1869,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -1875,6 +1883,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -2503,10 +2519,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -2521,6 +2533,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -2850,10 +2870,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -2868,6 +2884,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -3642,10 +3666,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -3660,6 +3680,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -3847,10 +3875,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -3865,6 +3889,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -4793,10 +4825,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -4811,6 +4839,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -4866,10 +4902,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -4884,6 +4916,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -5829,10 +5869,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -5847,6 +5883,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -6017,10 +6061,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -6035,6 +6075,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -6818,10 +6866,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -6836,6 +6880,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -7138,10 +7190,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -7156,6 +7204,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -7837,10 +7893,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -7855,6 +7907,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -8285,10 +8345,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -8303,6 +8359,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -8838,10 +8902,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -8856,6 +8916,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -9424,10 +9492,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -9442,6 +9506,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -9831,10 +9903,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -9849,6 +9917,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -10571,10 +10647,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -10589,6 +10661,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -10832,10 +10912,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -10850,6 +10926,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -11714,10 +11798,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -11732,6 +11812,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -11795,10 +11883,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -11813,6 +11897,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -12818,10 +12910,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -12836,6 +12924,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
@@ -12942,10 +13038,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -12960,6 +13052,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ],
     "teamB": [
@@ -13807,10 +13907,6 @@ export default [
         "name": "Maks Smit"
       },
       {
-        "url": "https://cuescore.com/player/Pieter+Theunissen/12842038",
-        "name": "Pieter Theunissen"
-      },
-      {
         "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
         "name": "Sanne Withagen"
       },
@@ -13825,6 +13921,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
+      },
+      {
+        "url": "https://cuescore.com/player/Julie+Stultiens/57848566",
+        "name": "Julie Stultiens"
+      },
+      {
+        "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+        "name": "Eve Hoongrajok"
       }
     ]
   },
