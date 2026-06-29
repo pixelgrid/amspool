@@ -81,16 +81,11 @@ export default [
     ]
   },
   {
-    "playerA": "FC Bloemendaal",
+    "playerA": "Spin Doctors",
     "playerB": "Fast and Faster",
-    "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerAUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "startTime": "2025-09-14T10:00:00Z",
-    "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2025%252F2026/61204939",
     "tournamentName": "Pool Derde Divisie Noord-West 2025/2026",
     "tournamentId": 61204939,
@@ -102,16 +97,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -580,9 +575,9 @@ export default [
   },
   {
     "playerA": "Sharp Shooters",
-    "playerB": "FC Bloemendaal",
+    "playerB": "Spin Doctors",
     "playerAUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "startTime": "2025-11-23T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -630,16 +625,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -656,16 +651,11 @@ export default [
     ]
   },
   {
-    "playerA": "FC Bloemendaal",
+    "playerA": "Spin Doctors",
     "playerB": "GO Customs 2",
-    "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerAUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "playerBUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
     "startTime": "2025-10-12T10:00:00Z",
-    "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2025%252F2026/61204939",
     "tournamentName": "Pool Derde Divisie Noord-West 2025/2026",
     "tournamentId": 61204939,
@@ -677,16 +667,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -1227,16 +1217,11 @@ export default [
     ]
   },
   {
-    "playerA": "FC Bloemendaal",
+    "playerA": "Spin Doctors",
     "playerB": "Meet the Mokers",
-    "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerAUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "playerBUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
     "startTime": "2025-10-26T11:00:00Z",
-    "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2025%252F2026/61204939",
     "tournamentName": "Pool Derde Divisie Noord-West 2025/2026",
     "tournamentId": 61204939,
@@ -1248,16 +1233,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -1402,9 +1387,9 @@ export default [
   },
   {
     "playerA": "Padoc 🥇",
-    "playerB": "FC Bloemendaal",
+    "playerB": "Spin Doctors",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "startTime": "2025-12-07T12:00:00Z",
     "venueData": {
       "venueName": "Padoc",
@@ -1452,16 +1437,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -1802,16 +1787,11 @@ export default [
     ]
   },
   {
-    "playerA": "FC Bloemendaal",
+    "playerA": "Spin Doctors",
     "playerB": "De bende van Noord",
-    "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerAUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "startTime": "2026-01-04T11:00:00Z",
-    "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2025%252F2026/61204939",
     "tournamentName": "Pool Derde Divisie Noord-West 2025/2026",
     "tournamentId": 61204939,
@@ -1823,16 +1803,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -2139,9 +2119,9 @@ export default [
   },
   {
     "playerA": "The Magicians",
-    "playerB": "FC Bloemendaal",
+    "playerB": "Spin Doctors",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "startTime": "2026-01-25T12:03:27Z",
     "venueData": {
       "venueName": "The Wizards",
@@ -2185,16 +2165,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -2378,9 +2358,9 @@ export default [
   },
   {
     "playerA": "Fast and Faster",
-    "playerB": "FC Bloemendaal",
+    "playerB": "Spin Doctors",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "startTime": "2026-02-08T12:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
@@ -2436,16 +2416,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -2875,16 +2855,11 @@ export default [
     ]
   },
   {
-    "playerA": "FC Bloemendaal",
+    "playerA": "Spin Doctors",
     "playerB": "Sharp Shooters",
-    "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerAUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "startTime": "2026-03-01T11:00:00Z",
-    "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2025%252F2026/61204939",
     "tournamentName": "Pool Derde Divisie Noord-West 2025/2026",
     "tournamentId": 61204939,
@@ -2896,16 +2871,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -2953,9 +2928,9 @@ export default [
   },
   {
     "playerA": "GO Customs 2",
-    "playerB": "FC Bloemendaal",
+    "playerB": "Spin Doctors",
     "playerAUrl": "https://cuescore.com/team/GO+Customs+2/17437813",
-    "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "startTime": "2026-03-08T12:00:00Z",
     "venueData": {
       "venueName": "GO Customs",
@@ -3007,16 +2982,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -3524,9 +3499,9 @@ export default [
   },
   {
     "playerA": "Meet the Mokers",
-    "playerB": "FC Bloemendaal",
+    "playerB": "Spin Doctors",
     "playerAUrl": "https://cuescore.com/team/Meet+the+Mokers/46893745",
-    "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "startTime": "2026-03-29T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -3582,16 +3557,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -3697,16 +3672,11 @@ export default [
     ]
   },
   {
-    "playerA": "FC Bloemendaal",
+    "playerA": "Spin Doctors",
     "playerB": "Padoc 🥇",
-    "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerAUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "startTime": "2026-04-26T10:00:00Z",
-    "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2025%252F2026/61204939",
     "tournamentName": "Pool Derde Divisie Noord-West 2025/2026",
     "tournamentId": 61204939,
@@ -3718,16 +3688,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -4099,9 +4069,9 @@ export default [
   },
   {
     "playerA": "De bende van Noord",
-    "playerB": "FC Bloemendaal",
+    "playerB": "Spin Doctors",
     "playerAUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "playerBUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "startTime": "2026-05-03T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -4153,16 +4123,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
@@ -4434,16 +4404,11 @@ export default [
     ]
   },
   {
-    "playerA": "FC Bloemendaal",
+    "playerA": "Spin Doctors",
     "playerB": "The Magicians",
-    "playerAUrl": "https://cuescore.com/team/FC+Bloemendaal/1172481",
+    "playerAUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "startTime": "2026-06-07T10:00:00Z",
-    "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2025%252F2026/61204939",
     "tournamentName": "Pool Derde Divisie Noord-West 2025/2026",
     "tournamentId": 61204939,
@@ -4455,16 +4420,16 @@ export default [
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280"
       },
       {
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens"
+      },
+      {
         "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
         "name": "Erwin van Faassen"
       },
       {
-        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
-        "name": "Niels van der Horst"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Verbeek/1161386",
-        "name": "Michael Verbeek"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",

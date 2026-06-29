@@ -25,16 +25,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -98,28 +98,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -369,10 +357,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -710,10 +694,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -1022,16 +1002,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -1052,28 +1032,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -1103,28 +1071,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -1214,16 +1170,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -1526,10 +1482,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -1709,10 +1661,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -2023,16 +1971,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -2096,28 +2044,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -2284,28 +2220,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -2361,16 +2285,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -2673,10 +2597,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -2744,10 +2664,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -3032,16 +2948,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -3105,28 +3021,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -3431,28 +3335,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -3516,16 +3408,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -3717,10 +3609,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -3909,10 +3797,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -4033,16 +3917,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -4106,28 +3990,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -4586,28 +4458,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -4663,16 +4523,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -4708,10 +4568,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -5038,16 +4894,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -5066,10 +4922,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -5115,28 +4967,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -5707,10 +5547,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -5737,28 +5573,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -5822,16 +5646,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -6031,16 +5855,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -6112,28 +5936,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -6229,10 +6041,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -6708,10 +6516,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -6900,28 +6704,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -6985,16 +6777,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -7058,16 +6850,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -7139,28 +6931,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -7350,10 +7130,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -7743,10 +7519,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -8029,28 +7801,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -8063,16 +7823,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -8136,28 +7896,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -8187,16 +7935,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -8499,10 +8247,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -8742,10 +8486,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -9056,16 +8796,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -9137,28 +8877,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -9265,28 +8993,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -9342,16 +9058,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -9654,10 +9370,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -9725,10 +9437,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -10065,16 +9773,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -10138,28 +9846,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -10412,28 +10108,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -10489,16 +10173,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -10758,10 +10442,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -10880,10 +10560,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -11066,16 +10742,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -11147,28 +10823,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -11567,28 +11231,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -11644,16 +11296,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -11749,10 +11401,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -12045,10 +11693,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -12075,16 +11719,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -12148,28 +11792,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -12714,28 +12346,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -12746,10 +12366,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -12795,16 +12411,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -13072,16 +12688,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
@@ -13153,28 +12769,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ]
   },
@@ -13202,10 +12806,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
         "name": "Hasjiem WH"
-      },
-      {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
       },
       {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
@@ -13741,10 +13341,6 @@ export default [
         "name": "Hasjiem WH"
       },
       {
-        "url": "https://cuescore.com/player/Wout+Terstappen/40643167",
-        "name": "Wout Terstappen"
-      },
-      {
         "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
         "name": "Wout Terstappen"
       },
@@ -13873,28 +13469,16 @@ export default [
         "name": "Vasil Savov"
       },
       {
-        "url": "https://cuescore.com/player/Kristina+Hannikainen/43158118",
-        "name": "Kristina Hannikainen"
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler"
       },
       {
-        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
-        "name": "Stefanos Akarepis"
-      },
-      {
-        "url": "https://cuescore.com/player/Johnny+X/15658387",
-        "name": "Johnny X"
+        "url": "https://cuescore.com/player/Lucas+Yan/44595862",
+        "name": "Lucas Yan"
       },
       {
         "url": "https://cuescore.com/player/Sam+Vrind/15765149",
         "name": "Sam Vrind"
-      },
-      {
-        "url": "https://cuescore.com/player/Konrad+Zielinski/19887529",
-        "name": "Konrad Zielinski"
-      },
-      {
-        "url": "https://cuescore.com/player/andy+jennings/19375612",
-        "name": "andy jennings"
       }
     ],
     "teamB": [
@@ -13958,16 +13542,16 @@ export default [
         "name": "Vanessa"
       },
       {
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam"
+      },
+      {
         "url": "https://cuescore.com/player/Monique+Post/3566718",
         "name": "Monique Post"
       },
       {
         "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
         "name": "Yvette van Schooneveld-Hoekstra"
-      },
-      {
-        "url": "https://cuescore.com/player/Maartje+Dingemans/8210065",
-        "name": "Maartje Dingemans"
       },
       {
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
