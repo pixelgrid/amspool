@@ -329,24 +329,20 @@ export default [
     "matchno": "5",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -797,24 +793,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -1314,24 +1306,20 @@ export default [
     "matchno": "18",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -1944,24 +1932,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -2299,24 +2283,20 @@ export default [
     "matchno": "31",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -3079,24 +3059,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -3284,24 +3260,20 @@ export default [
     "matchno": "44",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -4222,24 +4194,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -4265,24 +4233,20 @@ export default [
     "matchno": "57",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -5262,24 +5226,20 @@ export default [
     "matchno": "70",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -5422,24 +5382,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -6251,24 +6207,20 @@ export default [
     "matchno": "83",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -6565,24 +6517,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -7262,24 +7210,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -7674,24 +7618,20 @@ export default [
     "matchno": "102",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -8251,24 +8191,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -8813,24 +8749,20 @@ export default [
     "matchno": "117",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -9228,24 +9160,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -9952,24 +9880,20 @@ export default [
     "matchno": "132",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -10217,24 +10141,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -11091,24 +11011,20 @@ export default [
     "matchno": "147",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -11198,24 +11114,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -12187,24 +12099,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -12299,24 +12207,20 @@ export default [
     "matchno": "163",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -13184,24 +13088,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
@@ -13434,24 +13334,20 @@ export default [
     "matchno": "178",
     "teamA": [
       {
-        "name": "Andy Fung",
-        "url": "https://cuescore.com/player/Andy+Fung/32966269"
-      },
-      {
-        "url": "https://cuescore.com/player/Julian+Wijn/42707728",
-        "name": "Julian Wijn"
+        "name": "🐆 Dominic B 🦞",
+        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920"
       },
       {
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger"
       },
       {
-        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
-        "name": "Matt Penrice"
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung"
       },
       {
-        "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "name": "🐆 Dominic B 🦞"
+        "url": "https://cuescore.com/player/Matt+Penrice/26027917",
+        "name": "Matt Penrice"
       },
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
