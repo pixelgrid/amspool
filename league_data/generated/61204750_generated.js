@@ -378,9 +378,9 @@ export default [
   },
   {
     "playerA": "Just the tip.",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2025-09-29T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
@@ -592,16 +592,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Hit & Hope",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
     "startTime": "2025-09-25T18:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -1501,9 +1496,9 @@ export default [
   },
   {
     "playerA": "Moko Loco",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2025-10-08T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -1570,9 +1565,9 @@ export default [
   },
   {
     "playerA": "Scratch That!",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -2546,16 +2541,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Legio Mokum",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "startTime": "2025-10-30T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -2685,9 +2675,9 @@ export default [
   },
   {
     "playerA": "Pat’s Purple Sinners",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2025-11-05T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
@@ -3507,16 +3497,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Plan Babes",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "startTime": "2025-11-13T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -3816,9 +3801,9 @@ export default [
   },
   {
     "playerA": "Wartburgia",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2025-11-27T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
@@ -4472,16 +4457,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Mokumse mikmak",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "startTime": "2025-12-04T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -4943,9 +4923,9 @@ export default [
   },
   {
     "playerA": "Mokum's Running English",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2025-12-11T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -5445,16 +5425,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Natural Spawn Killers",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "startTime": "2026-01-08T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -6062,9 +6037,9 @@ export default [
   },
   {
     "playerA": "Beunhazen Boven 't IJ",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2026-01-14T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -6422,16 +6397,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Ball in Hand",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "startTime": "2026-01-22T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -7176,16 +7146,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Just the tip.",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "startTime": "2026-02-05T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -7392,9 +7357,9 @@ export default [
   },
   {
     "playerA": "Hit & Hope",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
@@ -8299,16 +8264,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Moko Loco",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "startTime": "2026-02-19T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -8368,16 +8328,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Scratch That!",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "startTime": "2026-03-05T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -9346,9 +9301,9 @@ export default [
   },
   {
     "playerA": "Legio Mokum",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2026-04-07T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -9483,16 +9438,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Pat’s Purple Sinners",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "startTime": "2026-03-19T19:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -10307,9 +10257,9 @@ export default [
   },
   {
     "playerA": "Plan Babes",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2026-03-25T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
@@ -10614,16 +10564,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Wartburgia",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "startTime": "2026-04-02T18:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -11272,9 +11217,9 @@ export default [
   },
   {
     "playerA": "Mokumse mikmak",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2026-04-15T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -11741,16 +11686,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Mokum's Running English",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "startTime": "2026-04-23T18:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -12245,9 +12185,9 @@ export default [
   },
   {
     "playerA": "Natural Spawn Killers",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
@@ -12860,16 +12800,11 @@ export default [
     ]
   },
   {
-    "playerA": "Smoke ‘Em",
+    "playerA": "Smoke ‘Em [25/26]",
     "playerB": "Beunhazen Boven 't IJ",
-    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "startTime": "2026-05-28T18:00:00Z",
-    "venueData": {
-      "venueName": "Mokum Pool & Darts",
-      "venueID": "60451687",
-      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -13222,9 +13157,9 @@ export default [
   },
   {
     "playerA": "Ball in Hand",
-    "playerB": "Smoke ‘Em",
+    "playerB": "Smoke ‘Em [25/26]",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em/46620241",
+    "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2026-05-30T10:10:26Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
