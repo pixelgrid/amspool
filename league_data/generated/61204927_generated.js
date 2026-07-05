@@ -108,6 +108,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ],
     "teamB": [
@@ -564,6 +568,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ]
   },
@@ -607,6 +615,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ],
     "teamB": [
@@ -1102,6 +1114,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ],
     "teamB": [
@@ -1282,6 +1298,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ]
   },
@@ -1601,6 +1621,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ],
     "teamB": [
@@ -1923,6 +1947,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ]
   },
@@ -2122,6 +2150,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ]
   },
@@ -2534,6 +2566,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ],
     "teamB": [
@@ -2629,6 +2665,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ]
   },
@@ -3120,6 +3160,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ]
   },
@@ -3244,6 +3288,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ],
     "teamB": [
@@ -3615,6 +3663,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ]
   },
@@ -3881,6 +3933,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
+      },
+      {
+        "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
+        "name": "Joris van Amersvoort"
       }
     ],
     "teamB": [
