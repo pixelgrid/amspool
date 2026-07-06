@@ -114,8 +114,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -1048,8 +1048,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -1095,8 +1095,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -2072,8 +2072,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -2260,8 +2260,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -3053,8 +3053,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -3375,8 +3375,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -4042,8 +4042,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -4502,8 +4502,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -5015,8 +5015,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -5637,8 +5637,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -5996,8 +5996,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -6768,8 +6768,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -6999,8 +6999,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -7873,8 +7873,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -7976,8 +7976,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -8953,8 +8953,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -9077,8 +9077,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -9926,8 +9926,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -10204,8 +10204,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -10919,8 +10919,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -11323,8 +11323,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -11900,8 +11900,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -12458,8 +12458,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
@@ -12873,8 +12873,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ]
   },
@@ -13585,8 +13585,8 @@ export default [
         "name": "Mehmet KARADAYI"
       },
       {
-        "url": "https://cuescore.com/player/Tolga+B./1702384",
-        "name": "Tolga B."
+        "url": "https://cuescore.com/player/T.+Olga/1702384",
+        "name": "T. Olga"
       }
     ],
     "teamB": [
