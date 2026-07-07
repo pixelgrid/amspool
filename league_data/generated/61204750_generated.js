@@ -325,16 +325,16 @@ export default [
     "matchno": "5",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -343,10 +343,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -784,16 +780,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -802,10 +798,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -1281,16 +1273,16 @@ export default [
     "matchno": "18",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -1299,10 +1291,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -1915,16 +1903,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -1933,10 +1921,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -2246,16 +2230,16 @@ export default [
     "matchno": "31",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -2264,10 +2248,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -3025,16 +3005,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -3043,10 +3023,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -3214,16 +3190,16 @@ export default [
     "matchno": "44",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -3232,10 +3208,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -4143,16 +4115,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -4161,10 +4133,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -4186,16 +4154,16 @@ export default [
     "matchno": "57",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -4204,10 +4172,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -5158,16 +5122,16 @@ export default [
     "matchno": "70",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -5176,10 +5140,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -5330,16 +5290,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -5348,10 +5308,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -6122,16 +6078,16 @@ export default [
     "matchno": "83",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -6140,10 +6096,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -6435,16 +6387,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -6453,10 +6405,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -7120,16 +7068,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -7138,10 +7086,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -7519,16 +7463,16 @@ export default [
     "matchno": "102",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -7537,10 +7481,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -8084,16 +8024,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -8102,10 +8042,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -8640,16 +8576,16 @@ export default [
     "matchno": "117",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -8658,10 +8594,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -9035,16 +8967,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -9053,10 +8985,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -9762,16 +9690,16 @@ export default [
     "matchno": "132",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -9780,10 +9708,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -10007,16 +9931,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -10025,10 +9949,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -10876,16 +10796,16 @@ export default [
     "matchno": "147",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -10894,10 +10814,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -10971,16 +10887,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -10989,10 +10905,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -11943,16 +11855,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -11961,10 +11873,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -12055,16 +11963,16 @@ export default [
     "matchno": "163",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -12073,10 +11981,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
@@ -12907,16 +12811,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -12925,10 +12829,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ]
   },
@@ -13173,16 +13073,16 @@ export default [
     "matchno": "178",
     "teamA": [
       {
-        "name": "Assem Issa",
-        "url": "https://cuescore.com/player/Assem+Issa/40599646"
+        "name": "Lewis Fontes",
+        "url": "https://cuescore.com/player/Lewis+Fontes/50945791"
       },
       {
         "url": "https://cuescore.com/player/Ozzy+K/30093145",
         "name": "Ozzy K"
       },
       {
-        "url": "https://cuescore.com/player/Doruk+Gunes/51224212",
-        "name": "Doruk Gunes"
+        "url": "https://cuescore.com/player/Assem+Issa/40599646",
+        "name": "Assem Issa"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -13191,10 +13091,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Younes+El/46396654",
         "name": "Younes El"
-      },
-      {
-        "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "name": "Lewis Fontes"
       }
     ],
     "teamB": [
