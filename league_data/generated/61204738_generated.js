@@ -278,12 +278,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -722,12 +726,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -1113,12 +1121,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -1703,12 +1715,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -1948,12 +1964,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -2672,12 +2692,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -2775,12 +2799,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -3665,12 +3693,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -4534,12 +4566,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -4658,12 +4694,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -5357,12 +5397,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -5643,12 +5687,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -6162,12 +6210,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -6658,12 +6710,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -6993,12 +7049,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -7635,12 +7695,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -7828,12 +7892,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -8616,12 +8684,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -8659,12 +8731,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -9605,12 +9681,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -10410,12 +10490,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -10602,12 +10686,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
@@ -11237,12 +11325,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ],
     "teamB": [
@@ -11587,12 +11679,16 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "name": "Chaka Sanichar"
       }
     ]
   },
