@@ -263,6 +263,10 @@ export default [
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
       },
       {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot"
       },
@@ -453,6 +457,10 @@ export default [
       {
         "name": "Sacha \"Sidespin\" Romero",
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
@@ -833,6 +841,10 @@ export default [
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
       },
       {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot"
       },
@@ -1191,6 +1203,10 @@ export default [
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
       },
       {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot"
       },
@@ -1405,6 +1421,10 @@ export default [
       {
         "name": "Sacha \"Sidespin\" Romero",
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
@@ -1922,6 +1942,10 @@ export default [
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
       },
       {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot"
       },
@@ -1967,6 +1991,10 @@ export default [
       {
         "name": "Sacha \"Sidespin\" Romero",
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
@@ -2578,6 +2606,10 @@ export default [
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
       },
       {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot"
       },
@@ -2708,6 +2740,10 @@ export default [
       {
         "name": "Sacha \"Sidespin\" Romero",
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
@@ -3152,6 +3188,10 @@ export default [
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
       },
       {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot"
       },
@@ -3442,6 +3482,10 @@ export default [
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
       },
       {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot"
       },
@@ -3716,6 +3760,10 @@ export default [
       {
         "name": "Sacha \"Sidespin\" Romero",
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
@@ -4170,6 +4218,10 @@ export default [
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
       },
       {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot"
       },
@@ -4287,6 +4339,10 @@ export default [
       {
         "name": "Sacha \"Sidespin\" Romero",
         "url": "https://cuescore.com/player/Sacha+%22Sidespin%22+Romero/1161638"
+      },
+      {
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
