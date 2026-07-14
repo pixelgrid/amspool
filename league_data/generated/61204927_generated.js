@@ -98,6 +98,10 @@ export default [
         "name": "Sky van den Berg"
       },
       {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi"
       },
@@ -558,6 +562,10 @@ export default [
         "name": "Sky van den Berg"
       },
       {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi"
       },
@@ -603,6 +611,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
       },
       {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
@@ -1104,6 +1116,10 @@ export default [
         "name": "Sky van den Berg"
       },
       {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi"
       },
@@ -1286,6 +1302,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
       },
       {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
@@ -1609,6 +1629,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
       },
       {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
@@ -1937,6 +1961,10 @@ export default [
         "name": "Sky van den Berg"
       },
       {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi"
       },
@@ -2138,6 +2166,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
       },
       {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
@@ -2556,6 +2588,10 @@ export default [
         "name": "Sky van den Berg"
       },
       {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi"
       },
@@ -2653,6 +2689,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
       },
       {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
@@ -3150,6 +3190,10 @@ export default [
         "name": "Sky van den Berg"
       },
       {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi"
       },
@@ -3276,6 +3320,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
       },
       {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
@@ -3653,6 +3701,10 @@ export default [
         "name": "Sky van den Berg"
       },
       {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
+      },
+      {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi"
       },
@@ -3921,6 +3973,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg"
+      },
+      {
+        "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
+        "name": "Damiën Jesich"
       },
       {
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
