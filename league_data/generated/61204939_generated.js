@@ -37,6 +37,10 @@ export default [
         "name": "Idris Coskun"
       },
       {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
         "name": "Arthur “ panda “ Sieger"
       },
@@ -619,6 +623,10 @@ export default [
         "name": "Idris Coskun"
       },
       {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
         "name": "Arthur “ panda “ Sieger"
       },
@@ -808,6 +816,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
         "name": "Idris Coskun"
+      },
+      {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
@@ -1189,6 +1201,10 @@ export default [
         "name": "Idris Coskun"
       },
       {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
         "name": "Arthur “ panda “ Sieger"
       },
@@ -1554,6 +1570,10 @@ export default [
         "name": "Idris Coskun"
       },
       {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
         "name": "Arthur “ panda “ Sieger"
       },
@@ -1769,6 +1789,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
         "name": "Idris Coskun"
+      },
+      {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
@@ -2294,6 +2318,10 @@ export default [
         "name": "Idris Coskun"
       },
       {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
         "name": "Arthur “ panda “ Sieger"
       },
@@ -2373,6 +2401,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
         "name": "Idris Coskun"
+      },
+      {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
@@ -2953,6 +2985,10 @@ export default [
         "name": "Idris Coskun"
       },
       {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
         "name": "Arthur “ panda “ Sieger"
       },
@@ -3079,6 +3115,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
         "name": "Idris Coskun"
+      },
+      {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
@@ -3532,6 +3572,10 @@ export default [
         "name": "Idris Coskun"
       },
       {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
         "name": "Arthur “ panda “ Sieger"
       },
@@ -3829,6 +3873,10 @@ export default [
         "name": "Idris Coskun"
       },
       {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
+      },
+      {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
         "name": "Arthur “ panda “ Sieger"
       },
@@ -4104,6 +4152,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
         "name": "Idris Coskun"
+      },
+      {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
@@ -4563,6 +4615,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Idris+Coskun/40403023",
         "name": "Idris Coskun"
+      },
+      {
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian"
       },
       {
         "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
