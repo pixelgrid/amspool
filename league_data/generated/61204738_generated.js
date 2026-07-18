@@ -266,8 +266,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -714,8 +714,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1109,8 +1109,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1703,8 +1703,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1952,8 +1952,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -2680,8 +2680,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -2787,8 +2787,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -3681,8 +3681,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -4554,8 +4554,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -4682,8 +4682,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -5385,8 +5385,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -5675,8 +5675,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -6198,8 +6198,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -6698,8 +6698,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -7037,8 +7037,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -7683,8 +7683,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -7880,8 +7880,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -8672,8 +8672,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -8719,8 +8719,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -9669,8 +9669,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -10478,8 +10478,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -10674,8 +10674,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -11313,8 +11313,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -11667,8 +11667,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/Mir+jam+A/1096728",
-        "name": "Mir jam A"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
