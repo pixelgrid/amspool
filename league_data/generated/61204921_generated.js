@@ -29,12 +29,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -508,12 +508,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -672,12 +672,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -1003,12 +1003,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -1317,12 +1317,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -1494,12 +1494,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -1938,12 +1938,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -2011,12 +2011,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -2498,12 +2498,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -2618,12 +2618,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -2997,12 +2997,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -3243,12 +3243,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -3472,12 +3472,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
@@ -3872,12 +3872,12 @@ export default [
         "name": "Lesley Weeterings"
       },
       {
-        "url": "https://cuescore.com/player/OC+Chan/1161839",
-        "name": "OC Chan"
-      },
-      {
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman"
+      },
+      {
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen"
       },
       {
         "url": "https://cuescore.com/player/ACE+Cheung/1160131",
