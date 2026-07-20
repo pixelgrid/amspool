@@ -55,6 +55,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -554,6 +558,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -1113,6 +1121,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -1608,6 +1620,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -2167,6 +2183,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -2662,6 +2682,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -3225,6 +3249,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -3716,6 +3744,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -4267,6 +4299,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -4770,6 +4806,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -5321,6 +5361,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -5824,6 +5868,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -6379,6 +6427,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -6878,6 +6930,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -7437,6 +7493,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -7932,6 +7992,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -8495,6 +8559,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -8986,6 +9054,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -9545,6 +9617,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -10040,6 +10116,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -10595,6 +10675,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -11094,6 +11178,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -11657,6 +11745,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -12148,6 +12240,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
@@ -12711,6 +12807,10 @@ export default [
         "name": "Bilal The Painter"
       },
       {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
+      },
+      {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
       },
@@ -13202,6 +13302,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
         "name": "Bilal The Painter"
+      },
+      {
+        "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
+        "name": "Stefanos Akarepis"
       },
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
