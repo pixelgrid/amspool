@@ -467,28 +467,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -634,28 +618,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -1431,28 +1399,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -1749,28 +1701,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -2384,28 +2320,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -2867,28 +2787,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -3336,28 +3240,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -3969,28 +3857,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -4296,28 +4168,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -5079,28 +4935,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -5264,28 +5104,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -6177,28 +6001,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -6228,28 +6036,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -7205,28 +6997,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -7325,28 +7101,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -8174,28 +7934,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -8422,28 +8166,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -9125,28 +8853,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -9540,28 +9252,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -10073,28 +9769,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -10654,28 +10334,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -11037,28 +10701,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -11760,28 +11408,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -11993,28 +11625,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
@@ -12858,28 +12474,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ],
     "teamB": [
@@ -12961,28 +12561,12 @@ export default [
         "name": "Sjoerd van Heiningen"
       },
       {
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
-      },
-      {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk"
       },
       {
-        "url": "https://cuescore.com/player/Dimitrios+Georgoutsakos/18559081",
-        "name": "Dimitrios Georgoutsakos"
-      },
-      {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
-      },
-      {
-        "url": "https://cuescore.com/player/Ilse+Molenaar/75270127",
-        "name": "Ilse Molenaar"
-      },
-      {
-        "url": "https://cuescore.com/player/Daan+Appel-Eijgenbrood/1162836",
-        "name": "Daan Appel-Eijgenbrood"
       }
     ]
   },
