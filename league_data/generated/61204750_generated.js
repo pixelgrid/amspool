@@ -55,6 +55,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -65,6 +69,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -528,6 +536,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -538,6 +550,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -1048,6 +1064,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -1058,6 +1078,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -1529,6 +1553,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -1539,6 +1567,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -2066,6 +2098,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -2076,6 +2112,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -2530,6 +2570,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -2540,6 +2584,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -3059,6 +3107,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -3069,6 +3121,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -3531,6 +3587,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -3541,6 +3601,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -4056,6 +4120,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -4066,6 +4134,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -4532,6 +4604,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -4542,6 +4618,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -5061,6 +5141,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -5071,6 +5155,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -5533,6 +5621,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -5543,6 +5635,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -6054,6 +6150,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -6064,6 +6164,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -6534,6 +6638,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -6544,6 +6652,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -7058,6 +7170,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -7068,6 +7184,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -7535,6 +7655,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -7545,6 +7669,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -8054,6 +8182,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -8064,6 +8196,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -8531,6 +8667,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -8541,6 +8681,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -9060,6 +9204,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -9070,6 +9218,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -9532,6 +9684,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -9542,6 +9698,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -10069,6 +10229,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -10079,6 +10243,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -10533,6 +10701,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -10543,6 +10715,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -11070,6 +11246,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -11080,6 +11260,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -11534,6 +11718,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -11544,6 +11732,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -12071,6 +12263,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -12081,6 +12277,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",
@@ -12535,6 +12735,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -12545,6 +12749,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ad+Lachchi/1163924",
         "name": "Ad Lachchi"
+      },
+      {
+        "url": "https://cuescore.com/player/Gabor+Szotsenyi/32956834",
+        "name": "Gabor Szotsenyi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Stumpel/58363348",

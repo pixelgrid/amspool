@@ -138,10 +138,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ]
   },
@@ -457,10 +453,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ],
     "teamB": [
@@ -763,10 +755,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ]
   },
@@ -932,10 +920,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ],
     "teamB": [
@@ -1392,10 +1376,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ]
   },
@@ -1457,10 +1437,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ]
   },
@@ -1918,10 +1894,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ],
     "teamB": [
@@ -2068,10 +2040,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ],
     "teamB": [
@@ -2431,10 +2399,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ]
   },
@@ -2689,10 +2653,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ],
     "teamB": [
@@ -2926,10 +2886,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ]
   },
@@ -3334,10 +3290,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ],
     "teamB": [
@@ -3395,10 +3347,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ],
     "teamB": [
@@ -3912,10 +3860,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
-      },
-      {
-        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
-        "name": "Jerrel Nanhekhan"
       }
     ]
   }
