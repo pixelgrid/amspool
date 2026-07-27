@@ -209,10 +209,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -351,6 +347,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -819,6 +823,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -842,10 +854,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -1336,16 +1344,20 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -1845,10 +1857,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -1966,6 +1974,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -2321,6 +2337,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -2469,10 +2493,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -2834,10 +2854,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -3101,6 +3117,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -3306,6 +3330,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -3614,10 +3646,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -3813,10 +3841,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -4244,6 +4268,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -4283,6 +4315,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -4749,10 +4789,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -4832,10 +4868,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -5284,6 +5316,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -5444,6 +5484,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -5777,10 +5825,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -5971,10 +6015,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -6273,6 +6313,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -6587,6 +6635,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -6764,10 +6820,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -7082,10 +7134,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -7284,6 +7332,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -7696,6 +7752,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -7779,10 +7843,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -8225,10 +8285,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -8273,6 +8329,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -8770,10 +8834,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -8835,6 +8895,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -9250,6 +9318,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -9346,10 +9422,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -9767,10 +9839,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -9974,6 +10042,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -10239,6 +10315,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -10481,10 +10565,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -10746,10 +10826,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -11113,6 +11189,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -11220,6 +11304,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -11626,10 +11718,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -11701,10 +11789,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -12209,6 +12293,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -12321,6 +12413,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -12714,10 +12814,6 @@ export default [
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
       },
       {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
-      },
-      {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
         "name": "Christopher Dean"
       },
@@ -12848,10 +12944,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",
@@ -13206,6 +13298,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ]
   },
@@ -13456,6 +13556,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
         "name": "Greg Richiuso"
+      },
+      {
+        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
+        "name": "Adrian Muñoz navarro"
+      },
+      {
+        "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
+        "name": "Bence Mihálka"
       }
     ],
     "teamB": [
@@ -13697,10 +13805,6 @@ export default [
       {
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488"
-      },
-      {
-        "url": "https://cuescore.com/player/Dave+Haig/16669231",
-        "name": "Dave Haig"
       },
       {
         "url": "https://cuescore.com/player/Christopher+Dean/1162826",

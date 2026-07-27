@@ -201,14 +201,6 @@ export default [
         "name": "Dennis G Tahapary"
       },
       {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
-      },
-      {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
         "name": "Jules Dijcks"
       },
@@ -392,14 +384,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
         "name": "Dennis G Tahapary"
-      },
-      {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
       },
       {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
@@ -854,14 +838,6 @@ export default [
         "name": "Dennis G Tahapary"
       },
       {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
-      },
-      {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
         "name": "Jules Dijcks"
       },
@@ -933,14 +909,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
         "name": "Dennis G Tahapary"
-      },
-      {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
       },
       {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
@@ -1412,14 +1380,6 @@ export default [
         "name": "Dennis G Tahapary"
       },
       {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
-      },
-      {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
         "name": "Jules Dijcks"
       },
@@ -1578,14 +1538,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
         "name": "Dennis G Tahapary"
-      },
-      {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
       },
       {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
@@ -1927,14 +1879,6 @@ export default [
         "name": "Dennis G Tahapary"
       },
       {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
-      },
-      {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
         "name": "Jules Dijcks"
       },
@@ -2215,14 +2159,6 @@ export default [
         "name": "Dennis G Tahapary"
       },
       {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
-      },
-      {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
         "name": "Jules Dijcks"
       },
@@ -2462,14 +2398,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
         "name": "Dennis G Tahapary"
-      },
-      {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
       },
       {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
@@ -2872,14 +2800,6 @@ export default [
         "name": "Dennis G Tahapary"
       },
       {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
-      },
-      {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
         "name": "Jules Dijcks"
       },
@@ -2943,14 +2863,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
         "name": "Dennis G Tahapary"
-      },
-      {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
       },
       {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
@@ -3482,14 +3394,6 @@ export default [
         "name": "Dennis G Tahapary"
       },
       {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
-      },
-      {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
         "name": "Jules Dijcks"
       },
@@ -3604,14 +3508,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
         "name": "Dennis G Tahapary"
-      },
-      {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
       },
       {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",
@@ -4003,14 +3899,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dennis+G+Tahapary/1160307",
         "name": "Dennis G Tahapary"
-      },
-      {
-        "url": "https://cuescore.com/player/Erwin+Okken/1137545",
-        "name": "Erwin Okken"
-      },
-      {
-        "url": "https://cuescore.com/player/Alexander+Hulshof/1164469",
-        "name": "Alexander Hulshof"
       },
       {
         "url": "https://cuescore.com/player/Jules+Dijcks/1160395",

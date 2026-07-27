@@ -175,20 +175,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -748,20 +740,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -1160,20 +1144,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -1587,20 +1563,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -2153,20 +2121,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -2410,20 +2370,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -3150,20 +3102,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -3253,20 +3197,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -4147,20 +4083,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -5020,20 +4948,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -5132,20 +5052,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -5863,20 +5775,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -6159,20 +6063,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -6676,20 +6572,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -7148,20 +7036,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -7511,20 +7391,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -8145,20 +8017,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -8338,20 +8202,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -9142,20 +8998,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -9185,20 +9033,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -10135,20 +9975,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -10956,20 +10788,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
@@ -11120,20 +10944,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ]
   },
@@ -11787,20 +11603,12 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
-        "url": "https://cuescore.com/player/Joppe+Orth/1161023",
-        "name": "Joppe Orth"
-      },
-      {
-        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "name": "Jan Smeels"
-      },
-      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
       {
-        "url": "https://cuescore.com/player/Rutger+Beugeling/1164503",
-        "name": "Rutger Beugeling"
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen"
       }
     ],
     "teamB": [
