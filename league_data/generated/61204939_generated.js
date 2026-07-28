@@ -63,20 +63,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -360,20 +352,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -721,20 +705,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -1027,20 +1003,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -1396,20 +1364,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -1694,20 +1654,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -2059,20 +2011,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -2361,20 +2305,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -2731,20 +2667,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -3028,20 +2956,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -3390,20 +3310,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -3700,20 +3612,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -4069,20 +3973,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
@@ -4367,20 +4263,12 @@ export default [
         "name": "Arno Brouwer"
       },
       {
-        "url": "https://cuescore.com/player/Hofsep+Allahverdian/1162375",
-        "name": "Hofsep Allahverdian"
-      },
-      {
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
-      },
-      {
-        "url": "https://cuescore.com/player/Anthony+Wever/9703372",
-        "name": "Anthony Wever"
       },
       {
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",

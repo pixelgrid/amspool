@@ -450,16 +450,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Moko Loco",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Moko+Loco/63272905",
     "startTime": "2025-09-16T18:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -471,8 +466,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -481,6 +484,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -589,9 +600,9 @@ export default [
   },
   {
     "playerA": "Smoke ‘Em [25/26]",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2025-09-25T18:00:00Z",
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
@@ -630,8 +641,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -640,6 +659,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -1398,16 +1425,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Legio Mokum",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
     "startTime": "2025-10-07T18:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -1419,8 +1441,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -1429,6 +1459,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -1675,9 +1713,9 @@ export default [
   },
   {
     "playerA": "Pat’s Purple Sinners",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2025-10-15T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
@@ -1729,8 +1767,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -1739,6 +1785,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -2335,16 +2389,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Plan Babes",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "startTime": "2025-10-28T19:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -2356,8 +2405,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -2366,6 +2423,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -2777,9 +2842,9 @@ export default [
   },
   {
     "playerA": "Wartburgia",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Wartburgia/1176667",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2025-11-06T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
@@ -2831,8 +2896,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -2841,6 +2914,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -3271,16 +3352,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Mokumse mikmak",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
     "startTime": "2025-11-11T19:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -3292,8 +3368,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -3302,6 +3386,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -3875,9 +3967,9 @@ export default [
   },
   {
     "playerA": "Mokum's Running English",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2025-11-27T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -3917,8 +4009,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -3927,6 +4027,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -4215,16 +4323,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Natural Spawn Killers",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "startTime": "2025-12-16T19:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -4236,8 +4339,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -4246,6 +4357,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -4965,9 +5084,9 @@ export default [
   },
   {
     "playerA": "Beunhazen Boven 't IJ",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2025-12-10T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -5011,8 +5130,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -5021,6 +5148,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -5167,16 +5302,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Ball in Hand",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "startTime": "2026-01-06T19:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -5188,8 +5318,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -5198,6 +5336,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -6047,9 +6193,9 @@ export default [
   },
   {
     "playerA": "Just the tip.",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2026-01-12T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
@@ -6093,8 +6239,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -6103,20 +6257,23 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Scratch That!",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
     "startTime": "2026-01-27T19:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -6128,8 +6285,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -6138,6 +6303,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -7059,9 +7232,9 @@ export default [
   },
   {
     "playerA": "Moko Loco",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Moko+Loco/63272905",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2026-02-04T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -7105,8 +7278,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -7115,6 +7296,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -7196,16 +7385,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Smoke ‘Em [25/26]",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Smoke+%E2%80%98Em+%5B25%252F26%5D/46620241",
     "startTime": "2026-02-10T19:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -7217,8 +7401,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -7227,6 +7419,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -8012,9 +8212,9 @@ export default [
   },
   {
     "playerA": "Legio Mokum",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Legio+Mokum/64354837",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -8058,8 +8258,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -8068,6 +8276,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -8277,16 +8493,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Pat’s Purple Sinners",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "startTime": "2026-03-03T19:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -8298,8 +8509,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -8308,6 +8527,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -8939,9 +9166,9 @@ export default [
   },
   {
     "playerA": "Plan Babes",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2026-03-11T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
@@ -8993,8 +9220,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -9003,6 +9238,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -9379,16 +9622,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Wartburgia",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Wartburgia/1176667",
     "startTime": "2026-03-17T19:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -9400,8 +9638,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -9410,6 +9656,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -9875,9 +10129,9 @@ export default [
   },
   {
     "playerA": "Mokumse mikmak",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Mokumse+mikmak/63569641",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2026-03-25T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -9925,8 +10179,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -9935,6 +10197,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -10477,16 +10747,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Mokum's Running English",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
     "startTime": "2026-03-31T18:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -10498,8 +10763,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -10508,6 +10781,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -10819,9 +11100,9 @@ export default [
   },
   {
     "playerA": "Natural Spawn Killers",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2026-04-14T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
@@ -10873,8 +11154,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -10883,6 +11172,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -11567,16 +11864,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Beunhazen Boven 't IJ",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Beunhazen+Boven+%27t+IJ/17929510",
     "startTime": "2026-04-21T18:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -11588,8 +11880,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -11598,6 +11898,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -11771,9 +12079,9 @@ export default [
   },
   {
     "playerA": "Ball in Hand",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2026-05-11T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
@@ -11813,8 +12121,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -11823,6 +12139,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
@@ -12649,16 +12973,11 @@ export default [
     ]
   },
   {
-    "playerA": "Hit & Hope",
+    "playerA": "Nice Rack",
     "playerB": "Just the tip.",
-    "playerAUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerAUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "startTime": "2026-05-19T18:00:00Z",
-    "venueData": {
-      "venueName": "Café Purple Pool",
-      "venueID": "1126046",
-      "venueUrl": "//cuescore.com/venue/Caf%C3%A9+Purple+Pool/1126046"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750",
     "tournamentName": "Pool Noord-Holland Derde klasse 2025/2026",
     "tournamentId": 61204750,
@@ -12670,8 +12989,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -12680,6 +13007,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ],
     "teamB": [
@@ -12711,9 +13046,9 @@ export default [
   },
   {
     "playerA": "Scratch That!",
-    "playerB": "Hit & Hope",
+    "playerB": "Nice Rack",
     "playerAUrl": "https://cuescore.com/team/Scratch+That%21/62000242",
-    "playerBUrl": "https://cuescore.com/team/Hit+%2526+Hope/1176648",
+    "playerBUrl": "https://cuescore.com/team/Nice+Rack/1176648",
     "startTime": "2026-05-30T10:10:14Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -12765,8 +13100,16 @@ export default [
         "url": "https://cuescore.com/player/Oscar+Boot/30138355"
       },
       {
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden"
+      },
+      {
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik"
       },
       {
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
@@ -12775,6 +13118,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
         "name": "Dave Lanfermeijer"
+      },
+      {
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop"
       }
     ]
   },
