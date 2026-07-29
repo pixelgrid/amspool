@@ -308,6 +308,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -801,6 +805,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -1447,6 +1455,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -1806,6 +1818,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -2590,6 +2606,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -2795,6 +2815,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -3741,6 +3765,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -3818,6 +3846,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -4781,6 +4813,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -4969,6 +5005,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -5774,6 +5814,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -6112,6 +6156,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -6767,6 +6815,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -7229,6 +7281,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -7786,6 +7842,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -8380,6 +8440,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -8787,6 +8851,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -9515,6 +9583,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -9784,6 +9856,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -10666,6 +10742,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -10739,6 +10819,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -11766,6 +11850,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -11890,6 +11978,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -12755,6 +12847,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },
@@ -13037,6 +13133,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ],
     "teamB": [
@@ -13752,6 +13852,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
+      },
+      {
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       }
     ]
   },

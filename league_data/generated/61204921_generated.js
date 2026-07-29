@@ -254,16 +254,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -327,16 +327,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -788,16 +788,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -936,16 +936,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -1267,16 +1267,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -1569,16 +1569,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -1758,16 +1758,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -2152,16 +2152,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -2237,16 +2237,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -2738,16 +2738,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -2846,16 +2846,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -3233,16 +3233,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -3471,16 +3471,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
@@ -3704,16 +3704,16 @@ export default [
         "name": "Bram Hofland"
       },
       {
-        "url": "https://cuescore.com/player/Davy+Verhoeve/36847669",
-        "name": "Davy Verhoeve"
-      },
-      {
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas"
       },
       {
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk"
+      },
+      {
+        "url": "https://cuescore.com/player/OC+Chan/1161839",
+        "name": "OC Chan"
       },
       {
         "url": "https://cuescore.com/player/Adam+Kiernicki/1105845",
