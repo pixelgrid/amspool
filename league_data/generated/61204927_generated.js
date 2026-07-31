@@ -35,8 +35,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -47,20 +47,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -301,8 +301,8 @@ export default [
     "matchno": "5",
     "teamA": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -313,20 +313,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -619,8 +619,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -631,20 +631,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -869,8 +869,8 @@ export default [
     "matchno": "13",
     "teamA": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -881,20 +881,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -1183,8 +1183,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -1195,20 +1195,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -1437,8 +1437,8 @@ export default [
     "matchno": "21",
     "teamA": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -1449,20 +1449,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -1747,8 +1747,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -1759,20 +1759,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -2005,8 +2005,8 @@ export default [
     "matchno": "29",
     "teamA": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -2017,20 +2017,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -2315,8 +2315,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -2327,20 +2327,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -2573,8 +2573,8 @@ export default [
     "matchno": "37",
     "teamA": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -2585,20 +2585,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -2879,8 +2879,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -2891,20 +2891,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -3141,8 +3141,8 @@ export default [
     "matchno": "45",
     "teamA": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -3153,20 +3153,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -3451,8 +3451,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -3463,20 +3463,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
@@ -3709,8 +3709,8 @@ export default [
     "matchno": "53",
     "teamA": [
       {
-        "name": "Marcel Minnis",
-        "url": "https://cuescore.com/player/Marcel+Minnis/1160099"
+        "name": "Arjan Grooten",
+        "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
@@ -3721,20 +3721,20 @@ export default [
         "name": "Ronald Haanstra"
       },
       {
-        "url": "https://cuescore.com/player/Yorrick+Bos/8083518",
-        "name": "Yorrick Bos"
-      },
-      {
-        "url": "https://cuescore.com/player/Arjan+Grooten/1163118",
-        "name": "Arjan Grooten"
-      },
-      {
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
+      },
+      {
+        "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
+        "name": "Marcel Minnis"
+      },
+      {
+        "url": "https://cuescore.com/player/Peter+Hu/66296503",
+        "name": "Peter Hu"
       },
       {
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",

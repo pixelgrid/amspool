@@ -55,10 +55,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -545,10 +541,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -1091,10 +1083,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -1589,10 +1577,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -2152,10 +2136,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -2633,10 +2613,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -3188,10 +3164,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -3677,10 +3649,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -4228,10 +4196,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -4721,10 +4685,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -5276,10 +5236,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -5765,10 +5721,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -6323,10 +6275,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -6809,10 +6757,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -7359,10 +7303,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -7853,10 +7793,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -8398,10 +8334,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -8892,10 +8824,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -9447,10 +9375,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -9936,10 +9860,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -10499,10 +10419,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -10980,10 +10896,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -11543,10 +11455,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -12024,10 +11932,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -12587,10 +12491,6 @@ export default [
         "name": "Dave Haig"
       },
       {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
-      },
-      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -13068,10 +12968,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
-      },
-      {
-        "url": "https://cuescore.com/player/Liam+Mills/53704513",
-        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
