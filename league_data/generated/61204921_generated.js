@@ -90,32 +90,20 @@ export default [
     "matchno": "2",
     "teamA": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ],
     "teamB": [
@@ -522,32 +510,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ]
   },
@@ -569,32 +545,20 @@ export default [
     "matchno": "9",
     "teamA": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ],
     "teamB": [
@@ -1060,32 +1024,20 @@ export default [
     "matchno": "16",
     "teamA": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ],
     "teamB": [
@@ -1208,32 +1160,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ]
   },
@@ -1527,32 +1467,20 @@ export default [
     "matchno": "23",
     "teamA": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ],
     "teamB": [
@@ -1829,32 +1757,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ]
   },
@@ -2044,32 +1960,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ]
   },
@@ -2420,32 +2324,20 @@ export default [
     "matchno": "36",
     "teamA": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ],
     "teamB": [
@@ -2523,32 +2415,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ]
   },
@@ -3006,32 +2886,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ]
   },
@@ -3106,32 +2974,20 @@ export default [
     "matchno": "46",
     "teamA": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ],
     "teamB": [
@@ -3493,32 +3349,20 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ]
   },
@@ -3743,32 +3587,20 @@ export default [
     "matchno": "55",
     "teamA": [
       {
-        "name": "Dylan Dasar",
-        "url": "https://cuescore.com/player/Dylan+Dasar/1163295"
+        "name": "Maarten Poirters",
+        "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/Allan+Frans/1161832",
-        "name": "Allan Frans"
+        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
+        "name": "M .A Alfons"
       },
       {
-        "url": "https://cuescore.com/player/Shamir+Tremus/44542330",
-        "name": "Shamir Tremus"
+        "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
+        "name": "Dylan Dasar"
       },
       {
-        "url": "https://cuescore.com/player/Marco+Carvalho/6167192",
-        "name": "Marco Carvalho"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen"
-      },
-      {
-        "url": "https://cuescore.com/player/Maarten+Poirters/12709828",
-        "name": "Maarten Poirters"
-      },
-      {
-        "url": "https://cuescore.com/player/Vidjindre+Ramcharan/1162214",
-        "name": "Vidjindre Ramcharan"
+        "url": "https://cuescore.com/player/Sang+Vonk/1096022",
+        "name": "Sang Vonk"
       }
     ],
     "teamB": [

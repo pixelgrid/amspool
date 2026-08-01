@@ -43,8 +43,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -61,10 +61,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -556,8 +552,8 @@ export default [
     "matchno": "8",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -574,10 +570,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -703,9 +695,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "startTime": "2025-09-23T18:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -1125,8 +1117,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -1143,10 +1135,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -1634,8 +1622,8 @@ export default [
     "matchno": "22",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -1652,10 +1640,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -1708,9 +1692,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -2203,8 +2187,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -2221,10 +2205,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -2712,8 +2692,8 @@ export default [
     "matchno": "36",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -2730,10 +2710,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -3285,8 +3261,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -3303,10 +3279,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -3702,9 +3674,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -3790,8 +3762,8 @@ export default [
     "matchno": "50",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -3808,10 +3780,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -4359,8 +4327,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -4377,10 +4345,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -4699,9 +4663,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -4868,8 +4832,8 @@ export default [
     "matchno": "64",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -4886,10 +4850,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -5429,8 +5389,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -5447,10 +5407,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -5704,9 +5660,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "startTime": "2026-01-06T19:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -5946,8 +5902,8 @@ export default [
     "matchno": "78",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -5964,10 +5920,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -6511,8 +6463,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -6529,10 +6481,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -6701,9 +6649,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "startTime": "2026-01-20T19:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -7024,8 +6972,8 @@ export default [
     "matchno": "92",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -7042,10 +6990,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -7329,9 +7273,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "startTime": "2026-02-03T19:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -7593,8 +7537,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -7611,10 +7555,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -8102,8 +8042,8 @@ export default [
     "matchno": "106",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -8120,10 +8060,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -8476,9 +8412,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -8675,8 +8611,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -8693,10 +8629,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -9180,8 +9112,8 @@ export default [
     "matchno": "120",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -9198,10 +9130,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -9627,9 +9555,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "startTime": "2026-03-10T19:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -9708,9 +9636,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
     "startTime": "2026-04-15T18:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -9749,8 +9677,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -9767,10 +9695,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -10258,8 +10182,8 @@ export default [
     "matchno": "134",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -10276,10 +10200,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -10827,8 +10747,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -10847,10 +10767,6 @@ export default [
         "name": "Harry van Schaik"
       },
       {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
-      },
-      {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
         "name": "Eelco van der Heijde"
       },
@@ -10867,9 +10783,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -11336,8 +11252,8 @@ export default [
     "matchno": "148",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -11354,10 +11270,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -11905,8 +11817,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -11923,10 +11835,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -12026,9 +11934,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -12414,8 +12322,8 @@ export default [
     "matchno": "162",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -12432,10 +12340,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -12987,8 +12891,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -13005,10 +12909,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
@@ -13177,9 +13077,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -13492,8 +13392,8 @@ export default [
     "matchno": "176",
     "teamA": [
       {
-        "name": "Anthony Amico",
-        "url": "https://cuescore.com/player/Anthony+Amico/21483490"
+        "name": "Wouter Moes",
+        "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -13510,10 +13410,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik"
-      },
-      {
-        "url": "https://cuescore.com/player/Wouter+Moes/1116789",
-        "name": "Wouter Moes"
       },
       {
         "url": "https://cuescore.com/player/Eelco+van+der+Heijde/1160864",
