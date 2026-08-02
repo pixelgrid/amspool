@@ -104,6 +104,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ],
     "teamB": [
@@ -524,6 +532,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ]
   },
@@ -559,6 +575,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ],
     "teamB": [
@@ -1038,6 +1062,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ],
     "teamB": [
@@ -1174,6 +1206,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ]
   },
@@ -1481,6 +1521,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ],
     "teamB": [
@@ -1771,6 +1819,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ]
   },
@@ -1974,6 +2030,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ]
   },
@@ -2338,6 +2402,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ],
     "teamB": [
@@ -2429,6 +2501,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ]
   },
@@ -2900,6 +2980,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ]
   },
@@ -2988,6 +3076,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ],
     "teamB": [
@@ -3363,6 +3459,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ]
   },
@@ -3601,6 +3705,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Sang+Vonk/1096022",
         "name": "Sang Vonk"
+      },
+      {
+        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
+        "name": "JM Wattimena"
+      },
+      {
+        "url": "https://cuescore.com/player/Mick+Poirters/55907797",
+        "name": "Mick Poirters"
       }
     ],
     "teamB": [
