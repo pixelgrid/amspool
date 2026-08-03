@@ -55,6 +55,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -506,18 +510,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -545,6 +537,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -579,18 +575,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -1091,6 +1075,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -1524,18 +1512,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -1589,6 +1565,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -1692,18 +1672,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -2152,6 +2120,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -2496,18 +2468,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -2633,6 +2593,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -2821,18 +2785,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -3188,6 +3140,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -3455,18 +3411,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -3677,6 +3621,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -3946,18 +3894,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -4232,6 +4168,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -4430,18 +4370,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -4721,6 +4649,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -5063,18 +4995,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -5276,6 +5196,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -5397,18 +5321,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -5765,6 +5677,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -6176,18 +6092,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -6323,6 +6227,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -6372,18 +6280,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -6809,6 +6705,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -7258,18 +7158,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -7335,18 +7223,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -7357,6 +7233,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -7855,6 +7735,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -8336,18 +8220,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -8396,6 +8268,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dave+Haig/16669231",
         "name": "Dave Haig"
+      },
+      {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
       },
       {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -8447,18 +8323,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -8894,6 +8758,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -9311,18 +9179,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -9447,6 +9303,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -9568,18 +9428,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -9938,6 +9786,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -10270,18 +10122,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -10499,6 +10339,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -10697,18 +10541,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -10982,6 +10814,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -11233,18 +11069,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -11543,6 +11367,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -11810,18 +11638,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -12026,6 +11842,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -12204,18 +12024,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },
@@ -12587,6 +12395,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -12931,18 +12743,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ],
     "teamB": [
@@ -13070,6 +12870,10 @@ export default [
         "name": "Dave Haig"
       },
       {
+        "url": "https://cuescore.com/player/Liam+Mills/53704513",
+        "name": "Liam Mills"
+      },
+      {
         "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
         "name": "Matthew Garcia Garcia"
       },
@@ -13179,18 +12983,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
-      },
-      {
-        "url": "https://cuescore.com/player/Antonio.%E2%99%8E%EF%B8%8F+Alexander+ferreira./5450329",
-        "name": "Antonio.♎️ Alexander ferreira."
-      },
-      {
-        "url": "https://cuescore.com/player/Kaj+Jansen/8039780",
-        "name": "Kaj Jansen"
-      },
-      {
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
       }
     ]
   },

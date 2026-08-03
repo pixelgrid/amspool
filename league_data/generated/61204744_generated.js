@@ -120,12 +120,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -146,10 +150,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -933,12 +933,16 @@ export default [
     "matchno": "13",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -959,10 +963,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -1271,12 +1271,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -1297,10 +1301,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -1922,12 +1922,16 @@ export default [
     "matchno": "26",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -1948,10 +1952,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -2410,12 +2410,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -2436,10 +2440,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -2927,12 +2927,16 @@ export default [
     "matchno": "39",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -2953,10 +2957,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -3553,12 +3553,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -3579,10 +3583,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -3916,12 +3916,16 @@ export default [
     "matchno": "52",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -3942,10 +3946,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -4704,12 +4704,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -4730,10 +4734,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -4909,12 +4909,16 @@ export default [
     "matchno": "65",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -4935,10 +4939,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -5851,12 +5851,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -5877,10 +5881,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -5932,12 +5932,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -5958,10 +5962,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -6895,12 +6895,16 @@ export default [
     "matchno": "91",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -6921,10 +6925,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -7045,12 +7045,16 @@ export default [
     "matchno": "93",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -7071,10 +7075,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -7918,12 +7918,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -7944,10 +7948,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -8192,12 +8192,16 @@ export default [
     "matchno": "108",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -8218,10 +8222,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -8907,12 +8907,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -8933,10 +8937,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -9343,12 +9343,16 @@ export default [
     "matchno": "123",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -9369,10 +9373,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -9908,12 +9908,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -9934,10 +9938,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -10478,12 +10478,16 @@ export default [
     "matchno": "138",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -10504,10 +10508,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -10905,12 +10905,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -10931,10 +10935,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -11629,12 +11629,16 @@ export default [
     "matchno": "153",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -11655,10 +11659,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -11894,12 +11894,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -11920,10 +11924,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   },
@@ -12776,12 +12776,16 @@ export default [
     "matchno": "168",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -12802,10 +12806,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -12857,12 +12857,16 @@ export default [
     "matchno": "169",
     "teamA": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -12883,10 +12887,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ],
     "teamB": [
@@ -13876,12 +13876,16 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Filipe Ferreira",
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903"
+        "name": "Joris Collet",
+        "url": "https://cuescore.com/player/Joris+Collet/1164007"
       },
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
+      },
+      {
+        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
+        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -13902,10 +13906,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Arpad+Telkes/16420558",
         "name": "Arpad Telkes"
-      },
-      {
-        "url": "https://cuescore.com/player/Joris+Collet/1164007",
-        "name": "Joris Collet"
       }
     ]
   }
