@@ -123,14 +123,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -139,20 +131,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -498,14 +478,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -514,20 +486,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -863,14 +823,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -879,20 +831,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -1064,14 +1004,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -1080,20 +1012,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -1591,14 +1511,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -1607,20 +1519,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -1672,14 +1572,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -1688,20 +1580,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -2208,14 +2088,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -2224,20 +2096,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -2374,14 +2234,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -2390,20 +2242,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -2817,14 +2657,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -2833,20 +2665,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -3110,14 +2930,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -3126,20 +2938,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -3379,14 +3179,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -3395,20 +3187,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -3846,14 +3626,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -3862,20 +3634,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -3927,14 +3687,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -3943,20 +3695,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -4523,14 +4263,6 @@ export default [
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358"
       },
       {
-        "url": "https://cuescore.com/player/Bas+van+Kaam/1186590",
-        "name": "Bas van Kaam"
-      },
-      {
-        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-        "name": "Idris Coskun"
-      },
-      {
         "url": "https://cuescore.com/player/Olesya+Bila/1187428",
         "name": "Olesya Bila"
       },
@@ -4539,20 +4271,8 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels"
-      },
-      {
-        "url": "https://cuescore.com/player/Tim+Anes/1186787",
-        "name": "Tim Anes"
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   }

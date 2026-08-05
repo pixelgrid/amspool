@@ -290,6 +290,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -298,16 +302,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -440,8 +444,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -641,8 +645,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -764,9 +768,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "startTime": "2025-09-23T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -783,6 +787,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -791,16 +799,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -1429,6 +1437,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -1437,16 +1449,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -1583,8 +1595,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -1664,8 +1676,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -1769,9 +1781,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "startTime": "2025-10-14T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -1788,6 +1800,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -1796,16 +1812,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -2572,6 +2588,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -2580,16 +2600,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -2623,8 +2643,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -2758,9 +2778,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "startTime": "2025-11-04T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -2777,6 +2797,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -2785,16 +2809,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -2811,8 +2835,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -3616,8 +3640,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -3723,6 +3747,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -3731,16 +3759,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -3800,6 +3828,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -3808,16 +3840,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -3962,8 +3994,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -4609,8 +4641,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -4744,9 +4776,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -4763,6 +4795,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -4771,16 +4807,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -4951,6 +4987,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -4959,16 +4999,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -5105,8 +5145,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -5602,8 +5642,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -5737,9 +5777,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "startTime": "2026-01-29T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -5756,6 +5796,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -5764,16 +5808,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -6094,6 +6138,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -6102,16 +6150,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -6256,8 +6304,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -6591,8 +6639,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -6730,9 +6778,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "startTime": "2026-02-25T08:39:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -6749,6 +6797,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -6757,16 +6809,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -7192,9 +7244,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "startTime": "2026-02-03T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -7211,6 +7263,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -7219,16 +7275,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -7373,8 +7429,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -7622,8 +7678,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -7768,6 +7824,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -7776,16 +7836,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -8343,9 +8403,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "startTime": "2026-02-17T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -8362,6 +8422,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -8370,16 +8434,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -8508,8 +8572,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -8589,8 +8653,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -8769,6 +8833,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -8777,16 +8845,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -9478,9 +9546,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "startTime": "2026-03-10T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -9497,6 +9565,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -9505,16 +9577,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -9608,8 +9680,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -9736,8 +9808,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -9766,6 +9838,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -9774,16 +9850,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -10601,8 +10677,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -10629,9 +10705,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -10648,6 +10724,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -10656,16 +10736,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -10706,9 +10786,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
     "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -10725,6 +10805,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -10733,16 +10817,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -10883,8 +10967,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -11590,8 +11674,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -11748,6 +11832,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -11756,16 +11844,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -11853,9 +11941,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "startTime": "2026-04-21T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -11872,6 +11960,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -11880,16 +11972,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -12030,8 +12122,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -12587,8 +12679,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -12737,6 +12829,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -12745,16 +12841,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
@@ -13000,9 +13096,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -13019,6 +13115,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -13027,16 +13127,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ],
     "teamB": [
@@ -13177,8 +13277,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -13576,8 +13676,8 @@ export default [
         "name": "Eltjo Boss"
       },
       {
-        "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "name": "Danny Bast"
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman"
       },
       {
         "url": "https://cuescore.com/player/Levent+Kucuk/6549349",
@@ -13734,6 +13834,10 @@ export default [
         "name": "Sergio Bostdorp"
       },
       {
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "name": "Danny Bast"
+      },
+      {
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres"
       },
@@ -13742,16 +13846,16 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
+      },
+      {
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard"
       }
     ]
   },
