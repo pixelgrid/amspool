@@ -406,16 +406,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -508,6 +500,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -571,6 +571,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -698,16 +706,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -1357,16 +1357,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -1508,6 +1500,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -1670,6 +1670,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -1816,16 +1824,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -2305,16 +2305,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -2464,6 +2456,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -2783,6 +2783,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -2925,16 +2933,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -3264,16 +3264,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -3407,6 +3399,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -3892,6 +3892,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -4026,16 +4034,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -4215,16 +4215,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -4366,6 +4358,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -4993,6 +4993,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -5123,16 +5131,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -5166,16 +5166,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -5317,6 +5309,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -6090,6 +6090,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -6117,16 +6125,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -6278,6 +6278,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -6288,16 +6296,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -7109,16 +7109,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -7154,6 +7146,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -7219,6 +7219,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -7354,16 +7362,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -8073,16 +8073,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -8218,6 +8210,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -8319,6 +8319,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -8454,16 +8462,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -9011,16 +9011,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -9175,6 +9167,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -9426,6 +9426,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -9567,16 +9575,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -9958,16 +9958,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -10118,6 +10110,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -10539,6 +10539,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -10664,16 +10672,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -10913,16 +10913,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -11065,6 +11057,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -11636,6 +11636,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -11769,16 +11777,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -11872,16 +11872,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -12020,6 +12012,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
@@ -12741,6 +12741,14 @@ export default [
         "name": "Martin Van Eeuwijk"
       },
       {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
+      },
+      {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",
         "name": "Casper Caldecourt"
       }
@@ -12823,16 +12831,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -12951,16 +12951,8 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
-        "url": "https://cuescore.com/player/Brendan+McGauley/47374660",
-        "name": "Brendan McGauley"
-      },
-      {
-        "url": "https://cuescore.com/player/Petros+Pifeas/47388748",
-        "name": "Petros Pifeas"
-      },
-      {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash"
+        "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
+        "name": "Daniël Bruens"
       },
       {
         "url": "https://cuescore.com/player/Tristan+Cox/47228389",
@@ -12979,6 +12971,14 @@ export default [
       {
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk"
+      },
+      {
+        "url": "https://cuescore.com/player/Alexey+Kirillov/63573565",
+        "name": "Alexey Kirillov"
+      },
+      {
+        "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
+        "name": "Sirvan Panahi"
       },
       {
         "url": "https://cuescore.com/player/Casper+Caldecourt/1559381",

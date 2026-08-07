@@ -55,10 +55,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -124,8 +120,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -848,8 +844,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -929,10 +925,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -951,8 +943,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -1778,10 +1770,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -1817,8 +1805,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -1900,10 +1888,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -2597,10 +2581,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -2666,8 +2646,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -2790,8 +2770,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -2877,10 +2857,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -3424,10 +3400,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -3497,8 +3469,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -3775,8 +3747,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -3866,10 +3838,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -4255,10 +4223,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -4324,8 +4288,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -4768,8 +4732,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -4859,10 +4823,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -5078,10 +5038,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -5143,8 +5099,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -5741,8 +5697,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -5818,10 +5774,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -5895,10 +5847,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -5956,8 +5904,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -6732,8 +6680,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -6783,8 +6731,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -6823,10 +6771,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -7614,10 +7558,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -7705,8 +7645,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -7792,10 +7732,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -8429,10 +8365,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -8498,8 +8430,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -8682,8 +8614,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -8773,10 +8705,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -9252,10 +9180,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -9325,8 +9249,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -9671,8 +9595,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -9758,10 +9682,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -10083,10 +10003,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -10156,8 +10072,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -10664,8 +10580,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -10747,10 +10663,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
@@ -10922,10 +10834,6 @@ export default [
         "name": "Floris Willaert"
       },
       {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
-      },
-      {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",
         "name": "Matus Poruban"
       },
@@ -10979,8 +10887,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -11621,8 +11529,8 @@ export default [
         "name": "Lennert Duyn"
       },
       {
-        "url": "https://cuescore.com/player/Massimiliano+Donini/2845553",
-        "name": "Massimiliano Donini"
+        "url": "https://cuescore.com/player/Peter+de+Swart/2781830",
+        "name": "Peter de Swart"
       },
       {
         "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -11708,10 +11616,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+Willaert/1187477",
         "name": "Floris Willaert"
-      },
-      {
-        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
-        "name": "Casper Verstegen"
       },
       {
         "url": "https://cuescore.com/player/Matus+Poruban/1164761",

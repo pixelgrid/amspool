@@ -47,6 +47,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -126,10 +130,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -300,6 +300,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -560,6 +564,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -622,9 +630,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "startTime": "2025-09-22T18:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -799,6 +807,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -947,10 +959,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -1129,6 +1137,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -1287,10 +1299,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -1447,6 +1455,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -1638,6 +1650,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -1812,6 +1828,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -1944,10 +1964,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -2207,6 +2223,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -2434,10 +2454,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -2600,6 +2616,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -2620,9 +2640,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "startTime": "2025-10-27T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -2716,6 +2736,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -2807,6 +2831,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -2957,10 +2985,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -3289,6 +3313,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -3585,10 +3613,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -3617,9 +3641,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "startTime": "2025-11-10T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -3759,6 +3783,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -3792,6 +3820,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -3838,6 +3870,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -3954,10 +3990,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -4363,6 +4395,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -4618,9 +4654,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "startTime": "2025-12-01T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -4744,10 +4780,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -4805,6 +4837,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -4870,6 +4906,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -4953,10 +4993,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -4997,6 +5033,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -5433,6 +5473,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -5619,9 +5663,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "startTime": "2026-01-05T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -5808,6 +5852,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -5903,10 +5951,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -5950,6 +5994,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -5982,10 +6030,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -6148,6 +6192,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -6515,6 +6563,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -6616,9 +6668,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "startTime": "2026-01-19T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -6809,6 +6861,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -6955,10 +7011,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -7026,6 +7078,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -7103,10 +7159,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -7275,6 +7327,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -7406,9 +7462,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "startTime": "2026-02-02T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -7595,6 +7651,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -7836,6 +7896,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -7986,10 +8050,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -8104,6 +8164,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -8258,10 +8322,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -8434,6 +8494,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -8549,9 +8613,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "startTime": "2026-02-16T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -8630,9 +8694,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
     "startTime": "2026-03-02T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -8677,6 +8741,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -8845,6 +8913,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -8981,10 +9053,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -9182,6 +9250,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -9419,10 +9491,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -9575,6 +9643,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -9753,6 +9825,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -9785,9 +9861,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "startTime": "2026-03-16T19:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -9848,6 +9924,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
@@ -9990,10 +10070,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -10260,6 +10336,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -10562,10 +10642,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -10736,6 +10812,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -10817,6 +10897,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -10833,6 +10917,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -10944,9 +11032,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "startTime": "2026-03-30T18:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -10995,10 +11083,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -11338,6 +11422,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -11721,10 +11809,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -11844,6 +11928,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -11909,6 +11997,10 @@ export default [
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
       },
       {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
+      },
+      {
         "url": "https://cuescore.com/player/Mostafa/3369296",
         "name": "Mostafa"
       },
@@ -11972,6 +12064,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -11992,10 +12088,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -12099,9 +12191,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "startTime": "2026-04-20T18:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -12416,6 +12508,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -12841,6 +12937,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -12878,10 +12978,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
@@ -12961,10 +13057,6 @@ export default [
         "name": "Judge Akins"
       },
       {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
-      },
-      {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
         "name": "Charlie Setford"
       },
@@ -12989,6 +13081,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -13127,6 +13223,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -13254,9 +13354,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "startTime": "2026-05-18T18:00:00Z",
     "venueData": {
-      "venueName": "Boven t IJ Amsterdam",
-      "venueID": "2902906",
-      "venueUrl": "//cuescore.com/venue/Boven+t+IJ+Amsterdam/2902906"
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -13494,6 +13594,10 @@ export default [
       {
         "name": "Wouter Moes",
         "url": "https://cuescore.com/player/Wouter+Moes/1116789"
+      },
+      {
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms"
       },
       {
         "url": "https://cuescore.com/player/Mostafa/3369296",
@@ -13846,6 +13950,10 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
         "url": "https://cuescore.com/player/Stefan+Lam/14139304",
         "name": "Stefan Lam"
       },
@@ -13986,10 +14094,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins"
-      },
-      {
-        "url": "https://cuescore.com/player/Filipe+Ferreira/3492903",
-        "name": "Filipe Ferreira"
       },
       {
         "url": "https://cuescore.com/player/Charlie+Setford/19034167",
