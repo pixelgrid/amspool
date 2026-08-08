@@ -71,9 +71,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "startTime": "2025-10-01T18:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -1040,9 +1040,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "startTime": "2025-10-08T18:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -2005,9 +2005,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "startTime": "2025-10-29T19:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -2982,9 +2982,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "startTime": "2025-11-12T19:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -3959,9 +3959,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "startTime": "2025-12-03T19:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -4924,9 +4924,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "startTime": "2026-01-14T19:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -6566,9 +6566,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "startTime": "2026-02-11T19:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -7385,9 +7385,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
     "startTime": "2026-03-04T19:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -8184,9 +8184,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "startTime": "2026-03-18T19:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -9003,9 +9003,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "startTime": "2026-04-01T18:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -9846,9 +9846,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "startTime": "2026-04-22T18:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
@@ -11561,9 +11561,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
-      "venueName": "Plan B",
-      "venueID": "1167894",
-      "venueUrl": "//cuescore.com/venue/Plan+B/1167894"
+      "venueName": "Mokum Pool & Darts",
+      "venueID": "60451687",
+      "venueUrl": "//cuescore.com/venue/Mokum+Pool+%2526+Darts/60451687"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
