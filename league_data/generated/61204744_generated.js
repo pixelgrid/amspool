@@ -367,8 +367,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -387,12 +387,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -718,8 +718,8 @@ export default [
     "matchno": "10",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -738,12 +738,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -1518,8 +1518,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -1538,12 +1538,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -1731,8 +1731,8 @@ export default [
     "matchno": "23",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -1751,12 +1751,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -2685,8 +2685,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -2705,12 +2705,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -2766,8 +2766,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -2786,12 +2786,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -3733,8 +3733,8 @@ export default [
     "matchno": "49",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -3753,12 +3753,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -3937,8 +3937,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -3957,12 +3957,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -4742,8 +4742,8 @@ export default [
     "matchno": "62",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -4762,12 +4762,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -5096,8 +5096,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -5116,12 +5116,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -5755,8 +5755,8 @@ export default [
     "matchno": "75",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -5775,12 +5775,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -6259,8 +6259,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -6279,12 +6279,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -6760,8 +6760,8 @@ export default [
     "matchno": "88",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -6780,12 +6780,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -7396,8 +7396,8 @@ export default [
     "matchno": "96",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -7416,12 +7416,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -7799,8 +7799,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -7819,12 +7819,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -8551,8 +8551,8 @@ export default [
     "matchno": "111",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -8571,12 +8571,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -8820,8 +8820,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -8840,12 +8840,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -9710,8 +9710,8 @@ export default [
     "matchno": "126",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -9730,12 +9730,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -9791,8 +9791,8 @@ export default [
     "matchno": "127",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -9811,12 +9811,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -10830,8 +10830,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -10850,12 +10850,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -10966,8 +10966,8 @@ export default [
     "matchno": "142",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -10986,12 +10986,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -11831,8 +11831,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -11851,12 +11851,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -12129,8 +12129,8 @@ export default [
     "matchno": "157",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -12149,12 +12149,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -12844,8 +12844,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -12864,12 +12864,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
@@ -13288,8 +13288,8 @@ export default [
     "matchno": "172",
     "teamA": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -13308,12 +13308,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ],
     "teamB": [
@@ -13853,8 +13853,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Marten Hoekstra",
-        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701"
+        "name": "Niels Veeninga",
+        "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -13873,12 +13873,12 @@ export default [
         "name": "Meghant Rai"
       },
       {
-        "url": "https://cuescore.com/player/Niels+Veeninga/1162170",
-        "name": "Niels Veeninga"
-      },
-      {
         "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
         "name": "Juhani Jaakkola"
+      },
+      {
+        "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
+        "name": "Marten Hoekstra"
       }
     ]
   },
