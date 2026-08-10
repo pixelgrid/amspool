@@ -237,9 +237,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -248,46 +248,34 @@ export default [
     "matchno": "4",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
-      },
-      {
-        "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
-        "name": "Laurenze Meskers"
-      },
-      {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
-      },
-      {
-        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
-        "name": "Thomas Kooy"
-      },
-      {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
-      }
-    ],
-    "teamB": [
-      {
         "name": "Amir Ylbegi",
         "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
       },
       {
         "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
         "name": "Sergio Bostdorp"
+      },
+      {
+        "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
+        "name": "Laurenze Meskers"
+      },
+      {
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
+      },
+      {
+        "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
+        "name": "Thomas Kooy"
+      },
+      {
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
+      }
+    ],
+    "teamB": [
+      {
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -304,10 +292,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -787,12 +771,8 @@ export default [
     "matchno": "11",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -809,10 +789,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -902,36 +878,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -1246,9 +1214,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -1257,36 +1225,28 @@ export default [
     "matchno": "17",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -1437,12 +1397,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -1459,10 +1415,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -1808,12 +1760,8 @@ export default [
     "matchno": "24",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -1830,10 +1778,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -2061,36 +2005,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -2259,9 +2195,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "startTime": "2025-10-28T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -2270,36 +2206,28 @@ export default [
     "matchno": "30",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -2596,12 +2524,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -2618,10 +2542,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -2813,12 +2733,8 @@ export default [
     "matchno": "37",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -2835,10 +2751,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -3224,36 +3136,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -3264,9 +3168,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
     "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -3275,36 +3179,28 @@ export default [
     "matchno": "43",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -3763,12 +3659,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -3785,10 +3677,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -3852,12 +3740,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -3874,10 +3758,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -4269,9 +4149,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "startTime": "2025-11-25T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -4280,36 +4160,28 @@ export default [
     "matchno": "56",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -4464,36 +4336,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -4819,12 +4683,8 @@ export default [
     "matchno": "63",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -4841,10 +4701,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -5015,12 +4871,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -5037,10 +4889,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -5290,9 +5138,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "startTime": "2025-12-09T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -5301,36 +5149,28 @@ export default [
     "matchno": "69",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -5623,36 +5463,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -5832,12 +5664,8 @@ export default [
     "matchno": "76",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -5854,10 +5682,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -6174,12 +5998,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -6196,10 +6016,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -6295,9 +6111,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "startTime": "2026-01-13T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -6306,36 +6122,28 @@ export default [
     "matchno": "82",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -6790,36 +6598,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -6841,12 +6641,8 @@ export default [
     "matchno": "89",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -6863,10 +6659,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -7307,12 +7099,8 @@ export default [
     "matchno": "95",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -7331,10 +7119,6 @@ export default [
         "name": "Sebas Kan"
       },
       {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -7345,36 +7129,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -7876,12 +7652,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -7900,10 +7672,6 @@ export default [
         "name": "Sebas Kan"
       },
       {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -7920,9 +7688,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "startTime": "2026-02-10T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -7931,36 +7699,28 @@ export default [
     "matchno": "103",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -8346,36 +8106,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -8474,12 +8226,8 @@ export default [
     "matchno": "110",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -8496,10 +8244,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -8893,12 +8637,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -8915,10 +8655,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -9083,9 +8819,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "startTime": "2026-03-03T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -9094,36 +8830,28 @@ export default [
     "matchno": "118",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -9359,36 +9087,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -9625,12 +9345,8 @@ export default [
     "matchno": "125",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -9647,10 +9363,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -9906,12 +9618,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -9928,10 +9636,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -10242,9 +9946,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
     "startTime": "2026-03-17T19:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -10253,36 +9957,28 @@ export default [
     "matchno": "133",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -10368,36 +10064,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -10792,12 +10480,8 @@ export default [
     "matchno": "140",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -10814,10 +10498,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -10877,12 +10557,8 @@ export default [
     "matchno": "141",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -10899,10 +10575,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -11369,36 +11041,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -11490,9 +11154,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "startTime": "2026-04-14T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -11501,36 +11165,28 @@ export default [
     "matchno": "149",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -11908,12 +11564,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -11930,10 +11582,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -12044,12 +11692,8 @@ export default [
     "matchno": "156",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -12066,10 +11710,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -12386,36 +12026,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -12641,9 +12273,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "startTime": "2026-05-12T18:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -12652,36 +12284,28 @@ export default [
     "matchno": "164",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -12917,12 +12541,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -12939,10 +12559,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -13203,12 +12819,8 @@ export default [
     "matchno": "171",
     "teamA": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -13225,10 +12837,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -13399,36 +13007,28 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ]
   },
@@ -13808,9 +13408,9 @@ export default [
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
-      "venueName": "Westend Snooker",
-      "venueID": "1172316",
-      "venueUrl": "//cuescore.com/venue/Westend+Snooker/1172316"
+      "venueName": "Oscar’s Bowling & Pool",
+      "venueID": "76096633",
+      "venueUrl": "//cuescore.com/venue/Oscar%E2%80%99s+Bowling+%2526+Pool/76096633"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
@@ -13819,36 +13419,28 @@ export default [
     "matchno": "179",
     "teamA": [
       {
-        "name": "Sybrand Kooy",
-        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649"
+        "name": "Amir Ylbegi",
+        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
+      },
+      {
+        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
+        "name": "Sergio Bostdorp"
       },
       {
         "url": "https://cuescore.com/player/Laurenze+Meskers/1427802",
         "name": "Laurenze Meskers"
       },
       {
-        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "name": "Rienus Gennissen"
-      },
-      {
-        "url": "https://cuescore.com/player/Max+Houben/2573459",
-        "name": "Max Houben"
+        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
+        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Thomas+Kooy/6181561",
         "name": "Thomas Kooy"
       },
       {
-        "url": "https://cuescore.com/player/Tom+van+Rijn/6181562",
-        "name": "Tom van Rijn"
-      },
-      {
-        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
-        "name": "Enes Coskun"
-      },
-      {
-        "url": "https://cuescore.com/player/Jeroen+Melchers/60482017",
-        "name": "Jeroen Melchers"
+        "url": "https://cuescore.com/player/Sybrand+Kooy/30162649",
+        "name": "Sybrand Kooy"
       }
     ],
     "teamB": [
@@ -13930,12 +13522,8 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Amir Ylbegi",
-        "url": "https://cuescore.com/player/Amir+Ylbegi/1162045"
-      },
-      {
-        "url": "https://cuescore.com/player/Sergio+Bostdorp/22395961",
-        "name": "Sergio Bostdorp"
+        "name": "Stefan Lam",
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304"
       },
       {
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
@@ -13952,10 +13540,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Sebas+Kan/1159845",
         "name": "Sebas Kan"
-      },
-      {
-        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-        "name": "Stefan Lam"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",

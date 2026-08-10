@@ -106,8 +106,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -534,8 +534,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -577,8 +577,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -1064,8 +1064,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -1208,8 +1208,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -1523,8 +1523,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -1821,8 +1821,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -2032,8 +2032,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -2404,8 +2404,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -2503,8 +2503,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -2982,8 +2982,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -3078,8 +3078,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -3461,8 +3461,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -3707,8 +3707,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/JM+Wattimena/10580113",
-        "name": "JM Wattimena"
+        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
+        "name": "Magician 🎱"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",

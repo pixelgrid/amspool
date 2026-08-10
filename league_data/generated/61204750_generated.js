@@ -136,16 +136,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -907,16 +907,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -1241,16 +1241,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -1871,16 +1871,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -2335,16 +2335,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -2830,16 +2830,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -3431,16 +3431,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -3793,16 +3793,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -4523,16 +4523,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -4744,16 +4744,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -5636,16 +5636,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -5721,16 +5721,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -6634,16 +6634,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -6796,16 +6796,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -7623,16 +7623,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -7897,16 +7897,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -8569,16 +8569,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -8989,16 +8989,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -9536,16 +9536,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -10086,16 +10086,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -10496,16 +10496,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -11179,16 +11179,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -11460,16 +11460,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -12284,16 +12284,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -12369,16 +12369,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
@@ -13346,16 +13346,16 @@ export default [
         "name": "Merijn Boezer"
       },
       {
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens"
+      },
+      {
         "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
         "name": "Len van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
         "name": "Geert in 't Veld"
-      },
-      {
-        "url": "https://cuescore.com/player/Chiron+van+Hoogdalem/64509109",
-        "name": "Chiron van Hoogdalem"
       },
       {
         "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
