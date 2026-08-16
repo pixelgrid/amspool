@@ -94,8 +94,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -106,8 +106,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -522,8 +522,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -534,8 +534,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -565,8 +565,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -577,8 +577,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -1052,8 +1052,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -1064,8 +1064,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -1196,8 +1196,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -1208,8 +1208,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -1511,8 +1511,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -1523,8 +1523,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -1809,8 +1809,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -1821,8 +1821,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -2020,8 +2020,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -2032,8 +2032,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -2392,8 +2392,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -2404,8 +2404,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -2491,8 +2491,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -2503,8 +2503,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -2970,8 +2970,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -2982,8 +2982,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -3066,8 +3066,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -3078,8 +3078,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -3449,8 +3449,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -3461,8 +3461,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",
@@ -3695,8 +3695,8 @@ export default [
         "url": "https://cuescore.com/player/Maarten+Poirters/12709828"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Dylan+Dasar/1163295",
@@ -3707,8 +3707,8 @@ export default [
         "name": "Sang Vonk"
       },
       {
-        "url": "https://cuescore.com/player/Magician+%F0%9F%8E%B1/10580113",
-        "name": "Magician 🎱"
+        "url": "https://cuescore.com/player/Jordi+Wattimena/10580113",
+        "name": "Jordi Wattimena"
       },
       {
         "url": "https://cuescore.com/player/Mick+Poirters/55907797",

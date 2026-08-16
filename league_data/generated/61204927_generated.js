@@ -120,8 +120,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -140,6 +144,10 @@ export default [
         "name": "Richard Hesling"
       },
       {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
+      },
+      {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -147,9 +155,9 @@ export default [
   },
   {
     "playerA": "N-Joyriders",
-    "playerB": "Time-Out",
+    "playerB": "Time-Out 24/25/26",
     "playerAUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerBUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "startTime": "2025-09-14T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
@@ -361,16 +369,11 @@ export default [
     ]
   },
   {
-    "playerA": "Time-Out",
+    "playerA": "Time-Out 24/25/26",
     "playerB": "Infinity BiedieBiedie",
-    "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerAUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "playerBUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
     "startTime": "2025-09-28T11:00:00Z",
-    "venueData": {
-      "venueName": "Rene's Poolcafe",
-      "venueID": "36729730",
-      "venueUrl": "//cuescore.com/venue/Rene%27s+Poolcafe/36729730"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2025%252F2026/61204927",
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
@@ -443,8 +446,12 @@ export default [
     "matchno": "7",
     "teamA": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -461,6 +468,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -761,8 +772,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -781,6 +796,10 @@ export default [
         "name": "Richard Hesling"
       },
       {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
+      },
+      {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -788,9 +807,9 @@ export default [
   },
   {
     "playerA": "De Sjoel 99",
-    "playerB": "Time-Out",
+    "playerB": "Time-Out 24/25/26",
     "playerAUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
-    "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerBUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "startTime": "2025-10-12T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum de Sjoel",
@@ -853,9 +872,9 @@ export default [
   },
   {
     "playerA": "Nog 1tje dan",
-    "playerB": "Time-Out",
+    "playerB": "Time-Out 24/25/26",
     "playerAUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
-    "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerBUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "startTime": "2025-10-26T12:00:00Z",
     "venueData": {
       "venueName": "Cue Action Groningen",
@@ -942,8 +961,12 @@ export default [
     "matchno": "14",
     "teamA": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -960,6 +983,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -1355,16 +1382,11 @@ export default [
     ]
   },
   {
-    "playerA": "Time-Out",
+    "playerA": "Time-Out 24/25/26",
     "playerB": "The N-Joyable Basterds",
-    "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerAUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "playerBUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
     "startTime": "2025-12-07T12:00:00Z",
-    "venueData": {
-      "venueName": "Rene's Poolcafe",
-      "venueID": "36729730",
-      "venueUrl": "//cuescore.com/venue/Rene%27s+Poolcafe/36729730"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2025%252F2026/61204927",
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
@@ -1394,8 +1416,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -1412,6 +1438,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -1471,8 +1501,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -1491,6 +1525,10 @@ export default [
         "name": "Richard Hesling"
       },
       {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
+      },
+      {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -1498,9 +1536,9 @@ export default [
   },
   {
     "playerA": "Mannen van Noord",
-    "playerB": "Time-Out",
+    "playerB": "Time-Out 24/25/26",
     "playerAUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
-    "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerBUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "startTime": "2026-01-04T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -1854,16 +1892,11 @@ export default [
     ]
   },
   {
-    "playerA": "Time-Out",
+    "playerA": "Time-Out 24/25/26",
     "playerB": "Mokumse Straatratten",
-    "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerAUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
     "startTime": "2026-01-25T12:00:00Z",
-    "venueData": {
-      "venueName": "Rene's Poolcafe",
-      "venueID": "36729730",
-      "venueUrl": "//cuescore.com/venue/Rene%27s+Poolcafe/36729730"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2025%252F2026/61204927",
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
@@ -1944,8 +1977,12 @@ export default [
     "matchno": "28",
     "teamA": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -1962,6 +1999,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -2074,8 +2115,12 @@ export default [
     "matchno": "30",
     "teamA": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -2092,6 +2137,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -2134,16 +2183,11 @@ export default [
     ]
   },
   {
-    "playerA": "Time-Out",
+    "playerA": "Time-Out 24/25/26",
     "playerB": "N-Joyriders",
-    "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerAUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
     "startTime": "2026-02-08T12:00:00Z",
-    "venueData": {
-      "venueName": "Rene's Poolcafe",
-      "venueID": "36729730",
-      "venueUrl": "//cuescore.com/venue/Rene%27s+Poolcafe/36729730"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2025%252F2026/61204927",
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
@@ -2350,9 +2394,9 @@ export default [
   },
   {
     "playerA": "Infinity BiedieBiedie",
-    "playerB": "Time-Out",
+    "playerB": "Time-Out 24/25/26",
     "playerAUrl": "https://cuescore.com/team/Infinity+BiedieBiedie/1172419",
-    "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerBUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "startTime": "2026-04-19T11:00:00Z",
     "venueData": {
       "venueName": "Infinity, Poolcafe",
@@ -2461,8 +2505,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -2479,6 +2527,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -2723,8 +2775,12 @@ export default [
     "matchno": "39",
     "teamA": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -2741,6 +2797,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -2775,16 +2835,11 @@ export default [
     ]
   },
   {
-    "playerA": "Time-Out",
+    "playerA": "Time-Out 24/25/26",
     "playerB": "De Sjoel 99",
-    "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerAUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "playerBUrl": "https://cuescore.com/team/De+Sjoel+99/1267024",
     "startTime": "2026-03-08T12:00:00Z",
-    "venueData": {
-      "venueName": "Rene's Poolcafe",
-      "venueID": "36729730",
-      "venueUrl": "//cuescore.com/venue/Rene%27s+Poolcafe/36729730"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2025%252F2026/61204927",
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
@@ -2840,16 +2895,11 @@ export default [
     ]
   },
   {
-    "playerA": "Time-Out",
+    "playerA": "Time-Out 24/25/26",
     "playerB": "Nog 1tje dan",
-    "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerAUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "playerBUrl": "https://cuescore.com/team/Nog+1tje+dan/30886165",
     "startTime": "2026-03-29T11:00:00Z",
-    "venueData": {
-      "venueName": "Rene's Poolcafe",
-      "venueID": "36729730",
-      "venueUrl": "//cuescore.com/venue/Rene%27s+Poolcafe/36729730"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2025%252F2026/61204927",
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
@@ -2956,8 +3006,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -2974,6 +3028,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -3344,9 +3402,9 @@ export default [
   },
   {
     "playerA": "The N-Joyable Basterds",
-    "playerB": "Time-Out",
+    "playerB": "Time-Out 24/25/26",
     "playerAUrl": "https://cuescore.com/team/The+N-Joyable+Basterds/47819962",
-    "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerBUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "startTime": "2026-04-25T11:00:00Z",
     "venueData": {
       "venueName": "N-Joy Drachten",
@@ -3360,8 +3418,12 @@ export default [
     "matchno": "48",
     "teamA": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -3378,6 +3440,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -3425,8 +3491,12 @@ export default [
     "matchno": "49",
     "teamA": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -3443,6 +3513,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
@@ -3485,16 +3559,11 @@ export default [
     ]
   },
   {
-    "playerA": "Time-Out",
+    "playerA": "Time-Out 24/25/26",
     "playerB": "Mannen van Noord",
-    "playerAUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerAUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "playerBUrl": "https://cuescore.com/team/Mannen+van+Noord/1172430",
     "startTime": "2026-05-03T11:00:00Z",
-    "venueData": {
-      "venueName": "Rene's Poolcafe",
-      "venueID": "36729730",
-      "venueUrl": "//cuescore.com/venue/Rene%27s+Poolcafe/36729730"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2025%252F2026/61204927",
     "tournamentName": "Pool Tweede Divisie Noord 2025/2026",
     "tournamentId": 61204927,
@@ -3843,9 +3912,9 @@ export default [
   },
   {
     "playerA": "Mokumse Straatratten",
-    "playerB": "Time-Out",
+    "playerB": "Time-Out 24/25/26",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Straatratten/62184268",
-    "playerBUrl": "https://cuescore.com/team/Time-Out/43045543",
+    "playerBUrl": "https://cuescore.com/team/Time-Out+24%252F25%252F26/43045543",
     "startTime": "2026-06-07T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -3950,8 +4019,12 @@ export default [
     ],
     "teamB": [
       {
-        "name": "Kim Uytenbogaardt",
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676"
+        "name": "Andre Broersma",
+        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+      },
+      {
+        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
+        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -3968,6 +4041,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
+      },
+      {
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "name": "Kim Uytenbogaardt"
       },
       {
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",

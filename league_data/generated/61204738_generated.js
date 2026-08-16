@@ -254,8 +254,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -281,9 +281,9 @@ export default [
   },
   {
     "playerA": "Mokum Magic",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2025-09-16T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -335,24 +335,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -608,16 +600,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Purple Reign",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "startTime": "2025-09-22T18:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -629,24 +616,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -702,8 +681,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1085,8 +1064,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1112,9 +1091,9 @@ export default [
   },
   {
     "playerA": "Mooie Ballen",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2025-10-07T18:00:00Z",
     "venueData": {
       "venueName": "Plan B",
@@ -1150,24 +1129,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -1565,16 +1536,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Restless",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Restless/1176532",
     "startTime": "2025-10-13T18:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -1586,24 +1552,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -1663,8 +1621,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1904,8 +1862,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -1931,9 +1889,9 @@ export default [
   },
   {
     "playerA": "Mokum Mavericks",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2025-10-30T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -1973,24 +1931,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -2518,16 +2468,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Mokumse Maaiers",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
     "startTime": "2025-11-03T19:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -2539,24 +2484,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -2612,8 +2549,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -2719,8 +2656,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -2746,9 +2683,9 @@ export default [
   },
   {
     "playerA": "Mokum Mayhem",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -2800,24 +2737,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -3495,16 +3424,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Alkmaar Noord",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
     "startTime": "2025-11-26T19:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -3516,24 +3440,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -3569,9 +3485,9 @@ export default [
   },
   {
     "playerA": "Quality Strokes",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2025-12-03T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -3589,8 +3505,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -3619,24 +3535,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -4446,8 +4354,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -4472,16 +4380,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Rechalk Mokum",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
     "startTime": "2026-01-05T19:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -4493,24 +4396,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -4574,8 +4469,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -5253,8 +5148,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -5280,9 +5175,9 @@ export default [
   },
   {
     "playerA": "Hoe kan dat nou?!",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2026-02-25T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -5334,24 +5229,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -5445,16 +5332,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Mokum Masters",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
     "startTime": "2026-01-19T19:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -5466,24 +5348,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -5543,8 +5417,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -6042,8 +5916,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -6094,16 +5968,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Mokum Magic",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Magic/62955652",
     "startTime": "2026-02-02T19:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -6115,24 +5984,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -6423,9 +6284,9 @@ export default [
   },
   {
     "playerA": "Purple Reign",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2026-02-11T19:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
@@ -6469,24 +6330,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -6534,8 +6387,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -6869,8 +6722,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -6925,16 +6778,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Mooie Ballen",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Mooie+Ballen/1176520",
     "startTime": "2026-02-16T19:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -6946,24 +6794,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -7380,9 +7220,9 @@ export default [
   },
   {
     "playerA": "Restless",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2026-03-04T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -7430,24 +7270,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -7499,8 +7331,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -7692,8 +7524,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -7744,16 +7576,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Mokum Mavericks",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "startTime": "2026-03-11T19:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -7765,24 +7592,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -8333,9 +8152,9 @@ export default [
   },
   {
     "playerA": "Mokumse Maaiers",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokumse+Maaiers/1176531",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2026-03-16T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -8379,24 +8198,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -8460,8 +8271,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -8507,8 +8318,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -8559,16 +8370,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Mokum Mayhem",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mayhem/2852247",
     "startTime": "2026-04-01T18:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -8580,24 +8386,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -9310,9 +9108,9 @@ export default [
   },
   {
     "playerA": "Alkmaar Noord",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Alkmaar+Noord/8072532",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2026-03-31T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -9356,24 +9154,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -9382,16 +9172,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Quality Strokes",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Quality+Strokes/8092256",
     "startTime": "2026-04-13T18:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -9403,24 +9188,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -9433,8 +9210,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -10226,8 +10003,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -10287,9 +10064,9 @@ export default [
   },
   {
     "playerA": "Rechalk Mokum",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Rechalk+Mokum/64056430",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2026-05-11T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -10341,24 +10118,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -10422,8 +10191,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -11037,8 +10806,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
@@ -11093,16 +10862,11 @@ export default [
     ]
   },
   {
-    "playerA": "Lost & Found",
+    "playerA": "Lost & Found In Mokum",
     "playerB": "Hoe kan dat nou?!",
-    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerAUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
     "startTime": "2026-05-18T18:00:00Z",
-    "venueData": {
-      "venueName": "Poollokaal De Gracht",
-      "venueID": "1168481",
-      "venueUrl": "//cuescore.com/venue/Poollokaal+De+Gracht/1168481"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738",
     "tournamentName": "Pool Noord-Holland Eerste klasse 2025/2026",
     "tournamentId": 61204738,
@@ -11114,24 +10878,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -11260,9 +11016,9 @@ export default [
   },
   {
     "playerA": "Mokum Masters",
-    "playerB": "Lost & Found",
+    "playerB": "Lost & Found In Mokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Masters/63552172",
-    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found/1176481",
+    "playerBUrl": "https://cuescore.com/team/Lost+%2526+Found+In+Mokum/1176481",
     "startTime": "2026-05-30T10:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -11310,24 +11066,16 @@ export default [
         "url": "https://cuescore.com/player/Sander+Marnette/1162815"
       },
       {
-        "url": "https://cuescore.com/player/Hasyim+Asyari/13364494",
-        "name": "Hasyim Asyari"
-      },
-      {
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan"
-      },
-      {
-        "url": "https://cuescore.com/player/Nelson+Sio/1162855",
-        "name": "Nelson Sio"
       },
       {
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
         "name": "Ajdin Kolonic"
       },
       {
-        "url": "https://cuescore.com/player/Damien+Phan/37884802",
-        "name": "Damien Phan"
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -11391,8 +11139,8 @@ export default [
         "url": "https://cuescore.com/player/Matthew+van+Gestel/26697259"
       },
       {
-        "url": "https://cuescore.com/player/M+.A+Alfons/1096728",
-        "name": "M .A Alfons"
+        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
+        "name": "Mirjam Alfons"
       },
       {
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",

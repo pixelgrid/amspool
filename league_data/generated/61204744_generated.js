@@ -154,16 +154,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "Royston Vasey Social Club",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
     "startTime": "2025-09-16T18:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -288,10 +283,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -787,10 +778,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -905,9 +892,9 @@ export default [
   },
   {
     "playerA": "Ongewenst Effect",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2025-09-30T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
@@ -1135,16 +1122,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "No Stress 2.0",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
     "startTime": "2025-10-07T18:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -1411,10 +1393,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -1776,10 +1754,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -2032,9 +2006,9 @@ export default [
   },
   {
     "playerA": "Cue Fighters",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2025-10-13T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -2108,16 +2082,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "@mokum",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/%40mokum/46648447",
     "startTime": "2025-10-28T19:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -2540,10 +2509,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -2747,10 +2712,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -3089,16 +3050,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "No Pro's",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
     "startTime": "2025-11-04T19:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -3240,9 +3196,9 @@ export default [
   },
   {
     "playerA": "Breaking Badly",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2025-11-11T19:00:00Z",
     "venueData": {
       "venueName": "PlanB",
@@ -3675,10 +3631,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -3754,10 +3706,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -4074,16 +4022,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "Rackless in Mokum",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
     "startTime": "2025-11-25T19:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -4363,9 +4306,9 @@ export default [
   },
   {
     "playerA": "NOORD GESTOORD",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2025-12-02T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -4699,10 +4642,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -4887,10 +4826,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -5055,16 +4990,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "Lag & Loaded",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
     "startTime": "2026-03-15T19:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -5490,9 +5420,9 @@ export default [
   },
   {
     "playerA": "Team Volendam",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/Team+Volendam/3596529",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-01-05T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -5678,10 +5608,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -6014,10 +5940,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -6028,16 +5950,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "The Pocketeers",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
     "startTime": "2026-01-13T19:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -6625,9 +6542,9 @@ export default [
   },
   {
     "playerA": "No ExCues",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/No+ExCues/31196614",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-02-25T08:39:00Z",
     "venueData": {
       "venueName": "Oscar’s Bowling & Pool",
@@ -6655,10 +6572,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -7006,9 +6919,9 @@ export default [
   },
   {
     "playerA": "Royston Vasey Social Club",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/Royston+Vasey+Social+Club/1176608",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-02-02T19:00:00Z",
     "venueData": {
       "venueName": "Plan B",
@@ -7113,10 +7026,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -7668,10 +7577,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -7755,16 +7660,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "Ongewenst Effect",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/Ongewenst+Effect/1176582",
     "startTime": "2026-02-10T19:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -7987,9 +7887,9 @@ export default [
   },
   {
     "playerA": "No Stress 2.0",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/No+Stress+2.0/17953762",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-02-18T19:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -8240,10 +8140,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -8653,10 +8549,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -8882,16 +8774,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "Cue Fighters",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/Cue+Fighters/29599939",
     "startTime": "2026-03-03T19:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -8960,9 +8847,9 @@ export default [
   },
   {
     "playerA": "@mokum",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/%40mokum/46648447",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-03-12T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -9361,10 +9248,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -9632,10 +9515,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -9941,9 +9820,9 @@ export default [
   },
   {
     "playerA": "No Pro's",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/No+Pro%27s/30756547",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-03-17T19:00:00Z",
     "venueData": {
       "venueName": "Oscar’s Bowling & Pool",
@@ -10090,16 +9969,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "Breaking Badly",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/Breaking+Badly/62160400",
     "startTime": "2026-03-24T19:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -10496,10 +10370,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -10571,10 +10441,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -10926,9 +10792,9 @@ export default [
   },
   {
     "playerA": "Rackless in Mokum",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/Rackless+in+Mokum/1176605",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-03-30T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
@@ -11213,16 +11079,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "NOORD GESTOORD",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/NOORD+GESTOORD/46515838",
     "startTime": "2026-04-14T18:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -11580,10 +11441,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -11706,10 +11563,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -11907,9 +11760,9 @@ export default [
   },
   {
     "playerA": "Lag & Loaded",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/Lag+%2526+Loaded/27817732",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-04-22T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -12340,16 +12193,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "Team Volendam",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/Team+Volendam/3596529",
     "startTime": "2026-05-12T18:00:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -12555,10 +12403,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
@@ -12835,10 +12679,6 @@ export default [
         "name": "Ahmet Bozkurt"
       },
       {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
-      },
-      {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels"
       },
@@ -12880,9 +12720,9 @@ export default [
   },
   {
     "playerA": "The Pocketeers",
-    "playerB": "Noord Boven t IJ 25/26",
+    "playerB": "Noord Boven t IJ 26/27",
     "playerAUrl": "https://cuescore.com/team/The+Pocketeers/46973665",
-    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerBUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "startTime": "2026-05-19T18:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
@@ -13475,16 +13315,11 @@ export default [
     ]
   },
   {
-    "playerA": "Noord Boven t IJ 25/26",
+    "playerA": "Noord Boven t IJ 26/27",
     "playerB": "No ExCues",
-    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+25%252F26/9200494",
+    "playerAUrl": "https://cuescore.com/team/Noord+Boven+t+IJ+26%252F27/9200494",
     "playerBUrl": "https://cuescore.com/team/No+ExCues/31196614",
     "startTime": "2026-06-11T11:39:00Z",
-    "venueData": {
-      "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": "1172427",
-      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
-    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744",
     "tournamentName": "Pool Noord-Holland Tweede klasse 2025/2026",
     "tournamentId": 61204744,
@@ -13536,10 +13371,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
         "name": "Ahmet Bozkurt"
-      },
-      {
-        "url": "https://cuescore.com/player/Sebas+Kan/1159845",
-        "name": "Sebas Kan"
       },
       {
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
