@@ -51,8 +51,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -543,8 +543,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -1096,8 +1096,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -1584,8 +1584,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -2132,8 +2132,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -2625,8 +2625,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -3169,8 +3169,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -3666,8 +3666,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -4214,8 +4214,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -4707,8 +4707,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -5247,8 +5247,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -5748,8 +5748,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -6292,8 +6292,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -6789,8 +6789,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -7342,8 +7342,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -7830,8 +7830,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -8387,8 +8387,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -8871,8 +8871,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -9424,8 +9424,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -9917,8 +9917,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -10461,8 +10461,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -10958,8 +10958,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -11506,8 +11506,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -11999,8 +11999,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -12547,8 +12547,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
@@ -13040,8 +13040,8 @@ export default [
         "name": "Barry Haarms"
       },
       {
-        "url": "https://cuescore.com/player/Mostafa/3369296",
-        "name": "Mostafa"
+        "url": "https://cuescore.com/player/Mostafa+Hosny/3369296",
+        "name": "Mostafa Hosny"
       },
       {
         "url": "https://cuescore.com/player/Bilal+The+Painter/31192153",
