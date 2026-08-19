@@ -120,10 +120,6 @@ export default [
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
-      },
-      {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
@@ -446,10 +442,6 @@ export default [
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
-      },
-      {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
@@ -764,10 +756,6 @@ export default [
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
-      },
-      {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
@@ -951,10 +939,6 @@ export default [
       {
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -1400,10 +1384,6 @@ export default [
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
-      },
-      {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
@@ -1483,10 +1463,6 @@ export default [
       {
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -1953,10 +1929,6 @@ export default [
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
-      },
-      {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
@@ -2089,10 +2061,6 @@ export default [
       {
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -2477,10 +2445,6 @@ export default [
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
-      },
-      {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
@@ -2739,10 +2703,6 @@ export default [
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
-      },
-      {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
@@ -2968,10 +2928,6 @@ export default [
       {
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -3374,10 +3330,6 @@ export default [
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
-      },
-      {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
@@ -3445,10 +3397,6 @@ export default [
       {
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
@@ -3965,10 +3913,6 @@ export default [
       {
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
-      },
-      {
-        "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
-        "name": "Michael Matschewsky"
       },
       {
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
