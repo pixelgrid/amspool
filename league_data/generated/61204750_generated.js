@@ -345,8 +345,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -783,8 +783,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -1288,8 +1288,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -1901,8 +1901,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -2240,8 +2240,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -2998,8 +2998,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -3195,8 +3195,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -4103,8 +4103,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -4146,8 +4146,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -5113,8 +5113,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -5272,8 +5272,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -6068,8 +6068,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -6360,8 +6360,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -7053,8 +7053,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -7431,8 +7431,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -8004,8 +8004,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -8539,8 +8539,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -8942,8 +8942,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -9648,8 +9648,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -9901,8 +9901,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -10749,8 +10749,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -10852,8 +10852,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -11803,8 +11803,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -11915,8 +11915,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -12767,8 +12767,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
@@ -13016,8 +13016,8 @@ export default [
         "name": "Milo Alexander"
       },
       {
-        "url": "https://cuescore.com/player/Iman+Ab/79738039",
-        "name": "Iman Ab"
+        "url": "https://cuescore.com/player/Iman+Aboonasri/79738039",
+        "name": "Iman Aboonasri"
       },
       {
         "url": "https://cuescore.com/player/Cuong+Tran/48179935",
