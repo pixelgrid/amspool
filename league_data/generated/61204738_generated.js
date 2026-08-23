@@ -351,6 +351,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -630,6 +634,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -1153,6 +1161,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -1576,6 +1588,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -1961,6 +1977,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -2516,6 +2536,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -2775,6 +2799,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -3480,6 +3508,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -3577,6 +3609,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -4444,6 +4480,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -5285,6 +5325,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -5402,6 +5446,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -6048,6 +6096,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -6392,6 +6444,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -6864,6 +6920,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -7342,6 +7402,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -7670,6 +7734,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -8278,6 +8346,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -8472,6 +8544,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -9242,6 +9318,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -9274,6 +9354,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
@@ -10214,6 +10298,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -10982,6 +11070,10 @@ export default [
         "name": "Paul Kunnil"
       },
       {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
+      },
+      {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
         "name": "Francesco Soncina"
       }
@@ -11168,6 +11260,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
         "name": "Paul Kunnil"
+      },
+      {
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov"
       },
       {
         "url": "https://cuescore.com/player/Francesco+Soncina/8084212",
