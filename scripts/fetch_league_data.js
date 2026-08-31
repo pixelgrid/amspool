@@ -136,7 +136,7 @@ async function main() {
                 teamB: formatedTeamMembers[playerBId]
             })
         }
-        writeToDisk(league_data);
+        writeToDisk(league_data, leagueIDs[i]);
     }
     /*
     const matchData = await Promise.all(finishedMatches.map(fetch_match_html_data));
@@ -149,9 +149,8 @@ function logAndExit(data){
     process.exit(0);
 }
 
-function writeToDisk(data){
-    const leagueID = data[0].tournamentUrl.split("/").at(-1);
-    const fileName = `./league_data/generated/${leagueID}_generated.js`;
+function writeToDisk(data, league_id){
+    const fileName = `./league_data/generated/${league_id}_generated.js`;
     try {
         fs.writeFileSync(fileName, `export default ${JSON.stringify(data, null, 2)}`, 'utf8');
         console.log('Data successfully saved to disk');

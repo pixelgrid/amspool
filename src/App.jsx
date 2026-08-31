@@ -9,7 +9,6 @@ import { useMatchUpdates, MatchProvider } from './context/match-context.jsx'
 
 const SOCKET = new WebSocket("wss://ws.cuescore.com:11443/");
 
-
 function App(){
     const showStreams = window.location.search.includes("streams");
     if(showStreams)
@@ -40,6 +39,7 @@ function LeagueMatches() {
     const urlDate = urlParams.get("date");
     const date = urlDate ? new Date(urlDate) : new Date();
 
+    console.log({date})
     date.setDate(date.getDate()-2);
     const result = [];
     for(let i = 0; i < 7; i++){
