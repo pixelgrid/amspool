@@ -3,16 +3,14 @@ import fs from 'fs';
 
 import {extractDataFromHTML} from '../src/utils/extract-match-details-from-html.js';
 
-
-
-
 export const leagues = [
-    'https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2025%252F2026/61204750',
-    'https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2025%252F2026/61204744',
-    'https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2025%252F2026/61204738',
-    'https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2025%252F2026/61204939',
-    'https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2025%252F2026/61204927',
-    'https://cuescore.com/tournament/Pool+Eerste+Divisie+2025%252F2026/61204921',
+    'https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2026%252F2027/83574424',
+    'https://cuescore.com/tournament/Pool+Noord-Holland+Tweede+klasse+2026%252F2027/83574427',
+    'https://cuescore.com/tournament/Pool+Noord-Holland+Derde+klasse+2026%252F2027/83574403',
+    'https://cuescore.com/tournament/Pool+Eerste+Divisie+2026%252F2027/83574886',
+    'https://cuescore.com/tournament/Pool+Tweede+Divisie+Noord+2026%252F2027/83574889',
+    'https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898',
+    'https://cuescore.com/tournament/Pool+Eredivisie+2026%252F2027/83574874'
 ]
 
 async function fetch_match_html_data({matchId, tournamentId}){
