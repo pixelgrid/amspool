@@ -239,7 +239,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-09-17T18:00:00Z",
+    "startTime": "2026-09-24T18:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -428,10 +428,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -507,10 +503,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -1302,10 +1294,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -1468,10 +1456,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -2113,10 +2097,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -2433,10 +2413,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -2932,10 +2908,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -3408,10 +3380,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -3737,10 +3705,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -4373,10 +4337,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -4564,10 +4524,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -5308,10 +5264,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -5383,10 +5335,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -6226,10 +6174,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -6340,10 +6284,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -7049,10 +6989,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -7313,10 +7249,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -7868,10 +7800,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -8280,10 +8208,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -8677,10 +8601,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
@@ -9257,10 +9177,6 @@ export default [
         "name": "Umut Sarkas"
       },
       {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
-      },
-      {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit"
       },
@@ -9496,10 +9412,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
-      },
-      {
-        "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
       },
       {
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",

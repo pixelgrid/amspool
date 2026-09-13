@@ -64,9 +64,14 @@ function formatTeamMembers(teamData){
     let result = {};
     for(let team of teamData){
         const teamId = team.teamId;
-        const captainId = team.captain.playerId;
+        let members = [];
+        let captainId = 0;
+        if(team.captain){
+            members.push({name: team.captain.name, url: team.captain.url});
+            captainId = team.captain.playerId;
+        }
+
         // captain always first in the array
-        let members = [{name: team.captain.name, url: team.captain.url}];
         for(let member of team.members){
             const {playerId, url, name} = member;
             if(playerId === captainId){

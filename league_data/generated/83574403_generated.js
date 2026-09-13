@@ -106,10 +106,6 @@ export default [
         "name": "Dylan McLean"
       },
       {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
-      },
-      {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
       },
@@ -126,6 +122,10 @@ export default [
       {
         "name": "Ali Ghoreifi",
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
       },
       {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
@@ -1027,6 +1027,10 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
+      },
+      {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
         "name": "Daniël Bruens"
       },
@@ -1126,10 +1130,6 @@ export default [
         "name": "Dylan McLean"
       },
       {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
-      },
-      {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
       },
@@ -1175,10 +1175,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+McLean/29054050",
         "name": "Dylan McLean"
-      },
-      {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
       },
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
@@ -1351,6 +1347,10 @@ export default [
       {
         "name": "Ali Ghoreifi",
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
       },
       {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
@@ -2094,6 +2094,10 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
+      },
+      {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
         "name": "Daniël Bruens"
       },
@@ -2238,10 +2242,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+McLean/29054050",
         "name": "Dylan McLean"
-      },
-      {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
       },
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
@@ -2436,10 +2436,6 @@ export default [
         "name": "Dylan McLean"
       },
       {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
-      },
-      {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
       },
@@ -2572,6 +2568,10 @@ export default [
       {
         "name": "Ali Ghoreifi",
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
       },
       {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
@@ -3161,6 +3161,10 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
+      },
+      {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
         "name": "Daniël Bruens"
       },
@@ -3305,10 +3309,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+McLean/29054050",
         "name": "Dylan McLean"
-      },
-      {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
       },
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
@@ -3657,10 +3657,6 @@ export default [
         "name": "Dylan McLean"
       },
       {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
-      },
-      {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
       },
@@ -3781,6 +3777,10 @@ export default [
       {
         "name": "Ali Ghoreifi",
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
       },
       {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
@@ -4244,6 +4244,10 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
+      },
+      {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
         "name": "Daniël Bruens"
       },
@@ -4372,10 +4376,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+McLean/29054050",
         "name": "Dylan McLean"
-      },
-      {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
       },
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
@@ -4866,10 +4866,6 @@ export default [
         "name": "Dylan McLean"
       },
       {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
-      },
-      {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
       },
@@ -4990,6 +4986,10 @@ export default [
       {
         "name": "Ali Ghoreifi",
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
       },
       {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
@@ -5323,6 +5323,10 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
+      },
+      {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
         "name": "Daniël Bruens"
       },
@@ -5455,10 +5459,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+McLean/29054050",
         "name": "Dylan McLean"
-      },
-      {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
       },
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
@@ -6075,10 +6075,6 @@ export default [
         "name": "Dylan McLean"
       },
       {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
-      },
-      {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
       },
@@ -6207,6 +6203,10 @@ export default [
       {
         "name": "Ali Ghoreifi",
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
       },
       {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
@@ -6382,6 +6382,10 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
+      },
+      {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
         "name": "Daniël Bruens"
       },
@@ -6534,10 +6538,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+McLean/29054050",
         "name": "Dylan McLean"
-      },
-      {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
       },
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
@@ -7292,10 +7292,6 @@ export default [
         "name": "Dylan McLean"
       },
       {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
-      },
-      {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
       },
@@ -7422,6 +7418,10 @@ export default [
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
       },
       {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
+      },
+      {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
         "name": "Daniël Bruens"
       },
@@ -7489,6 +7489,10 @@ export default [
       {
         "name": "Ali Ghoreifi",
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
       },
       {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",
@@ -7593,10 +7597,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+McLean/29054050",
         "name": "Dylan McLean"
-      },
-      {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
       },
       {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
@@ -8505,10 +8505,6 @@ export default [
         "name": "Dylan McLean"
       },
       {
-        "url": "https://cuescore.com/player/Sarah+McLean/29054053",
-        "name": "Sarah McLean"
-      },
-      {
         "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
         "name": "Nicky Lee Roelofs"
       },
@@ -8542,6 +8538,10 @@ export default [
       {
         "name": "Ali Ghoreifi",
         "url": "https://cuescore.com/player/Ali+Ghoreifi/47226928"
+      },
+      {
+        "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
+        "name": "Kevin Neeft"
       },
       {
         "url": "https://cuescore.com/player/Dani%C3%ABl+Bruens/1163692",

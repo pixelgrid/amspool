@@ -25,12 +25,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -39,10 +39,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -140,8 +136,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -355,6 +351,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -380,6 +380,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -686,6 +690,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -694,6 +702,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -901,8 +913,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -966,12 +978,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -980,10 +992,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -1142,12 +1150,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -1156,10 +1164,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -1223,8 +1227,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -1335,6 +1339,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -1436,6 +1444,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -1627,6 +1639,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -1783,6 +1799,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -1842,8 +1862,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -1911,12 +1931,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -1925,10 +1945,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -2229,12 +2245,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -2243,10 +2259,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -2270,6 +2282,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -2314,8 +2330,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -2529,6 +2545,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -2596,6 +2616,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -2787,8 +2811,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -2848,12 +2872,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -2862,16 +2886,16 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -3213,6 +3237,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -3312,12 +3340,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -3326,10 +3354,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -3401,8 +3425,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -3515,6 +3539,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -3685,6 +3713,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -3724,8 +3756,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -3789,12 +3821,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -3803,10 +3835,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -3955,6 +3983,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -4156,6 +4188,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -4403,12 +4439,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -4417,10 +4453,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -4454,6 +4486,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -4476,8 +4512,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -4677,8 +4713,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -4742,12 +4778,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -4756,10 +4792,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -4774,6 +4806,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -5044,6 +5080,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -5089,6 +5129,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -5395,6 +5439,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -5478,12 +5526,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -5492,10 +5540,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -5563,8 +5607,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -5644,8 +5688,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -5683,12 +5727,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -5697,10 +5741,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -5857,6 +5897,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -6036,6 +6080,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -6212,6 +6260,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -6338,6 +6390,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -6547,8 +6603,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -6569,12 +6625,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -6583,10 +6639,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -6650,12 +6702,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -6664,10 +6716,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -6705,8 +6753,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -6916,6 +6964,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -6997,6 +7049,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -7269,6 +7325,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -7305,6 +7365,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -7518,8 +7582,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -7583,12 +7647,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -7597,10 +7661,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -7707,12 +7767,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -7721,10 +7781,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -7788,8 +7844,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -7952,6 +8008,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -8005,6 +8065,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -8252,6 +8316,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -8342,6 +8410,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -8463,8 +8535,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -8528,12 +8600,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -8542,10 +8614,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -8790,12 +8858,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -8804,10 +8872,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -8875,8 +8939,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -8891,6 +8955,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -9094,6 +9162,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -9153,6 +9225,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -9400,8 +9476,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -9433,6 +9509,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -9469,12 +9549,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -9483,10 +9563,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -9830,6 +9906,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -9881,12 +9961,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -9895,10 +9975,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -9958,8 +10034,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -10134,6 +10210,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -10246,6 +10326,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -10341,8 +10425,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -10414,12 +10498,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -10428,10 +10512,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -10520,6 +10600,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -10775,6 +10859,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -10968,12 +11056,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -10982,10 +11070,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -11049,8 +11133,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -11073,6 +11157,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -11294,8 +11382,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -11337,6 +11425,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -11351,12 +11443,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -11365,10 +11457,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -11605,6 +11693,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -11714,6 +11806,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -12012,6 +12108,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -12043,12 +12143,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -12057,10 +12157,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -12124,8 +12220,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -12201,8 +12297,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
@@ -12304,12 +12400,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -12318,10 +12414,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ]
   },
@@ -12422,6 +12514,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel"
+      },
+      {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
       },
       {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
@@ -12649,6 +12745,10 @@ export default [
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
       },
       {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
+      },
+      {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
         "name": "Chloe Liu"
       },
@@ -12767,6 +12867,10 @@ export default [
       {
         "name": "Niels Veeninga",
         "url": "https://cuescore.com/player/Niels+Veeninga/1162170"
+      },
+      {
+        "url": "https://cuescore.com/player/Elton+Kamami/25896457",
+        "name": "Elton Kamami"
       },
       {
         "url": "https://cuescore.com/player/Chloe+Liu/26201191",
@@ -12957,6 +13061,10 @@ export default [
         "name": "Floris van de peppel"
       },
       {
+        "url": "https://cuescore.com/player/Martijn+de+Theye/81549949",
+        "name": "Martijn de Theye"
+      },
+      {
         "url": "https://cuescore.com/player/Omer+Ali/80951728",
         "name": "Omer Ali"
       }
@@ -13130,12 +13238,12 @@ export default [
         "name": "Ronal Arabo"
       },
       {
-        "url": "https://cuescore.com/player/Melih+Ay/69311032",
-        "name": "Melih Ay"
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain"
       },
       {
-        "url": "https://cuescore.com/player/Bobbie+Franke/1162822",
-        "name": "Bobbie Franke"
+        "url": "https://cuescore.com/player/Melih+Ay/69311032",
+        "name": "Melih Ay"
       },
       {
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
@@ -13144,10 +13252,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
-      },
-      {
-        "url": "https://cuescore.com/player/Daria+Cheprasova/8794583",
-        "name": "Daria Cheprasova"
       }
     ],
     "teamB": [
@@ -13168,8 +13272,8 @@ export default [
         "name": "Matt Penrice"
       },
       {
-        "url": "https://cuescore.com/player/Greg+Richiuso/19517899",
-        "name": "Greg Richiuso"
+        "url": "https://cuescore.com/player/Greg+R/19517899",
+        "name": "Greg R"
       },
       {
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
