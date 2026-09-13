@@ -16,12 +16,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: true # allows the job to push changes back
 
       - name: Use Node.js 22+
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v5
         with:
           node-version: '22.17.0'
 
