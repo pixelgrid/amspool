@@ -359,6 +359,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -542,6 +546,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -1316,6 +1324,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -1379,6 +1391,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -2166,6 +2182,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -2344,6 +2364,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -2977,6 +3001,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -3301,6 +3329,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -3778,6 +3810,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -4272,6 +4308,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -4589,6 +4629,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -5195,6 +5239,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -5430,6 +5478,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -6148,6 +6200,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -6211,6 +6267,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -7062,6 +7122,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -7176,6 +7240,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -7865,6 +7933,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -8133,6 +8205,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
@@ -8676,6 +8752,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -9100,6 +9180,10 @@ export default [
         "name": "Dylan van Keulen"
       },
       {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
+      },
+      {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",
         "name": "Victor van Tongeren"
       },
@@ -9473,6 +9557,10 @@ export default [
       {
         "url": "https://cuescore.com/player/Dylan+van+Keulen/1162528",
         "name": "Dylan van Keulen"
+      },
+      {
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "name": "Jan Smeels"
       },
       {
         "url": "https://cuescore.com/player/Victor+van+Tongeren/1162589",

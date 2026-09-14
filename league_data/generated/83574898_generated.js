@@ -344,7 +344,7 @@ export default [
     "playerB": "Brokum",
     "playerAUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "playerBUrl": "https://cuescore.com/team/Brokum/86164435",
-    "startTime": "2026-10-04T10:00:00Z",
+    "startTime": "2026-10-11T10:00:00Z",
     "venueData": {
       "venueName": "Plan B",
       "venueID": "1167894",
@@ -689,7 +689,7 @@ export default [
     "playerB": "Spin Doctors",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
-    "startTime": "2026-10-17T11:00:00Z",
+    "startTime": "2026-10-18T11:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",

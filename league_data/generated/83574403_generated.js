@@ -394,10 +394,6 @@ export default [
         "name": "Lunik Rashrash"
       },
       {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
       },
@@ -832,10 +828,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
         "name": "Lunik Rashrash"
-      },
-      {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
       },
       {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
@@ -1453,10 +1445,6 @@ export default [
         "name": "Lunik Rashrash"
       },
       {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
       },
@@ -2047,10 +2035,6 @@ export default [
         "name": "Lunik Rashrash"
       },
       {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
       },
@@ -2538,10 +2522,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
         "name": "Lunik Rashrash"
-      },
-      {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
       },
       {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
@@ -3252,10 +3232,6 @@ export default [
         "name": "Lunik Rashrash"
       },
       {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
       },
@@ -3613,10 +3589,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
         "name": "Lunik Rashrash"
-      },
-      {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
       },
       {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
@@ -4473,10 +4445,6 @@ export default [
         "name": "Lunik Rashrash"
       },
       {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
       },
@@ -4676,10 +4644,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
         "name": "Lunik Rashrash"
-      },
-      {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
       },
       {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
@@ -5694,10 +5658,6 @@ export default [
         "name": "Lunik Rashrash"
       },
       {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
       },
@@ -5743,10 +5703,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
         "name": "Lunik Rashrash"
-      },
-      {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
       },
       {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
@@ -6812,10 +6768,6 @@ export default [
         "name": "Lunik Rashrash"
       },
       {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
       },
@@ -6986,10 +6938,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
         "name": "Lunik Rashrash"
-      },
-      {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
       },
       {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
@@ -7895,10 +7843,6 @@ export default [
         "name": "Lunik Rashrash"
       },
       {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
       },
@@ -8195,10 +8139,6 @@ export default [
       {
         "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
         "name": "Lunik Rashrash"
-      },
-      {
-        "url": "https://cuescore.com/player/Willy+White/1703554",
-        "name": "Willy White"
       },
       {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
