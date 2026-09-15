@@ -217,7 +217,8 @@ span.score {
 }
 
 .table-scroll {
-  overflow-x: auto;
+  max-height: calc(min(700px, 90vh) - 74px);
+  overflow: auto;
 }
 
 .league-table {
@@ -254,7 +255,7 @@ span.score {
 }
 
 .league-table tbody .current-team {
-  background: #fff0c2;
+  background: #f0f0f0;
   font-weight: 700;
 }
 

@@ -61,13 +61,16 @@ export default function GameRow({
    scoreA = null;
    scoreB = null;
   }
+
+  const standingA = standings?.find(team => team.teamName === playerA)?.position;
+  const standingB = standings?.find(team => team.teamName === playerB)?.position;
     
   return <>
   <div className={`game ${status}`}>
     <VenueLogo venueId={venueId} />
     <div className={`game-details match-${matchId}`}>
       <div className="comp-name"><a href={`${tournamentUrl}#match-${matchno}`}>{tournament}</a> </div>
-      <div><a href={playerAUrl}>{playerA}</a> <strong className="scoreA">{scoreA}</strong> - <strong  className="scoreB">{scoreB}</strong> <a href={playerBUrl}>{playerB}</a></div>
+      <div><a href={playerAUrl}>{playerA} ({standingA})</a> <strong className="scoreA">{scoreA}</strong> - <strong  className="scoreB">{scoreB}</strong> <a href={playerBUrl}>{playerB} ({standingB})</a></div>
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
     </div>
     <div className="actions">
