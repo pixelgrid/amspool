@@ -209,6 +209,7 @@ span.score {
 }
 
 .close-table {
+  color: black;
   padding: 5px 9px;
   border: 1px solid gray;
   border-radius: 2px;

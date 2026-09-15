@@ -1,4 +1,15 @@
+import {useEffect} from 'react';
+
 export default function LeagueTable({standings = [], teamNames, onClose}) {
+  useEffect(() => {
+    const originalOverflow = document.body.style.overflow;
+    document.body.style.overflow = 'hidden';
+
+    return () => {
+      document.body.style.overflow = originalOverflow;
+    };
+  }, []);
+
   return <div className="table-modal" role="presentation" onClick={onClose}>
     <div className="table-dialog" role="dialog" aria-modal="true" aria-labelledby="league-table-title" onClick={event => event.stopPropagation()}>
       <div className="table-dialog-header">
