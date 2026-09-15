@@ -1,5 +1,6 @@
-import {use, useState} from 'react'
+import {useState} from 'react'
 import IndividualMatches from "./individual-matches";
+import LeagueTable from './league-table.jsx';
 import { useIndividualMatchData } from "../hooks/fetch-match-data";
 import VenueLogo from '../components/venue-logo.jsx'
 import { useMatchUpdates } from '../context/match-context.jsx';
@@ -23,10 +24,12 @@ export default function GameRow({
   tournamentId, 
   matchId,
   teamA,
-  teamB
+  teamB,
+  standings
 }){
   const [showDetails, setShowDetails] = useState(false);
   const [showTeams, setShowTeams] = useState(false);
+  const [showTable, setShowTable] = useState(false);
   const {matchUpdates} = useMatchUpdates();
   const individualMatches = useIndividualMatchData(shouldFetch, tournamentId, matchId)
   const updates = matchUpdates[matchId] || {};
@@ -67,12 +70,14 @@ export default function GameRow({
       <div><a href={playerAUrl}>{playerA}</a> <strong className="scoreA">{scoreA}</strong> - <strong  className="scoreB">{scoreB}</strong> <a href={playerBUrl}>{playerB}</a></div>
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
     </div>
-    <div class="actions">
-      <span className="showteams" onClick={() => setShowTeams(c => !c)}>See teams</span>
-      {['playing', 'finished'].includes(status) && <span className="showmore" onClick={() => setShowDetails(c => !c)}>See matches</span>}
+    <div className="actions">
+      <button className="showteams" onClick={() => setShowTeams(c => !c)}>See teams</button>
+      {['playing', 'finished'].includes(status) && <button className="showmore" onClick={() => setShowDetails(c => !c)}>See matches</button>}
+      <button className="showtable" onClick={() => setShowTable(true)}>See table</button>
     </div>
   </div>
   {showTeams && <div className="teammembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}
   {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} />}
+  {showTable && <LeagueTable standings={standings} teamNames={[playerA, playerB]} onClose={() => setShowTable(false)} />}
   </>
 }

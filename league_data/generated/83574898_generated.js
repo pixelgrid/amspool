@@ -1,4 +1,4 @@
-export default [
+export default Object.assign([
   {
     "playerA": "Mokum Oost",
     "playerB": "Spin Doctors",
@@ -139,6 +139,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
     "startTime": "2026-09-27T11:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -755,6 +760,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
     "startTime": "2026-10-17T11:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -1375,6 +1385,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Spin+Doctors/1172481",
     "startTime": "2026-11-22T12:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -1999,6 +2014,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Maan+%2526+de+sterren/83759572",
     "startTime": "2026-12-06T12:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -2619,6 +2639,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Brokum/86164435",
     "startTime": "2027-01-24T12:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -3657,6 +3682,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
     "startTime": "2027-02-20T12:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -4411,6 +4441,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "startTime": "2027-03-20T12:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -5222,6 +5257,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "startTime": "2027-05-23T11:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -5972,6 +6012,11 @@ export default [
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "startTime": "2027-06-13T11:00:00Z",
+    "venueData": {
+      "venueName": "Poolcentrum Boven 't IJ",
+      "venueID": 1172427,
+      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+    },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
     "tournamentId": 83574898,
@@ -6164,4 +6209,115 @@ export default [
       }
     ]
   }
-]
+], { standings: [
+  {
+    "position": 1,
+    "teamName": "Spin Doctors",
+    "teamId": 1172481,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 2,
+    "teamName": "Fast and Faster",
+    "teamId": 30160531,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Boven 't IJ",
+    "teamId": 83804128,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 4,
+    "teamName": "Maan & de sterren",
+    "teamId": 83759572,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 5,
+    "teamName": "The Magicians",
+    "teamId": 9155022,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 6,
+    "teamName": "Brokum",
+    "teamId": 86164435,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 7,
+    "teamName": "Padoc 🥇",
+    "teamId": 2890074,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 8,
+    "teamName": "De bende van Noord",
+    "teamId": 6556590,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 9,
+    "teamName": "Sharp Shooters",
+    "teamId": 9202001,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 10,
+    "teamName": "Mokum Oost",
+    "teamId": 84039106,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  }
+] })

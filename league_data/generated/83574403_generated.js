@@ -1,4 +1,4 @@
-export default [
+export default Object.assign([
   {
     "playerA": "Rising Legends",
     "playerB": "Pat’s Purple Sinners",
@@ -8519,4 +8519,181 @@ export default [
       }
     ]
   }
-]
+], { standings: [
+  {
+    "position": 1,
+    "teamName": "Pat’s Purple Sinners",
+    "teamId": 1176664,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 2,
+    "teamName": "Plan Babes",
+    "teamId": 29149219,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Mokumse mikmak",
+    "teamId": 63569641,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 4,
+    "teamName": "Nice Rack",
+    "teamId": 1176648,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 5,
+    "teamName": "Beunhazen Boven 't IJ",
+    "teamId": 17929510,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 6,
+    "teamName": "Natural Spawn Killers",
+    "teamId": 6229472,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 7,
+    "teamName": "Ball in Hand",
+    "teamId": 64415623,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 8,
+    "teamName": "Moko Loco",
+    "teamId": 63272905,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 9,
+    "teamName": "Mokum's Running English",
+    "teamId": 61336255,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 10,
+    "teamName": "Mokum Sixpack",
+    "teamId": 64354837,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 11,
+    "teamName": "Smokum’s Finest",
+    "teamId": 84070885,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 12,
+    "teamName": "Wartburgia",
+    "teamId": 1176667,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 13,
+    "teamName": "Scratch That!",
+    "teamId": 62000242,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 14,
+    "teamName": "Veel Stress!!",
+    "teamId": 86837605,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 15,
+    "teamName": "Just the tip.",
+    "teamId": 47449828,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 16,
+    "teamName": "Rising Legends",
+    "teamId": 84677638,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  }
+] })

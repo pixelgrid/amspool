@@ -45,6 +45,30 @@ export async function fetch_league_api_data(tournamentID){
   const json = await req.json();
 
   const matches = json.matches;
+    const completedMatches = matches
+        .filter(match => match.matchstatus === 'finished')
+        .sort((a, b) => new Date(a.starttime) - new Date(b.starttime));
+    const lastFiveByTeam = completedMatches.reduce((acc, match) => {
+        const matchResult = match.winner || (match.scoreA === match.scoreB ? 0 : match.scoreA > match.scoreB ? 1 : 2);
+        for (const [team, teamNumber] of [[match.playerA, 1], [match.playerB, 2]]) {
+            if (!acc[team.teamId]) acc[team.teamId] = [];
+            const result = matchResult === 0 ? 'T' : matchResult === teamNumber ? 'W' : 'L';
+            acc[team.teamId].push(result);
+            acc[team.teamId] = acc[team.teamId].slice(-5);
+        }
+        return acc;
+    }, {});
+    const standings = Object.values(json.standings || {}).flat().map(({position, played, wins, losses, ties, points, player}) => ({
+        position,
+        teamName: player.name,
+        teamId: player.teamId,
+        played,
+        wins,
+        losses,
+        ties,
+                points,
+                lastFive: lastFiveByTeam[player.teamId] || []
+    }));
   const matchesByID = matches.reduce((acc, curr) => {
     curr.tournamentUrl = json.url;
     curr.tournamentName = json.name;
@@ -52,7 +76,7 @@ export async function fetch_league_api_data(tournamentID){
     acc[curr.matchno] = curr
     return acc
   }, {})
-  return matchesByID
+    return {matches: matchesByID, standings}
 }
 
 async function fetch_league_teams_data(tournamentID){
@@ -101,7 +125,7 @@ async function main() {
     // for each league
     for(let i = 0; i < apiData.length; i++){
         const teamToVenueMapping = htmlData[i]
-        const apiRes = apiData[i]
+        const {matches: apiRes, standings} = apiData[i]
         const league_data = [];
 
         // for each game in the league
@@ -114,7 +138,12 @@ async function main() {
             const playerAId = matchData.playerA.teamId;
             const playerBId = matchData.playerB.teamId;
             const startTime = matchData.starttime;
-            const venueData = teamToVenueMapping[playerA];
+            const venue = matchData.playerA.venue || matchData.playerB.venue;
+            const venueData = teamToVenueMapping[playerA] || (venue && {
+                venueName: venue.name,
+                venueID: venue.venueId,
+                venueUrl: venue.url
+            });
             const tournamentUrl = matchData.tournamentUrl;
             const tournamentName = matchData.tournamentName;
             const matchId = matchData.matchId;
@@ -141,7 +170,7 @@ async function main() {
                 teamB: formatedTeamMembers[playerBId]
             })
         }
-        writeToDisk(league_data, leagueIDs[i]);
+        writeToDisk(league_data, leagueIDs[i], standings);
     }
     /*
     const matchData = await Promise.all(finishedMatches.map(fetch_match_html_data));
@@ -154,10 +183,10 @@ function logAndExit(data){
     process.exit(0);
 }
 
-function writeToDisk(data, league_id){
+function writeToDisk(data, league_id, standings){
     const fileName = `./league_data/generated/${league_id}_generated.js`;
     try {
-        fs.writeFileSync(fileName, `export default ${JSON.stringify(data, null, 2)}`, 'utf8');
+        fs.writeFileSync(fileName, `export default Object.assign(${JSON.stringify(data, null, 2)}, { standings: ${JSON.stringify(standings, null, 2)} })`, 'utf8');
         console.log('Data successfully saved to disk');
     } catch (error) {
         console.log('An error has occurred ', error);

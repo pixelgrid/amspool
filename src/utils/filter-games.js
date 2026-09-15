@@ -20,8 +20,10 @@ export function find_games_for_date(date){
       const startTime = startTimeDt.toISOString().split('T')[0]
       if(startTimeDt <= todayDt)
         match.shouldFetch = true;
-      if (startTime === targetDate)
-       league_games.push(match)
+      if (startTime === targetDate) {
+        match.standings = league.standings;
+        league_games.push(match);
+      }
     }
     if(league_games.length > 0)
       results.push(league_games)

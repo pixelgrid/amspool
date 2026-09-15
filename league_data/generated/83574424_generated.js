@@ -1,4 +1,4 @@
-export default [
+export default Object.assign([
   {
     "playerA": "Restless",
     "playerB": "Mokum Remastered",
@@ -9811,4 +9811,141 @@ export default [
       }
     ]
   }
-]
+], { standings: [
+  {
+    "position": 1,
+    "teamName": "Mooie Ballen",
+    "teamId": 1176520,
+    "played": 1,
+    "wins": 1,
+    "losses": 0,
+    "ties": 0,
+    "points": 6,
+    "lastFive": [
+      "W"
+    ]
+  },
+  {
+    "position": 2,
+    "teamName": "Mokumse Maaiers",
+    "teamId": 1176531,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0,
+    "points": 1,
+    "lastFive": [
+      "L"
+    ]
+  },
+  {
+    "position": 3,
+    "teamName": "Purple Reign",
+    "teamId": 1176530,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Restless",
+    "teamId": 1176532,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Ongewenst Effect",
+    "teamId": 1176582,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Mokum Mavericks",
+    "teamId": 1266638,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Mokum Mayhem",
+    "teamId": 2852247,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Hoe kan dat nou?!",
+    "teamId": 2926212,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Alkmaar Noord",
+    "teamId": 8072532,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Quality Strokes",
+    "teamId": 8092256,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Mokum Magic",
+    "teamId": 62955652,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "Mokum Remastered",
+    "teamId": 86022103,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  }
+] })

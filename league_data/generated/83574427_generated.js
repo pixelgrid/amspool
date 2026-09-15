@@ -1,4 +1,4 @@
-export default [
+export default Object.assign([
   {
     "playerA": "Noord Boven t IJ 26/27",
     "playerB": "Team Volendam",
@@ -13285,4 +13285,175 @@ export default [
       }
     ]
   }
-]
+], { standings: [
+  {
+    "position": 1,
+    "teamName": "The Pocketeers",
+    "teamId": 46973665,
+    "played": 1,
+    "wins": 1,
+    "losses": 0,
+    "ties": 0,
+    "points": 6,
+    "lastFive": [
+      "W"
+    ]
+  },
+  {
+    "position": 2,
+    "teamName": "Lost & Found In Mokum",
+    "teamId": 1176481,
+    "played": 1,
+    "wins": 1,
+    "losses": 0,
+    "ties": 0,
+    "points": 5,
+    "lastFive": [
+      "W"
+    ]
+  },
+  {
+    "position": 2,
+    "teamName": "@mokum",
+    "teamId": 46648447,
+    "played": 1,
+    "wins": 1,
+    "losses": 0,
+    "ties": 0,
+    "points": 5,
+    "lastFive": [
+      "W"
+    ]
+  },
+  {
+    "position": 2,
+    "teamName": "Smoke ‘Em",
+    "teamId": 82590088,
+    "played": 1,
+    "wins": 1,
+    "losses": 0,
+    "ties": 0,
+    "points": 5,
+    "lastFive": [
+      "W"
+    ]
+  },
+  {
+    "position": 5,
+    "teamName": "Rackless in Mokum",
+    "teamId": 1176605,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0,
+    "points": 2,
+    "lastFive": [
+      "L"
+    ]
+  },
+  {
+    "position": 5,
+    "teamName": "Cue Fighters",
+    "teamId": 29599939,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0,
+    "points": 2,
+    "lastFive": [
+      "L"
+    ]
+  },
+  {
+    "position": 5,
+    "teamName": "Breaking Badly",
+    "teamId": 62160400,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0,
+    "points": 2,
+    "lastFive": [
+      "L"
+    ]
+  },
+  {
+    "position": 8,
+    "teamName": "Mokumse zwendelaars",
+    "teamId": 84472585,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0,
+    "points": 1,
+    "lastFive": [
+      "L"
+    ]
+  },
+  {
+    "position": 9,
+    "teamName": "Royston Vasey Social Club",
+    "teamId": 1176608,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 9,
+    "teamName": "Team Volendam",
+    "teamId": 3596529,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 9,
+    "teamName": "Noord Boven t IJ 26/27",
+    "teamId": 9200494,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 9,
+    "teamName": "No Pro's",
+    "teamId": 30756547,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 9,
+    "teamName": "No ExCues",
+    "teamId": 31196614,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 9,
+    "teamName": "NOORD GESTOORD",
+    "teamId": 46515838,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  }
+] })

@@ -1,4 +1,4 @@
-export default [
+export default Object.assign([
   {
     "playerA": "The Wizards Crypto.com",
     "playerB": "H.O.B. Most Wanted",
@@ -4087,4 +4087,93 @@ export default [
       }
     ]
   }
-]
+], { standings: [
+  {
+    "position": 1,
+    "teamName": "H.O.B. Most Wanted",
+    "teamId": 46514794,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 2,
+    "teamName": "Strijders",
+    "teamId": 1172428,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 3,
+    "teamName": "GW Billiards Geldrop",
+    "teamId": 63855895,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 4,
+    "teamName": "Mokumse Straatratten",
+    "teamId": 62184268,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 5,
+    "teamName": "Focus Billiards 1",
+    "teamId": 62655247,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 6,
+    "teamName": "Hustlin PCD",
+    "teamId": 6221102,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 7,
+    "teamName": "Shinobi",
+    "teamId": 1172425,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 8,
+    "teamName": "The Wizards Crypto.com",
+    "teamId": 1172404,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  }
+] })
