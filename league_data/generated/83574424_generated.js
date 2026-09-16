@@ -256,6 +256,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -716,6 +720,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -1073,6 +1081,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -1681,6 +1693,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -1884,6 +1900,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -2658,6 +2678,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -2695,6 +2719,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -3524,6 +3552,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -3686,6 +3718,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -4343,6 +4379,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -4647,6 +4687,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -5196,6 +5240,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -5590,6 +5638,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -6005,6 +6057,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -6557,6 +6613,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -6824,6 +6884,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -7530,6 +7594,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -7631,6 +7699,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -8456,6 +8528,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -8566,6 +8642,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -9279,6 +9359,10 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
       },
       {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
+      },
+      {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell"
       },
@@ -9531,6 +9615,10 @@ export default Object.assign([
       {
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670"
+      },
+      {
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "name": "Rienus Gennissen"
       },
       {
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
@@ -9826,7 +9914,46 @@ export default Object.assign([
     ]
   },
   {
-    "position": 2,
+    "position": 1,
+    "teamName": "Mokum Mayhem",
+    "teamId": 2852247,
+    "played": 1,
+    "wins": 1,
+    "losses": 0,
+    "ties": 0,
+    "points": 6,
+    "lastFive": [
+      "W"
+    ]
+  },
+  {
+    "position": 3,
+    "teamName": "Alkmaar Noord",
+    "teamId": 8072532,
+    "played": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 1,
+    "points": 3,
+    "lastFive": [
+      "T"
+    ]
+  },
+  {
+    "position": 3,
+    "teamName": "Mokum Magic",
+    "teamId": 62955652,
+    "played": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 1,
+    "points": 3,
+    "lastFive": [
+      "T"
+    ]
+  },
+  {
+    "position": 5,
     "teamName": "Mokumse Maaiers",
     "teamId": 1176531,
     "played": 1,
@@ -9839,7 +9966,20 @@ export default Object.assign([
     ]
   },
   {
-    "position": 3,
+    "position": 5,
+    "teamName": "Ongewenst Effect",
+    "teamId": 1176582,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0,
+    "points": 1,
+    "lastFive": [
+      "L"
+    ]
+  },
+  {
+    "position": 7,
     "teamName": "Purple Reign",
     "teamId": 1176530,
     "played": 0,
@@ -9850,7 +9990,7 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 3,
+    "position": 7,
     "teamName": "Restless",
     "teamId": 1176532,
     "played": 0,
@@ -9861,18 +10001,7 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 3,
-    "teamName": "Ongewenst Effect",
-    "teamId": 1176582,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 3,
+    "position": 7,
     "teamName": "Mokum Mavericks",
     "teamId": 1266638,
     "played": 0,
@@ -9883,18 +10012,7 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 3,
-    "teamName": "Mokum Mayhem",
-    "teamId": 2852247,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 3,
+    "position": 7,
     "teamName": "Hoe kan dat nou?!",
     "teamId": 2926212,
     "played": 0,
@@ -9905,18 +10023,7 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 3,
-    "teamName": "Alkmaar Noord",
-    "teamId": 8072532,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 3,
+    "position": 7,
     "teamName": "Quality Strokes",
     "teamId": 8092256,
     "played": 0,
@@ -9927,18 +10034,7 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 3,
-    "teamName": "Mokum Magic",
-    "teamId": 62955652,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 3,
+    "position": 7,
     "teamName": "Mokum Remastered",
     "teamId": 86022103,
     "played": 0,

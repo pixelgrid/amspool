@@ -77,7 +77,7 @@ export default Object.assign([
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Plan+Babes/29149219",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-09-16T18:00:00Z",
+    "startTime": "2026-09-16T17:51:01Z",
     "venueData": {
       "venueName": "PlanB",
       "venueID": "1343989",
@@ -390,12 +390,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -826,12 +826,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -1441,12 +1441,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -2031,12 +2031,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -2520,12 +2520,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -3228,12 +3228,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -3587,12 +3587,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -4441,12 +4441,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -4642,12 +4642,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -5654,12 +5654,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -5701,12 +5701,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -6764,12 +6764,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -6936,12 +6936,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -7839,12 +7839,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -8137,12 +8137,12 @@ export default Object.assign([
         "url": "https://cuescore.com/player/Rory+Jones/1163435"
       },
       {
-        "url": "https://cuescore.com/player/Lunik+Rashrash/35720812",
-        "name": "Lunik Rashrash"
-      },
-      {
         "url": "https://cuescore.com/player/Gary+Constable/1163910",
         "name": "Gary Constable"
+      },
+      {
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash"
       },
       {
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
@@ -8522,41 +8522,86 @@ export default Object.assign([
 ], { standings: [
   {
     "position": 1,
-    "teamName": "Pat’s Purple Sinners",
-    "teamId": 1176664,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 2,
-    "teamName": "Plan Babes",
-    "teamId": 29149219,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 3,
-    "teamName": "Mokumse mikmak",
-    "teamId": 63569641,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 4,
     "teamName": "Nice Rack",
     "teamId": 1176648,
+    "played": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 1,
+    "points": 3,
+    "lastFive": [
+      "T"
+    ]
+  },
+  {
+    "position": 1,
+    "teamName": "Pat’s Purple Sinners",
+    "teamId": 1176664,
+    "played": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 1,
+    "points": 3,
+    "lastFive": [
+      "T"
+    ]
+  },
+  {
+    "position": 1,
+    "teamName": "Scratch That!",
+    "teamId": 62000242,
+    "played": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 1,
+    "points": 3,
+    "lastFive": [
+      "T"
+    ]
+  },
+  {
+    "position": 1,
+    "teamName": "Mokum Sixpack",
+    "teamId": 64354837,
+    "played": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 1,
+    "points": 3,
+    "lastFive": [
+      "T"
+    ]
+  },
+  {
+    "position": 1,
+    "teamName": "Ball in Hand",
+    "teamId": 64415623,
+    "played": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 1,
+    "points": 3,
+    "lastFive": [
+      "T"
+    ]
+  },
+  {
+    "position": 1,
+    "teamName": "Rising Legends",
+    "teamId": 84677638,
+    "played": 1,
+    "wins": 0,
+    "losses": 0,
+    "ties": 1,
+    "points": 3,
+    "lastFive": [
+      "T"
+    ]
+  },
+  {
+    "position": 7,
+    "teamName": "Wartburgia",
+    "teamId": 1176667,
     "played": 0,
     "wins": 0,
     "losses": 0,
@@ -8565,18 +8610,7 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 5,
-    "teamName": "Beunhazen Boven 't IJ",
-    "teamId": 17929510,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 6,
+    "position": 7,
     "teamName": "Natural Spawn Killers",
     "teamId": 6229472,
     "played": 0,
@@ -8588,8 +8622,8 @@ export default Object.assign([
   },
   {
     "position": 7,
-    "teamName": "Ball in Hand",
-    "teamId": 64415623,
+    "teamName": "Beunhazen Boven 't IJ",
+    "teamId": 17929510,
     "played": 0,
     "wins": 0,
     "losses": 0,
@@ -8598,9 +8632,9 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 8,
-    "teamName": "Moko Loco",
-    "teamId": 63272905,
+    "position": 7,
+    "teamName": "Plan Babes",
+    "teamId": 29149219,
     "played": 0,
     "wins": 0,
     "losses": 0,
@@ -8609,73 +8643,7 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 9,
-    "teamName": "Mokum's Running English",
-    "teamId": 61336255,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 10,
-    "teamName": "Mokum Sixpack",
-    "teamId": 64354837,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 11,
-    "teamName": "Smokum’s Finest",
-    "teamId": 84070885,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 12,
-    "teamName": "Wartburgia",
-    "teamId": 1176667,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 13,
-    "teamName": "Scratch That!",
-    "teamId": 62000242,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 14,
-    "teamName": "Veel Stress!!",
-    "teamId": 86837605,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": []
-  },
-  {
-    "position": 15,
+    "position": 7,
     "teamName": "Just the tip.",
     "teamId": 47449828,
     "played": 0,
@@ -8686,9 +8654,53 @@ export default Object.assign([
     "lastFive": []
   },
   {
-    "position": 16,
-    "teamName": "Rising Legends",
-    "teamId": 84677638,
+    "position": 7,
+    "teamName": "Mokum's Running English",
+    "teamId": 61336255,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 7,
+    "teamName": "Moko Loco",
+    "teamId": 63272905,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 7,
+    "teamName": "Mokumse mikmak",
+    "teamId": 63569641,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 7,
+    "teamName": "Smokum’s Finest",
+    "teamId": 84070885,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": []
+  },
+  {
+    "position": 7,
+    "teamName": "Veel Stress!!",
+    "teamId": 86837605,
     "played": 0,
     "wins": 0,
     "losses": 0,
