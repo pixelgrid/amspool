@@ -72,7 +72,7 @@ export default function GameRow({
     </div>
     <div className="actions">
       <button className="showteams" onClick={() => setShowTeams(c => !c)}>See teams</button>
-      {['playing', 'finished'].includes(status) && <button className="showmore" onClick={() => setShowDetails(c => !c)}>See matches</button>}
+      <button className="showmore" disabled={!['playing', 'finished'].includes(status) || individualMatches.length === 0} onClick={() => setShowDetails(c => !c)}>See matches</button>
       <button className="showtable" onClick={() => setShowTable(true)}>See table</button>
     </div>
   </div>
