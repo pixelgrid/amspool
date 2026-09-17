@@ -1,13 +1,18 @@
-import {useState, useEffect} from 'react';
+import {useEffect} from 'react';
 import { extractDataFromHTML } from '../utils/extract-match-details-from-html.js'
+import { useMatchUpdates } from '../context/match-context.jsx';
 const URL_PROXY_BASE64 = 'aHR0cHM6Ly9jb3JzLXByb3h5LW5pbmUtdmlyaWQudmVyY2VsLmFwcC9wcm94eT91cmw9'
 const decodeBase64 = (value) =>
   typeof globalThis.atob === 'function'
     ? globalThis.atob(value)
-    : Buffer.from(value, 'base64').toString('utf-8')
+    : globalThis.Buffer.from(value, 'base64').toString('utf-8')
 
 export function useIndividualMatchData(shouldFetch, tournamentId, matchId){
-  const [matches, setMatches] = useState([]);
+  const { matchUpdates, individualMatches, storeIndividualMatches } = useMatchUpdates();
+  const matches = (individualMatches[matchId] || []).map(match => ({
+    ...match,
+    ...(matchUpdates[match.matchId] || {})
+  }));
 
   useEffect(() => {
     const fetchHtml = async (tournamentId, matchId) => {
@@ -17,11 +22,11 @@ export function useIndividualMatchData(shouldFetch, tournamentId, matchId){
         const html = await res.text();
         const parser = new DOMParser();
         const htmlTree = parser.parseFromString(html, 'text/html');
-        setMatches(extractDataFromHTML(htmlTree))
+        storeIndividualMatches(matchId, extractDataFromHTML(htmlTree))
     }
-    if(shouldFetch){
+    if(shouldFetch && !individualMatches[matchId]){
       fetchHtml(tournamentId, matchId);
     }
-  }, []);
+  }, [shouldFetch, tournamentId, matchId, individualMatches, storeIndividualMatches]);
   return matches;
 }
