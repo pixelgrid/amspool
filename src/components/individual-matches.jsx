@@ -16,7 +16,7 @@ export default function IndividualMatches({matches}){
       <DisciplineImage discipline={match.discipline} />
       <span>RT{match.raceTo}</span>
       <span className={`player A ${selectedPlayer === match.playerA ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerA)}>{match.playerA}</span>
-      <span className="score"><span className="scoreA">{scoreA}</span> - <span className="scoreB">{scoreB}</span></span>
+      <span className="score"><span className="scoreA">{scoreA}</span><span className="score-separator"> - </span><span className="scoreB">{scoreB}</span></span>
       <span className={`player B ${selectedPlayer === match.playerB ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerB)}>{match.playerB}</span>
     </div>
   })}</div>
