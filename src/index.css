@@ -123,6 +123,16 @@ span.score {
 .individualMatch.finished {
   background: rgb(36, 58, 116);
   color: white;
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+.individualMatch.finished.winner-1 {
+  border-left-color: rgb(255, 152, 0);
+  border-left-width: 5px;
+}
+.individualMatch.finished.winner-2 {
+  border-right-color: rgb(255, 152, 0);
+  border-right-width: 5px;
 }
 .individualMatch.playing {
   background: rgb(70, 125, 247);
