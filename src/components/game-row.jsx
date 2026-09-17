@@ -24,8 +24,7 @@ export default function GameRow({
   tournamentId, 
   matchId,
   teamA,
-  teamB,
-  standings
+  teamB
 }){
   const [showDetails, setShowDetails] = useState(false);
   const [showTeams, setShowTeams] = useState(false);
@@ -62,15 +61,13 @@ export default function GameRow({
    scoreB = null;
   }
 
-  const standingA = standings?.find(team => team.teamName === playerA)?.position;
-  const standingB = standings?.find(team => team.teamName === playerB)?.position;
-    
+  
   return <>
   <div className={`game ${status}`}>
     <VenueLogo venueId={venueId} />
     <div className={`game-details match-${matchId}`}>
       <div className="comp-name"><a href={`${tournamentUrl}#match-${matchno}`}>{tournament}</a> </div>
-      <div><a href={playerAUrl}>{playerA} ({standingA})</a> <strong className="scoreA">{scoreA}</strong> - <strong  className="scoreB">{scoreB}</strong> <a href={playerBUrl}>{playerB} ({standingB})</a></div>
+      <div><a href={playerAUrl}>{playerA}</a> <strong className="scoreA">{scoreA}</strong> - <strong  className="scoreB">{scoreB}</strong> <a href={playerBUrl}>{playerB}</a></div>
       <div className="organizer"><a href={venueUrl}>{venue}</a></div>
     </div>
     <div className="actions">
@@ -81,6 +78,6 @@ export default function GameRow({
   </div>
   {showTeams && <div className="teammembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}
   {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} />}
-  {showTable && <LeagueTable standings={standings} teamNames={[playerA, playerB]} onClose={() => setShowTable(false)} />}
+  {showTable && <LeagueTable tournamentId={tournamentId} teamNames={[playerA, playerB]} onClose={() => setShowTable(false)} />}
   </>
 }

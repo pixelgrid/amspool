@@ -1,6 +1,75 @@
-import {useEffect} from 'react';
+import {useEffect, useState} from 'react';
 
-export default function LeagueTable({standings = [], teamNames, onClose}) {
+const standingsRequests = new Map();
+
+function fetchStandings(tournamentId) {
+  const existingRequest = standingsRequests.get(tournamentId);
+  if (existingRequest) return existingRequest;
+
+  const request = fetch(`https://api.cuescore.com/tournament/?id=${tournamentId}`)
+    .then(response => {
+      if (!response.ok) throw new Error(`Request failed: ${response.status}`);
+      return response.json();
+    });
+  standingsRequests.set(tournamentId, request);
+  request.then(
+    () => standingsRequests.delete(tournamentId),
+    () => standingsRequests.delete(tournamentId)
+  );
+  return request;
+}
+
+function getStandings(json) {
+  const completedMatches = json.matches
+    .filter(match => match.matchstatus === 'finished')
+    .sort((a, b) => new Date(a.starttime) - new Date(b.starttime));
+  const lastFiveByTeam = completedMatches.reduce((acc, match) => {
+    const matchResult = match.winner || (match.scoreA === match.scoreB ? 0 : match.scoreA > match.scoreB ? 1 : 2);
+    for (const [team, teamNumber] of [[match.playerA, 1], [match.playerB, 2]]) {
+      if (!acc[team.teamId]) acc[team.teamId] = [];
+      const result = matchResult === 0 ? 'T' : matchResult === teamNumber ? 'W' : 'L';
+      acc[team.teamId].push(result);
+      acc[team.teamId] = acc[team.teamId].slice(-5);
+    }
+    return acc;
+  }, {});
+
+  return Object.values(json.standings || {}).flat().map(({position, played, wins, losses, ties, points, player}) => ({
+    position,
+    teamName: player.name,
+    teamId: player.teamId,
+    played,
+    wins,
+    losses,
+    ties,
+    points,
+    lastFive: lastFiveByTeam[player.teamId] || []
+  }));
+}
+
+export default function LeagueTable({tournamentId, teamNames, onClose}) {
+  const [standings, setStandings] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [error, setError] = useState(null);
+
+  useEffect(() => {
+    let active = true;
+    fetchStandings(tournamentId)
+      .then(json => {
+        if (active) setStandings(getStandings(json));
+      })
+      .catch(fetchError => {
+        if (active) setError(fetchError);
+      })
+      .finally(() => {
+        if (active) setIsLoading(false);
+      });
+
+    return () => {
+      active = false;
+    };
+  }, [tournamentId]);
+
   useEffect(() => {
     const originalOverflow = document.body.style.overflow;
     document.body.style.overflow = 'hidden';
@@ -22,6 +91,8 @@ export default function LeagueTable({standings = [], teamNames, onClose}) {
             <tr><th>#</th><th>Team</th><th>G</th><th>W</th><th>L</th><th>T</th><th>P</th><th>Last 5</th></tr>
           </thead>
           <tbody>
+            {error && <tr><td colSpan="8">Unable to load the league table.</td></tr>}
+            {isLoading && <tr><td colSpan="8"><div className="table-loader" role="status" aria-label="Loading league table"><span className="spinner" /></div></td></tr>}
             {standings.map(team => <tr className={teamNames.includes(team.teamName) ? 'current-team' : ''} key={team.teamId || team.teamName}>
               <td className="table-position">{team.position}</td>
               <th scope="row">{team.teamName}</th>

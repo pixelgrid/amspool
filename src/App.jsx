@@ -92,7 +92,6 @@ function LeagueMatches() {
           tournamentId={g.tournamentId}
           teamA={g.teamA}
           teamB={g.teamB}
-          standings={g.standings}
         />))}
     </div>})
 }

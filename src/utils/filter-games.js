@@ -21,7 +21,6 @@ export function find_games_for_date(date){
       if(startTimeDt <= todayDt)
         match.shouldFetch = true;
       if (startTime === targetDate) {
-        match.standings = league.standings;
         league_games.push(match);
       }
     }
