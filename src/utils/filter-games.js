@@ -8,7 +8,7 @@ import eerste_klasse from '../../league_data/generated/83574424_generated'
 import tweede_klasse from '../../league_data/generated/83574427_generated'
 import derde_klasse from '../../league_data/generated/83574403_generated'
 
-const leagues_list = [eerste_divisie, tweede_divisie, derde_divisie, eerste_klasse, tweede_klasse, derde_klasse];
+const leagues_list = [eredivisie, eerste_divisie, tweede_divisie, derde_divisie, eerste_klasse, tweede_klasse, derde_klasse];
 export function find_games_for_date(date){
   const todayDt = new Date();
   const targetDate = new Date(date).toISOString().split('T')[0]
