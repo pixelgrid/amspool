@@ -501,8 +501,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ]
   },
@@ -678,8 +678,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ],
     "teamB": [
@@ -1698,8 +1698,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ]
   },
@@ -1775,8 +1775,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ]
   },
@@ -2812,8 +2812,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ],
     "teamB": [
@@ -2984,8 +2984,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ]
   },
@@ -3863,8 +3863,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ],
     "teamB": [
@@ -4189,8 +4189,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ]
   },
@@ -4942,8 +4942,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ],
     "teamB": [
@@ -5386,8 +5386,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ]
   },
@@ -6009,8 +6009,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ],
     "teamB": [
@@ -6599,8 +6599,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ]
   },
@@ -7064,8 +7064,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ],
     "teamB": [
@@ -7812,8 +7812,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ]
   },
@@ -8127,8 +8127,8 @@ export default [
         "name": "Elmar Lochtenberg"
       },
       {
-        "url": "https://cuescore.com/player/B.+Lom/1163470",
-        "name": "B. Lom"
+        "url": "https://cuescore.com/player/Bob+B./1163470",
+        "name": "Bob B."
       }
     ],
     "teamB": [
