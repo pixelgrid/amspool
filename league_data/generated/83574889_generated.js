@@ -17,60 +17,74 @@ export default [
     "matchno": "1",
     "teamA": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
@@ -94,60 +108,74 @@ export default [
     "matchno": "2",
     "teamA": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
     ],
     "teamB": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
@@ -171,44 +199,54 @@ export default [
     "matchno": "3",
     "teamA": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
@@ -232,56 +270,69 @@ export default [
     "matchno": "4",
     "teamA": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
@@ -305,56 +356,69 @@ export default [
     "matchno": "5",
     "teamA": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
@@ -378,44 +442,54 @@ export default [
     "matchno": "6",
     "teamA": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
@@ -439,60 +513,74 @@ export default [
     "matchno": "7",
     "teamA": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
@@ -516,60 +604,74 @@ export default [
     "matchno": "8",
     "teamA": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
@@ -593,52 +695,64 @@ export default [
     "matchno": "9",
     "teamA": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
@@ -662,60 +776,74 @@ export default [
     "matchno": "10",
     "teamA": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -739,60 +867,74 @@ export default [
     "matchno": "11",
     "teamA": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
     ],
     "teamB": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
@@ -816,48 +958,59 @@ export default [
     "matchno": "12",
     "teamA": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
@@ -881,44 +1034,54 @@ export default [
     "matchno": "13",
     "teamA": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
@@ -942,64 +1105,79 @@ export default [
     "matchno": "14",
     "teamA": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
@@ -1023,60 +1201,74 @@ export default [
     "matchno": "15",
     "teamA": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
@@ -1100,52 +1292,64 @@ export default [
     "matchno": "16",
     "teamA": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
@@ -1169,52 +1373,64 @@ export default [
     "matchno": "17",
     "teamA": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
@@ -1238,52 +1454,64 @@ export default [
     "matchno": "18",
     "teamA": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
@@ -1307,64 +1535,79 @@ export default [
     "matchno": "19",
     "teamA": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -1388,52 +1631,64 @@ export default [
     "matchno": "20",
     "teamA": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
     ],
     "teamB": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
@@ -1457,60 +1712,74 @@ export default [
     "matchno": "21",
     "teamA": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
     ],
     "teamB": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
@@ -1534,52 +1803,64 @@ export default [
     "matchno": "22",
     "teamA": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
@@ -1603,56 +1884,69 @@ export default [
     "matchno": "23",
     "teamA": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
@@ -1676,52 +1970,64 @@ export default [
     "matchno": "24",
     "teamA": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
@@ -1745,52 +2051,64 @@ export default [
     "matchno": "25",
     "teamA": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
@@ -1814,56 +2132,69 @@ export default [
     "matchno": "26",
     "teamA": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
@@ -1887,44 +2218,54 @@ export default [
     "matchno": "27",
     "teamA": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
@@ -1948,68 +2289,84 @@ export default [
     "matchno": "28",
     "teamA": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -2033,60 +2390,74 @@ export default [
     "matchno": "29",
     "teamA": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -2110,60 +2481,74 @@ export default [
     "matchno": "30",
     "teamA": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
@@ -2187,44 +2572,54 @@ export default [
     "matchno": "31",
     "teamA": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
@@ -2248,56 +2643,69 @@ export default [
     "matchno": "32",
     "teamA": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
@@ -2321,56 +2729,69 @@ export default [
     "matchno": "33",
     "teamA": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
@@ -2394,44 +2815,54 @@ export default [
     "matchno": "34",
     "teamA": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
@@ -2455,60 +2886,74 @@ export default [
     "matchno": "35",
     "teamA": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
     ],
     "teamB": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
@@ -2532,60 +2977,74 @@ export default [
     "matchno": "36",
     "teamA": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -2609,52 +3068,64 @@ export default [
     "matchno": "37",
     "teamA": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
@@ -2678,60 +3149,74 @@ export default [
     "matchno": "38",
     "teamA": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
@@ -2755,60 +3240,74 @@ export default [
     "matchno": "39",
     "teamA": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
@@ -2832,48 +3331,59 @@ export default [
     "matchno": "40",
     "teamA": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
@@ -2897,44 +3407,54 @@ export default [
     "matchno": "41",
     "teamA": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
@@ -2958,64 +3478,79 @@ export default [
     "matchno": "42",
     "teamA": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
     ],
     "teamB": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
@@ -3039,60 +3574,74 @@ export default [
     "matchno": "43",
     "teamA": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -3116,52 +3665,64 @@ export default [
     "matchno": "44",
     "teamA": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
@@ -3185,52 +3746,64 @@ export default [
     "matchno": "45",
     "teamA": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
@@ -3254,52 +3827,64 @@ export default [
     "matchno": "46",
     "teamA": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
@@ -3323,64 +3908,79 @@ export default [
     "matchno": "47",
     "teamA": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
@@ -3404,52 +4004,64 @@ export default [
     "matchno": "48",
     "teamA": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
@@ -3473,60 +4085,74 @@ export default [
     "matchno": "49",
     "teamA": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
@@ -3550,52 +4176,64 @@ export default [
     "matchno": "50",
     "teamA": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
@@ -3619,56 +4257,69 @@ export default [
     "matchno": "51",
     "teamA": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
@@ -3692,52 +4343,64 @@ export default [
     "matchno": "52",
     "teamA": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
     ],
     "teamB": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
@@ -3761,52 +4424,64 @@ export default [
     "matchno": "53",
     "teamA": [
       {
+        "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366"
       },
       {
+        "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips"
       },
       {
+        "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes"
       },
       {
+        "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes"
       },
       {
+        "playerId": 10479064,
         "url": "https://cuescore.com/player/Harry+Royes/10479064",
         "name": "Harry Royes"
       },
       {
+        "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162054,
         "name": "Jeroen van Spronsen",
         "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054"
       },
       {
+        "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty"
       },
       {
+        "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen"
       },
       {
+        "playerId": 1160291,
         "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
         "name": "Mozes Leeflang"
       },
       {
+        "playerId": 1162349,
         "url": "https://cuescore.com/player/Robin+Hospers/1162349",
         "name": "Robin Hospers"
       },
       {
+        "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko"
       }
@@ -3830,56 +4505,69 @@ export default [
     "matchno": "54",
     "teamA": [
       {
+        "playerId": 1160636,
         "name": "Sander van Houwelingen",
         "url": "https://cuescore.com/player/Sander+van+Houwelingen/1160636"
       },
       {
+        "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
         "name": "Gerrit van der Velden"
       },
       {
+        "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
         "name": "Wilko Moraal"
       },
       {
+        "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
         "name": "Edwin Boin"
       },
       {
+        "playerId": 1161408,
         "url": "https://cuescore.com/player/Henk+de+Ruiter/1161408",
         "name": "Henk de Ruiter"
       },
       {
+        "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
         "name": "Edward Dantz"
       }
     ],
     "teamB": [
       {
+        "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623"
       },
       {
+        "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman"
       },
       {
+        "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin"
       },
       {
+        "playerId": 1187403,
         "url": "https://cuescore.com/player/Bauke+de+With/1187403",
         "name": "Bauke de With"
       },
       {
+        "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops"
       },
       {
+        "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan"
       },
       {
+        "playerId": 1187507,
         "url": "https://cuescore.com/player/Gregor+Badzwol/1187507",
         "name": "Gregor Badzwol"
       }
@@ -3903,44 +4591,54 @@ export default [
     "matchno": "55",
     "teamA": [
       {
+        "playerId": 1161401,
         "name": "Abi Groenendijk",
         "url": "https://cuescore.com/player/Abi+Groenendijk/1161401"
       },
       {
+        "playerId": 1172516,
         "url": "https://cuescore.com/player/Ivan+Braakhekke/1172516",
         "name": "Ivan Braakhekke"
       },
       {
+        "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer"
       },
       {
+        "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu"
       },
       {
+        "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
         "name": "Martijn Woonings"
       },
       {
+        "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat"
       }
     ],
     "teamB": [
       {
+        "playerId": 1162362,
         "name": "Rahadi",
         "url": "https://cuescore.com/player/Rahadi/1162362"
       },
       {
+        "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
         "name": "Aleksandar Petrović"
       },
       {
+        "playerId": 1162829,
         "url": "https://cuescore.com/player/Stefan+Bakker/1162829",
         "name": "Stefan Bakker"
       },
       {
+        "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
         "name": "Hervis Hamid"
       }
@@ -3964,68 +4662,84 @@ export default [
     "matchno": "56",
     "teamA": [
       {
+        "playerId": 1160283,
         "name": "Andre Broersma",
         "url": "https://cuescore.com/player/Andre+Broersma/1160283"
       },
       {
+        "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky"
       },
       {
+        "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers"
       },
       {
+        "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck"
       },
       {
+        "playerId": 26729542,
         "url": "https://cuescore.com/player/Alex+Bakker/26729542",
         "name": "Alex Bakker"
       },
       {
+        "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
       },
       {
+        "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt"
       },
       {
+        "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema"
       }
     ],
     "teamB": [
       {
+        "playerId": 1163118,
         "name": "Arjan Grooten",
         "url": "https://cuescore.com/player/Arjan+Grooten/1163118"
       },
       {
+        "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas"
       },
       {
+        "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra"
       },
       {
+        "playerId": 1161617,
         "url": "https://cuescore.com/player/Dennis+Niemeijer/1161617",
         "name": "Dennis Niemeijer"
       },
       {
+        "playerId": 1160346,
         "url": "https://cuescore.com/player/Richard+Klein/1160346",
         "name": "Richard Klein"
       },
       {
+        "playerId": 1160099,
         "url": "https://cuescore.com/player/Marcel+Minnis/1160099",
         "name": "Marcel Minnis"
       },
       {
+        "playerId": 66296503,
         "url": "https://cuescore.com/player/Peter+Hu/66296503",
         "name": "Peter Hu"
       },
       {
+        "playerId": 1276348,
         "url": "https://cuescore.com/player/Ali+Abu+Rashed/1276348",
         "name": "Ali Abu Rashed"
       }

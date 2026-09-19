@@ -6,7 +6,7 @@ import VenueLogo from '../components/venue-logo.jsx'
 import { useMatchUpdates } from '../context/match-context.jsx';
 
 function Team({name, members}){
-  return <div className='teamOverview'><span className="teamname">{name}</span> {members.map(m => <a href={m.url}>{m.name}</a>)}</div>
+  return <div className='teamOverview'><span className="teamname">{name}</span> {(members || []).map(m => <a key={m.playerId || m.name} href={m.url}>{m.name}{m.mvp ? ` (${m.mvp})` : ''}</a>)}</div>
 }
 
 export default function GameRow({
@@ -30,6 +30,10 @@ export default function GameRow({
   const [showTeams, setShowTeams] = useState(false);
   const [showTable, setShowTable] = useState(false);
   const {matchUpdates} = useMatchUpdates();
+  const playerStats = [...(teamA || []), ...(teamB || [])].reduce((stats, member) => {
+    stats[member.name] = member;
+    return stats;
+  }, {});
   const individualMatches = useIndividualMatchData(shouldFetch, tournamentId, matchId, playerA, playerB)
   const updates = matchUpdates[matchId] || {};
   let scoreA = 0;
@@ -77,7 +81,7 @@ export default function GameRow({
     </div>
   </div>
   {showTeams && <div className="teammembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}
-  {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} />}
-  {showTable && <LeagueTable tournamentId={tournamentId} teamNames={[playerA, playerB]} onClose={() => setShowTable(false)} />}
+  {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} playerStats={playerStats} />}
+  {showTable && <LeagueTable tournamentId={tournamentId} teamNames={[playerA, playerB]} playerStats={playerStats} onClose={() => setShowTable(false)} />}
   </>
 }

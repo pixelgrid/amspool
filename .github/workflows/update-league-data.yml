@@ -6,8 +6,8 @@ permissions:
 
 on:
   schedule:
-    # run daily at 17:00 UTC which corresponds to 18:00 CET (standard time)
-    - cron: '0 17 * * *'
+    # run every 5 minutes to ensure data is up-to-date
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
 
 jobs:

@@ -2,7 +2,7 @@ import React from 'react'
 import DisciplineImage from '../components/discipline-image.jsx'
 import { useMatchUpdates } from '../context/match-context.jsx';
 
-export default function IndividualMatches({matches}){
+export default function IndividualMatches({matches, playerStats = {}}){
   const [selectedPlayer, setSelectedPlayer] = React.useState(null);
   const { matchUpdates } = useMatchUpdates();
   return <div className="matchesoverview">{matches.map((match, index) => {
@@ -15,9 +15,9 @@ export default function IndividualMatches({matches}){
     return <div key={index} className={`individualMatch ${status} winner-${winner} match-${match.matchId}`}>
       <DisciplineImage discipline={match.discipline} />
       <span>RT{match.raceTo}</span>
-      <span className={`player A ${selectedPlayer === match.playerA ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerA)}>{match.playerA}</span>
+      <span className={`player A ${selectedPlayer === match.playerA ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerA)}>{match.playerA}{playerStats[match.playerA]?.mvp ? ` (${playerStats[match.playerA].mvp})` : ''}</span>
       <span className="score"><span className="scoreA">{scoreA}</span><span className="score-separator"> - </span><span className="scoreB">{scoreB}</span></span>
-      <span className={`player B ${selectedPlayer === match.playerB ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerB)}>{match.playerB}</span>
+      <span className={`player B ${selectedPlayer === match.playerB ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerB)}>{match.playerB}{playerStats[match.playerB]?.mvp ? ` (${playerStats[match.playerB].mvp})` : ''}</span>
     </div>
   })}</div>
 }

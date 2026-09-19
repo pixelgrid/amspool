@@ -28,7 +28,7 @@ function fetchStandings(tournamentId) {
   return request;
 }
 
-function getStandings({standings: json, participants, subMatches}) {
+function getStandings({standings: json, participants, subMatches}, playerStats) {
   const completedMatches = json.matches
     .filter(match => match.matchstatus === 'finished')
     .sort((a, b) => new Date(a.starttime) - new Date(b.starttime));
@@ -77,6 +77,10 @@ function getStandings({standings: json, participants, subMatches}) {
   for (const members of Object.values(membersByTeam)) {
     for (const member of members) {
       member.lastFive = gamesByPlayer[member.playerId] || [];
+      if (playerStats[member.name]) {
+        member.mvp = playerStats[member.name].mvp;
+        member.stats = playerStats[member.name].stats;
+      }
     }
   }
 
@@ -94,7 +98,7 @@ function getStandings({standings: json, participants, subMatches}) {
   }));
 }
 
-export default function LeagueTable({tournamentId, teamNames, onClose}) {
+export default function LeagueTable({tournamentId, teamNames, playerStats = {}, onClose}) {
   const [standings, setStandings] = useState([]);
   const [expandedTeamId, setExpandedTeamId] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -104,7 +108,7 @@ export default function LeagueTable({tournamentId, teamNames, onClose}) {
     let active = true;
     fetchStandings(tournamentId)
       .then(data => {
-        if (active) setStandings(getStandings(data));
+        if (active) setStandings(getStandings(data, playerStats));
       })
       .catch(fetchError => {
         if (active) setError(fetchError);
@@ -116,7 +120,7 @@ export default function LeagueTable({tournamentId, teamNames, onClose}) {
     return () => {
       active = false;
     };
-  }, [tournamentId]);
+  }, [tournamentId, playerStats]);
 
   useEffect(() => {
     const originalOverflow = document.body.style.overflow;
@@ -183,7 +187,7 @@ export default function LeagueTable({tournamentId, teamNames, onClose}) {
                               return <span key={index} className={`form-marker member-form-marker ${result ? `form-${result.toLowerCase()}` : 'form-empty'}`} aria-hidden="true">{discipline || ''}</span>;
                             })}
                           </div>
-                          <a href={member.url}>{member.name}</a>
+                          <a href={member.url}>{member.name}{member.mvp ? ` (${member.mvp})` : ''}</a>
                         </li>)}
                       </ul> : <p>No team members available.</p>}
                     </section>

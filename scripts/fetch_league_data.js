@@ -3,6 +3,7 @@ import fs from 'fs';
 
 import {extractDataFromHTML} from '../src/utils/extract-match-details-from-html.js';
 import {normalizeSubMatch, teamFileName} from '../src/utils/normalize-sub-match.js';
+import {parseMvpHTML} from '../src/utils/parse-mvp-html.js';
 
 export const leagues = [
     'https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2026%252F2027/83574424',
@@ -41,6 +42,13 @@ async function fetch_league_html_data(url){
   }, {})
 }
 
+async function fetch_league_mvp_data(url){
+    const res = await fetch(`${url}/mvp`);
+    const body = await res.text();
+    const dom = new jsdom.JSDOM(body);
+    return parseMvpHTML(dom.window.document);
+}
+
 export async function fetch_league_api_data(tournamentID){
   const req = await fetch("https://api.cuescore.com/tournament/?id=" + tournamentID)
   const json = await req.json();
@@ -73,7 +81,7 @@ function formatTeamMembers(teamData){
         let members = [];
         let captainId = 0;
         if(team.captain){
-            members.push({name: team.captain.name, url: team.captain.url});
+            members.push({playerId: team.captain.playerId, name: team.captain.name, url: team.captain.url});
             captainId = team.captain.playerId;
         }
 
@@ -83,23 +91,35 @@ function formatTeamMembers(teamData){
             if(playerId === captainId){
                 continue;
             }
-            members.push({url, name})
+            members.push({playerId, url, name})
         }
         result[teamId] = members;
     }
     return result;
+}
+
+function addMvpData(teamMembers, mvpData){
+    return (teamMembers || []).map(member => ({
+        ...member,
+        ...(mvpData[member.playerId] ? {
+            mvp: mvpData[member.playerId].mvp,
+            stats: mvpData[member.playerId].stats
+        } : {})
+    }));
 }
 async function main() {
 
     //return console.log(await fetch_league_html_data(leagues[0]))
     //return console.log(await fetch_league_api_data("61204750"))
     const htmlRequests = leagues.map(fetch_league_html_data);
+    const mvpRequests = leagues.map(fetch_league_mvp_data);
     const leagueIDs = leagues.map(url => url.split("/").at(-1));
     const apiRequests = leagueIDs.map(fetch_league_api_data);
     const teamRequests = leagueIDs.map(fetch_league_teams_data);
     const subMatchRequests = leagueIDs.map(fetch_sub_match_data);
 
     const htmlData = await Promise.all(htmlRequests);
+    const mvpData = await Promise.all(mvpRequests);
     const apiData = await Promise.all(apiRequests);
     const teamData = await Promise.all(teamRequests);
     const subMatchData = await Promise.all(subMatchRequests);
@@ -150,8 +170,8 @@ async function main() {
                 tournamentId,
                 matchId,
                 matchno,
-                teamA: formatedTeamMembers[playerAId],
-                teamB: formatedTeamMembers[playerBId]
+                teamA: addMvpData(formatedTeamMembers[playerAId], mvpData[i]),
+                teamB: addMvpData(formatedTeamMembers[playerBId], mvpData[i])
             })
         }
         writeToDisk(league_data, leagueIDs[i]);
