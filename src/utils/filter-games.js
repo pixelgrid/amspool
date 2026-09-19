@@ -74,6 +74,7 @@ export function getSelectedTeamDateRange(selectedTeam = 'All teams') {
     return [startDate, endDate];
   }
 
+  let earliestMatchDate = null;
   let latestMatchDate = null;
 
   for (const { matches } of trackedLeagues) {
@@ -82,17 +83,23 @@ export function getSelectedTeamDateRange(selectedTeam = 'All teams') {
       if (!startTime) continue;
       const isSelectedTeamMatch = match.playerA === selectedTeam || match.playerB === selectedTeam;
       if (!isSelectedTeamMatch) continue;
+      if (!earliestMatchDate || startTime < earliestMatchDate) {
+        earliestMatchDate = startTime;
+      }
       if (startTime >= today && (!latestMatchDate || startTime > latestMatchDate)) {
         latestMatchDate = startTime;
       }
     }
   }
 
+  if (earliestMatchDate) {
+    startDate.setTime(earliestMatchDate.getTime());
+  }
   if (latestMatchDate) {
     endDate.setTime(latestMatchDate.getTime());
   }
 
-  return [today, endDate];
+  return [startDate, endDate];
 }
 
 export function applySettingsFilters(matches = [], settings = {}) {

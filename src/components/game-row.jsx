@@ -30,7 +30,7 @@ export default function GameRow({
   const [showTeams, setShowTeams] = useState(false);
   const [showTable, setShowTable] = useState(false);
   const {matchUpdates} = useMatchUpdates();
-  const individualMatches = useIndividualMatchData(shouldFetch, tournamentId, matchId)
+  const individualMatches = useIndividualMatchData(shouldFetch, tournamentId, matchId, playerA, playerB)
   const updates = matchUpdates[matchId] || {};
   let scoreA = 0;
   let scoreB = 0;

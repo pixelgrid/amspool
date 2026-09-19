@@ -27,10 +27,10 @@ test('team lists are grouped by league and exclude venue names', () => {
   assert.equal(hasVenueName, false);
 });
 
-test('team-specific windows only include matches from today to the end of the league', () => {
-  const [rangeStart, rangeEnd] = getSelectedTeamDateRange('Goesting 2.0');
+test('team-specific windows include previous matches and continue to the end of the league', () => {
+  const [rangeStart, rangeEnd] = getSelectedTeamDateRange('Noord Boven t IJ 26/27');
 
-  assert.equal(rangeStart.toISOString().slice(0, 10), new Date().toISOString().slice(0, 10));
+  assert.ok(rangeStart <= new Date());
   assert.ok(rangeEnd >= rangeStart);
 });
 

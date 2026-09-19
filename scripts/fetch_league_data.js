@@ -2,6 +2,7 @@ import jsdom from 'jsdom'
 import fs from 'fs';
 
 import {extractDataFromHTML} from '../src/utils/extract-match-details-from-html.js';
+import {normalizeSubMatch, teamFileName} from '../src/utils/normalize-sub-match.js';
 
 export const leagues = [
     'https://cuescore.com/tournament/Pool+Noord-Holland+Eerste+klasse+2026%252F2027/83574424',
@@ -55,6 +56,11 @@ export async function fetch_league_api_data(tournamentID){
     return {matches: matchesByID}
 }
 
+async function fetch_sub_match_data(tournamentID){
+    const req = await fetch(`https://api.cuescore.com/match/sub/all/?tournamentId=${tournamentID}`)
+    return await req.json();
+}
+
 async function fetch_league_teams_data(tournamentID){
     const req = await fetch(`https://api.cuescore.com/tournament/?id=${tournamentID}&participants=Participants+list`)
     return await req.json();
@@ -91,10 +97,12 @@ async function main() {
     const leagueIDs = leagues.map(url => url.split("/").at(-1));
     const apiRequests = leagueIDs.map(fetch_league_api_data);
     const teamRequests = leagueIDs.map(fetch_league_teams_data);
+    const subMatchRequests = leagueIDs.map(fetch_sub_match_data);
 
     const htmlData = await Promise.all(htmlRequests);
     const apiData = await Promise.all(apiRequests);
     const teamData = await Promise.all(teamRequests);
+    const subMatchData = await Promise.all(subMatchRequests);
     const formatedTeamMembers = formatTeamMembers(teamData.flat());
     // enrich html data with api provided ones
 
@@ -147,6 +155,7 @@ async function main() {
             })
         }
         writeToDisk(league_data, leagueIDs[i]);
+        writeTeamMatchData(subMatchData[i], leagueIDs[i], apiRes);
     }
     /*
     const matchData = await Promise.all(finishedMatches.map(fetch_match_html_data));
@@ -182,6 +191,27 @@ function writeMatchesToDisk(finishedMatches, matchData){
         }
     }
 
+}
+
+function writeTeamMatchData(subMatches, leagueId, fixtureData){
+    const matchesByTeam = new Map();
+
+    for(const match of subMatches){
+        const fixture = Object.values(fixtureData).find(item => String(item.matchId) === String(match.parentId));
+        if(!fixture) continue;
+
+        const normalized = normalizeSubMatch(match);
+        for(const teamName of [fixture.playerA.name, fixture.playerB.name]){
+            if(!matchesByTeam.has(teamName)) matchesByTeam.set(teamName, []);
+            matchesByTeam.get(teamName).push(normalized);
+        }
+    }
+
+    for(const [teamName, matches] of matchesByTeam){
+        const directory = `./public/match-data/${leagueId}`;
+        fs.mkdirSync(directory, {recursive: true});
+        fs.writeFileSync(`${directory}/${teamFileName(teamName)}.json`, JSON.stringify(matches, null, 2), 'utf8');
+    }
 }
 
 main();
