@@ -6,19 +6,9 @@ function fetchStandings(tournamentId) {
   const existingRequest = standingsRequests.get(tournamentId);
   if (existingRequest) return existingRequest;
 
-  const request = Promise.all([
-    fetch(`https://api.cuescore.com/tournament/?id=${tournamentId}`),
-    fetch(`https://api.cuescore.com/tournament/?id=${tournamentId}&participants=Participants+list`),
-    fetch(`https://api.cuescore.com/match/sub/all/?tournamentId=${tournamentId}`)
-  ]).then(async ([standingsResponse, participantsResponse, subMatchesResponse]) => {
-    if (!standingsResponse.ok || !participantsResponse.ok || !subMatchesResponse.ok) {
-      throw new Error('Unable to load tournament data');
-    }
-    return {
-      standings: await standingsResponse.json(),
-      participants: await participantsResponse.json(),
-      subMatches: await subMatchesResponse.json()
-    };
+  const request = fetch(`${import.meta.env.BASE_URL}league-data/${tournamentId}/ranking.json`).then(async response => {
+    if (!response.ok) throw new Error('Unable to load the league table');
+    return response.json();
   });
   standingsRequests.set(tournamentId, request);
   request.then(
@@ -28,77 +18,7 @@ function fetchStandings(tournamentId) {
   return request;
 }
 
-function getStandings({standings: json, participants, subMatches}, playerStats) {
-  const completedMatches = json.matches
-    .filter(match => match.matchstatus === 'finished')
-    .sort((a, b) => new Date(a.starttime) - new Date(b.starttime));
-  const gamesByTeam = completedMatches.reduce((acc, match) => {
-    const matchResult = match.winner || (match.scoreA === match.scoreB ? 0 : match.scoreA > match.scoreB ? 1 : 2);
-    for (const [team, teamNumber] of [[match.playerA, 1], [match.playerB, 2]]) {
-      if (!acc[team.teamId]) acc[team.teamId] = [];
-      const result = matchResult === 0 ? 'D' : matchResult === teamNumber ? 'W' : 'L';
-      acc[team.teamId].push({
-        result,
-        opponent: teamNumber === 1 ? match.playerB.name : match.playerA.name,
-        teamScore: teamNumber === 1 ? match.scoreA : match.scoreB,
-        opponentScore: teamNumber === 1 ? match.scoreB : match.scoreA,
-        date: match.starttime
-      });
-      acc[team.teamId] = acc[team.teamId].slice(-5);
-    }
-    return acc;
-  }, {});
-  const membersByTeam = participants.reduce((acc, team) => {
-    const members = [...(team.captain ? [team.captain] : []), ...(team.members || [])].filter((member, index, allMembers) =>
-      allMembers.findIndex(candidate => candidate.playerId === member.playerId) === index
-    );
-    acc[team.teamId] = members;
-    return acc;
-  }, {});
-
-  const gamesByPlayer = subMatches
-    .filter(match => match.matchstatus === 'finished' && !match.doublesA && !match.doublesB)
-    .sort((a, b) => new Date(a.starttime) - new Date(b.starttime))
-    .reduce((acc, match) => {
-      const matchResult = match.winner || (match.scoreA === match.scoreB ? 0 : match.scoreA > match.scoreB ? 1 : 2);
-      for (const [player, playerNumber] of [[match.playerA, 1], [match.playerB, 2]]) {
-        if (!player?.playerId) continue;
-        if (!acc[player.playerId]) acc[player.playerId] = [];
-        acc[player.playerId].push({
-          result: matchResult === 0 ? 'D' : matchResult === playerNumber ? 'W' : 'L',
-          discipline: {2: 8, 3: 9, 4: 10, 5: 14}[match.disciplineId],
-          date: match.starttime
-        });
-        acc[player.playerId] = acc[player.playerId].slice(-5);
-      }
-      return acc;
-    }, {});
-
-  for (const members of Object.values(membersByTeam)) {
-    for (const member of members) {
-      member.lastFive = gamesByPlayer[member.playerId] || [];
-      if (playerStats[member.name]) {
-        member.mvp = playerStats[member.name].mvp;
-        member.stats = playerStats[member.name].stats;
-      }
-    }
-  }
-
-  return Object.values(json.standings || {}).flat().map(({position, played, wins, losses, ties, points, player}) => ({
-    position,
-    teamName: player.name,
-    teamId: player.teamId,
-    played,
-    wins,
-    losses,
-    ties,
-    points,
-    lastFive: gamesByTeam[player.teamId] || [],
-    members: membersByTeam[player.teamId] || []
-  }));
-}
-
-export default function LeagueTable({tournamentId, teamNames, playerStats = {}, onClose}) {
+export default function LeagueTable({tournamentId, teamNames, onClose}) {
   const [standings, setStandings] = useState([]);
   const [expandedTeamId, setExpandedTeamId] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
@@ -108,7 +28,7 @@ export default function LeagueTable({tournamentId, teamNames, playerStats = {}, 
     let active = true;
     fetchStandings(tournamentId)
       .then(data => {
-        if (active) setStandings(getStandings(data, playerStats));
+        if (active) setStandings(data);
       })
       .catch(fetchError => {
         if (active) setError(fetchError);
@@ -120,7 +40,7 @@ export default function LeagueTable({tournamentId, teamNames, playerStats = {}, 
     return () => {
       active = false;
     };
-  }, [tournamentId, playerStats]);
+  }, [tournamentId]);
 
   useEffect(() => {
     const originalOverflow = document.body.style.overflow;

@@ -61,7 +61,7 @@ export async function fetch_league_api_data(tournamentID){
     acc[curr.matchno] = curr
     return acc
   }, {})
-    return {matches: matchesByID}
+    return {matches: matchesByID, standings: json.standings}
 }
 
 async function fetch_sub_match_data(tournamentID){
@@ -106,6 +106,72 @@ function addMvpData(teamMembers, mvpData){
             stats: mvpData[member.playerId].stats
         } : {})
     }));
+}
+
+function buildRankingData(apiData, participants, subMatches, mvpData){
+    const completedMatches = Object.values(apiData.matches)
+        .filter(match => match.matchstatus === 'finished')
+        .sort((a, b) => new Date(a.starttime) - new Date(b.starttime));
+    const gamesByTeam = completedMatches.reduce((acc, match) => {
+        const matchResult = match.winner || (match.scoreA === match.scoreB ? 0 : match.scoreA > match.scoreB ? 1 : 2);
+        for(const [team, teamNumber] of [[match.playerA, 1], [match.playerB, 2]]){
+            if(!acc[team.teamId]) acc[team.teamId] = [];
+            acc[team.teamId].push({
+                result: matchResult === 0 ? 'D' : matchResult === teamNumber ? 'W' : 'L',
+                opponent: teamNumber === 1 ? match.playerB.name : match.playerA.name,
+                teamScore: teamNumber === 1 ? match.scoreA : match.scoreB,
+                opponentScore: teamNumber === 1 ? match.scoreB : match.scoreA,
+                date: match.starttime
+            });
+            acc[team.teamId] = acc[team.teamId].slice(-5);
+        }
+        return acc;
+    }, {});
+    const membersByTeam = Object.fromEntries(Object.entries(formatTeamMembers(participants)).map(([teamId, members]) => [
+        teamId,
+        addMvpData(members, mvpData)
+    ]));
+    const gamesByPlayer = subMatches
+        .filter(match => match.matchstatus === 'finished' && !match.doublesA && !match.doublesB)
+        .sort((a, b) => new Date(a.starttime) - new Date(b.starttime))
+        .reduce((acc, match) => {
+            const matchResult = match.winner || (match.scoreA === match.scoreB ? 0 : match.scoreA > match.scoreB ? 1 : 2);
+            for(const [player, playerNumber] of [[match.playerA, 1], [match.playerB, 2]]){
+                if(!player?.playerId) continue;
+                if(!acc[player.playerId]) acc[player.playerId] = [];
+                acc[player.playerId].push({
+                    result: matchResult === 0 ? 'D' : matchResult === playerNumber ? 'W' : 'L',
+                    discipline: {2: 8, 3: 9, 4: 10, 5: 14}[match.disciplineId],
+                    date: match.starttime
+                });
+                acc[player.playerId] = acc[player.playerId].slice(-5);
+            }
+            return acc;
+        }, {});
+
+    for(const members of Object.values(membersByTeam)){
+        for(const member of members) member.lastFive = gamesByPlayer[member.playerId] || [];
+    }
+
+    return Object.values(apiData.standings || {}).flat().map(({position, played, wins, losses, ties, points, player}) => ({
+        position,
+        teamName: player.name,
+        teamId: player.teamId,
+        played,
+        wins,
+        losses,
+        ties,
+        points,
+        lastFive: gamesByTeam[player.teamId] || [],
+        members: membersByTeam[player.teamId] || []
+    }));
+}
+
+function writeLeagueTableData(leagueId, rankingData, mvpData){
+    const directory = `./public/league-data/${leagueId}`;
+    fs.mkdirSync(directory, {recursive: true});
+    fs.writeFileSync(`${directory}/ranking.json`, JSON.stringify(rankingData, null, 2), 'utf8');
+    fs.writeFileSync(`${directory}/mvp.json`, JSON.stringify(mvpData, null, 2), 'utf8');
 }
 async function main() {
 
@@ -175,6 +241,7 @@ async function main() {
             })
         }
         writeToDisk(league_data, leagueIDs[i]);
+        writeLeagueTableData(leagueIDs[i], buildRankingData(apiData[i], teamData[i], subMatchData[i], mvpData[i]), mvpData[i]);
         writeTeamMatchData(subMatchData[i], leagueIDs[i], apiRes);
     }
     /*

@@ -1,0 +1,492 @@
+[
+  {
+    "position": 1,
+    "teamName": "Spin Doctors",
+    "teamId": 1172481,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1160280,
+        "name": "Kevin Den Hartigh",
+        "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160236,
+        "url": "https://cuescore.com/player/Ron+Fortgens/1160236",
+        "name": "Ron Fortgens",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160756,
+        "url": "https://cuescore.com/player/Erwin+van+Faassen/1160756",
+        "name": "Erwin van Faassen",
+        "lastFive": []
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "lastFive": []
+      },
+      {
+        "playerId": 1159737,
+        "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
+        "name": "Jean Paul Kievit",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160739,
+        "url": "https://cuescore.com/player/Aydan+Bos/1160739",
+        "name": "Aydan Bos",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162906,
+        "url": "https://cuescore.com/player/Vincent+Vijfvinkel/1162906",
+        "name": "Vincent Vijfvinkel",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 2,
+    "teamName": "Fast and Faster",
+    "teamId": 30160531,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1161358,
+        "name": "Rienus Gennissen",
+        "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
+        "lastFive": []
+      },
+      {
+        "playerId": 1187428,
+        "url": "https://cuescore.com/player/Olesya+Bila/1187428",
+        "name": "Olesya Bila",
+        "lastFive": []
+      },
+      {
+        "playerId": 1159837,
+        "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
+        "name": "Ahmet Bozkurt",
+        "lastFive": []
+      },
+      {
+        "playerId": 15891171,
+        "url": "https://cuescore.com/player/Blake+Burnard/15891171",
+        "name": "Blake Burnard",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 3,
+    "teamName": "Boven 't IJ",
+    "teamId": 83804128,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 21260116,
+        "name": "Danny Bast",
+        "url": "https://cuescore.com/player/Danny+Bast/21260116",
+        "lastFive": []
+      },
+      {
+        "playerId": 45094462,
+        "url": "https://cuescore.com/player/Mark+Veerman/45094462",
+        "name": "Mark Veerman",
+        "lastFive": []
+      },
+      {
+        "playerId": 26786110,
+        "url": "https://cuescore.com/player/Mattias+B/26786110",
+        "name": "Mattias B",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 4,
+    "teamName": "Maan & de sterren",
+    "teamId": 83759572,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1164127,
+        "name": "Saalloe S",
+        "url": "https://cuescore.com/player/Saalloe+S/1164127",
+        "lastFive": []
+      },
+      {
+        "playerId": 34200361,
+        "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+        "name": "Tofail Wagid Hosain",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163630,
+        "url": "https://cuescore.com/player/Rahid+Sadal/1163630",
+        "name": "Rahid Sadal",
+        "lastFive": []
+      },
+      {
+        "playerId": 14139304,
+        "url": "https://cuescore.com/player/Stefan+Lam/14139304",
+        "name": "Stefan Lam",
+        "lastFive": []
+      },
+      {
+        "playerId": 58879426,
+        "url": "https://cuescore.com/player/Enes+Coskun/58879426",
+        "name": "Enes Coskun",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162691,
+        "url": "https://cuescore.com/player/Maan+Sadal/1162691",
+        "name": "Maan Sadal",
+        "lastFive": []
+      },
+      {
+        "playerId": 1247702,
+        "url": "https://cuescore.com/player/Rick+./1247702",
+        "name": "Rick .",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 5,
+    "teamName": "The Magicians",
+    "teamId": 9155022,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1164517,
+        "name": "Mark Ekkerman",
+        "url": "https://cuescore.com/player/Mark+Ekkerman/1164517",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163269,
+        "url": "https://cuescore.com/player/Ritesh+Badal/1163269",
+        "name": "Ritesh Badal",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162261,
+        "url": "https://cuescore.com/player/Richard+Kema/1162261",
+        "name": "Richard Kema",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162262,
+        "url": "https://cuescore.com/player/Jiwan+Chaturi/1162262",
+        "name": "Jiwan Chaturi",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164676,
+        "url": "https://cuescore.com/player/Joey+de+Valk/1164676",
+        "name": "Joey de Valk",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160888,
+        "url": "https://cuescore.com/player/Mervin+Saib/1160888",
+        "name": "Mervin Saib",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 6,
+    "teamName": "Brokum",
+    "teamId": 86164435,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1162482,
+        "name": "Sander Vriens",
+        "url": "https://cuescore.com/player/Sander+Vriens/1162482",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160475,
+        "url": "https://cuescore.com/player/George+Woodham/1160475",
+        "name": "George Woodham",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161315,
+        "url": "https://cuescore.com/player/Niels+van+der+Horst/1161315",
+        "name": "Niels van der Horst",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161837,
+        "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
+        "name": "Espen Falkenhaug",
+        "lastFive": []
+      },
+      {
+        "playerId": 2840444,
+        "url": "https://cuescore.com/player/Richard+van+Schooneveld/2840444",
+        "name": "Richard van Schooneveld",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 7,
+    "teamName": "Padoc 🥇",
+    "teamId": 2890074,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1161638,
+        "name": "Sacha Sidespin Romero",
+        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "lastFive": []
+      },
+      {
+        "playerId": 8195342,
+        "url": "https://cuescore.com/player/Richard+Tsang/8195342",
+        "name": "Richard Tsang",
+        "lastFive": []
+      },
+      {
+        "playerId": 1159802,
+        "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
+        "name": "Arthur 'The Owner' de Groot",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163930,
+        "url": "https://cuescore.com/player/Yayan+Crazy+Peanut+Ahaddian+Wijayanto/1163930",
+        "name": "Yayan Crazy Peanut Ahaddian Wijayanto",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162145,
+        "url": "https://cuescore.com/player/Brian+Pauw/1162145",
+        "name": "Brian Pauw",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163186,
+        "url": "https://cuescore.com/player/Anthony+Martilia/1163186",
+        "name": "Anthony Martilia",
+        "lastFive": []
+      },
+      {
+        "playerId": 1418678,
+        "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
+        "name": "Krijn Schuurman",
+        "lastFive": []
+      },
+      {
+        "playerId": 1077455,
+        "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
+        "name": "Arno ‘The Joker’ Hartman",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 8,
+    "teamName": "De bende van Noord",
+    "teamId": 6556590,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1161646,
+        "name": "Omar Maalikoum",
+        "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
+        "lastFive": []
+      },
+      {
+        "playerId": 1656647,
+        "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
+        "name": "Alexander Alekberov",
+        "lastFive": []
+      },
+      {
+        "playerId": 1549170,
+        "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
+        "name": "Andrej Karamesic",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161643,
+        "url": "https://cuescore.com/player/Youssef+ZKak/1161643",
+        "name": "Youssef ZKak",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163947,
+        "url": "https://cuescore.com/player/Nima+Dabiran+Zohouri/1163947",
+        "name": "Nima Dabiran Zohouri",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162690,
+        "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
+        "name": "Jerrel Nanhekhan",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163469,
+        "url": "https://cuescore.com/player/Bertan+Isik/1163469",
+        "name": "Bertan Isik",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160401,
+        "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
+        "name": "Roberto Vasselli",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 9,
+    "teamName": "Sharp Shooters",
+    "teamId": 9202001,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1160389,
+        "name": "Caro Line",
+        "url": "https://cuescore.com/player/Caro+Line/1160389",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161776,
+        "url": "https://cuescore.com/player/Aytel+Soliano/1161776",
+        "name": "Aytel Soliano",
+        "lastFive": []
+      },
+      {
+        "playerId": 71259715,
+        "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
+        "name": "Ryan Semeler",
+        "lastFive": []
+      },
+      {
+        "playerId": 17928781,
+        "url": "https://cuescore.com/player/Shoaib+Momand/17928781",
+        "name": "Shoaib Momand",
+        "lastFive": []
+      },
+      {
+        "playerId": 40403023,
+        "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+        "name": "Idris Coskun",
+        "lastFive": []
+      },
+      {
+        "playerId": 1533289,
+        "url": "https://cuescore.com/player/Leon+Qian/1533289",
+        "name": "Leon Qian",
+        "lastFive": []
+      },
+      {
+        "playerId": 1187470,
+        "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+        "name": "Arthur “ panda “ Sieger",
+        "lastFive": []
+      },
+      {
+        "playerId": 1159836,
+        "url": "https://cuescore.com/player/Wout+Janssen/1159836",
+        "name": "Wout Janssen",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 10,
+    "teamName": "Mokum Oost",
+    "teamId": 84039106,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1161027,
+        "name": "Jan Smeels",
+        "url": "https://cuescore.com/player/Jan+Smeels/1161027",
+        "lastFive": []
+      },
+      {
+        "playerId": 2213894,
+        "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
+        "name": "Richard van velthoven",
+        "lastFive": []
+      },
+      {
+        "playerId": 17070613,
+        "url": "https://cuescore.com/player/Barry+Haarms/17070613",
+        "name": "Barry Haarms",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161039,
+        "url": "https://cuescore.com/player/David+van+Streepen/1161039",
+        "name": "David van Streepen",
+        "lastFive": []
+      }
+    ]
+  }
+]

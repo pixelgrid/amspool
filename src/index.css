@@ -295,6 +295,29 @@ span.score {
   min-width: 720px;
 }
 
+.mvp-table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 900px;
+}
+
+.mvp-table th,
+.mvp-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #e5e5e5;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.mvp-table th:nth-child(2),
+.mvp-table td:nth-child(2) {
+  text-align: left;
+}
+
+.mvp-table thead {
+  background: #f1f1f1;
+}
+
 .league-table th,
 .league-table td {
   padding: 10px 12px;

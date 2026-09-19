@@ -1,6 +1,7 @@
 import {useState} from 'react'
 import IndividualMatches from "./individual-matches";
 import LeagueTable from './league-table.jsx';
+import MvpTable from './mvp-table.jsx';
 import { useIndividualMatchData } from "../hooks/fetch-match-data";
 import VenueLogo from '../components/venue-logo.jsx'
 import { useMatchUpdates } from '../context/match-context.jsx';
@@ -29,6 +30,7 @@ export default function GameRow({
   const [showDetails, setShowDetails] = useState(false);
   const [showTeams, setShowTeams] = useState(false);
   const [showTable, setShowTable] = useState(false);
+  const [showMvp, setShowMvp] = useState(false);
   const {matchUpdates} = useMatchUpdates();
   const playerStats = [...(teamA || []), ...(teamB || [])].reduce((stats, member) => {
     stats[member.name] = member;
@@ -78,10 +80,12 @@ export default function GameRow({
       <button className="showteams" onClick={() => setShowTeams(c => !c)}>See teams</button>
       <button className="showmore" disabled={!['playing', 'finished'].includes(status) || individualMatches.length === 0} onClick={() => setShowDetails(c => !c)}>See matches</button>
       <button className="showtable" onClick={() => setShowTable(true)}>See table</button>
+      <button className="showmvp" onClick={() => setShowMvp(true)}>See MVP</button>
     </div>
   </div>
   {showTeams && <div className="teammembers"><Team name={playerA} members={teamA} /> <Team name={playerB} members={teamB} /></div>}
   {showDetails && individualMatches.length > 0 && <IndividualMatches matches={individualMatches} playerStats={playerStats} />}
-  {showTable && <LeagueTable tournamentId={tournamentId} teamNames={[playerA, playerB]} playerStats={playerStats} onClose={() => setShowTable(false)} />}
+  {showTable && <LeagueTable tournamentId={tournamentId} teamNames={[playerA, playerB]} onClose={() => setShowTable(false)} />}
+  {showMvp && <MvpTable tournamentId={tournamentId} onClose={() => setShowMvp(false)} />}
   </>
 }
