@@ -366,6 +366,44 @@ span.score {
   padding-left: 18px;
 }
 
+.team-member-item {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  margin-bottom: 6px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.team-member-item a {
+  display: block;
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  text-align: left;
+}
+
+.member-last-five {
+  display: inline-flex;
+  justify-content: flex-end;
+  gap: 3px;
+  width: 112px;
+  flex: 0 0 112px;
+  margin-left: 8px;
+  margin-right: 16px;
+}
+
+.member-form-marker {
+  width: 20px;
+  flex-basis: 20px;
+  font-size: 9px;
+}
+
+.member-form-marker.form-empty {
+  border-width: 1px;
+}
+
 .recent-games {
   list-style: none;
   padding-left: 0;

@@ -8,14 +8,16 @@ function fetchStandings(tournamentId) {
 
   const request = Promise.all([
     fetch(`https://api.cuescore.com/tournament/?id=${tournamentId}`),
-    fetch(`https://api.cuescore.com/tournament/?id=${tournamentId}&participants=Participants+list`)
-  ]).then(async ([standingsResponse, participantsResponse]) => {
-    if (!standingsResponse.ok || !participantsResponse.ok) {
+    fetch(`https://api.cuescore.com/tournament/?id=${tournamentId}&participants=Participants+list`),
+    fetch(`https://api.cuescore.com/match/sub/all/?tournamentId=${tournamentId}`)
+  ]).then(async ([standingsResponse, participantsResponse, subMatchesResponse]) => {
+    if (!standingsResponse.ok || !participantsResponse.ok || !subMatchesResponse.ok) {
       throw new Error('Unable to load tournament data');
     }
     return {
       standings: await standingsResponse.json(),
-      participants: await participantsResponse.json()
+      participants: await participantsResponse.json(),
+      subMatches: await subMatchesResponse.json()
     };
   });
   standingsRequests.set(tournamentId, request);
@@ -26,7 +28,7 @@ function fetchStandings(tournamentId) {
   return request;
 }
 
-function getStandings({standings: json, participants}) {
+function getStandings({standings: json, participants, subMatches}) {
   const completedMatches = json.matches
     .filter(match => match.matchstatus === 'finished')
     .sort((a, b) => new Date(a.starttime) - new Date(b.starttime));
@@ -53,6 +55,30 @@ function getStandings({standings: json, participants}) {
     acc[team.teamId] = members;
     return acc;
   }, {});
+
+  const gamesByPlayer = subMatches
+    .filter(match => match.matchstatus === 'finished' && !match.doublesA && !match.doublesB)
+    .sort((a, b) => new Date(a.starttime) - new Date(b.starttime))
+    .reduce((acc, match) => {
+      const matchResult = match.winner || (match.scoreA === match.scoreB ? 0 : match.scoreA > match.scoreB ? 1 : 2);
+      for (const [player, playerNumber] of [[match.playerA, 1], [match.playerB, 2]]) {
+        if (!player?.playerId) continue;
+        if (!acc[player.playerId]) acc[player.playerId] = [];
+        acc[player.playerId].push({
+          result: matchResult === 0 ? 'D' : matchResult === playerNumber ? 'W' : 'L',
+          discipline: {2: 8, 3: 9, 4: 10, 5: 14}[match.disciplineId],
+          date: match.starttime
+        });
+        acc[player.playerId] = acc[player.playerId].slice(-5);
+      }
+      return acc;
+    }, {});
+
+  for (const members of Object.values(membersByTeam)) {
+    for (const member of members) {
+      member.lastFive = gamesByPlayer[member.playerId] || [];
+    }
+  }
 
   return Object.values(json.standings || {}).flat().map(({position, played, wins, losses, ties, points, player}) => ({
     position,
@@ -149,7 +175,16 @@ export default function LeagueTable({tournamentId, teamNames, onClose}) {
                     <section>
                       <h3>Team members</h3>
                       {team.members.length ? <ul className="team-member-list">
-                        {team.members.map(member => <li key={member.playerId || member.name}><a href={member.url}>{member.name}</a></li>)}
+                        {team.members.map(member => <li key={member.playerId || member.name} className="team-member-item">
+                          <div className="member-last-five" aria-label={`Last five: ${member.lastFive.map(game => game.result).join(', ') || 'No completed singles games'}`}>
+                            {[...Array(5)].map((_, index) => {
+                              const result = member.lastFive[index]?.result;
+                              const discipline = member.lastFive[index]?.discipline;
+                              return <span key={index} className={`form-marker member-form-marker ${result ? `form-${result.toLowerCase()}` : 'form-empty'}`} aria-hidden="true">{discipline || ''}</span>;
+                            })}
+                          </div>
+                          <a href={member.url}>{member.name}</a>
+                        </li>)}
                       </ul> : <p>No team members available.</p>}
                     </section>
                     <section>
