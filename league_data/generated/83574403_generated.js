@@ -572,7 +572,7 @@ export default [
     "playerB": "Mokum's Running English",
     "playerAUrl": "https://cuescore.com/team/Pat%E2%80%99s+Purple+Sinners/1176664",
     "playerBUrl": "https://cuescore.com/team/Mokum%27s+Running+English/61336255",
-    "startTime": "2026-09-23T18:00:00Z",
+    "startTime": "2026-09-30T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
@@ -1071,7 +1071,7 @@ export default [
     "playerB": "Plan Babes",
     "playerAUrl": "https://cuescore.com/team/Rising+Legends/84677638",
     "playerBUrl": "https://cuescore.com/team/Plan+Babes/29149219",
-    "startTime": "2026-09-22T18:00:00Z",
+    "startTime": "2026-09-29T18:00:00Z",
     "venueData": {
       "venueName": "Oscar’s Bowling & Pool",
       "venueID": "76096633",
