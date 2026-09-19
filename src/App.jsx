@@ -32,7 +32,7 @@ function readStoredSettings() {
       : [...allLeagueIds];
 
     return {
-      selectedTeam: 'All teams',
+      selectedTeam: typeof stored.selectedTeam === 'string' ? stored.selectedTeam : 'All teams',
       enabledLeagueIds: enabledLeagueIds.length ? enabledLeagueIds : [...allLeagueIds],
     };
   } catch {
@@ -74,8 +74,8 @@ function LeagueMatches() {
   }
 
   useEffect(() => {
-    const { enabledLeagueIds } = settings;
-    localStorage.setItem('amspool-settings', JSON.stringify({ enabledLeagueIds }));
+    const { selectedTeam, enabledLeagueIds } = settings;
+    localStorage.setItem('amspool-settings', JSON.stringify({ selectedTeam, enabledLeagueIds }));
   }, [settings]);
 
   useEffect(() => {
@@ -120,8 +120,23 @@ function LeagueMatches() {
   const groupedTeamOptions = getGroupedTeamOptions();
   const teamOptions = getTeamOptions();
   const selectedTeamValue = teamOptions.includes(settings.selectedTeam) ? settings.selectedTeam : 'All teams';
+  const hasSelectedTeam = selectedTeamValue !== 'All teams';
 
   return <>
+    {hasSelectedTeam && (
+      <section className="selected-settings" aria-label="Settings">
+        <span className="selected-settings-label">Settings</span>
+        <span className="selected-settings-team">Team: {selectedTeamValue}</span>
+        <button
+          type="button"
+          className="selected-settings-clear"
+          onClick={() => setSettings(current => ({ ...current, selectedTeam: 'All teams' }))}
+        >
+          Clear team
+        </button>
+      </section>
+    )}
+
     <button
       type="button"
       className="settings-button"
@@ -144,7 +159,10 @@ function LeagueMatches() {
               <span>Team</span>
               <select
                 value={selectedTeamValue}
-                onChange={event => setSettings(current => ({ ...current, selectedTeam: event.target.value }))}
+                onChange={event => {
+                  setSettings(current => ({ ...current, selectedTeam: event.target.value }));
+                  setSettingsOpen(false);
+                }}
               >
                 <option value="All teams">All teams</option>
                 {groupedTeamOptions.map(({ leagueName, teams }) => (

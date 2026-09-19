@@ -17,6 +17,31 @@
 #root {
   width: 100%;
 }
+.selected-settings {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 52px 10px 10px;
+  border-bottom: 1px solid #e5e7eb;
+  background: #f8fafc;
+  color: #111827;
+  font-size: 13px;
+}
+.selected-settings-label {
+  font-weight: 700;
+}
+.selected-settings-team {
+  flex: 1;
+}
+.selected-settings-clear {
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  padding: 5px 9px;
+  background: white;
+  color: #111827;
+  font: inherit;
+  cursor: pointer;
+}
 a {
   font-weight: 500;
   color: #646cff;
