@@ -9,7 +9,7 @@ export function normalizeSubMatch(match) {
   );
 
   return {
-    discipline: match.discipline || '',
+    discipline: match.disciplineId ?? match.discipline ?? '',
     raceTo: String(match.raceTo ?? ''),
     status,
     playerA: match.playerA?.name || match.playerA || '',
