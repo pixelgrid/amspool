@@ -110,7 +110,7 @@ export default function LeagueTable({tournamentId, teamNames, onClose}) {
       <div className="table-scroll">
         <table className="league-table">
           <thead>
-            <tr><th>#</th><th>Team</th><th>G</th><th>W</th><th>L</th><th>D</th><th>P</th><th>Last 5</th></tr>
+            <tr><th>#</th><th>Team</th><th>G</th><th>W</th><th>D</th><th>L</th><th>P</th><th>Last 5</th></tr>
           </thead>
           <tbody>
             {error && <tr><td colSpan="8">Unable to load the league table.</td></tr>}
@@ -133,13 +133,13 @@ export default function LeagueTable({tournamentId, teamNames, onClose}) {
                 <th scope="row">{team.teamName}</th>
                 <td>{team.played}</td>
                 <td>{team.wins}</td>
-                <td>{team.losses}</td>
                 <td>{team.ties}</td>
+                <td>{team.losses}</td>
                 <td className="table-points">{team.points}</td>
                 <td><div className="last-five" aria-label={`Last five: ${team.lastFive.map(game => game.result).join(', ') || 'No completed games'}`}>
                 {[...Array(5)].map((_, index) => {
                   const result = team.lastFive[index]?.result;
-                  return <span key={index} className={`form-marker ${result ? `form-${result.toLowerCase()}` : 'form-empty'}`}>{result === 'W' ? '✓' : result === 'L' ? '×' : result === 'D' ? 'D' : ''}</span>;
+                  return <span key={index} className={`form-marker ${result ? `form-${result.toLowerCase()}` : 'form-empty'}`} aria-hidden="true" />;
                 })}
                 </div></td>
               </tr>
