@@ -46,9 +46,12 @@ export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA
 
     const fetchData = async () => {
       try {
-        const staticMatches = (await Promise.all([teamA, teamB].map(fetchStaticTeamData)))
-          .flat()
-          .filter(match => String(match.parentId) === String(matchId));
+        const staticMatches = Array.from(new Map(
+          (await Promise.all([teamA, teamB].map(fetchStaticTeamData)))
+            .flat()
+            .filter(match => String(match.parentId) === String(matchId))
+            .map(match => [String(match.matchId), match])
+        ).values());
         if (staticMatches.length) {
           storeIndividualMatches(matchId, staticMatches);
           return;

@@ -195,6 +195,9 @@ function writeMatchesToDisk(finishedMatches, matchData){
 
 function writeTeamMatchData(subMatches, leagueId, fixtureData){
     const matchesByTeam = new Map();
+    const directory = `./public/match-data/${leagueId}`;
+
+    fs.rmSync(directory, {recursive: true, force: true});
 
     for(const match of subMatches){
         const fixture = Object.values(fixtureData).find(item => String(item.matchId) === String(match.parentId));
@@ -208,7 +211,6 @@ function writeTeamMatchData(subMatches, leagueId, fixtureData){
     }
 
     for(const [teamName, matches] of matchesByTeam){
-        const directory = `./public/match-data/${leagueId}`;
         fs.mkdirSync(directory, {recursive: true});
         fs.writeFileSync(`${directory}/${teamFileName(teamName)}.json`, JSON.stringify(matches, null, 2), 'utf8');
     }
