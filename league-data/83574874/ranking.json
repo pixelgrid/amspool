@@ -1,0 +1,418 @@
+[
+  {
+    "position": 1,
+    "teamName": "Sport Pub Goes",
+    "teamId": 17377786,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 46167562,
+        "url": "https://cuescore.com/player/Luca+Menn/46167562",
+        "name": "Luca Menn",
+        "lastFive": []
+      },
+      {
+        "playerId": 2720838,
+        "url": "https://cuescore.com/player/Jan+Stenten/2720838",
+        "name": "Jan Stenten",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164134,
+        "url": "https://cuescore.com/player/Joey+Haegmans/1164134",
+        "name": "Joey Haegmans",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163965,
+        "url": "https://cuescore.com/player/Cyriel+Ledoux/1163965",
+        "name": "Cyriel Ledoux",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162696,
+        "url": "https://cuescore.com/player/Cliff+Castelein/1162696",
+        "name": "Cliff Castelein",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161937,
+        "url": "https://cuescore.com/player/Ivo+Aarts/1161937",
+        "name": "Ivo Aarts",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 2,
+    "teamName": "Hague 5 1",
+    "teamId": 1172407,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1160378,
+        "name": "Ronald van Adrichem",
+        "url": "https://cuescore.com/player/Ronald+van+Adrichem/1160378",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163305,
+        "url": "https://cuescore.com/player/Michael+Sagar/1163305",
+        "name": "Michael Sagar",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160524,
+        "url": "https://cuescore.com/player/Rolf+van+As/1160524",
+        "name": "Rolf van As",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162069,
+        "url": "https://cuescore.com/player/Marc+Bijsterbosch/1162069",
+        "name": "Marc Bijsterbosch",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160318,
+        "url": "https://cuescore.com/player/Niels+Feijen/1160318",
+        "name": "Niels Feijen",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160584,
+        "url": "https://cuescore.com/player/Pepijn+de+Wit/1160584",
+        "name": "Pepijn de Wit",
+        "lastFive": []
+      },
+      {
+        "playerId": 40803217,
+        "url": "https://cuescore.com/player/Mohammad+Al+Asfar/40803217",
+        "name": "Mohammad Al Asfar",
+        "lastFive": []
+      },
+      {
+        "playerId": 20440732,
+        "url": "https://cuescore.com/player/Gyairon+%E2%80%9CGio%E2%80%9D+Martis/20440732",
+        "name": "Gyairon “Gio” Martis",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163459,
+        "url": "https://cuescore.com/player/Jan+van+Lierop/1163459",
+        "name": "Jan van Lierop",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 3,
+    "teamName": "Eurohandel Snookercentrum Maastricht",
+    "teamId": 1172442,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1161246,
+        "name": "Tamara Peeters-Rademakers",
+        "url": "https://cuescore.com/player/Tamara+Peeters-Rademakers/1161246",
+        "lastFive": []
+      },
+      {
+        "playerId": 6083592,
+        "url": "https://cuescore.com/player/John+Haegmans/6083592",
+        "name": "John Haegmans",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164584,
+        "url": "https://cuescore.com/player/Jim+Telfer/1164584",
+        "name": "Jim Telfer",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164603,
+        "url": "https://cuescore.com/player/Sonny+Haegmans/1164603",
+        "name": "Sonny Haegmans",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160314,
+        "url": "https://cuescore.com/player/Jesse+Thehu/1160314",
+        "name": "Jesse Thehu",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161115,
+        "url": "https://cuescore.com/player/Rene+Peeters/1161115",
+        "name": "Rene Peeters",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 4,
+    "teamName": "Sonny's Billiard Supplies/ PC Geldrop",
+    "teamId": 1172443,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1159694,
+        "url": "https://cuescore.com/player/Bart+Houben/1159694",
+        "name": "Bart Houben",
+        "lastFive": []
+      },
+      {
+        "playerId": 8115984,
+        "url": "https://cuescore.com/player/Kevin+Lannoye/8115984",
+        "name": "Kevin Lannoye",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164604,
+        "url": "https://cuescore.com/player/Yannick+Pongers/1164604",
+        "name": "Yannick Pongers",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164605,
+        "url": "https://cuescore.com/player/Quinten+Pongers/1164605",
+        "name": "Quinten Pongers",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164373,
+        "url": "https://cuescore.com/player/Tobias+Bongers/1164373",
+        "name": "Tobias Bongers",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161859,
+        "url": "https://cuescore.com/player/No%C3%ABl+Bruynooghe/1161859",
+        "name": "Noël Bruynooghe",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160609,
+        "url": "https://cuescore.com/player/Brian+Beekers/1160609",
+        "name": "Brian Beekers",
+        "lastFive": []
+      },
+      {
+        "playerId": 7086003,
+        "url": "https://cuescore.com/player/Andre+Wansner/7086003",
+        "name": "Andre Wansner",
+        "lastFive": []
+      },
+      {
+        "playerId": 7990760,
+        "url": "https://cuescore.com/player/Fabrizio+Ingrasci/7990760",
+        "name": "Fabrizio Ingrasci",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 5,
+    "teamName": "1. Mokum Pool & Darts",
+    "teamId": 83993461,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1090822,
+        "name": "Nick van den Berg",
+        "url": "https://cuescore.com/player/Nick+van+den+Berg/1090822",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160505,
+        "url": "https://cuescore.com/player/Ijsbrand+Bergisch/1160505",
+        "name": "Ijsbrand Bergisch",
+        "lastFive": []
+      },
+      {
+        "playerId": 1187477,
+        "url": "https://cuescore.com/player/Floris+Willaert/1187477",
+        "name": "Floris Willaert",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160344,
+        "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
+        "name": "Gilliano Smit",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162911,
+        "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
+        "name": "Casper Verstegen",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 6,
+    "teamName": "GO Customs",
+    "teamId": 1172462,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1130184,
+        "name": "Goran Kobas",
+        "url": "https://cuescore.com/player/Goran+Kobas/1130184",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162583,
+        "url": "https://cuescore.com/player/Johan+van+der+Leest/1162583",
+        "name": "Johan van der Leest",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160321,
+        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
+        "name": "Joel Kartowikromo",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163657,
+        "url": "https://cuescore.com/player/Rani+Matti/1163657",
+        "name": "Rani Matti",
+        "lastFive": []
+      },
+      {
+        "playerId": 1161359,
+        "url": "https://cuescore.com/player/Ralf+Zigahn/1161359",
+        "name": "Ralf Zigahn",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160650,
+        "url": "https://cuescore.com/player/Sha+Chong+Woo/1160650",
+        "name": "Sha Chong Woo",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 7,
+    "teamName": "SPC Woensel.nl",
+    "teamId": 1172423,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1172510,
+        "url": "https://cuescore.com/player/Ivar+Saris/1172510",
+        "name": "Ivar Saris",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164592,
+        "url": "https://cuescore.com/player/Mika+van+Berkel/1164592",
+        "name": "Mika van Berkel",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162346,
+        "url": "https://cuescore.com/player/Marco+Teutscher/1162346",
+        "name": "Marco Teutscher",
+        "lastFive": []
+      },
+      {
+        "playerId": 1163152,
+        "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
+        "name": "Tim Jonkman",
+        "lastFive": []
+      },
+      {
+        "playerId": 1047268,
+        "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
+        "name": "Tim De Ruyter",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 8,
+    "teamName": "Goesting 2.0",
+    "teamId": 9264197,
+    "played": 0,
+    "wins": 0,
+    "losses": 0,
+    "ties": 0,
+    "points": 0,
+    "lastFive": [],
+    "members": [
+      {
+        "playerId": 1163797,
+        "name": "Joeri van den Broeck",
+        "url": "https://cuescore.com/player/Joeri+van+den+Broeck/1163797",
+        "lastFive": []
+      },
+      {
+        "playerId": 1531947,
+        "url": "https://cuescore.com/player/Piotr+Haraszczuk/1531947",
+        "name": "Piotr Haraszczuk",
+        "lastFive": []
+      },
+      {
+        "playerId": 68608843,
+        "url": "https://cuescore.com/player/Olivier+Vandenbohede/68608843",
+        "name": "Olivier Vandenbohede",
+        "lastFive": []
+      },
+      {
+        "playerId": 33805198,
+        "url": "https://cuescore.com/player/Laeth+Haidar/33805198",
+        "name": "Laeth Haidar",
+        "lastFive": []
+      },
+      {
+        "playerId": 57004225,
+        "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
+        "name": "Amadeo Durnez",
+        "lastFive": []
+      },
+      {
+        "playerId": 6795765,
+        "url": "https://cuescore.com/player/Anthony+Vandenbussche/6795765",
+        "name": "Anthony Vandenbussche",
+        "lastFive": []
+      }
+    ]
+  }
+]
