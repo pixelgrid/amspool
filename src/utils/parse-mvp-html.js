@@ -25,7 +25,7 @@ export function parseMvpHTML(document) {
     .filter(cell => cell.colSpan === 5)
     .map(cell => cell.textContent.trim());
   const headers = [...headerRows[1].children].map(cell => cell.textContent.trim());
-  const players = {};
+  const players = [];
 
   for (const row of table.querySelectorAll('tbody tr')) {
     const playerLink = row.querySelector('.player a');
@@ -44,13 +44,13 @@ export function parseMvpHTML(document) {
     });
 
     const playerId = playerLink.href.split('/').at(-1);
-    players[playerId] = {
+    players.push({
       playerId,
       name: playerLink.textContent.trim(),
       url: normalizeUrl(playerLink.getAttribute('href')),
       mvp: cells[3].textContent.trim(),
       stats
-    };
+    });
   }
 
   return players;

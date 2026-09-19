@@ -33,7 +33,7 @@ export default function MvpTable({tournamentId, onClose}) {
     let active = true;
     fetchMvpData(tournamentId)
       .then(data => {
-        if (active) setPlayers(Object.values(data));
+        if (active) setPlayers(data);
       })
       .catch(fetchError => {
         if (active) setError(fetchError);

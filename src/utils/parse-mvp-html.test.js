@@ -17,8 +17,7 @@ test('parses MVP percentages and per-discipline stats', () => {
       </tr></tbody>
     </table>`).window.document;
 
-  assert.deepEqual(parseMvpHTML(dom), {
-    123: {
+  assert.deepEqual(parseMvpHTML(dom), [{
       playerId: '123',
       name: 'Player A',
       url: 'https://cuescore.com/player/A/123',
@@ -27,6 +26,5 @@ test('parses MVP percentages and per-discipline stats', () => {
         '8-Ball': {matchesPlayed: 2, matchesWon: 1, framesWon: 7, framesLost: 5},
         Straightpool: {matchesPlayed: 1, matchesWon: 1, pointsWon: 8, pointsLost: 3}
       }
-    }
-  });
+    }]);
 });

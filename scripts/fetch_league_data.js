@@ -99,13 +99,13 @@ function formatTeamMembers(teamData){
 }
 
 function addMvpData(teamMembers, mvpData){
-    return (teamMembers || []).map(member => ({
-        ...member,
-        ...(mvpData[member.playerId] ? {
-            mvp: mvpData[member.playerId].mvp,
-            stats: mvpData[member.playerId].stats
-        } : {})
-    }));
+    return (teamMembers || []).map(member => {
+        const mvpPlayer = mvpData.find(player => String(player.playerId) === String(member.playerId));
+        return {
+            ...member,
+            ...(mvpPlayer ? {mvp: mvpPlayer.mvp, stats: mvpPlayer.stats} : {})
+        };
+    });
 }
 
 function buildRankingData(apiData, participants, subMatches, mvpData){
