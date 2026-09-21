@@ -15,8 +15,14 @@ export function extractDataFromHTML(htmlTree){
     const waiting = metadataRow.classList.contains("waiting");
 
     const status = waiting ? 'waiting' : playing ? 'playing' : finished ? 'finished' : '';
-    const playerA = gameRow.querySelector(".playerA .name").textContent;
-    const playerB = gameRow.querySelector(".playerB .name").textContent;
+    const playerA = [...gameRow.querySelectorAll(".playerA .name")]
+      .map(player => player.textContent.trim())
+      .filter(Boolean)
+      .join(' / ');
+    const playerB = [...gameRow.querySelectorAll(".playerB .name")]
+      .map(player => player.textContent.trim())
+      .filter(Boolean)
+      .join(' / ');
     const scoreA = gameRow.querySelector(".scoreA input").value;
     const scoreB = gameRow.querySelector(".scoreB input").value;
     const playerAWinner = gameRow.querySelector(".scoreA").classList.contains("winner");

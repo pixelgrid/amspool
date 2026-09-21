@@ -7,6 +7,31 @@ const decodeBase64 = (value) =>
   typeof globalThis.atob === 'function'
     ? globalThis.atob(value)
     : globalThis.Buffer.from(value, 'base64').toString('utf-8')
+const TOURNAMENT_MATCH_CACHE_TTL = 60 * 1000;
+const tournamentMatchRequests = new Map();
+
+function fetchTournamentMatches(tournamentId) {
+  const cacheKey = String(tournamentId);
+  const cachedRequest = tournamentMatchRequests.get(cacheKey);
+  if (cachedRequest && Date.now() - cachedRequest.createdAt < TOURNAMENT_MATCH_CACHE_TTL) {
+    return cachedRequest.request;
+  }
+
+  const proxyUrl = decodeBase64(URL_PROXY_BASE64);
+  const encoded = encodeURIComponent(`https://api.cuescore.com/match/sub/all/?tournamentId=${tournamentId}`)
+  const request = fetch(`${proxyUrl}${encoded}`).then(async response => {
+    if (!response.ok) throw new Error(`Unable to fetch tournament matches: ${response.status}`);
+    return response.json();
+  });
+
+  tournamentMatchRequests.set(cacheKey, { request, createdAt: Date.now() });
+  request.catch(() => {
+    if (tournamentMatchRequests.get(cacheKey)?.request === request) {
+      tournamentMatchRequests.delete(cacheKey);
+    }
+  });
+  return request;
+}
 
 export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA, teamB, forceLive = false){
   const { matchUpdates, individualMatches, storeIndividualMatches } = useMatchUpdates();
@@ -18,10 +43,7 @@ export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA
 
   useEffect(() => {
     const fetchFromApi = async (tournamentId, matchId) => {
-        const proxyUrl = decodeBase64(URL_PROXY_BASE64)
-        const encoded = encodeURIComponent(`https://api.cuescore.com/match/sub/all/?tournamentId=${tournamentId}`)
-        const res = await fetch(`${proxyUrl}${encoded}`);
-        const matches = await res.json();
+      const matches = await fetchTournamentMatches(tournamentId);
         storeIndividualMatches(matchId, matches
           .filter(match => String(match.parentId) === String(matchId))
           .map(normalizeSubMatch));
@@ -71,6 +93,11 @@ export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA
       fetchData();
     } else if(shouldFetch && !individualMatches[matchId]){
       fetchData();
+    }
+
+    if (forceLive) {
+      const refreshInterval = setInterval(fetchData, TOURNAMENT_MATCH_CACHE_TTL);
+      return () => clearInterval(refreshInterval);
     }
   }, [shouldFetch, tournamentId, matchId, teamA, teamB, forceLive, individualMatches, storeIndividualMatches]);
   return matches;

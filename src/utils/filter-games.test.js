@@ -3,6 +3,8 @@ import assert from 'node:assert/strict';
 
 import { getTrackedLeagueOptions, getTeamOptions, getGroupedTeamOptions, getSelectedTeamDateRange, applySettingsFilters } from './filter-games.js';
 import { normalizeSubMatch } from './normalize-sub-match.js';
+import { extractDataFromHTML } from './extract-match-details-from-html.js';
+import { JSDOM } from 'jsdom';
 
 test('tracked leagues and team names are statically extracted', () => {
   const leagues = getTrackedLeagueOptions();
@@ -66,4 +68,34 @@ test('normalizes waiting participant objects with empty names to strings', () =>
 
   assert.equal(normalized.playerA, '');
   assert.equal(normalized.playerB, '');
+});
+
+test('normalizes both players in live doubles matches', () => {
+  const normalized = normalizeSubMatch({
+    matchId: 1,
+    parentId: 2,
+    playerA: { name: 'Player A1' },
+    doublesA: { name: 'Player A2' },
+    playerB: { name: 'Player B1' },
+    doublesB: { name: 'Player B2' },
+  });
+
+  assert.equal(normalized.playerA, 'Player A1 / Player A2');
+  assert.equal(normalized.playerB, 'Player B1 / Player B2');
+});
+
+test('keeps both player names when parsing doubles matches', () => {
+  const html = `
+    <table>
+      <tr class="finished"><td><span class="raceTo">7</span></td></tr>
+      <tr id="match-3" data-discipline="2">
+        <td class="playerA"><span class="name">Player A1</span><span class="name">Player A2</span><span class="runouts">0</span></td>
+        <td class="playerB"><span class="name">Player B1</span><span class="name">Player B2</span><span class="runouts">0</span></td>
+        <td class="scoreA"><input value="7" /></td><td class="scoreB"><input value="5" /></td>
+      </tr>
+    </table>`;
+  const [match] = extractDataFromHTML(new JSDOM(html).window.document);
+
+  assert.equal(match.playerA, 'Player A1 / Player A2');
+  assert.equal(match.playerB, 'Player B1 / Player B2');
 });

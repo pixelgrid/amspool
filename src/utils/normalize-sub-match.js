@@ -12,8 +12,8 @@ export function normalizeSubMatch(match) {
     discipline: match.disciplineId ?? match.discipline ?? '',
     raceTo: String(match.raceTo ?? ''),
     status,
-    playerA: match.playerA?.name ?? match.playerA ?? '',
-    playerB: match.playerB?.name ?? match.playerB ?? '',
+    playerA: normalizeParticipant(match.playerA, match.doublesA),
+    playerB: normalizeParticipant(match.playerB, match.doublesB),
     scoreA,
     scoreB,
     runoutsA: String(match.runoutsA ?? ''),
@@ -22,6 +22,20 @@ export function normalizeSubMatch(match) {
     matchId: String(match.matchId),
     parentId: String(match.parentId ?? '')
   };
+}
+
+function normalizeParticipant(participant, partner) {
+  if (Array.isArray(participant)) {
+    return participant.map(player => normalizeParticipant(player)).filter(Boolean).join(' / ');
+  }
+
+  if (participant && typeof participant === 'object') {
+    const name = participant.name ?? '';
+    const partnerName = partner ? normalizeParticipant(partner) : '';
+    return [name, partnerName].filter(Boolean).join(' / ');
+  }
+
+  return participant ?? '';
 }
 
 export function teamFileName(teamName) {
