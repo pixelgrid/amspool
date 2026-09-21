@@ -22,6 +22,7 @@ export default function GameRow({
   venueUrl, 
   matchno, 
   shouldFetch, 
+  forceLive,
   tournamentId, 
   matchId,
   teamA,
@@ -36,7 +37,7 @@ export default function GameRow({
     stats[member.name] = member;
     return stats;
   }, {});
-  const individualMatches = useIndividualMatchData(shouldFetch, tournamentId, matchId, playerA, playerB)
+  const individualMatches = useIndividualMatchData(shouldFetch, tournamentId, matchId, playerA, playerB, forceLive)
   const updates = matchUpdates[matchId] || {};
   let scoreA = 0;
   let scoreB = 0;

@@ -1,4 +1,4 @@
-import {useEffect} from 'react';
+import {useEffect, useRef} from 'react';
 import { extractDataFromHTML } from '../utils/extract-match-details-from-html.js'
 import { normalizeSubMatch, teamFileName } from '../utils/normalize-sub-match.js'
 import { useMatchUpdates } from '../context/match-context.jsx';
@@ -8,8 +8,9 @@ const decodeBase64 = (value) =>
     ? globalThis.atob(value)
     : globalThis.Buffer.from(value, 'base64').toString('utf-8')
 
-export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA, teamB){
+export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA, teamB, forceLive = false){
   const { matchUpdates, individualMatches, storeIndividualMatches } = useMatchUpdates();
+  const liveFetchKey = useRef(null);
   const matches = (individualMatches[matchId] || []).map(match => ({
     ...match,
     ...(matchUpdates[match.matchId] || {})
@@ -46,15 +47,17 @@ export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA
 
     const fetchData = async () => {
       try {
-        const staticMatches = Array.from(new Map(
-          (await Promise.all([teamA, teamB].map(fetchStaticTeamData)))
-            .flat()
-            .filter(match => String(match.parentId) === String(matchId))
-            .map(match => [String(match.matchId), match])
-        ).values());
-        if (staticMatches.length) {
-          storeIndividualMatches(matchId, staticMatches);
-          return;
+        if (!forceLive) {
+          const staticMatches = Array.from(new Map(
+            (await Promise.all([teamA, teamB].map(fetchStaticTeamData)))
+              .flat()
+              .filter(match => String(match.parentId) === String(matchId))
+              .map(match => [String(match.matchId), match])
+          ).values());
+          if (staticMatches.length) {
+            storeIndividualMatches(matchId, staticMatches);
+            return;
+          }
         }
         await fetchFromApi(tournamentId, matchId);
       } catch {
@@ -62,9 +65,13 @@ export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA
       }
     }
 
-    if(shouldFetch && !individualMatches[matchId]){
+    const currentMatchKey = `${tournamentId}:${matchId}`;
+    if (forceLive && liveFetchKey.current !== currentMatchKey) {
+      liveFetchKey.current = currentMatchKey;
+      fetchData();
+    } else if(shouldFetch && !individualMatches[matchId]){
       fetchData();
     }
-  }, [shouldFetch, tournamentId, matchId, teamA, teamB, individualMatches, storeIndividualMatches]);
+  }, [shouldFetch, tournamentId, matchId, teamA, teamB, forceLive, individualMatches, storeIndividualMatches]);
   return matches;
 }

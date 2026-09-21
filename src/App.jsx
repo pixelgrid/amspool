@@ -228,6 +228,7 @@ function LeagueMatches() {
             matchno={g.matchno}
             matchId={g.matchId}
             shouldFetch={g.shouldFetch}
+            forceLive={g.forceLive}
             tournamentId={g.tournamentId}
             teamA={g.teamA}
             teamB={g.teamB}

@@ -134,6 +134,7 @@ export function applySettingsFilters(matches = [], settings = {}) {
 export function find_games_for_date(date){
   const todayDt = new Date();
   const targetDate = new Date(date).toISOString().split('T')[0]
+  const today = todayDt.toISOString().split('T')[0]
   const results = [];
   for(let league of trackedLeagues){
     let league_games = [];
@@ -143,6 +144,7 @@ export function find_games_for_date(date){
       if(startTimeDt <= todayDt)
         match.shouldFetch = true;
       if (startTime === targetDate) {
+        match.forceLive = targetDate === today;
         league_games.push(match);
       }
     }
