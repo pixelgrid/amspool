@@ -1122,6 +1122,12 @@
             "date": "2026-09-14T19:27:54Z"
           }
         ]
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo",
+        "lastFive": []
       }
     ]
   },
@@ -1550,6 +1556,12 @@
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum",
         "lastFive": []
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia",
+        "lastFive": []
       }
     ]
   },
@@ -1691,6 +1703,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-09-14T20:12:27Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-21T18:09:36Z"
           }
         ]
       },
@@ -2607,6 +2624,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-14T18:10:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-21T18:09:36Z"
           }
         ]
       },

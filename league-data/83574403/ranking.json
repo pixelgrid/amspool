@@ -152,6 +152,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-15T20:09:35Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-21T18:11:31Z"
           }
         ]
       },
@@ -159,7 +164,13 @@
         "playerId": 52320367,
         "url": "https://cuescore.com/player/Jurij+Menih/52320367",
         "name": "Jurij Menih",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-21T18:12:45Z"
+          }
+        ]
       }
     ]
   },
@@ -1664,6 +1675,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-16T13:33:13Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-21T18:12:45Z"
           }
         ]
       },
@@ -1802,6 +1818,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-09-16T13:33:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-21T18:11:31Z"
           }
         ]
       }
@@ -2354,6 +2375,12 @@
         ]
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank",
+        "lastFive": []
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk",
@@ -2375,6 +2402,12 @@
             "date": "2026-09-14T20:20:10Z"
           }
         ]
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir",
+        "lastFive": []
       },
       {
         "playerId": 3220720,
