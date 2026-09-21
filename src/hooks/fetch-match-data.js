@@ -52,7 +52,7 @@ export function useIndividualMatchData(shouldFetch, tournamentId, matchId, teamA
             (await Promise.all([teamA, teamB].map(fetchStaticTeamData)))
               .flat()
               .filter(match => String(match.parentId) === String(matchId))
-              .map(match => [String(match.matchId), match])
+              .map(match => [String(match.matchId), normalizeSubMatch(match)])
           ).values());
           if (staticMatches.length) {
             storeIndividualMatches(matchId, staticMatches);

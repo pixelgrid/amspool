@@ -2,6 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 
 import { getTrackedLeagueOptions, getTeamOptions, getGroupedTeamOptions, getSelectedTeamDateRange, applySettingsFilters } from './filter-games.js';
+import { normalizeSubMatch } from './normalize-sub-match.js';
 
 test('tracked leagues and team names are statically extracted', () => {
   const leagues = getTrackedLeagueOptions();
@@ -53,4 +54,16 @@ test('settings filter keeps only selected team and enabled leagues', () => {
   });
 
   assert.deepEqual(filtered[0][1].map(league => league.map(match => match.matchId)).flat(), [1, 3]);
+});
+
+test('normalizes waiting participant objects with empty names to strings', () => {
+  const normalized = normalizeSubMatch({
+    matchId: 1,
+    parentId: 2,
+    playerA: { playerId: 0, name: '' },
+    playerB: { playerId: 0, name: '' },
+  });
+
+  assert.equal(normalized.playerA, '');
+  assert.equal(normalized.playerB, '');
 });

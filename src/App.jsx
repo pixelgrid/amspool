@@ -213,9 +213,9 @@ function LeagueMatches() {
     {(visibleMatches || []).map(([date, games]) => {
       return <div key={date}>
         <DateRow date={new Date(date)} />
-        {games.map((game, index) => game.map(g => 
-          <GameRow 
-            key={index} 
+        {games.map(game => game.map(g =>
+          <GameRow
+            key={`${g.tournamentId}-${g.matchId}`}
             playerA={g.playerA}
             playerAUrl={g.playerAUrl} 
             playerB={g.playerB}
