@@ -153,6 +153,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -1447,6 +1452,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -2898,6 +2908,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -4030,6 +4045,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -4774,6 +4794,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -5923,6 +5948,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -6770,6 +6800,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -7961,6 +7996,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -9250,6 +9290,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -10431,6 +10476,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -10760,6 +10810,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -11796,6 +11851,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -13726,6 +13786,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -14492,6 +14557,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -15209,6 +15279,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -15668,6 +15743,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -18234,6 +18314,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -18386,6 +18471,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -19523,6 +19613,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -19658,6 +19753,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -22263,6 +22363,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -22673,6 +22778,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -23422,6 +23532,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -24102,6 +24217,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -26194,6 +26314,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -27127,6 +27252,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -27461,6 +27591,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -28406,6 +28541,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -30179,6 +30319,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -31301,6 +31446,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -31792,6 +31942,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -32919,6 +33074,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -34051,6 +34211,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -35205,6 +35370,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -36209,6 +36379,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -37395,6 +37570,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -37714,6 +37894,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -39077,6 +39262,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -40722,6 +40912,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -41736,6 +41931,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -42195,6 +42395,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -42949,6 +43154,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -45198,6 +45408,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -45635,6 +45850,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -46649,6 +46869,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -46789,6 +47014,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -49534,6 +49764,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -49691,6 +49926,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [
@@ -50698,6 +50938,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ]
   },
@@ -51120,6 +51365,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ],
     "teamB": [
@@ -53438,6 +53688,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82144759,
+        "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
+        "name": "Casper Lopes Cardozo"
       }
     ]
   },
@@ -54140,6 +54395,11 @@ export default [
         "playerId": 1164437,
         "url": "https://cuescore.com/player/Irfan+Keyum/1164437",
         "name": "Irfan Keyum"
+      },
+      {
+        "playerId": 41867425,
+        "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+        "name": "Roderick Cicilia"
       }
     ],
     "teamB": [

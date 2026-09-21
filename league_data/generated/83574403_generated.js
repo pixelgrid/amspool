@@ -562,6 +562,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -570,6 +575,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -2837,6 +2847,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -2845,6 +2860,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -4257,6 +4277,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -4265,6 +4290,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -6040,6 +6070,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -6048,6 +6083,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -7968,6 +8008,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -7976,6 +8021,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -9295,6 +9345,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -9303,6 +9358,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -11475,6 +11535,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -11483,6 +11548,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -12550,6 +12620,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -12558,6 +12633,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -15176,6 +15256,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -15184,6 +15269,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -15732,6 +15822,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -15740,6 +15835,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -18881,6 +18981,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -18889,6 +18994,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -19025,6 +19135,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -19033,6 +19148,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -22185,6 +22305,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -22193,6 +22318,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -22700,6 +22830,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -22708,6 +22843,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
@@ -25372,6 +25512,11 @@ export default [
         "url": "https://cuescore.com/player/Ali+Isik/1176705"
       },
       {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank"
+      },
+      {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
         "name": "Laurens den Dulk"
@@ -25380,6 +25525,11 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\""
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir"
       },
       {
         "playerId": 3220720,
