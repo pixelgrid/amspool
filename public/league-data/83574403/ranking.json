@@ -1022,7 +1022,13 @@
         "playerId": 17920120,
         "url": "https://cuescore.com/player/Daan+van+Doorne/17920120",
         "name": "Daan van Doorne",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-22T18:01:07Z"
+          }
+        ]
       },
       {
         "playerId": 1187468,
@@ -1606,6 +1612,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-15T19:07:21Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-22T18:01:07Z"
           }
         ]
       },
@@ -1789,6 +1800,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-16T13:32:32Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-22T18:04:46Z"
           }
         ]
       },
@@ -2299,7 +2315,13 @@
         "playerId": 63515920,
         "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
         "name": "Martin Van Eeuwijk",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-22T18:04:46Z"
+          }
+        ]
       },
       {
         "playerId": 63573565,

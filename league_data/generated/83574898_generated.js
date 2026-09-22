@@ -22,6 +22,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -771,6 +776,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -923,6 +933,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
@@ -1510,6 +1525,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -1819,6 +1839,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
@@ -2242,6 +2267,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
@@ -2717,6 +2747,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -2951,6 +2986,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
@@ -3628,6 +3668,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -3702,6 +3747,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
@@ -4438,6 +4488,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -4551,6 +4606,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
@@ -5192,6 +5252,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -5432,6 +5497,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
@@ -5916,6 +5986,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -6320,6 +6395,11 @@ export default [
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
       },
       {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
+      },
+      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -6638,6 +6718,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
@@ -7229,6 +7314,11 @@ export default [
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027"
+      },
+      {
+        "playerId": 3404805,
+        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
+        "name": "Lennert Duyn"
       },
       {
         "playerId": 2213894,
