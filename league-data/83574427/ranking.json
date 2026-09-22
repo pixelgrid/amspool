@@ -575,7 +575,13 @@
         "playerId": 21260116,
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
         "name": "Danny Bast",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-22T18:15:46Z"
+          }
+        ]
       },
       {
         "playerId": 40296037,
@@ -2952,6 +2958,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-14T20:52:33Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-22T18:15:46Z"
           }
         ]
       }
