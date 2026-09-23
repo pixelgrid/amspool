@@ -65,12 +65,12 @@
           {
             "result": "L",
             "discipline": 8,
-            "date": ""
+            "date": "2026-09-23T12:34:00Z"
           },
           {
             "result": "L",
             "discipline": 9,
-            "date": ""
+            "date": "2026-09-23T12:34:00Z"
           }
         ]
       },
@@ -114,7 +114,7 @@
           {
             "result": "W",
             "discipline": 8,
-            "date": ""
+            "date": "2026-09-23T12:33:00Z"
           }
         ]
       },
@@ -1205,7 +1205,7 @@
           {
             "result": "W",
             "discipline": 9,
-            "date": ""
+            "date": "2026-09-23T12:34:00Z"
           }
         ]
       },
@@ -1254,7 +1254,7 @@
           {
             "result": "W",
             "discipline": 8,
-            "date": ""
+            "date": "2026-09-23T12:34:00Z"
           }
         ]
       },
@@ -1304,7 +1304,7 @@
           {
             "result": "L",
             "discipline": 8,
-            "date": ""
+            "date": "2026-09-23T12:33:00Z"
           }
         ]
       },
