@@ -1376,6 +1376,38 @@
     }
   },
   {
+    "playerId": "78893989",
+    "name": "Egor Sokolov",
+    "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+    "mvp": "100.0%",
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 6,
+        "framesLost": 4
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
     "playerId": "6563601",
     "name": "Sami Arous",
     "url": "https://cuescore.com/player/Sami+Arous/6563601",
@@ -1398,38 +1430,6 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "48149098",
-    "name": "Ajdin Kolonic",
-    "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-    "mvp": "100.0%",
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 6,
-        "framesLost": 4
       },
       "10-Ball": {
         "matchesPlayed": null,

@@ -476,7 +476,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -504,16 +514,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -4822,7 +4822,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -4850,16 +4860,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -4979,7 +4979,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -5007,16 +5017,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -9524,7 +9524,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -9552,16 +9562,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -10457,7 +10457,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -10485,16 +10495,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -14064,7 +14064,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -14092,16 +14102,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -15692,7 +15692,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -15720,16 +15730,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -18658,7 +18658,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -18686,16 +18696,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -20944,7 +20944,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -20972,16 +20982,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -23139,7 +23139,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -23167,16 +23177,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -26191,7 +26191,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -26219,16 +26229,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -27738,7 +27738,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -27766,16 +27776,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -31416,7 +31416,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -31444,16 +31454,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -32445,7 +32445,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -32473,16 +32483,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -36474,7 +36474,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -36502,16 +36512,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -37007,7 +37007,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -37035,16 +37045,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -41542,7 +41542,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -41570,16 +41580,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -42114,7 +42114,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -42142,16 +42152,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -46060,7 +46060,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -46088,16 +46098,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -47366,7 +47366,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -47394,16 +47404,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -50617,7 +50617,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -50645,16 +50655,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -52564,7 +52564,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -52592,16 +52602,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -55157,7 +55157,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -55185,16 +55195,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -57875,7 +57875,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -57903,16 +57913,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -59702,7 +59702,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -59730,16 +59740,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
@@ -63068,7 +63068,17 @@ export default [
       {
         "playerId": 48149098,
         "url": "https://cuescore.com/player/Ajdin+Kolonic/48149098",
-        "name": "Ajdin Kolonic",
+        "name": "Ajdin Kolonic"
+      },
+      {
+        "playerId": 22649998,
+        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
+        "name": "Paul Kunnil"
+      },
+      {
+        "playerId": 78893989,
+        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
+        "name": "Egor Sokolov",
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
@@ -63096,16 +63106,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 22649998,
-        "url": "https://cuescore.com/player/Paul+Kunnil/22649998",
-        "name": "Paul Kunnil"
-      },
-      {
-        "playerId": 78893989,
-        "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
-        "name": "Egor Sokolov"
       },
       {
         "playerId": 8084212,
