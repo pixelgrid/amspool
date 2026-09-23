@@ -89,12 +89,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -445,13 +445,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4656,12 +4656,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -4791,13 +4791,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4948,13 +4948,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5540,12 +5540,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -9174,12 +9174,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -9493,13 +9493,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10426,13 +10426,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10792,12 +10792,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -13731,12 +13731,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -14033,13 +14033,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15661,13 +15661,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15990,12 +15990,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -18271,12 +18271,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -18627,13 +18627,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -20913,13 +20913,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21301,12 +21301,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -22816,12 +22816,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -23108,13 +23108,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26160,13 +26160,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26494,12 +26494,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -27383,12 +27383,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -27707,13 +27707,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31385,13 +31385,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31724,12 +31724,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -32117,12 +32117,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -32414,13 +32414,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36443,13 +36443,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36620,12 +36620,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -36976,13 +36976,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -37170,12 +37170,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -41165,12 +41165,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -41511,13 +41511,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -42083,13 +42083,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -42444,12 +42444,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -45705,12 +45705,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -46029,13 +46029,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -47335,13 +47335,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -47679,12 +47679,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -50299,12 +50299,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -50586,13 +50586,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52533,13 +52533,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52931,12 +52931,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -54780,12 +54780,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -55126,13 +55126,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -57844,13 +57844,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -58178,12 +58178,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -59379,12 +59379,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {
@@ -59671,13 +59671,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -63037,13 +63037,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
-            "matchesWon": 2,
+            "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 4
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -63403,12 +63403,12 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "75.0%",
+        "mvp": "100.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
+            "matchesWon": 1,
+            "framesWon": 5,
             "framesLost": 2
           },
           "Straightpool": {

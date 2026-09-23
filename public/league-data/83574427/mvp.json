@@ -1,5 +1,37 @@
 [
   {
+    "playerId": "69311032",
+    "name": "Melih Ay",
+    "url": "https://cuescore.com/player/Melih+Ay/69311032",
+    "mvp": "100.0%",
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 2
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 2,
+        "framesWon": 12,
+        "framesLost": 8
+      },
+      "10-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 4
+      }
+    }
+  },
+  {
     "playerId": "40296037",
     "name": "Renato Torres",
     "url": "https://cuescore.com/player/Renato+Torres/40296037",
@@ -256,38 +288,6 @@
     }
   },
   {
-    "playerId": "18389575",
-    "name": "Anton Bardakhan",
-    "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
-    "mvp": "100.0%",
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 2,
-        "framesWon": 7,
-        "framesLost": 4
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "10288774",
     "name": "Mac Munro",
     "url": "https://cuescore.com/player/Mac+Munro/10288774",
@@ -480,38 +480,6 @@
     }
   },
   {
-    "playerId": "69311032",
-    "name": "Melih Ay",
-    "url": "https://cuescore.com/player/Melih+Ay/69311032",
-    "mvp": "75.0%",
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 0,
-        "framesLost": 2
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 2,
-        "framesWon": 12,
-        "framesLost": 8
-      },
-      "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 4
-      }
-    }
-  },
-  {
     "playerId": "1159837",
     "name": "Ahmet Bozkurt",
     "url": "https://cuescore.com/player/Ahmet+Bozkurt/1159837",
@@ -688,6 +656,38 @@
         "matchesWon": 1,
         "pointsWon": 72,
         "pointsLost": 71
+      },
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "18389575",
+    "name": "Anton Bardakhan",
+    "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
+    "mvp": "50.0%",
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 7,
+        "framesLost": 9
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
       },
       "9-Ball": {
         "matchesPlayed": null,
