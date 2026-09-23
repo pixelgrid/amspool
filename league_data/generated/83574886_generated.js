@@ -305,6 +305,11 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
+      },
+      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -502,6 +507,11 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
+      },
+      {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       },
       {
         "playerId": 1163489,
@@ -892,6 +902,11 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
+      },
+      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -1278,6 +1293,11 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
+      },
+      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -1507,6 +1527,11 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
+      },
+      {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       },
       {
         "playerId": 1163489,
@@ -2052,6 +2077,11 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
+      },
+      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -2104,6 +2134,11 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
+      },
+      {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       },
       {
         "playerId": 1163489,
@@ -2740,6 +2775,11 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
+      },
+      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -2868,6 +2908,11 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
+      },
+      {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       },
       {
         "playerId": 1163489,
@@ -3342,6 +3387,11 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
+      },
+      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -3659,6 +3709,11 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
+      },
+      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -3942,6 +3997,11 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
+      },
+      {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       },
       {
         "playerId": 1163489,
@@ -4418,6 +4478,11 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
+      },
+      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -4544,6 +4609,11 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
+      },
+      {
+        "playerId": 1159634,
+        "url": "https://cuescore.com/player/Ed+Geels/1159634",
+        "name": "Ed Geels"
       },
       {
         "playerId": 1163489,
