@@ -114,14 +114,14 @@
   {
     "discipline": 3,
     "raceTo": "5",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Arjen Blank",
     "playerB": "Peter Van Unnik",
     "scoreA": "3",
     "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88259944",
     "parentId": "88259383"
   },

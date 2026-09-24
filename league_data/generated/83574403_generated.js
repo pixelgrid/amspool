@@ -564,7 +564,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -574,12 +595,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -634,7 +697,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -665,12 +749,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -705,10 +831,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -3185,7 +3311,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -3195,12 +3342,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -3238,7 +3427,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -3269,12 +3479,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -3309,10 +3561,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -4245,7 +4497,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -4276,12 +4549,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -4316,10 +4631,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -4657,7 +4972,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -4667,12 +5003,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -6702,7 +7080,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -6712,12 +7111,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -7269,7 +7710,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -7300,12 +7762,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -7340,10 +7844,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -7788,7 +8292,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -7819,12 +8344,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -7859,10 +8426,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -8724,7 +9291,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -8734,12 +9322,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -10250,7 +10880,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -10260,12 +10911,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -11257,7 +11950,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -11288,12 +12002,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -11328,10 +12084,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -11421,7 +12177,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -11452,12 +12229,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -11492,10 +12311,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -12650,7 +13469,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -12660,12 +13500,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -13840,7 +14722,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -13850,12 +14753,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -14912,7 +15857,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -14943,12 +15909,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -14983,10 +15991,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -15593,7 +16601,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -15624,12 +16653,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -15664,10 +16735,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -16749,7 +17820,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -16759,12 +17851,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -17357,7 +18491,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -17367,12 +18522,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -18429,7 +19626,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -18460,12 +19678,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -18500,10 +19760,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -19629,7 +20889,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -19660,12 +20941,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -19700,10 +21023,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20831,7 +22154,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -20841,12 +22185,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -20985,7 +22371,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -20995,12 +22402,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -22087,7 +23536,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -22118,12 +23588,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -22158,10 +23670,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -23623,7 +25135,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -23654,12 +25187,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -23694,10 +25269,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -24491,7 +26066,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -24501,12 +26097,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -25016,7 +26654,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -25026,12 +26685,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,
@@ -25572,7 +27273,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -25603,12 +27325,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -25643,10 +27407,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27690,7 +29454,28 @@ export default [
       {
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden"
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        }
       },
       {
         "playerId": 64409926,
@@ -27721,12 +29506,54 @@ export default [
       {
         "playerId": 1187416,
         "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik"
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk"
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 34168213,
@@ -27761,10 +29588,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -28034,7 +29861,28 @@ export default [
       {
         "playerId": 89881966,
         "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank"
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1176706,
@@ -28044,12 +29892,54 @@ export default [
       {
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\""
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        }
       },
       {
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir"
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3220720,

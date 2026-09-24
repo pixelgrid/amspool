@@ -4530,7 +4530,7 @@ export default [
     "playerB": "Hoe kan dat nou?!",
     "playerAUrl": "https://cuescore.com/team/Purple+Reign/1176530",
     "playerBUrl": "https://cuescore.com/team/Hoe+kan+dat+nou%3F%21/2926212",
-    "startTime": "2026-10-07T18:00:00Z",
+    "startTime": "2026-10-13T18:00:00Z",
     "venueData": {
       "venueName": "Café Purple Pool",
       "venueID": "1126046",
