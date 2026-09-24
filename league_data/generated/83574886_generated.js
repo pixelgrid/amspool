@@ -113,6 +113,11 @@ export default [
         "name": "Umut Sarkas"
       },
       {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
@@ -691,6 +696,11 @@ export default [
         "name": "Umut Sarkas"
       },
       {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
@@ -733,6 +743,11 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
+      },
+      {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "playerId": 1105513,
@@ -1347,6 +1362,11 @@ export default [
         "name": "Umut Sarkas"
       },
       {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
@@ -1564,6 +1584,11 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
+      },
+      {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "playerId": 1105513,
@@ -1959,6 +1984,11 @@ export default [
         "name": "Umut Sarkas"
       },
       {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
@@ -2350,6 +2380,11 @@ export default [
         "name": "Umut Sarkas"
       },
       {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
@@ -2596,6 +2631,11 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
+      },
+      {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "playerId": 1105513,
@@ -3107,6 +3147,11 @@ export default [
         "name": "Umut Sarkas"
       },
       {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
@@ -3208,6 +3253,11 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
+      },
+      {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "playerId": 1105513,
@@ -3832,6 +3882,11 @@ export default [
         "name": "Umut Sarkas"
       },
       {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
@@ -3965,6 +4020,11 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
+      },
+      {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "playerId": 1105513,
@@ -4429,6 +4489,11 @@ export default [
         "name": "Umut Sarkas"
       },
       {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
+      },
+      {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe"
@@ -4749,6 +4814,11 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas"
+      },
+      {
+        "playerId": 1185870,
+        "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
+        "name": "Willie Brouwer"
       },
       {
         "playerId": 1105513,
