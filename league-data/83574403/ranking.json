@@ -1203,7 +1203,18 @@
         "playerId": 82382911,
         "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
         "name": "Stefan van der Linden",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:17Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-23T22:13:09Z"
+          }
+        ]
       },
       {
         "playerId": 64409926,
@@ -1248,7 +1259,13 @@
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-23T22:12:52Z"
+          }
+        ]
       },
       {
         "playerId": 34168213,
@@ -1313,6 +1330,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-15T19:42:23Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:56Z"
           }
         ]
       },
@@ -2746,6 +2768,16 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-14T20:20:10Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:56Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-23T22:13:09Z"
           }
         ]
       },
@@ -2753,7 +2785,18 @@
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:17Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-23T22:12:52Z"
+          }
+        ]
       },
       {
         "playerId": 3220720,
