@@ -465,6 +465,308 @@
   },
   {
     "position": 3,
+    "teamName": "Nice Rack",
+    "teamId": 1176648,
+    "played": 2,
+    "wins": 1,
+    "losses": 0,
+    "ties": 1,
+    "points": 8,
+    "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Scratch That!",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Veel Stress!!",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-23T18:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 46976365,
+        "name": "Dave Lanfermeijer",
+        "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-15T18:51:36Z"
+          }
+        ]
+      },
+      {
+        "playerId": 82382911,
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:17Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-23T22:13:09Z"
+          }
+        ]
+      },
+      {
+        "playerId": 64409926,
+        "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
+        "name": "Sjoerd van Heiningen",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-15T19:59:14Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1187416,
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-23T22:12:32Z"
+          }
+        ]
+      },
+      {
+        "playerId": 64409698,
+        "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
+        "name": "Yulia Lukianchuk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-23T22:12:52Z"
+          }
+        ]
+      },
+      {
+        "playerId": 34168213,
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-15T17:56:26Z"
+          }
+        ]
+      },
+      {
+        "playerId": 85446898,
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-15T19:42:23Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:56Z"
+          }
+        ]
+      },
+      {
+        "playerId": 30138355,
+        "url": "https://cuescore.com/player/Oscar+Boot/30138355",
+        "name": "Oscar Boot",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-15T19:07:21Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 3,
     "teamName": "Beunhazen Boven 't IJ",
     "teamId": 17929510,
     "played": 2,
@@ -688,7 +990,7 @@
     ]
   },
   {
-    "position": 4,
+    "position": 5,
     "teamName": "Scratch That!",
     "teamId": 62000242,
     "played": 2,
@@ -924,7 +1226,7 @@
     ]
   },
   {
-    "position": 4,
+    "position": 5,
     "teamName": "Ball in Hand",
     "teamId": 64415623,
     "played": 2,
@@ -1148,233 +1450,7 @@
     ]
   },
   {
-    "position": 6,
-    "teamName": "Nice Rack",
-    "teamId": 1176648,
-    "played": 1,
-    "wins": 0,
-    "losses": 0,
-    "ties": 1,
-    "points": 3,
-    "lastFive": [
-      {
-        "result": "D",
-        "opponent": "Scratch That!",
-        "teamScore": 3,
-        "opponentScore": 3,
-        "date": "2026-09-15T18:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 46976365,
-        "name": "Dave Lanfermeijer",
-        "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-15T18:51:36Z"
-          }
-        ]
-      },
-      {
-        "playerId": 82382911,
-        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden",
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-23T22:12:17Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-09-23T22:13:09Z"
-          }
-        ]
-      },
-      {
-        "playerId": 64409926,
-        "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
-        "name": "Sjoerd van Heiningen",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-09-15T19:59:14Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1187416,
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik",
-        "lastFive": []
-      },
-      {
-        "playerId": 64409698,
-        "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk",
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-23T22:12:52Z"
-          }
-        ]
-      },
-      {
-        "playerId": 34168213,
-        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
-        "name": "Sela Klootwijk",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 4
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-15T17:56:26Z"
-          }
-        ]
-      },
-      {
-        "playerId": 85446898,
-        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
-        "name": "Jos Honkoop",
-        "mvp": "100.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-15T19:42:23Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-23T22:12:56Z"
-          }
-        ]
-      },
-      {
-        "playerId": 30138355,
-        "url": "https://cuescore.com/player/Oscar+Boot/30138355",
-        "name": "Oscar Boot",
-        "mvp": "100.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-15T19:07:21Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "position": 6,
+    "position": 7,
     "teamName": "Pat’s Purple Sinners",
     "teamId": 1176664,
     "played": 1,
@@ -1534,7 +1610,7 @@
     ]
   },
   {
-    "position": 6,
+    "position": 7,
     "teamName": "Wartburgia",
     "teamId": 1176667,
     "played": 1,
@@ -1716,7 +1792,7 @@
     ]
   },
   {
-    "position": 6,
+    "position": 7,
     "teamName": "Plan Babes",
     "teamId": 29149219,
     "played": 1,
@@ -1914,7 +1990,7 @@
     ]
   },
   {
-    "position": 6,
+    "position": 7,
     "teamName": "Just the tip.",
     "teamId": 47449828,
     "played": 1,
@@ -2100,7 +2176,7 @@
     ]
   },
   {
-    "position": 6,
+    "position": 7,
     "teamName": "Rising Legends",
     "teamId": 84677638,
     "played": 1,
@@ -2418,7 +2494,176 @@
     ]
   },
   {
-    "position": 13,
+    "position": 12,
+    "teamName": "Veel Stress!!",
+    "teamId": 86837605,
+    "played": 1,
+    "wins": 0,
+    "losses": 1,
+    "ties": 0,
+    "points": 2,
+    "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Nice Rack",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-23T18:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 1176705,
+        "name": "Ali Isik",
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-14T18:01:49Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-14T20:08:36Z"
+          }
+        ]
+      },
+      {
+        "playerId": 89881966,
+        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
+        "name": "Arjen Blank",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-23T22:12:32Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1176706,
+        "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
+        "name": "Laurens den Dulk",
+        "lastFive": []
+      },
+      {
+        "playerId": 37771660,
+        "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
+        "name": "A. \"Sakalam\"",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-14T18:51:48Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-14T20:20:10Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:56Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-23T22:13:09Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1187483,
+        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
+        "name": "Hashmatullah Nazir",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:17Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-23T22:12:52Z"
+          }
+        ]
+      },
+      {
+        "playerId": 3220720,
+        "url": "https://cuescore.com/player/Jin+Binda/3220720",
+        "name": "Jin Binda",
+        "lastFive": []
+      }
+    ]
+  },
+  {
+    "position": 14,
     "teamName": "Moko Loco",
     "teamId": 63272905,
     "played": 1,
@@ -2576,7 +2821,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 15,
     "teamName": "Mokum's Running English",
     "teamId": 61336255,
     "played": 0,
@@ -2637,7 +2882,7 @@
     ]
   },
   {
-    "position": 14,
+    "position": 15,
     "teamName": "Mokumse mikmak",
     "teamId": 63569641,
     "played": 0,
@@ -2711,98 +2956,6 @@
             "date": "2026-09-14T20:20:10Z"
           }
         ]
-      }
-    ]
-  },
-  {
-    "position": 14,
-    "teamName": "Veel Stress!!",
-    "teamId": 86837605,
-    "played": 0,
-    "wins": 0,
-    "losses": 0,
-    "ties": 0,
-    "points": 0,
-    "lastFive": [],
-    "members": [
-      {
-        "playerId": 1176705,
-        "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705",
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-14T18:01:49Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-14T20:08:36Z"
-          }
-        ]
-      },
-      {
-        "playerId": 89881966,
-        "url": "https://cuescore.com/player/Arjen+Blank/89881966",
-        "name": "Arjen Blank",
-        "lastFive": []
-      },
-      {
-        "playerId": 1176706,
-        "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk",
-        "lastFive": []
-      },
-      {
-        "playerId": 37771660,
-        "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
-        "name": "A. \"Sakalam\"",
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-14T18:51:48Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-09-14T20:20:10Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-23T22:12:56Z"
-          },
-          {
-            "result": "W",
-            "discipline": 10,
-            "date": "2026-09-23T22:13:09Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1187483,
-        "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
-        "name": "Hashmatullah Nazir",
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-23T22:12:17Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-23T22:12:52Z"
-          }
-        ]
-      },
-      {
-        "playerId": 3220720,
-        "url": "https://cuescore.com/player/Jin+Binda/3220720",
-        "name": "Jin Binda",
-        "lastFive": []
       }
     ]
   }
