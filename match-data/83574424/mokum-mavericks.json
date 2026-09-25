@@ -2,14 +2,14 @@
   {
     "discipline": 4,
     "raceTo": "5",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Arny de la Mar / Sten van Schaik",
     "playerB": "Aleksandar Petrović / Dev Chatterjee",
     "scoreA": "2",
-    "scoreB": "3",
+    "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88251535",
     "parentId": "88251094"
   },
