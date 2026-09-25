@@ -16,6 +16,9 @@ import padocLogo from '../assets/venues/padoc.png'
 import cueactionLogo from '../assets/venues/cueaction.png'
 import cuesdartsLogo from '../assets/venues/cuesdarts.png'
 import walburgLogo from '../assets/venues/walburg.png'
+import goesLogo from '../assets/venues/goes.png'
+import geldropLogo from '../assets/venues/geldrop.png'
+import oscarsLogo from '../assets/venues/oscars.jpg'
 
 const MOKUM_POOL_DARTS_VENUE_ID = '60451687'
 const BOVEN_T_IJ_VENUE_ID = '1172427'
@@ -36,6 +39,9 @@ const PADOC_VENUE_ID = '1172420'
 const CUEACTION_VENUE_ID = '9191729'
 const CUESDARTS_VENUE_ID = '1167973'
 const WALBURG_VENUE_ID = '30113122'
+const GOES_VENUE_ID = '1172409'
+const GELDROP_VENUE_ID = '50786224'
+const OSCARS_VENUE_ID = '76096633'
 
 export default function VenueLogo({venueId}){
   switch(venueId){
@@ -75,6 +81,12 @@ export default function VenueLogo({venueId}){
       return <img src={cuesdartsLogo} alt="" className="venue-logo" />
     case WALBURG_VENUE_ID:
       return <img src={walburgLogo} alt="" className="venue-logo" />
+    case GOES_VENUE_ID:
+      return <img src={goesLogo} alt="" className="venue-logo" />
+    case GELDROP_VENUE_ID:
+      return <img src={geldropLogo} alt="" className="venue-logo" />
+    case OSCARS_VENUE_ID:
+      return <img src={oscarsLogo} alt="" className="venue-logo" />
     default:
       return <img src={genericLogo} alt="" className="venue-logo" />
   }
