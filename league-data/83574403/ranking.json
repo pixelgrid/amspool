@@ -991,6 +991,494 @@
   },
   {
     "position": 5,
+    "teamName": "Wartburgia",
+    "teamId": 1176667,
+    "played": 2,
+    "wins": 0,
+    "losses": 0,
+    "ties": 2,
+    "points": 6,
+    "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Beunhazen Boven 't IJ",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-16T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Natural Spawn Killers",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 1163677,
+        "name": "Jeroen van der Zee",
+        "url": "https://cuescore.com/player/Jeroen+van+der+Zee/1163677",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-25T17:24:45Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1163536,
+        "url": "https://cuescore.com/player/Paul+van+Kasteren/1163536",
+        "name": "Paul van Kasteren",
+        "lastFive": []
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 1
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-17T10:58:31Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-17T11:00:28Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-25T17:28:42Z"
+          }
+        ]
+      },
+      {
+        "playerId": 6097735,
+        "url": "https://cuescore.com/player/Merijn+Boezer/6097735",
+        "name": "Merijn Boezer",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162865,
+        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
+        "name": "Xander Ernens",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-17T10:59:06Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-25T17:24:07Z"
+          }
+        ]
+      },
+      {
+        "playerId": 2433921,
+        "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
+        "name": "Len van Hoogdalem",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 2
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-17T10:57:53Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-25T17:29:19Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1176714,
+        "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
+        "name": "Geert in 't Veld",
+        "lastFive": []
+      },
+      {
+        "playerId": 1164534,
+        "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
+        "name": "Simon Termorshuizen",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-17T10:59:51Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-25T17:28:10Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 6,
+    "teamName": "Natural Spawn Killers",
+    "teamId": 6229472,
+    "played": 2,
+    "wins": 0,
+    "losses": 1,
+    "ties": 1,
+    "points": 5,
+    "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Smokum’s Finest",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Wartburgia",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 1163435,
+        "name": "Rory Jones",
+        "url": "https://cuescore.com/player/Rory+Jones/1163435",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 0
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 5
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-15T20:09:35Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-25T17:28:10Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-25T17:29:19Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1163910,
+        "url": "https://cuescore.com/player/Gary+Constable/1163910",
+        "name": "Gary Constable",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-25T17:24:45Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1161109,
+        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
+        "name": "Lunik Rashrash",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-17T18:29:19Z"
+          }
+        ]
+      },
+      {
+        "playerId": 20525473,
+        "url": "https://cuescore.com/player/Sam+Verheul/20525473",
+        "name": "Sam Verheul",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-15T21:08:21Z"
+          }
+        ]
+      },
+      {
+        "playerId": 9586132,
+        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
+        "name": "Jamie Hannah",
+        "lastFive": []
+      },
+      {
+        "playerId": 3126494,
+        "url": "https://cuescore.com/player/Alan+Campbell/3126494",
+        "name": "Alan Campbell",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-15T20:09:27Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-15T21:09:08Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1161186,
+        "url": "https://cuescore.com/player/Marcin+Przybylek/1161186",
+        "name": "Marcin Przybylek",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-25T17:24:07Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-25T17:28:42Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 6,
     "teamName": "Scratch That!",
     "teamId": 62000242,
     "played": 2,
@@ -1226,7 +1714,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 6,
     "teamName": "Ball in Hand",
     "teamId": 64415623,
     "played": 2,
@@ -1450,7 +1938,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 9,
     "teamName": "Pat’s Purple Sinners",
     "teamId": 1176664,
     "played": 1,
@@ -1610,189 +2098,7 @@
     ]
   },
   {
-    "position": 7,
-    "teamName": "Wartburgia",
-    "teamId": 1176667,
-    "played": 1,
-    "wins": 0,
-    "losses": 0,
-    "ties": 1,
-    "points": 3,
-    "lastFive": [
-      {
-        "result": "D",
-        "opponent": "Beunhazen Boven 't IJ",
-        "teamScore": 3,
-        "opponentScore": 3,
-        "date": "2026-09-16T18:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 1163677,
-        "name": "Jeroen van der Zee",
-        "url": "https://cuescore.com/player/Jeroen+van+der+Zee/1163677",
-        "lastFive": []
-      },
-      {
-        "playerId": 1163536,
-        "url": "https://cuescore.com/player/Paul+van+Kasteren/1163536",
-        "name": "Paul van Kasteren",
-        "lastFive": []
-      },
-      {
-        "playerId": 54101023,
-        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
-        "name": "Nick Maaskant",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-17T10:58:31Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-09-17T11:00:28Z"
-          }
-        ]
-      },
-      {
-        "playerId": 6097735,
-        "url": "https://cuescore.com/player/Merijn+Boezer/6097735",
-        "name": "Merijn Boezer",
-        "lastFive": []
-      },
-      {
-        "playerId": 1162865,
-        "url": "https://cuescore.com/player/Xander+Ernens/1162865",
-        "name": "Xander Ernens",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 4
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-17T10:59:06Z"
-          }
-        ]
-      },
-      {
-        "playerId": 2433921,
-        "url": "https://cuescore.com/player/Len+van+Hoogdalem/2433921",
-        "name": "Len van Hoogdalem",
-        "mvp": "100.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-17T10:57:53Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1176714,
-        "url": "https://cuescore.com/player/Geert+in+%27t+Veld/1176714",
-        "name": "Geert in 't Veld",
-        "lastFive": []
-      },
-      {
-        "playerId": 1164534,
-        "url": "https://cuescore.com/player/Simon+Termorshuizen/1164534",
-        "name": "Simon Termorshuizen",
-        "mvp": "100.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-17T10:59:51Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "position": 7,
+    "position": 9,
     "teamName": "Plan Babes",
     "teamId": 29149219,
     "played": 1,
@@ -1990,7 +2296,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 9,
     "teamName": "Just the tip.",
     "teamId": 47449828,
     "played": 1,
@@ -2176,7 +2482,7 @@
     ]
   },
   {
-    "position": 7,
+    "position": 9,
     "teamName": "Rising Legends",
     "teamId": 84677638,
     "played": 1,
@@ -2318,183 +2624,7 @@
     ]
   },
   {
-    "position": 12,
-    "teamName": "Natural Spawn Killers",
-    "teamId": 6229472,
-    "played": 1,
-    "wins": 0,
-    "losses": 1,
-    "ties": 0,
-    "points": 2,
-    "lastFive": [
-      {
-        "result": "L",
-        "opponent": "Smokum’s Finest",
-        "teamScore": 2,
-        "opponentScore": 4,
-        "date": "2026-09-15T18:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 1163435,
-        "name": "Rory Jones",
-        "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 10,
-            "date": "2026-09-15T20:09:35Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1163910,
-        "url": "https://cuescore.com/player/Gary+Constable/1163910",
-        "name": "Gary Constable",
-        "lastFive": []
-      },
-      {
-        "playerId": 1161109,
-        "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
-        "name": "Lunik Rashrash",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-17T18:29:19Z"
-          }
-        ]
-      },
-      {
-        "playerId": 20525473,
-        "url": "https://cuescore.com/player/Sam+Verheul/20525473",
-        "name": "Sam Verheul",
-        "mvp": "100.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-15T21:08:21Z"
-          }
-        ]
-      },
-      {
-        "playerId": 9586132,
-        "url": "https://cuescore.com/player/Jamie+Hannah/9586132",
-        "name": "Jamie Hannah",
-        "lastFive": []
-      },
-      {
-        "playerId": 3126494,
-        "url": "https://cuescore.com/player/Alan+Campbell/3126494",
-        "name": "Alan Campbell",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 4
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-15T20:09:27Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-15T21:09:08Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1161186,
-        "url": "https://cuescore.com/player/Marcin+Przybylek/1161186",
-        "name": "Marcin Przybylek",
-        "lastFive": []
-      }
-    ]
-  },
-  {
-    "position": 12,
+    "position": 13,
     "teamName": "Veel Stress!!",
     "teamId": 86837605,
     "played": 1,
