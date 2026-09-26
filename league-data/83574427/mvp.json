@@ -29,7 +29,8 @@
         "framesWon": 5,
         "framesLost": 4
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "40296037",
@@ -61,7 +62,8 @@
         "framesWon": 5,
         "framesLost": 1
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "19517899",
@@ -93,7 +95,8 @@
         "framesWon": 10,
         "framesLost": 4
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "17070613",
@@ -125,7 +128,8 @@
         "framesWon": 5,
         "framesLost": 3
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "8210065",
@@ -157,7 +161,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1162829",
@@ -189,7 +194,8 @@
         "framesWon": 5,
         "framesLost": 3
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1162815",
@@ -221,7 +227,8 @@
         "framesWon": 5,
         "framesLost": 2
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "80951728",
@@ -253,7 +260,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "55414381",
@@ -285,7 +293,8 @@
         "framesWon": 5,
         "framesLost": 2
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "10288774",
@@ -317,7 +326,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1533289",
@@ -349,7 +359,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1159837",
@@ -381,7 +392,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1163793",
@@ -413,7 +425,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "30162649",
@@ -445,7 +458,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "74378422",
@@ -477,7 +491,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "64387018",
@@ -509,7 +524,8 @@
         "framesWon": 4,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "51224212",
@@ -541,7 +557,8 @@
         "framesWon": 5,
         "framesLost": 3
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "41435989",
@@ -573,7 +590,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "24669859",
@@ -605,7 +623,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "18389575",
@@ -637,7 +656,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "12138127",
@@ -669,7 +689,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "2871018",
@@ -701,7 +722,8 @@
         "framesWon": 3,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1163937",
@@ -733,7 +755,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1162170",
@@ -765,7 +788,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1163440",
@@ -797,7 +821,8 @@
         "framesWon": 7,
         "framesLost": 9
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1162826",
@@ -829,7 +854,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "32966269",
@@ -861,7 +887,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "8084212",
@@ -893,7 +920,8 @@
         "framesWon": 2,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1702384",
@@ -925,7 +953,8 @@
         "framesWon": 1,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "62664601",
@@ -957,7 +986,8 @@
         "framesWon": 3,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "52925515",
@@ -989,7 +1019,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "45094462",
@@ -1021,7 +1052,8 @@
         "framesWon": 3,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "31192153",
@@ -1053,7 +1085,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "30252431",
@@ -1085,7 +1118,8 @@
         "framesWon": 5,
         "framesLost": 10
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "17915515",
@@ -1117,7 +1151,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "16265656",
@@ -1149,7 +1184,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "7675024",
@@ -1181,7 +1217,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "6207976",
@@ -1213,7 +1250,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "4798486",
@@ -1245,7 +1283,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "1160738",
@@ -1277,7 +1316,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 100
   },
   {
     "playerId": "6181561",
@@ -1309,7 +1349,8 @@
         "framesWon": 5,
         "framesLost": 4
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "37793647",
@@ -1341,7 +1382,8 @@
         "framesWon": 5,
         "framesLost": 3
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "21260116",
@@ -1373,7 +1415,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "82144759",
@@ -1405,7 +1448,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "78893989",
@@ -1437,7 +1481,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "6563601",
@@ -1469,7 +1514,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "25896457",
@@ -1501,7 +1547,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "21483490",
@@ -1533,7 +1580,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1656647",
@@ -1565,7 +1613,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "14139304",
@@ -1597,7 +1646,8 @@
         "framesWon": 5,
         "framesLost": 3
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1163947",
@@ -1629,7 +1679,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1163469",
@@ -1661,7 +1712,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1161842",
@@ -1693,7 +1745,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1160701",
@@ -1725,7 +1778,8 @@
         "framesWon": 5,
         "framesLost": 2
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1159836",
@@ -1757,7 +1811,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1116789",
@@ -1789,7 +1844,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "7764058",
@@ -1821,7 +1877,8 @@
         "framesWon": 2,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "6549349",
@@ -1853,7 +1910,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "41867425",
@@ -1885,7 +1943,8 @@
         "framesWon": 2,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "26357872",
@@ -1917,7 +1976,8 @@
         "framesWon": 4,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "22395961",
@@ -1949,7 +2009,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "17928781",
@@ -1981,7 +2042,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "34200361",
@@ -2013,7 +2075,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "26027917",
@@ -2045,7 +2108,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "18900496",
@@ -2077,7 +2141,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "15199402",
@@ -2109,7 +2174,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "15174676",
@@ -2141,7 +2207,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1427802",
@@ -2173,7 +2240,8 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1162045",
@@ -2205,7 +2273,8 @@
         "framesWon": 3,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1160728",
@@ -2237,7 +2306,8 @@
         "framesWon": 4,
         "framesLost": 5
       }
-    }
+    },
+    "participationRate": 50
   },
   {
     "playerId": "1160488",
@@ -2269,6 +2339,7 @@
         "framesWon": null,
         "framesLost": null
       }
-    }
+    },
+    "participationRate": 50
   }
 ]
