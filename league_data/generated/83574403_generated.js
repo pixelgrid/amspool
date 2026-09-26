@@ -43,11 +43,6 @@ export default [
         }
       },
       {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
-      },
-      {
         "playerId": 81337288,
         "url": "https://cuescore.com/player/Danny+Vermeulen/81337288",
         "name": "Danny Vermeulen"
@@ -3964,11 +3959,6 @@ export default [
         }
       },
       {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
-      },
-      {
         "playerId": 81337288,
         "url": "https://cuescore.com/player/Danny+Vermeulen/81337288",
         "name": "Danny Vermeulen"
@@ -4512,11 +4502,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
       },
       {
         "playerId": 81337288,
@@ -7870,11 +7855,6 @@ export default [
         }
       },
       {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
-      },
-      {
         "playerId": 81337288,
         "url": "https://cuescore.com/player/Danny+Vermeulen/81337288",
         "name": "Danny Vermeulen"
@@ -9046,11 +9026,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
       },
       {
         "playerId": 81337288,
@@ -11723,11 +11698,6 @@ export default [
         }
       },
       {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
-      },
-      {
         "playerId": 81337288,
         "url": "https://cuescore.com/player/Danny+Vermeulen/81337288",
         "name": "Danny Vermeulen"
@@ -13533,11 +13503,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
       },
       {
         "playerId": 81337288,
@@ -15647,11 +15612,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
       },
       {
         "playerId": 81337288,
@@ -17839,11 +17799,6 @@ export default [
         }
       },
       {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
-      },
-      {
         "playerId": 81337288,
         "url": "https://cuescore.com/player/Danny+Vermeulen/81337288",
         "name": "Danny Vermeulen"
@@ -19615,11 +19570,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
       },
       {
         "playerId": 81337288,
@@ -22316,11 +22266,6 @@ export default [
         }
       },
       {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
-      },
-      {
         "playerId": 81337288,
         "url": "https://cuescore.com/player/Danny+Vermeulen/81337288",
         "name": "Danny Vermeulen"
@@ -23489,11 +23434,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
       },
       {
         "playerId": 81337288,
@@ -26797,11 +26737,6 @@ export default [
         }
       },
       {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
-      },
-      {
         "playerId": 81337288,
         "url": "https://cuescore.com/player/Danny+Vermeulen/81337288",
         "name": "Danny Vermeulen"
@@ -27400,11 +27335,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
       },
       {
         "playerId": 81337288,
@@ -31209,11 +31139,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 76424818,
-        "url": "https://cuescore.com/player/Jelani+Fernand/76424818",
-        "name": "Jelani Fernand"
       },
       {
         "playerId": 81337288,
