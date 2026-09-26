@@ -502,6 +502,11 @@ export default [
         "name": "Tim Jonkman"
       },
       {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -679,6 +684,11 @@ export default [
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman"
+      },
+      {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
       },
       {
         "playerId": 1047268,
@@ -1116,6 +1126,11 @@ export default [
         "name": "Tim Jonkman"
       },
       {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -1367,6 +1382,11 @@ export default [
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman"
+      },
+      {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
       },
       {
         "playerId": 1047268,
@@ -1949,6 +1969,11 @@ export default [
         "name": "Tim Jonkman"
       },
       {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -2023,6 +2048,11 @@ export default [
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman"
+      },
+      {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
       },
       {
         "playerId": 1047268,
@@ -2239,6 +2269,11 @@ export default [
         "name": "Tim Jonkman"
       },
       {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -2392,6 +2427,11 @@ export default [
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman"
+      },
+      {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
       },
       {
         "playerId": 1047268,
@@ -2880,6 +2920,11 @@ export default [
         "name": "Tim Jonkman"
       },
       {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -2969,6 +3014,11 @@ export default [
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman"
+      },
+      {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
       },
       {
         "playerId": 1047268,
@@ -3701,6 +3751,11 @@ export default [
         "name": "Tim Jonkman"
       },
       {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -3775,6 +3830,11 @@ export default [
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman"
+      },
+      {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
       },
       {
         "playerId": 1047268,
@@ -4195,6 +4255,11 @@ export default [
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman"
+      },
+      {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
       },
       {
         "playerId": 1047268,
@@ -4699,6 +4764,11 @@ export default [
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman"
+      },
+      {
+        "playerId": 1160886,
+        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
+        "name": "Richard Eijmberts"
       },
       {
         "playerId": 1047268,
