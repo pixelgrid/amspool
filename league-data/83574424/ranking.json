@@ -24,6 +24,22 @@
         "date": "2026-09-22T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "Mokumse Maaiers",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Purple Reign",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1162241,
@@ -244,6 +260,22 @@
         "date": "2026-09-24T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "Ongewenst Effect",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-09-22T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Hoe kan dat nou?!",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1159670,
@@ -427,6 +459,22 @@
     "ties": 1,
     "points": 9,
     "lastFive": [
+      {
+        "result": "W",
+        "opponent": "Mokumse Maaiers",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-09-21T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Mokum Mavericks",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "W",
         "opponent": "Mokumse Maaiers",
@@ -708,6 +756,22 @@
         "date": "2026-09-24T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Mokum Remastered",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-17T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Mokum Magic",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1163653,
@@ -940,6 +1004,22 @@
         "date": "2026-09-21T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "Purple Reign",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-16T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Mokum Remastered",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 26697259,
@@ -1157,6 +1237,22 @@
     "ties": 2,
     "points": 6,
     "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Restless",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-17T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Quality Strokes",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "D",
         "opponent": "Restless",
@@ -1425,6 +1521,15 @@
         "date": "2026-09-15T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "Ongewenst Effect",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-09-15T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 2840444,
@@ -1595,6 +1700,22 @@
     "ties": 1,
     "points": 5,
     "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Quality Strokes",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-16T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Mooie Ballen",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "L",
         "opponent": "Quality Strokes",
@@ -1849,6 +1970,22 @@
     "ties": 1,
     "points": 5,
     "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Alkmaar Noord",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Restless",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "D",
         "opponent": "Alkmaar Noord",
@@ -2179,6 +2316,15 @@
         "date": "2026-09-15T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Mokum Magic",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1161643,
@@ -2408,6 +2554,22 @@
         "date": "2026-09-21T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "L",
+        "opponent": "Mooie Ballen",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Hoe kan dat nou?!",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1161864,
@@ -2619,6 +2781,22 @@
     "ties": 0,
     "points": 2,
     "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Mokum Mayhem",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Mokum Mavericks",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "L",
         "opponent": "Mokum Mayhem",

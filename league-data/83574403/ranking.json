@@ -24,6 +24,22 @@
         "date": "2026-09-21T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "Natural Spawn Killers",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Ball in Hand",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 46399831,
@@ -227,6 +243,22 @@
     "ties": 1,
     "points": 9,
     "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Ball in Hand",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Moko Loco",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "D",
         "opponent": "Ball in Hand",
@@ -473,6 +505,22 @@
     "ties": 1,
     "points": 8,
     "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Scratch That!",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Veel Stress!!",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-23T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "D",
         "opponent": "Scratch That!",
@@ -790,6 +838,22 @@
         "date": "2026-09-22T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Wartburgia",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-16T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Scratch That!",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1164697,
@@ -999,6 +1063,22 @@
     "ties": 2,
     "points": 6,
     "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Beunhazen Boven 't IJ",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-16T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Natural Spawn Killers",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "D",
         "opponent": "Beunhazen Boven 't IJ",
@@ -1235,6 +1315,22 @@
     "ties": 1,
     "points": 5,
     "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Smokum’s Finest",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Wartburgia",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "L",
         "opponent": "Smokum’s Finest",
@@ -1502,6 +1598,22 @@
         "date": "2026-09-22T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Nice Rack",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Beunhazen Boven 't IJ",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 16760332,
@@ -1738,6 +1850,22 @@
         "date": "2026-09-21T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Mokum Sixpack",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Smokum’s Finest",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 50945791,
@@ -1955,6 +2083,15 @@
         "date": "2026-09-15T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Rising Legends",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1162875,
@@ -2107,6 +2244,15 @@
     "ties": 1,
     "points": 3,
     "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Just the tip.",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-16T17:51:01Z"
+      }
+    ],
+    "games": [
       {
         "result": "D",
         "opponent": "Just the tip.",
@@ -2313,6 +2459,15 @@
         "date": "2026-09-16T17:51:01Z"
       }
     ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Plan Babes",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-16T17:51:01Z"
+      }
+    ],
     "members": [
       {
         "playerId": 47226928,
@@ -2499,6 +2654,15 @@
         "date": "2026-09-15T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Pat’s Purple Sinners",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 60482017,
@@ -2627,6 +2791,15 @@
     "ties": 0,
     "points": 2,
     "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Nice Rack",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-23T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "L",
         "opponent": "Nice Rack",
@@ -2804,6 +2977,15 @@
         "date": "2026-09-22T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "L",
+        "opponent": "Mokum Sixpack",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 7679696,
@@ -2954,6 +3136,7 @@
     "ties": 0,
     "points": 0,
     "lastFive": [],
+    "games": [],
     "members": [
       {
         "playerId": 31979449,
@@ -3015,6 +3198,7 @@
     "ties": 0,
     "points": 0,
     "lastFive": [],
+    "games": [],
     "members": [
       {
         "playerId": 61800895,
