@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 
-import { getTrackedLeagueOptions, getTeamOptions, getGroupedTeamOptions, getSelectedTeamDateRange, applySettingsFilters } from './filter-games.js';
+import { getTrackedLeagueOptions, getLeagueFixtures, getTeamOptions, getGroupedTeamOptions, getSelectedTeamDateRange, applySettingsFilters } from './filter-games.js';
 import { normalizeSubMatch } from './normalize-sub-match.js';
 import { extractDataFromHTML } from './extract-match-details-from-html.js';
 import { JSDOM } from 'jsdom';
@@ -14,6 +14,13 @@ test('tracked leagues and team names are statically extracted', () => {
   assert.ok(leagues.every(item => item.id && item.name));
   assert.equal(teams[0], 'All teams');
   assert.ok(teams.length > 1);
+});
+
+test('league fixtures include scheduled opponent names and dates', () => {
+  const fixtures = getLeagueFixtures(83574403);
+
+  assert.ok(fixtures.length > 0);
+  assert.ok(fixtures.every(({ playerA, playerB, startTime }) => playerA && playerB && startTime));
 });
 
 test('team lists are grouped by league and exclude venue names', () => {

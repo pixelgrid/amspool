@@ -249,6 +249,20 @@ span.score {
   border-bottom: 1px solid #ddd;
 }
 
+.table-dialog-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.matrix-match-detail {
+  margin: 0;
+  padding: 8px 12px;
+  border-bottom: 1px solid #ddd;
+  background: #f1f1f1;
+  font-size: 14px;
+  font-weight: 700;
+}
+
 .table-dialog h2 {
   margin: 0;
   font-size: 20px;
@@ -343,6 +357,96 @@ span.score {
 
 .league-table thead {
   background: #f1f1f1;
+}
+
+.ranking-matrix {
+  border-collapse: separate;
+  border-spacing: 2px;
+  min-width: max-content;
+  padding: 8px;
+  text-align: center;
+}
+
+.ranking-matrix th,
+.ranking-matrix td {
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  background: #f1f1f1;
+}
+
+.ranking-matrix th:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  min-width: 170px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.ranking-matrix tbody th:first-child {
+  padding: 0 8px;
+  background: white;
+}
+
+.matrix-position {
+  display: inline-block;
+  width: 26px;
+  color: #555;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+  margin-right: 8px;
+}
+
+.matrix-score {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 0;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+}
+
+.matrix-score:focus-visible {
+  outline: 2px solid #111;
+  outline-offset: -2px;
+}
+
+.matrix-win {
+  background: #d7efdd;
+  color: #185b2d;
+}
+
+.matrix-tie {
+  background: #cfe8f7;
+  color: #18445b;
+}
+
+.matrix-loss {
+  background: #f7d9d6;
+  color: #812d27;
+}
+
+.matrix-date {
+  background: #e3e8eb;
+  color: #26323a;
+  font-size: 10px;
+}
+
+.matrix-diagonal {
+  background: #111 !important;
+}
+
+.ranking-matrix th.matrix-team-highlight {
+  background: #f7d76b;
+  color: #222;
+  box-shadow: inset 0 0 0 2px #7a5a00;
 }
 
 .league-table tbody .current-team {

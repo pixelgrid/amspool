@@ -22,6 +22,10 @@ export function getTrackedLeagueOptions() {
   return trackedLeagues.map(({ id, name }) => ({ id, name }));
 }
 
+export function getLeagueFixtures(tournamentId) {
+  return trackedLeagues.find(({ id }) => String(id) === String(tournamentId))?.matches || [];
+}
+
 export function getGroupedTeamOptions() {
   const venueNames = new Set();
 

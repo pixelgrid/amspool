@@ -123,7 +123,6 @@ function buildRankingData(apiData, participants, subMatches, mvpData){
                 opponentScore: teamNumber === 1 ? match.scoreB : match.scoreA,
                 date: match.starttime
             });
-            acc[team.teamId] = acc[team.teamId].slice(-5);
         }
         return acc;
     }, {});
@@ -162,7 +161,8 @@ function buildRankingData(apiData, participants, subMatches, mvpData){
         losses,
         ties,
         points,
-        lastFive: gamesByTeam[player.teamId] || [],
+        lastFive: (gamesByTeam[player.teamId] || []).slice(-5),
+        games: gamesByTeam[player.teamId] || [],
         members: membersByTeam[player.teamId] || []
     }));
 }

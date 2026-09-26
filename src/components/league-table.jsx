@@ -1,4 +1,5 @@
 import {Fragment, useEffect, useState} from 'react';
+import {getLeagueFixtures} from '../utils/filter-games.js';
 
 const standingsRequests = new Map();
 
@@ -18,11 +19,20 @@ function fetchStandings(tournamentId) {
   return request;
 }
 
+function isSelectedMatrixTeam(teamName, selectedMatch) {
+  return selectedMatch?.teamName === teamName || selectedMatch?.opponentName === teamName;
+}
+
 export default function LeagueTable({tournamentId, teamNames, onClose}) {
   const [standings, setStandings] = useState([]);
   const [expandedTeamId, setExpandedTeamId] = useState(null);
+  const [showMatrix, setShowMatrix] = useState(false);
+  const [selectedMatrixMatch, setSelectedMatrixMatch] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
+  const scheduledGames = getLeagueFixtures(tournamentId);
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
 
   useEffect(() => {
     let active = true;
@@ -55,10 +65,43 @@ export default function LeagueTable({tournamentId, teamNames, onClose}) {
     <div className="table-dialog" role="dialog" aria-modal="true" aria-labelledby="league-table-title" onClick={event => event.stopPropagation()}>
       <div className="table-dialog-header">
         <h2 id="league-table-title">League table</h2>
-        <button className="close-table" aria-label="Close league table" onClick={onClose}>Close</button>
+        <div className="table-dialog-actions">
+          <button className="close-table" aria-pressed={showMatrix} onClick={() => setShowMatrix(value => !value)}>{showMatrix ? 'Show table' : 'Show matrix'}</button>
+          <button className="close-table" aria-label="Close league table" onClick={onClose}>Close</button>
+        </div>
       </div>
+      {showMatrix && selectedMatrixMatch && <p className="matrix-match-detail" aria-live="polite">{selectedMatrixMatch.teamName} vs {selectedMatrixMatch.opponentName}: {selectedMatrixMatch.detail}</p>}
       <div className="table-scroll">
-        <table className="league-table">
+        {showMatrix ? <table className="ranking-matrix">
+          <thead>
+            <tr><th scope="col"># / Team</th>{standings.map(opponent => <th scope="col" className={isSelectedMatrixTeam(opponent.teamName, selectedMatrixMatch) ? 'matrix-team-highlight' : undefined} key={opponent.teamId || opponent.teamName} title={opponent.teamName}>{opponent.position}</th>)}</tr>
+          </thead>
+          <tbody>
+            {error && <tr><td colSpan={standings.length + 1}>Unable to load the league table.</td></tr>}
+            {isLoading && <tr><td colSpan={standings.length + 1}><div className="table-loader" role="status" aria-label="Loading league table"><span className="spinner" /></div></td></tr>}
+            {standings.map(team => <tr key={team.teamId || team.teamName}>
+              <th scope="row" className={isSelectedMatrixTeam(team.teamName, selectedMatrixMatch) ? 'matrix-team-highlight' : undefined} title={team.teamName}><span className="matrix-position">{team.position}</span><span>{team.teamName}</span></th>
+              {standings.map(opponent => {
+                const isSameTeam = team.teamId === opponent.teamId || team.teamName === opponent.teamName;
+                const game = (team.games || team.lastFive || []).find(result => result.opponent === opponent.teamName);
+                const scheduledGame = !isSameTeam && !game && scheduledGames
+                  .filter(match => new Date(match.startTime) >= today && (
+                    (match.playerA === team.teamName && match.playerB === opponent.teamName) ||
+                    (match.playerB === team.teamName && match.playerA === opponent.teamName)
+                  ))
+                  .sort((first, second) => new Date(first.startTime) - new Date(second.startTime))[0];
+                const result = game?.result === 'W' ? 'win' : ['D', 'T'].includes(game?.result) ? 'tie' : 'loss';
+                const scheduledDate = scheduledGame ? new Date(scheduledGame.startTime) : null;
+                const dateLabel = scheduledDate?.toLocaleDateString('en-GB', {day: '2-digit', month: 'short'});
+                const fullDate = dateLabel;
+                return <td key={opponent.teamId || opponent.teamName} className={isSameTeam ? 'matrix-diagonal' : undefined} aria-label={isSameTeam ? `${team.teamName}, same team` : undefined}>
+                  {!isSameTeam && game && <button type="button" className={`matrix-score matrix-${result}`} aria-label={`${team.teamName} ${game.teamScore} to ${game.opponentScore} ${game.result === 'W' ? 'won against' : 'lost to'} ${opponent.teamName}`} title={`${team.teamName} vs ${opponent.teamName}`} onClick={() => setSelectedMatrixMatch({teamName: team.teamName, opponentName: opponent.teamName, detail: `${game.teamScore}-${game.opponentScore}`})}>{game.teamScore}-{game.opponentScore}</button>}
+                  {scheduledGame && <button type="button" className="matrix-score matrix-date" aria-label={`${team.teamName} vs ${opponent.teamName}, scheduled ${fullDate}`} title={`${team.teamName} vs ${opponent.teamName}: ${fullDate}`} onClick={() => setSelectedMatrixMatch({teamName: team.teamName, opponentName: opponent.teamName, detail: fullDate})}>{dateLabel}</button>}
+                </td>;
+              })}
+            </tr>)}
+          </tbody>
+        </table> : <table className="league-table">
           <thead>
             <tr><th>#</th><th>Team</th><th>G</th><th>W</th><th>D</th><th>L</th><th>P</th><th>Last 5</th></tr>
           </thead>
@@ -125,7 +168,7 @@ export default function LeagueTable({tournamentId, teamNames, onClose}) {
               </tr>}
             </Fragment>)}
           </tbody>
-        </table>
+        </table>}
       </div>
     </div>
   </div>
