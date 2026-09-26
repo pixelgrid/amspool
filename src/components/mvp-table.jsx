@@ -1,4 +1,4 @@
-import {useEffect, useState} from 'react';
+import {Fragment, useEffect, useState} from 'react';
 
 const mvpRequests = new Map();
 
@@ -20,8 +20,10 @@ function fetchMvpData(tournamentId) {
 
 function formatStats(stats) {
   if (!stats) return '-';
-  const values = Object.values(stats).filter(value => value !== null);
-  return values.length ? values.join(' / ') : '-';
+  const matchesPlayed = stats.matchesPlayed;
+  const matchesWon = stats.matchesWon;
+  if (matchesPlayed == null && matchesWon == null) return '-';
+  return `${matchesWon ?? 0} / ${matchesPlayed ?? 0}`;
 }
 
 export default function MvpTable({tournamentId, onClose}) {
@@ -56,6 +58,9 @@ export default function MvpTable({tournamentId, onClose}) {
   }, []);
 
   const disciplines = players[0] ? Object.keys(players[0].stats) : [];
+  const eligiblePlayers = players.filter(player => !Number.isFinite(player.participationRate) || player.participationRate >= 60);
+  const lowParticipationPlayers = players.filter(player => Number.isFinite(player.participationRate) && player.participationRate < 60);
+  const rankedPlayers = [...eligiblePlayers, ...lowParticipationPlayers];
 
   return <div className="table-modal" role="presentation" onClick={onClose}>
     <div className="table-dialog" role="dialog" aria-modal="true" aria-labelledby="mvp-table-title" onClick={event => event.stopPropagation()}>
@@ -66,17 +71,20 @@ export default function MvpTable({tournamentId, onClose}) {
       <div className="table-scroll">
         <table className="mvp-table">
           <thead>
-            <tr><th>#</th><th>Player</th><th>MVP</th>{disciplines.map(discipline => <th key={discipline}>{discipline}<br /><small>MP / W / F / L</small></th>)}</tr>
+            <tr><th>#</th><th>Player</th><th>MVP</th>{disciplines.map(discipline => <th key={discipline}>{discipline}<br /><small>Won / Played</small></th>)}</tr>
           </thead>
           <tbody>
             {error && <tr><td colSpan={3 + disciplines.length}>Unable to load the MVP table.</td></tr>}
             {isLoading && <tr><td colSpan={3 + disciplines.length}><div className="table-loader" role="status" aria-label="Loading MVP table"><span className="spinner" /></div></td></tr>}
-            {players.map((player, index) => <tr key={player.playerId || player.name}>
-              <td>{index + 1}</td>
+            {rankedPlayers.map((player, index) => <Fragment key={player.playerId || player.name}>
+              {index === eligiblePlayers.length && lowParticipationPlayers.length > 0 && <tr className="mvp-participation-separator"><td colSpan={3 + disciplines.length}>Below this row: participation rate under 60%</td></tr>}
+              <tr>
+              <td>{Number.isFinite(player.participationRate) && player.participationRate < 60 ? '' : index + 1}</td>
               <td><a href={player.url}>{player.name}</a></td>
               <td className="table-points">{player.mvp}</td>
               {disciplines.map(discipline => <td key={discipline}>{formatStats(player.stats[discipline])}</td>)}
-            </tr>)}
+              </tr>
+            </Fragment>)}
           </tbody>
         </table>
       </div>

@@ -332,6 +332,15 @@ span.score {
   background: #f1f1f1;
 }
 
+.mvp-participation-separator td {
+  border-top: 2px solid #536b78;
+  border-bottom: 2px solid #536b78;
+  background: #e8f0f4;
+  color: #24343c;
+  font-weight: 700;
+  text-align: left;
+}
+
 .league-table th,
 .league-table td {
   padding: 10px 12px;

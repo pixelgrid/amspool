@@ -12,6 +12,11 @@ function parseNumber(value) {
   return trimmed === '' ? null : Number(trimmed);
 }
 
+function parsePercentage(value) {
+  const trimmed = value.trim().replace(/%$/, '');
+  return trimmed === '' ? null : Number(trimmed);
+}
+
 function normalizeUrl(url) {
   return url.startsWith('//') ? `https:${url}` : url;
 }
@@ -33,6 +38,7 @@ export function parseMvpHTML(document) {
 
     const cells = [...row.children];
     const stats = {};
+    const participationRateIndex = headers.indexOf('PR');
     disciplineNames.forEach((discipline, index) => {
       const start = 5 + index * 5;
       const disciplineStats = {};
@@ -49,6 +55,7 @@ export function parseMvpHTML(document) {
       name: playerLink.textContent.trim(),
       url: normalizeUrl(playerLink.getAttribute('href')),
       mvp: cells[3].textContent.trim(),
+      participationRate: participationRateIndex >= 0 ? parsePercentage(cells[participationRateIndex].textContent) : null,
       stats
     });
   }
