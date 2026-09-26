@@ -24,6 +24,22 @@
         "date": "2026-09-22T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "No Pro's",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Cue Fighters",
+        "teamScore": 6,
+        "opponentScore": 0,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 14139304,
@@ -235,6 +251,22 @@
     "ties": 0,
     "points": 11,
     "lastFive": [
+      {
+        "result": "W",
+        "opponent": "Rackless in Mokum",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Team Volendam",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "W",
         "opponent": "Rackless in Mokum",
@@ -544,6 +576,22 @@
         "date": "2026-09-24T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "Mokumse zwendelaars",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Smoke ‘Em",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1162170,
@@ -823,6 +871,22 @@
     "ties": 0,
     "points": 10,
     "lastFive": [
+      {
+        "result": "W",
+        "opponent": "Royston Vasey Social Club",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Breaking Badly",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "W",
         "opponent": "Royston Vasey Social Club",
@@ -1120,6 +1184,22 @@
         "date": "2026-09-22T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "Breaking Badly",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Noord Boven t IJ 26/27",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1162815,
@@ -1346,6 +1426,22 @@
         "date": "2026-09-21T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "L",
+        "opponent": "@mokum",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Mokumse zwendelaars",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1163440,
@@ -1551,6 +1647,22 @@
     "ties": 0,
     "points": 7,
     "lastFive": [
+      {
+        "result": "W",
+        "opponent": "Cue Fighters",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "The Pocketeers",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-24T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "W",
         "opponent": "Cue Fighters",
@@ -1805,6 +1917,22 @@
     "ties": 2,
     "points": 6,
     "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Team Volendam",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Lost & Found In Mokum",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "D",
         "opponent": "Team Volendam",
@@ -2080,6 +2208,22 @@
         "date": "2026-09-21T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "L",
+        "opponent": "No ExCues",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Royston Vasey Social Club",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 1162045,
@@ -2319,6 +2463,22 @@
     "ties": 0,
     "points": 4,
     "lastFive": [
+      {
+        "result": "L",
+        "opponent": "NOORD GESTOORD",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "No Pro's",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "L",
         "opponent": "NOORD GESTOORD",
@@ -2579,6 +2739,22 @@
     "ties": 1,
     "points": 4,
     "lastFive": [
+      {
+        "result": "D",
+        "opponent": "Noord Boven t IJ 26/27",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "@mokum",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "D",
         "opponent": "Noord Boven t IJ 26/27",
@@ -2888,6 +3064,22 @@
         "date": "2026-09-22T18:00:00Z"
       }
     ],
+    "games": [
+      {
+        "result": "L",
+        "opponent": "Lost & Found In Mokum",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "NOORD GESTOORD",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
     "members": [
       {
         "playerId": 20948920,
@@ -3105,6 +3297,22 @@
     "ties": 0,
     "points": 3,
     "lastFive": [
+      {
+        "result": "L",
+        "opponent": "The Pocketeers",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Rackless in Mokum",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-21T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "L",
         "opponent": "The Pocketeers",
@@ -3387,6 +3595,22 @@
     "ties": 0,
     "points": 2,
     "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Smoke ‘Em",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "No ExCues",
+        "teamScore": 0,
+        "opponentScore": 6,
+        "date": "2026-09-22T18:00:00Z"
+      }
+    ],
+    "games": [
       {
         "result": "L",
         "opponent": "Smoke ‘Em",
