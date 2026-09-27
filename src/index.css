@@ -282,16 +282,17 @@ span.score {
 }
 
 .runouts {
-  color: gray;
-  border: 2px solid;
-  border-radius: 100%;
-  display: flex;
+  box-sizing: border-box;
+  width: 2em;
+  height: 2em;
+  border: 1px solid currentColor;
+  border-radius: 50%;
+  display: inline-flex;
   justify-content: center;
   align-items: center;
-  padding: 5px;
-  font-size: 14px;
   aspect-ratio: 1 / 1;
-  margin: 10px;
+  flex: 0 0 auto;
+  font-size: 12px;
 }
 
 .matchesoverview {

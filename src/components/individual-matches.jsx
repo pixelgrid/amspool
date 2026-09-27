@@ -15,9 +15,9 @@ export default function IndividualMatches({matches, playerStats = {}}){
     return <div key={index} className={`individualMatch ${status} winner-${winner} match-${match.matchId}`}>
       <DisciplineImage discipline={match.discipline} />
       <span>RT{match.raceTo}</span>
-      <span className={`player A ${selectedPlayer === match.playerA ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerA)}>{match.playerA}{playerStats[match.playerA]?.mvp ? ` (${playerStats[match.playerA].mvp})` : ''}</span>
+      <span className={`player A ${selectedPlayer === match.playerA ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerA)}>{match.playerA}{playerStats[match.playerA]?.mvp ? ` (${playerStats[match.playerA].mvp})` : ''}{Number(match.runoutsA) > 0 && <span className="runouts">R{match.runoutsA}</span>}</span>
       <span className="score"><span className="scoreA">{scoreA}</span><span className="score-separator"> - </span><span className="scoreB">{scoreB}</span></span>
-      <span className={`player B ${selectedPlayer === match.playerB ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerB)}>{match.playerB}{playerStats[match.playerB]?.mvp ? ` (${playerStats[match.playerB].mvp})` : ''}</span>
+      <span className={`player B ${selectedPlayer === match.playerB ? 'selectedPlayer' : ''}`} onClick={() => setSelectedPlayer(match.playerB)}>{match.playerB}{playerStats[match.playerB]?.mvp ? ` (${playerStats[match.playerB].mvp})` : ''}{Number(match.runoutsB) > 0 && <span className="runouts">R{match.runoutsB}</span>}</span>
     </div>
   })}</div>
 }
