@@ -12,41 +12,34 @@ export function MatchProvider({ children }) {
   matchUpdatesRef.current = matchUpdates;
   individualMatchesRef.current = individualMatches;
 
-  const updateMatch = useCallback((matchId, scoreA, scoreB, status, winner, teams = {}, shouldNotify = true) => {
+  const updateMatch = useCallback((matchId, scoreA, scoreB, status, winner, details = {}, shouldNotify = true) => {
     const matchKey = String(matchId);
     const fixtureEntry = Object.entries(individualMatchesRef.current).find(([, matches]) =>
       matches.some(match => String(match.matchId) === matchKey)
     );
 
-    setMatchUpdates(prev => ({
-      ...prev,
-      [matchKey]: { scoreA, scoreB, status, winner }
-    }));
+    const matchUpdate = { scoreA, scoreB, status, winner };
+    const nextMatchUpdates = { ...matchUpdatesRef.current, [matchKey]: matchUpdate };
+    matchUpdatesRef.current = nextMatchUpdates;
+    setMatchUpdates(nextMatchUpdates);
 
-    setIndividualMatches(prev => {
-      let changed = false;
-      const next = {};
-
-      for (const [fixtureId, matches] of Object.entries(prev)) {
-        next[fixtureId] = matches.map(match => {
-          if (String(match.matchId) !== matchKey)
-            return match;
-
-          changed = true;
-          return { ...match, scoreA, scoreB, status, winner };
-        });
-      }
-
-      return changed ? next : prev;
-    });
-
-    if (fixtureEntry && shouldNotify) {
-      const [fixtureId, fixtureMatches] = fixtureEntry;
-      const updatedMatches = fixtureMatches.map(match => {
+    let individualMatchesChanged = false;
+    const nextIndividualMatches = {};
+    for (const [fixtureId, matches] of Object.entries(individualMatchesRef.current)) {
+      nextIndividualMatches[fixtureId] = matches.map(match => {
         if (String(match.matchId) !== matchKey) return match;
-        return { ...match, scoreA, scoreB, status, winner };
+        individualMatchesChanged = true;
+        return { ...match, ...matchUpdate };
       });
-      const gameScore = updatedMatches.reduce((score, match) => {
+    }
+    if (individualMatchesChanged) {
+      individualMatchesRef.current = nextIndividualMatches;
+      setIndividualMatches(nextIndividualMatches);
+    }
+
+    if (shouldNotify) {
+      const [fixtureId, fixtureMatches = []] = fixtureEntry || [details.parentId, []];
+      const gameScore = fixtureMatches.reduce((score, match) => {
         const latest = matchUpdatesRef.current[String(match.matchId)];
         const current = String(match.matchId) === matchKey
           ? { ...match, scoreA, scoreB, status, winner }
@@ -60,28 +53,34 @@ export function MatchProvider({ children }) {
         if (currentWinner === 2) score.scoreB++;
         return score;
       }, { scoreA: 0, scoreB: 0 });
-      const updatedMatch = updatedMatches.find(match => String(match.matchId) === matchKey);
+      const cachedMatch = fixtureMatches.find(match => String(match.matchId) === matchKey);
 
-      setNotifications(prev => [...prev, {
+      const playerA = cachedMatch?.playerA || details.playerA || '';
+      const playerB = cachedMatch?.playerB || details.playerB || '';
+      if (details.teamA && details.teamB && playerA && playerB) {
+        setNotifications(prev => [...prev, {
         id: ++notificationIdRef.current,
         gameScore,
         scoreA,
         scoreB,
         status,
         winner,
-        discipline: updatedMatch.discipline,
-        raceTo: updatedMatch.raceTo,
-        playerA: updatedMatch.playerA,
-        playerB: updatedMatch.playerB,
-        teamA: teams.teamA || '',
-        teamB: teams.teamB || '',
-        fixtureId,
-      }]);
+        discipline: cachedMatch?.discipline ?? details.disciplineId ?? details.discipline ?? '',
+        raceTo: cachedMatch?.raceTo ?? details.raceTo ?? '',
+        playerA,
+        playerB,
+        teamA: details.teamA || '',
+        teamB: details.teamB || '',
+        fixtureId: fixtureId || '',
+        }]);
+      }
     }
   }, []);
 
   const storeIndividualMatches = useCallback((fixtureId, matches) => {
-    setIndividualMatches(prev => ({ ...prev, [fixtureId]: matches }));
+    const next = { ...individualMatchesRef.current, [fixtureId]: matches };
+    individualMatchesRef.current = next;
+    setIndividualMatches(next);
   }, []);
 
   const dismissNotification = useCallback((notificationId) => {

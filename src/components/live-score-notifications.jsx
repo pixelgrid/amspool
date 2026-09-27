@@ -10,16 +10,16 @@ function LiveScoreNotification({ notification, onDismiss }) {
 
   return <div className={`live-score-notification ${notification.status} winner-${notification.winner}`} role="status">
     <div className="live-score-game">
-      <span>{notification.teamA || 'Team A'}</span>
+      <span>{notification.teamA}</span>
       <strong>{notification.gameScore.scoreA} - {notification.gameScore.scoreB}</strong>
-      <span>{notification.teamB || 'Team B'}</span>
+      <span>{notification.teamB}</span>
     </div>
     <div className="live-score-match">
       <span className="live-score-discipline"><DisciplineImage discipline={notification.discipline} /></span>
       <span className="live-score-race">RT{notification.raceTo || '?'}</span>
-      <span className="live-score-player player-A">{notification.playerA || 'Player A'}</span>
+      <span className="live-score-player player-A">{notification.playerA}</span>
       <strong className="live-score-score"><span className="scoreA">{notification.scoreA}</span><span className="score-separator"> - </span><span className="scoreB">{notification.scoreB}</span></strong>
-      <span className="live-score-player player-B">{notification.playerB || 'Player B'}</span>
+      <span className="live-score-player player-B">{notification.playerB}</span>
     </div>
   </div>;
 }

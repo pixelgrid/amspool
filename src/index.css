@@ -62,6 +62,14 @@
   text-align: left;
   animation: live-score-enter 180ms ease-out both;
 }
+.live-score-notification.finished {
+  background: rgb(36, 58, 116);
+  color: white;
+}
+.live-score-notification.playing {
+  background: rgb(70, 125, 247);
+  color: white;
+}
 .live-score-game {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
@@ -79,14 +87,17 @@
 }
 .live-score-match {
   display: grid;
-  grid-template-columns: 30px auto minmax(0, 1fr) auto minmax(0, 1fr);
+  grid-template-rows: repeat(3, auto);
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: center;
-  gap: 8px;
+  gap: 4px 12px;
   font-size: 12px;
 }
 .live-score-discipline {
   display: flex;
   align-items: center;
+  grid-row: 1;
+  grid-column: 1;
 }
 .live-score-discipline img.discipline {
   width: 26px;
@@ -94,6 +105,8 @@
   object-fit: contain;
 }
 .live-score-race {
+  grid-row: 1;
+  grid-column: 2;
   padding: 2px 5px;
   background: #59645c;
   white-space: nowrap;
@@ -106,9 +119,33 @@
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.live-score-player.player-A {
+  grid-row: 2;
+  grid-column: 1;
+}
+.live-score-player.player-B {
+  grid-row: 3;
+  grid-column: 1;
+}
 .live-score-match strong {
   white-space: nowrap;
   font-size: 14px;
+}
+.live-score-score {
+  display: contents;
+}
+.live-score-score .scoreA {
+  grid-row: 2;
+  grid-column: 2;
+  justify-self: end;
+}
+.live-score-score .scoreB {
+  grid-row: 3;
+  grid-column: 2;
+  justify-self: end;
+}
+.live-score-score .score-separator {
+  display: none;
 }
 .live-score-notification.winner-1 .scoreA,
 .live-score-notification.winner-2 .scoreB {
@@ -668,62 +705,6 @@ span.score {
   .live-score-game {
     gap: 6px;
     font-size: 12px;
-  }
-
-  .live-score-notification.finished {
-    background: rgb(36, 58, 116);
-    color: white;
-  }
-
-  .live-score-notification.playing {
-    background: rgb(70, 125, 247);
-    color: white;
-  }
-
-  .live-score-match {
-    grid-template-rows: repeat(3, auto);
-    grid-template-columns: minmax(0, 1fr) auto;
-    gap: 4px 12px;
-  }
-
-  .live-score-discipline {
-    grid-row: 1;
-    grid-column: 1;
-  }
-
-  .live-score-race {
-    grid-row: 1;
-    grid-column: 2;
-  }
-
-  .live-score-player.player-A {
-    grid-row: 2;
-    grid-column: 1;
-  }
-
-  .live-score-player.player-B {
-    grid-row: 3;
-    grid-column: 1;
-  }
-
-  .live-score-score {
-    display: contents;
-  }
-
-  .live-score-score .scoreA {
-    grid-row: 2;
-    grid-column: 2;
-    justify-self: end;
-  }
-
-  .live-score-score .scoreB {
-    grid-row: 3;
-    grid-column: 2;
-    justify-self: end;
-  }
-
-  .live-score-score .score-separator {
-    display: none;
   }
 
   .table-modal {

@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 
 import {
   applySettingsFilters,
@@ -43,6 +43,20 @@ function readStoredSettings() {
   }
 }
 
+function getParticipantName(participant, partner) {
+  if (Array.isArray(participant)) {
+    return participant.map(player => getParticipantName(player)).filter(Boolean).join(' / ');
+  }
+  if (participant && typeof participant === 'object') {
+    return [getParticipantName(participant.name), getParticipantName(partner)].filter(Boolean).join(' / ');
+  }
+  return typeof participant === 'string' ? participant.trim() : '';
+}
+
+function isRealName(name) {
+  return Boolean(name && !/^(player|team)\s*[ab]$/i.test(name.trim()));
+}
+
 function App(){
     const showStreams = window.location.search.includes("streams");
     if(showStreams)
@@ -65,30 +79,59 @@ function LeagueMatches() {
     [matches, settings]
   );
 
-  function handleSocketMessage(message){
-    const data = JSON.parse(message.data);
-    if(data.action === "UPDATE MATCHES"){
-      for(let match of data.data){
-        const knownSubMatch = Object.values(individualMatchesRef.current).flat().find(
-          subMatch => String(subMatch.matchId) === String(match.matchId)
-        );
-        const parentId = match.parentId || knownSubMatch?.parentId;
-        const parentGame = matches?.flatMap(([, leagues]) => leagues.flat()).find(
-          game => String(game.matchId) === String(parentId)
-        );
-
-        updateMatch(
-          match.matchId,
-          String(match.scoreA),
-          String(match.scoreB),
-          match.matchstatus,
-          match.matchstatus === "finished" ? match.scoreA > match.scoreB ? 1 : 2 : 0,
-          { teamA: parentGame?.playerA, teamB: parentGame?.playerB },
-          liveScoreNotificationsRef.current
-        );
-      }
+  const handleSocketMessage = useCallback((message) => {
+    let data;
+    try {
+      data = JSON.parse(message.data);
+    } catch {
+      return;
     }
-  }
+    if(data.action !== "UPDATE MATCHES" || !Array.isArray(data.data)) return;
+
+    for(const match of data.data){
+      if (!match?.matchId) continue;
+      const knownSubMatch = Object.values(individualMatchesRef.current).flat().find(
+        subMatch => String(subMatch.matchId) === String(match.matchId)
+      );
+      const parentId = match.parentId || knownSubMatch?.parentId;
+      const parentGame = matches?.flatMap(([, leagues]) => leagues.flat()).find(
+        game => String(game.matchId) === String(parentId)
+      );
+      const playerA = knownSubMatch?.playerA || getParticipantName(match.playerA, match.doublesA);
+      const playerB = knownSubMatch?.playerB || getParticipantName(match.playerB, match.doublesB);
+      const belongsToKnownGame = Boolean(parentGame && (
+        knownSubMatch || String(match.parentId) === String(parentGame.matchId)
+      ));
+      const isFinished = match.matchstatus === "finished";
+      const scoreA = String(match.scoreA ?? knownSubMatch?.scoreA ?? '');
+      const scoreB = String(match.scoreB ?? knownSubMatch?.scoreB ?? '');
+      const winner = isFinished
+        ? Number(scoreA) > Number(scoreB) ? 1 : Number(scoreB) > Number(scoreA) ? 2 : 0
+        : 0;
+
+      updateMatch(
+        match.matchId,
+        scoreA,
+        scoreB,
+        match.matchstatus || knownSubMatch?.status || '',
+        winner,
+        {
+          ...knownSubMatch,
+          playerA,
+          playerB,
+          disciplineId: match.disciplineId,
+          discipline: match.discipline,
+          raceTo: match.raceTo,
+          parentId,
+          teamA: parentGame?.playerA || '',
+          teamB: parentGame?.playerB || '',
+        },
+        liveScoreNotificationsRef.current && belongsToKnownGame &&
+          isRealName(parentGame?.playerA) && isRealName(parentGame?.playerB) &&
+          isRealName(playerA) && isRealName(playerB)
+      );
+    }
+  }, [matches, updateMatch]);
 
   useEffect(() => {
     const { selectedTeam, enabledLeagueIds } = settings;
@@ -117,21 +160,22 @@ function LeagueMatches() {
 
   useEffect(() => {
     const today = new Date().toISOString().split('T')[0]
-    matches?.filter(m => m[0] === today).forEach(([d, leagues]) => {
-      const gameIDs = [];
-      for(let league of leagues){
-        for(let game of league){
-          gameIDs.push(game.matchId)
-        }
-      }
-      SOCKET.addEventListener("open", (event) => {
-        SOCKET.addEventListener("message", handleSocketMessage);
-        SOCKET.send(JSON.stringify({"subscribeTo": gameIDs}))
-      });
-    })
+    const gameIDs = matches?.filter(([date]) => date === today)
+      .flatMap(([, leagues]) => leagues.flat().map(game => game.matchId)) || [];
 
-    return () => SOCKET.removeEventListener("message", handleSocketMessage);
-  }, [matches])
+    SOCKET.addEventListener("message", handleSocketMessage);
+    const subscribe = () => {
+      if (gameIDs.length) SOCKET.send(JSON.stringify({ subscribeTo: gameIDs }));
+    };
+
+    if (SOCKET.readyState === WebSocket.OPEN) subscribe();
+    else SOCKET.addEventListener("open", subscribe);
+
+    return () => {
+      SOCKET.removeEventListener("message", handleSocketMessage);
+      SOCKET.removeEventListener("open", subscribe);
+    };
+  }, [matches, handleSocketMessage])
 
   const trackedLeagues = getTrackedLeagueOptions();
   const groupedTeamOptions = getGroupedTeamOptions();
