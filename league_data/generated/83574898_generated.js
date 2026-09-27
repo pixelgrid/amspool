@@ -2648,7 +2648,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2026-10-10T10:00:00Z",
+    "startTime": "2026-11-15T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
