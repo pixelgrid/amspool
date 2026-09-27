@@ -15,7 +15,13 @@
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-27T11:34:14Z"
+          }
+        ]
       },
       {
         "playerId": 55388533,
@@ -27,13 +33,25 @@
         "playerId": 1160822,
         "url": "https://cuescore.com/player/Gert+Lutjes/1160822",
         "name": "Gert Lutjes",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T11:35:02Z"
+          }
+        ]
       },
       {
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:32:56Z"
+          }
+        ]
       },
       {
         "playerId": 10479064,
@@ -45,7 +63,13 @@
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:29:57Z"
+          }
+        ]
       }
     ]
   },
@@ -171,13 +195,25 @@
         "playerId": 1161998,
         "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
         "name": "Djay Latuputty",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:48:55Z"
+          }
+        ]
       },
       {
         "playerId": 1161241,
         "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
         "name": "Kevin Jansen",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:48:49Z"
+          }
+        ]
       },
       {
         "playerId": 1160291,
@@ -195,7 +231,13 @@
         "playerId": 1163715,
         "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
         "name": "Jacob Siemaszko",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:48:58Z"
+          }
+        ]
       }
     ]
   },
@@ -215,13 +257,25 @@
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:48:58Z"
+          }
+        ]
       },
       {
         "playerId": 1187397,
         "url": "https://cuescore.com/player/Timothy+Voortman/1187397",
         "name": "Timothy Voortman",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T11:48:55Z"
+          }
+        ]
       },
       {
         "playerId": 1161034,
@@ -245,7 +299,13 @@
         "playerId": 1164150,
         "url": "https://cuescore.com/player/Hindrik+de+Haan/1164150",
         "name": "Hindrik de Haan",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T11:48:49Z"
+          }
+        ]
       },
       {
         "playerId": 1187507,
@@ -377,19 +437,37 @@
         "playerId": 56566297,
         "url": "https://cuescore.com/player/Michael+Matschewsky/56566297",
         "name": "Michael Matschewsky",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-27T11:34:14Z"
+          }
+        ]
       },
       {
         "playerId": 1162017,
         "url": "https://cuescore.com/player/Bas+Scheffers/1162017",
         "name": "Bas Scheffers",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:32:56Z"
+          }
+        ]
       },
       {
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:35:02Z"
+          }
+        ]
       },
       {
         "playerId": 26729542,
@@ -407,7 +485,13 @@
         "playerId": 1176676,
         "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
         "name": "Kim Uytenbogaardt",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:29:57Z"
+          }
+        ]
       },
       {
         "playerId": 1160337,
