@@ -169,8 +169,8 @@ export default [
     "startTime": "2026-09-27T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
@@ -903,8 +903,8 @@ export default [
     "startTime": "2026-10-17T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
@@ -1647,8 +1647,8 @@ export default [
     "startTime": "2026-11-22T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
@@ -2396,8 +2396,8 @@ export default [
     "startTime": "2026-12-06T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
@@ -3140,8 +3140,8 @@ export default [
     "startTime": "2027-01-24T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
@@ -4375,8 +4375,8 @@ export default [
     "startTime": "2027-02-20T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
@@ -5281,8 +5281,8 @@ export default [
     "startTime": "2027-03-20T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
@@ -6248,8 +6248,8 @@ export default [
     "startTime": "2027-05-23T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",
@@ -7144,8 +7144,8 @@ export default [
     "startTime": "2027-06-13T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
-      "venueID": 1172427,
-      "venueUrl": "https://cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
+      "venueID": "1172427",
+      "venueUrl": "//cuescore.com/venue/Poolcentrum+Boven+%27t+IJ/1172427"
     },
     "tournamentUrl": "https://cuescore.com/tournament/Pool+Derde+Divisie+Noord-West+2026%252F2027/83574898",
     "tournamentName": "Pool Derde Divisie Noord-West 2026/2027",

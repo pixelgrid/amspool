@@ -15,7 +15,13 @@
         "playerId": 1160280,
         "name": "Kevin Den Hartigh",
         "url": "https://cuescore.com/player/Kevin+Den+Hartigh/1160280",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-09-27T10:02:18Z"
+          }
+        ]
       },
       {
         "playerId": 1160236,
@@ -33,13 +39,35 @@
         "playerId": 32966269,
         "url": "https://cuescore.com/player/Andy+Fung/32966269",
         "name": "Andy Fung",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T10:01:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:53:24Z"
+          }
+        ]
       },
       {
         "playerId": 1159737,
         "url": "https://cuescore.com/player/Jean+Paul+Kievit/1159737",
         "name": "Jean Paul Kievit",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T10:02:53Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-27T11:54:44Z"
+          }
+        ]
       },
       {
         "playerId": 1160739,
@@ -71,7 +99,13 @@
         "playerId": 1161358,
         "name": "Rienus Gennissen",
         "url": "https://cuescore.com/player/Rienus+Gennissen/1161358",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-09-27T11:18:18Z"
+          }
+        ]
       },
       {
         "playerId": 1187428,
@@ -109,7 +143,13 @@
         "playerId": 21260116,
         "name": "Danny Bast",
         "url": "https://cuescore.com/player/Danny+Bast/21260116",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-09-27T11:12:59Z"
+          }
+        ]
       },
       {
         "playerId": 45094462,
@@ -147,7 +187,13 @@
         "playerId": 34200361,
         "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
         "name": "Tofail Wagid Hosain",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T11:06:36Z"
+          }
+        ]
       },
       {
         "playerId": 1163630,
@@ -177,7 +223,13 @@
         "playerId": 1247702,
         "url": "https://cuescore.com/player/Rick+./1247702",
         "name": "Rick .",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:06:33Z"
+          }
+        ]
       }
     ]
   },
@@ -209,7 +261,13 @@
         "playerId": 1162261,
         "url": "https://cuescore.com/player/Richard+Kema/1162261",
         "name": "Richard Kema",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:05:35Z"
+          }
+        ]
       },
       {
         "playerId": 1162262,
@@ -227,7 +285,13 @@
         "playerId": 1160888,
         "url": "https://cuescore.com/player/Mervin+Saib/1160888",
         "name": "Mervin Saib",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:03:11Z"
+          }
+        ]
       }
     ]
   },
@@ -247,7 +311,13 @@
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:05:35Z"
+          }
+        ]
       },
       {
         "playerId": 1160475,
@@ -265,7 +335,13 @@
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:03:11Z"
+          }
+        ]
       },
       {
         "playerId": 2840444,
@@ -327,13 +403,25 @@
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:06:33Z"
+          }
+        ]
       },
       {
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:06:36Z"
+          }
+        ]
       }
     ]
   },
@@ -353,7 +441,13 @@
         "playerId": 1161646,
         "name": "Omar Maalikoum",
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-09-27T11:12:59Z"
+          }
+        ]
       },
       {
         "playerId": 1656647,
@@ -415,7 +509,13 @@
         "playerId": 1160389,
         "name": "Caro Line",
         "url": "https://cuescore.com/player/Caro+Line/1160389",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-09-27T11:18:18Z"
+          }
+        ]
       },
       {
         "playerId": 1161776,
@@ -477,13 +577,35 @@
         "playerId": 1161027,
         "name": "Jan Smeels",
         "url": "https://cuescore.com/player/Jan+Smeels/1161027",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T10:01:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-27T11:54:44Z"
+          }
+        ]
       },
       {
         "playerId": 3404805,
         "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
         "name": "Lennert Duyn",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-09-27T10:02:18Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:53:24Z"
+          }
+        ]
       },
       {
         "playerId": 2213894,
@@ -495,7 +617,13 @@
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T10:02:53Z"
+          }
+        ]
       },
       {
         "playerId": 1161039,

@@ -83,7 +83,13 @@
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T11:05:02Z"
+          }
+        ]
       },
       {
         "playerId": 1185870,
@@ -139,7 +145,13 @@
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:09:28Z"
+          }
+        ]
       },
       {
         "playerId": 5671648,
@@ -189,7 +201,13 @@
         "playerId": 1164725,
         "url": "https://cuescore.com/player/Dami%C3%ABn+Jesich/1164725",
         "name": "Damiën Jesich",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:04:02Z"
+          }
+        ]
       },
       {
         "playerId": 42234562,
@@ -207,7 +225,13 @@
         "playerId": 1159634,
         "url": "https://cuescore.com/player/Ed+Geels/1159634",
         "name": "Ed Geels",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-09-27T11:04:03Z"
+          }
+        ]
       },
       {
         "playerId": 1163489,
@@ -257,13 +281,25 @@
         "playerId": 6928875,
         "url": "https://cuescore.com/player/Stefan+Sprangers/6928875",
         "name": "Stefan Sprangers",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-09-27T11:04:03Z"
+          }
+        ]
       },
       {
         "playerId": 1090804,
         "url": "https://cuescore.com/player/Sanne+Krom/1090804",
         "name": "Sanne Krom",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T11:04:02Z"
+          }
+        ]
       }
     ]
   },
@@ -307,7 +343,13 @@
         "playerId": 1161320,
         "url": "https://cuescore.com/player/Chris+Pronk/1161320",
         "name": "Chris Pronk",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:09:28Z"
+          }
+        ]
       },
       {
         "playerId": 1161839,
@@ -363,7 +405,13 @@
         "playerId": 1539480,
         "url": "https://cuescore.com/player/Hassan+Osman/1539480",
         "name": "Hassan Osman",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:05:02Z"
+          }
+        ]
       },
       {
         "playerId": 1187493,
