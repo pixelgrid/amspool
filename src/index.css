@@ -42,6 +42,86 @@
   font: inherit;
   cursor: pointer;
 }
+.live-score-notifications {
+  position: fixed;
+  z-index: 20;
+  top: max(16px, env(safe-area-inset-top));
+  right: max(16px, env(safe-area-inset-right));
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: min(380px, calc(100vw - 32px));
+  pointer-events: none;
+}
+.live-score-notification {
+  padding: 12px 14px;
+  border-left: 4px solid #16803c;
+  background: #fff;
+  color: #17221b;
+  box-shadow: 0 5px 18px rgb(0 0 0 / 22%);
+  text-align: left;
+  animation: live-score-enter 180ms ease-out both;
+}
+.live-score-game {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 7px;
+  font-size: 13px;
+  font-weight: 700;
+}
+.live-score-game > :last-child {
+  text-align: right;
+}
+.live-score-game strong {
+  white-space: nowrap;
+}
+.live-score-match {
+  display: grid;
+  grid-template-columns: 30px auto minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+}
+.live-score-discipline {
+  display: flex;
+  align-items: center;
+}
+.live-score-discipline img.discipline {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+}
+.live-score-race {
+  padding: 2px 5px;
+  background: #59645c;
+  white-space: nowrap;
+  color: white;
+  font-size: 11px;
+  font-weight: 700;
+}
+.live-score-player {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.live-score-match strong {
+  white-space: nowrap;
+  font-size: 14px;
+}
+.live-score-notification.winner-1 .scoreA,
+.live-score-notification.winner-2 .scoreB {
+  color: rgb(255, 152, 0);
+}
+.live-score-notification.winner-1 .player-A,
+.live-score-notification.winner-2 .player-B {
+  font-weight: 700;
+}
+@keyframes live-score-enter {
+  from { opacity: 0; transform: translateY(-8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
 a {
   font-weight: 500;
   color: #646cff;
@@ -574,6 +654,78 @@ span.score {
 }
 
 @media (max-width: 600px) {
+  .live-score-notifications {
+    top: max(8px, env(safe-area-inset-top));
+    right: 8px;
+    left: 8px;
+    width: auto;
+  }
+
+  .live-score-notification {
+    padding: 10px 12px;
+  }
+
+  .live-score-game {
+    gap: 6px;
+    font-size: 12px;
+  }
+
+  .live-score-notification.finished {
+    background: rgb(36, 58, 116);
+    color: white;
+  }
+
+  .live-score-notification.playing {
+    background: rgb(70, 125, 247);
+    color: white;
+  }
+
+  .live-score-match {
+    grid-template-rows: repeat(3, auto);
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 4px 12px;
+  }
+
+  .live-score-discipline {
+    grid-row: 1;
+    grid-column: 1;
+  }
+
+  .live-score-race {
+    grid-row: 1;
+    grid-column: 2;
+  }
+
+  .live-score-player.player-A {
+    grid-row: 2;
+    grid-column: 1;
+  }
+
+  .live-score-player.player-B {
+    grid-row: 3;
+    grid-column: 1;
+  }
+
+  .live-score-score {
+    display: contents;
+  }
+
+  .live-score-score .scoreA {
+    grid-row: 2;
+    grid-column: 2;
+    justify-self: end;
+  }
+
+  .live-score-score .scoreB {
+    grid-row: 3;
+    grid-column: 2;
+    justify-self: end;
+  }
+
+  .live-score-score .score-separator {
+    display: none;
+  }
+
   .table-modal {
     align-items: flex-start;
     padding: max(8px, env(safe-area-inset-top)) max(8px, env(safe-area-inset-right)) max(8px, env(safe-area-inset-bottom)) max(8px, env(safe-area-inset-left));

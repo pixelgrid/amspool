@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 
 import {
   applySettingsFilters,
@@ -11,6 +11,7 @@ import {
 
 import DateRow from './components/date-row.jsx'
 import GameRow from './components/game-row.jsx'
+import LiveScoreNotifications from './components/live-score-notifications.jsx'
 import {Streams} from './components/streams.jsx'
 import { useMatchUpdates, MatchProvider } from './context/match-context.jsx'
 
@@ -19,6 +20,7 @@ const SOCKET = new WebSocket("wss://ws.cuescore.com:11443/");
 const DEFAULT_SETTINGS = {
   selectedTeam: 'All teams',
   enabledLeagueIds: getTrackedLeagueOptions().map(({ id }) => id),
+  liveScoreNotifications: true,
 };
 
 function readStoredSettings() {
@@ -34,6 +36,7 @@ function readStoredSettings() {
     return {
       selectedTeam: typeof stored.selectedTeam === 'string' ? stored.selectedTeam : 'All teams',
       enabledLeagueIds: enabledLeagueIds.length ? enabledLeagueIds : [...allLeagueIds],
+      liveScoreNotifications: typeof stored.liveScoreNotifications === 'boolean' ? stored.liveScoreNotifications : true,
     };
   } catch {
     return DEFAULT_SETTINGS;
@@ -51,7 +54,11 @@ function LeagueMatches() {
   const [matches, setMatches] = useState(null);
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [settings, setSettings] = useState(readStoredSettings);
-  const { updateMatch } = useMatchUpdates();
+  const { updateMatch, individualMatches, clearNotifications } = useMatchUpdates();
+  const individualMatchesRef = useRef(individualMatches);
+  individualMatchesRef.current = individualMatches;
+  const liveScoreNotificationsRef = useRef(settings.liveScoreNotifications);
+  liveScoreNotificationsRef.current = settings.liveScoreNotifications;
 
   const visibleMatches = useMemo(
     () => applySettingsFilters(matches || [], settings),
@@ -62,12 +69,22 @@ function LeagueMatches() {
     const data = JSON.parse(message.data);
     if(data.action === "UPDATE MATCHES"){
       for(let match of data.data){
+        const knownSubMatch = Object.values(individualMatchesRef.current).flat().find(
+          subMatch => String(subMatch.matchId) === String(match.matchId)
+        );
+        const parentId = match.parentId || knownSubMatch?.parentId;
+        const parentGame = matches?.flatMap(([, leagues]) => leagues.flat()).find(
+          game => String(game.matchId) === String(parentId)
+        );
+
         updateMatch(
           match.matchId,
           String(match.scoreA),
           String(match.scoreB),
           match.matchstatus,
-          match.matchstatus === "finished" ? match.scoreA > match.scoreB ? 1 : 2 : 0
+          match.matchstatus === "finished" ? match.scoreA > match.scoreB ? 1 : 2 : 0,
+          { teamA: parentGame?.playerA, teamB: parentGame?.playerB },
+          liveScoreNotificationsRef.current
         );
       }
     }
@@ -75,7 +92,7 @@ function LeagueMatches() {
 
   useEffect(() => {
     const { selectedTeam, enabledLeagueIds } = settings;
-    localStorage.setItem('amspool-settings', JSON.stringify({ selectedTeam, enabledLeagueIds }));
+    localStorage.setItem('amspool-settings', JSON.stringify({ selectedTeam, enabledLeagueIds, liveScoreNotifications: settings.liveScoreNotifications }));
   }, [settings]);
 
   useEffect(() => {
@@ -123,6 +140,7 @@ function LeagueMatches() {
   const hasSelectedTeam = selectedTeamValue !== 'All teams';
 
   return <>
+    <LiveScoreNotifications />
     {hasSelectedTeam && (
       <section className="selected-settings" aria-label="Settings">
         <span className="selected-settings-label">Settings</span>
@@ -155,6 +173,19 @@ function LeagueMatches() {
           </div>
 
           <div className="settings-body">
+            <label className="league-checkbox-item">
+              <input
+                type="checkbox"
+                checked={settings.liveScoreNotifications}
+                onChange={event => {
+                  const enabled = event.target.checked;
+                  setSettings(current => ({ ...current, liveScoreNotifications: enabled }));
+                  if (!enabled) clearNotifications();
+                }}
+              />
+              <span>Live score notifications</span>
+            </label>
+
             <label className="settings-field">
               <span>Team</span>
               <select
