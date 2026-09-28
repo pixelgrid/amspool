@@ -49,38 +49,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -2693,38 +2661,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -3114,7 +3050,7 @@ export default [
     "playerB": "Mokum Oost",
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
-    "startTime": "2026-10-17T11:00:00Z",
+    "startTime": "2026-10-18T11:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -3253,38 +3189,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -5278,38 +5182,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -6427,38 +6299,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -7881,38 +7721,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -9605,38 +9413,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -10409,38 +10185,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -12848,38 +12592,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -13087,38 +12799,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -15720,38 +15400,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -16079,38 +15727,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -18374,38 +17990,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -18454,7 +18038,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2027-03-20T12:00:00Z",
+    "startTime": "2027-03-21T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -19238,38 +18822,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -20944,38 +20496,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -22379,38 +21899,6 @@ export default [
         }
       },
       {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 2213894,
         "url": "https://cuescore.com/player/Richard+van+velthoven/2213894",
         "name": "Richard van velthoven"
@@ -23510,38 +22998,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -25591,38 +25047,6 @@ export default [
             "matchesWon": 1,
             "framesWon": 7,
             "framesLost": 2
-          }
-        }
-      },
-      {
-        "playerId": 3404805,
-        "url": "https://cuescore.com/player/Lennert+Duyn/3404805",
-        "name": "Lennert Duyn",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },

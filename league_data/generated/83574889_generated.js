@@ -611,17 +611,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -631,19 +712,100 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ],
     "teamB": [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -653,7 +815,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -1308,12 +1497,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -1323,7 +1566,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -1642,17 +1912,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -1662,7 +2013,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ]
   },
@@ -2268,17 +2646,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -2288,7 +2747,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ],
     "teamB": [
@@ -2941,12 +3427,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -2956,7 +3496,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -3120,12 +3687,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -3135,7 +3756,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -3923,17 +4571,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -3943,7 +4672,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ]
   },
@@ -3972,17 +4728,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -3992,7 +4829,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ],
     "teamB": [
@@ -4792,12 +5656,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -4807,7 +5725,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -5411,12 +6356,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -5426,7 +6425,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -5730,17 +6756,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -5750,7 +6857,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ],
     "teamB": [
@@ -6415,17 +7549,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -6435,7 +7650,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ]
   },
@@ -6459,12 +7701,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -6474,7 +7770,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -7515,12 +8838,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -7530,7 +8907,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -7542,17 +8946,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -7562,7 +9047,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ]
   },
@@ -8384,12 +9896,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -8399,7 +9965,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -8428,17 +10021,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -8448,7 +10122,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ],
     "teamB": [
@@ -9354,17 +11055,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -9374,7 +11156,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ]
   },
@@ -9705,12 +11514,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -9720,7 +11583,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -9889,12 +11779,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -9904,7 +11848,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -10719,17 +12690,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -10739,7 +12791,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ],
     "teamB": [
@@ -11021,17 +13100,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -11041,7 +13201,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ]
   },
@@ -11824,12 +14011,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -11839,7 +14080,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -12143,12 +14411,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -12158,7 +14480,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -12806,17 +15155,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -12826,7 +15256,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ]
   },
@@ -13179,17 +15636,98 @@ export default [
       {
         "playerId": 1160303,
         "url": "https://cuescore.com/player/Gerrit+van+der+Velden/1160303",
-        "name": "Gerrit van der Velden"
+        "name": "Gerrit van der Velden",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160322,
         "url": "https://cuescore.com/player/Wilko+Moraal/1160322",
-        "name": "Wilko Moraal"
+        "name": "Wilko Moraal",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161407,
         "url": "https://cuescore.com/player/Edwin+Boin/1161407",
-        "name": "Edwin Boin"
+        "name": "Edwin Boin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161408,
@@ -13199,7 +15737,34 @@ export default [
       {
         "playerId": 1161409,
         "url": "https://cuescore.com/player/Edward+Dantz/1161409",
-        "name": "Edward Dantz"
+        "name": "Edward Dantz",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          }
+        }
       }
     ],
     "teamB": [
@@ -13481,12 +16046,66 @@ export default [
       {
         "playerId": 1162362,
         "name": "Rahadi",
-        "url": "https://cuescore.com/player/Rahadi/1162362"
+        "url": "https://cuescore.com/player/Rahadi/1162362",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 4,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2885962,
         "url": "https://cuescore.com/player/Aleksandar+Petrovi%C4%87/2885962",
-        "name": "Aleksandar Petrović"
+        "name": "Aleksandar Petrović",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          }
+        }
       },
       {
         "playerId": 1162829,
@@ -13496,7 +16115,34 @@ export default [
       {
         "playerId": 1162359,
         "url": "https://cuescore.com/player/Hervis+Hamid/1162359",
-        "name": "Hervis Hamid"
+        "name": "Hervis Hamid",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
