@@ -20197,7 +20197,7 @@ export default [
     "playerB": "Smokum’s Finest",
     "playerAUrl": "https://cuescore.com/team/Just+the+tip./47449828",
     "playerBUrl": "https://cuescore.com/team/Smokum%E2%80%99s+Finest/84070885",
-    "startTime": "2027-01-04T19:00:00Z",
+    "startTime": "2026-09-30T18:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
