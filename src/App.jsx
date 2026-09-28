@@ -66,6 +66,11 @@ function App(){
 
 function LeagueMatches() {
   const [matches, setMatches] = useState(null);
+  const [collapsedDates, setCollapsedDates] = useState(() => {
+    const yesterday = new Date();
+    yesterday.setUTCDate(yesterday.getUTCDate() - 1);
+    return new Set([yesterday.toISOString().split('T')[0]]);
+  });
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [settings, setSettings] = useState(readStoredSettings);
   const { updateMatch, individualMatches, clearNotifications } = useMatchUpdates();
@@ -286,28 +291,43 @@ function LeagueMatches() {
     )}
 
     {(visibleMatches || []).map(([date, games]) => {
+      const isExpanded = !collapsedDates.has(date);
+      const matchesId = `matches-${date}`;
+
       return <div key={date}>
-        <DateRow date={new Date(date)} />
-        {games.map(game => game.map(g =>
-          <GameRow
-            key={`${g.tournamentId}-${g.matchId}`}
-            playerA={g.playerA}
-            playerAUrl={g.playerAUrl} 
-            playerB={g.playerB}
-            playerBUrl={g.playerBUrl}
-            venue={g.venueData.venueName} 
-            tournament={g.tournamentName}
-            tournamentUrl={g.tournamentUrl} 
-            venueUrl={g.venueData.venueUrl}
-            venueId={g.venueData.venueID}
-            matchno={g.matchno}
-            matchId={g.matchId}
-            shouldFetch={g.shouldFetch}
-            forceLive={g.forceLive}
-            tournamentId={g.tournamentId}
-            teamA={g.teamA}
-            teamB={g.teamB}
-          />))}
+        <DateRow
+          date={new Date(date)}
+          expanded={isExpanded}
+          controls={matchesId}
+          onClick={() => setCollapsedDates(current => {
+            const next = new Set(current);
+            if (next.has(date)) next.delete(date);
+            else next.add(date);
+            return next;
+          })}
+        />
+        <div id={matchesId} hidden={!isExpanded}>
+          {games.map(game => game.map(g =>
+            <GameRow
+              key={`${g.tournamentId}-${g.matchId}`}
+              playerA={g.playerA}
+              playerAUrl={g.playerAUrl} 
+              playerB={g.playerB}
+              playerBUrl={g.playerBUrl}
+              venue={g.venueData.venueName} 
+              tournament={g.tournamentName}
+              tournamentUrl={g.tournamentUrl} 
+              venueUrl={g.venueData.venueUrl}
+              venueId={g.venueData.venueID}
+              matchno={g.matchno}
+              matchId={g.matchId}
+              shouldFetch={g.shouldFetch}
+              forceLive={g.forceLive}
+              tournamentId={g.tournamentId}
+              teamA={g.teamA}
+              teamB={g.teamB}
+            />))}
+        </div>
       </div>
     })}
   </>

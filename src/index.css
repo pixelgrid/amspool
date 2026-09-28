@@ -197,6 +197,25 @@ h1 {
   background: #f1f1f1;
   color: black;
 }
+.date-header-toggle {
+  width: 100%;
+  border: 0;
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+}
+.date-chevron {
+  width: 8px;
+  height: 8px;
+  margin-left: auto;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform 140ms ease;
+}
+.date-chevron.expanded {
+  transform: rotate(45deg);
+}
 
 .venue-logo {
   width: 50px;
