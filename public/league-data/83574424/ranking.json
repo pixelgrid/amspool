@@ -1067,8 +1067,8 @@
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons",
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A.",
         "lastFive": []
       },
       {
@@ -1578,6 +1578,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-15T20:08:23Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-09-29T17:55:00Z"
           }
         ]
       },
@@ -2479,6 +2484,11 @@
             "result": "L",
             "discipline": 14,
             "date": "2026-09-15T18:45:43Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-09-29T17:55:00Z"
           }
         ]
       },

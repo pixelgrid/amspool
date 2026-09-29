@@ -3227,6 +3227,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-15T20:06:51Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-29T18:13:09Z"
           }
         ]
       },
@@ -3271,6 +3276,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-15T20:07:28Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-29T18:07:34Z"
           }
         ]
       },
@@ -3471,7 +3481,13 @@
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
         "name": "Matt Bodger",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-29T18:13:09Z"
+          }
+        ]
       },
       {
         "playerId": 32966269,
@@ -3524,6 +3540,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-22T21:09:49Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-29T18:07:34Z"
           }
         ]
       },

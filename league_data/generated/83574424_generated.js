@@ -1877,8 +1877,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -2211,8 +2211,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -5720,8 +5720,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -6518,8 +6518,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -9332,8 +9332,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -10852,8 +10852,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -12981,8 +12981,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -15223,8 +15223,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -16588,8 +16588,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -19454,8 +19454,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -20296,8 +20296,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -23589,8 +23589,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -23918,8 +23918,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -27734,8 +27734,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -28220,8 +28220,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -31383,8 +31383,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -32564,8 +32564,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -35005,8 +35005,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -36871,8 +36871,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -38590,8 +38590,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -41220,8 +41220,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
@@ -42315,8 +42315,8 @@ export default [
       },
       {
         "playerId": 1096728,
-        "url": "https://cuescore.com/player/Mirjam+Alfons/1096728",
-        "name": "Mirjam Alfons"
+        "url": "https://cuescore.com/player/Mrjam+A./1096728",
+        "name": "Mrjam A."
       },
       {
         "playerId": 52502593,
