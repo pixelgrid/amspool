@@ -985,38 +985,6 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -1619,38 +1587,6 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
-      },
-      {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1163489,
@@ -2969,38 +2905,6 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -4170,38 +4074,6 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -4922,38 +4794,6 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
-      },
-      {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1163489,
@@ -6778,38 +6618,6 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -6916,38 +6724,6 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
-      },
-      {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1163489,
@@ -9052,38 +8828,6 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -9428,38 +9172,6 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
-      },
-      {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1163489,
@@ -11051,38 +10763,6 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -11992,38 +11672,6 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
-      },
-      {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1163489,
@@ -13048,38 +12696,6 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
-      },
-      {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1163489,
@@ -14587,38 +14203,6 @@ export default [
         "name": "Jolien Schuurman"
       },
       {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 1163489,
         "url": "https://cuescore.com/player/Erlanga+Agnalre/1163489",
         "name": "Erlanga Agnalre"
@@ -14988,38 +14572,6 @@ export default [
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman"
-      },
-      {
-        "playerId": 1159634,
-        "url": "https://cuescore.com/player/Ed+Geels/1159634",
-        "name": "Ed Geels",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 105
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1163489,
