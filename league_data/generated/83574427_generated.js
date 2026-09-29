@@ -963,13 +963,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1073,16 +1073,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1101,7 +1101,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -1122,10 +1122,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -1476,13 +1476,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1523,10 +1523,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1549,10 +1549,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -1603,7 +1603,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -1635,10 +1662,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -4037,13 +4064,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4084,10 +4111,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4110,10 +4137,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -4164,7 +4191,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -4196,10 +4250,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -4226,13 +4280,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4336,16 +4390,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4364,7 +4418,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -4385,10 +4439,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -6421,13 +6475,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6468,10 +6522,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6494,10 +6548,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -6548,7 +6602,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -6580,10 +6661,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -6593,13 +6674,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6703,16 +6784,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6731,7 +6812,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -6752,10 +6833,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -9080,13 +9161,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9190,16 +9271,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9218,7 +9299,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -9239,10 +9320,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -9645,13 +9726,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9692,10 +9773,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9718,10 +9799,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -9772,7 +9853,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -9804,10 +9912,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -11361,13 +11469,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -11408,10 +11516,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -11434,10 +11542,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -11488,7 +11596,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -11520,10 +11655,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -12250,13 +12385,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12360,16 +12495,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12388,7 +12523,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -12409,10 +12544,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -13998,13 +14133,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14108,16 +14243,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14136,7 +14271,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -14157,10 +14292,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -15275,13 +15410,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15322,10 +15457,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15348,10 +15483,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -15402,7 +15537,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -15434,10 +15596,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -16257,13 +16419,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16304,10 +16466,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16330,10 +16492,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -16384,7 +16546,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -16416,10 +16605,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -17939,13 +18128,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18049,16 +18238,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -18077,7 +18266,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -18098,10 +18287,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -18867,13 +19056,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18977,16 +19166,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19005,7 +19194,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -19026,10 +19215,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -20927,13 +21116,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -20974,10 +21163,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -21000,10 +21189,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -21054,7 +21243,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -21086,10 +21302,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -21116,13 +21332,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21163,10 +21379,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -21189,10 +21405,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -21243,7 +21459,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -21275,10 +21518,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -23564,13 +23807,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -23674,16 +23917,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23702,7 +23945,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -23723,10 +23966,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -23984,13 +24227,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -24094,16 +24337,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -24122,7 +24365,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -24143,10 +24386,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -25970,13 +26213,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26017,10 +26260,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -26043,10 +26286,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -26097,7 +26340,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -26129,10 +26399,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -27004,13 +27274,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -27051,10 +27321,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -27077,10 +27347,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27131,7 +27401,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -27163,10 +27460,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -28693,13 +28990,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28803,16 +29100,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28831,7 +29128,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -28852,10 +29149,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -29592,13 +29889,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29702,16 +29999,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -29730,7 +30027,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -29751,10 +30048,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -30888,13 +31185,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -30935,10 +31232,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -30961,10 +31258,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -31015,7 +31312,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -31047,10 +31371,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -32693,13 +33017,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32740,10 +33064,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -32766,10 +33090,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32820,7 +33144,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -32852,10 +33203,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -33611,13 +33962,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -33721,16 +34072,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -33749,7 +34100,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -33770,10 +34121,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -35050,13 +35401,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35160,16 +35511,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -35188,7 +35539,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -35209,10 +35560,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -35951,13 +36302,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35998,10 +36349,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -36024,10 +36375,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -36078,7 +36429,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -36110,10 +36488,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -38178,13 +38556,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -38225,10 +38603,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -38251,10 +38629,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -38305,7 +38683,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -38337,10 +38742,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -38674,13 +39079,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -38784,16 +39189,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -38812,7 +39217,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -38833,10 +39238,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -40702,13 +41107,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -40812,16 +41217,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -40840,7 +41245,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -40861,10 +41266,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -40874,13 +41279,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -40921,10 +41326,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -40947,10 +41352,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -41001,7 +41406,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -41033,10 +41465,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -43592,13 +44024,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43702,16 +44134,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -43730,7 +44162,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -43751,10 +44183,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -43781,13 +44213,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43828,10 +44260,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -43854,10 +44286,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -43908,7 +44340,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -43940,10 +44399,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -45814,13 +46273,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -45861,10 +46320,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -45887,10 +46346,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -45941,7 +46400,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -45973,10 +46459,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -46396,13 +46882,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -46506,16 +46992,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -46534,7 +47020,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -46555,10 +47041,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -48483,13 +48969,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -48593,16 +49079,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -48621,7 +49107,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -48642,10 +49128,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -49389,13 +49875,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -49436,10 +49922,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -49462,10 +49948,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -49516,7 +50002,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -49548,10 +50061,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -50732,13 +51245,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -50779,10 +51292,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -50805,10 +51318,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -50859,7 +51372,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -50891,10 +51431,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -52026,13 +52566,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52136,16 +52676,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -52164,7 +52704,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -52185,10 +52725,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -53342,13 +53882,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -53452,16 +53992,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -53480,7 +54020,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -53501,10 +54041,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -55041,13 +55581,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -55088,10 +55628,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -55114,10 +55654,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -55168,7 +55708,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -55200,10 +55767,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -55628,13 +56195,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -55675,10 +56242,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -55701,10 +56268,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -55755,7 +56322,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -55787,10 +56381,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -57705,13 +58299,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -57815,16 +58409,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -57843,7 +58437,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -57864,10 +58458,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -58034,13 +58628,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -58144,16 +58738,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -58172,7 +58766,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -58193,10 +58787,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -60482,13 +61076,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -60529,10 +61123,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -60555,10 +61149,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -60609,7 +61203,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -60641,10 +61262,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -61150,13 +61771,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -61197,10 +61818,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -61223,10 +61844,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -61277,7 +61898,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -61309,10 +61957,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -63119,13 +63767,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -63229,16 +63877,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -63257,7 +63905,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -63278,10 +63926,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -63701,13 +64349,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -63811,16 +64459,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -63839,7 +64487,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -63860,10 +64508,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
@@ -65373,13 +66021,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -65420,10 +66068,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -65446,10 +66094,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -65500,7 +66148,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -65532,10 +66207,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -66780,13 +67455,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -66827,10 +67502,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 6
+            "framesWon": 6,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -66853,10 +67528,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "pointsWon": 73,
-            "pointsLost": 100
+            "pointsWon": 96,
+            "pointsLost": 150
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -66907,7 +67582,34 @@ export default [
       {
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
-        "name": "Mohamed Al-Attas"
+        "name": "Mohamed Al-Attas",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 2125803,
@@ -66939,10 +67641,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "framesWon": 3,
+            "framesLost": 10
           }
         }
       }
@@ -68059,13 +68761,13 @@ export default [
         "playerId": 1160488,
         "name": "Matt Parker",
         "url": "https://cuescore.com/player/Matt+Parker/1160488",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -68169,16 +68871,16 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 50,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 2
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -68197,7 +68899,7 @@ export default [
         "playerId": 2871018,
         "url": "https://cuescore.com/player/Mick+Remmers/2871018",
         "name": "Mick Remmers",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -68218,10 +68920,10 @@ export default [
             "framesLost": 2
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       }
