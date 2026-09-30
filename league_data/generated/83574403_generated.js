@@ -405,10 +405,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -416,7 +416,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -425,10 +425,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -445,10 +445,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -477,10 +477,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -497,9 +497,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -538,17 +538,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -563,19 +626,82 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ],
     "teamB": [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -606,7 +732,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -615,10 +762,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -627,10 +774,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -3658,7 +3805,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -3689,7 +3857,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -3698,10 +3887,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -3710,10 +3899,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -3996,10 +4185,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -4007,7 +4196,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -4016,10 +4205,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4036,10 +4225,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -4068,10 +4257,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4088,9 +4277,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -4112,17 +4301,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -4137,12 +4389,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ]
   },
@@ -4716,17 +5010,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -4741,12 +5098,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ],
     "teamB": [
@@ -5081,10 +5480,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -5092,7 +5491,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -5101,10 +5500,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5121,10 +5520,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5153,10 +5552,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5173,9 +5572,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -5351,7 +5750,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -5382,7 +5802,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -5391,10 +5832,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5403,10 +5844,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -7753,7 +8194,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -7784,7 +8246,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -7793,10 +8276,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -7805,10 +8288,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -8044,10 +8527,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -8055,7 +8538,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -8064,10 +8547,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8084,10 +8567,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -8116,10 +8599,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8136,9 +8619,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -8789,17 +9272,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -8814,12 +9360,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ]
   },
@@ -8843,17 +9431,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -8868,12 +9519,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ],
     "teamB": [
@@ -9810,10 +10503,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -9821,7 +10514,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -9830,10 +10523,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9850,10 +10543,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -9882,10 +10575,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9902,9 +10595,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -10080,7 +10773,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -10111,7 +10825,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -10120,10 +10855,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -10132,10 +10867,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -11900,7 +12635,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -11931,7 +12687,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -11940,10 +12717,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -11952,10 +12729,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -12139,10 +12916,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -12150,7 +12927,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -12159,10 +12936,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12179,10 +12956,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -12211,10 +12988,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12231,9 +13008,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -12991,17 +13768,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -13016,12 +13856,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ],
     "teamB": [
@@ -13724,17 +14606,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -13749,12 +14694,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ]
   },
@@ -14487,10 +15474,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -14498,7 +15485,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -14507,10 +15494,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14527,10 +15514,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -14559,10 +15546,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14579,9 +15566,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -14731,7 +15718,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -14762,7 +15770,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -14771,10 +15800,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -14783,10 +15812,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -16026,7 +17055,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -16057,7 +17107,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -16066,10 +17137,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -16078,10 +17149,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -16312,10 +17383,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -16323,7 +17394,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -16332,10 +17403,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16352,10 +17423,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -16384,10 +17455,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16404,9 +17475,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -17086,17 +18157,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -17111,12 +18245,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ],
     "teamB": [
@@ -18453,17 +19629,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -18478,12 +19717,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ]
   },
@@ -19185,10 +20466,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -19196,7 +20477,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -19205,10 +20486,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19225,10 +20506,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -19257,10 +20538,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19277,9 +20558,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -19450,7 +20731,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -19481,7 +20783,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -19490,10 +20813,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -19502,10 +20825,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -20142,7 +21465,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -20173,7 +21517,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -20182,10 +21547,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20194,10 +21559,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -20417,10 +21782,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -20428,7 +21793,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -20437,10 +21802,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -20457,10 +21822,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20489,10 +21854,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -20509,9 +21874,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -21233,17 +22598,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -21258,12 +22686,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ],
     "teamB": [
@@ -23104,17 +24574,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -23129,12 +24662,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ]
   },
@@ -23893,10 +25468,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -23904,7 +25479,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -23913,10 +25488,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23933,10 +25508,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -23965,10 +25540,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23985,9 +25560,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -24173,7 +25748,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -24204,7 +25800,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -24213,10 +25830,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -24225,10 +25842,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -24390,7 +26007,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -24421,7 +26059,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -24430,10 +26089,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -24442,10 +26101,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -24518,10 +26177,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -24529,7 +26188,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -24538,10 +26197,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -24558,10 +26217,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -24590,10 +26249,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -24610,9 +26269,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -25359,17 +27018,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -25384,12 +27106,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ],
     "teamB": [
@@ -27823,17 +29587,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -27848,12 +29675,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ]
   },
@@ -28453,7 +30322,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -28484,7 +30374,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -28493,10 +30404,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -28505,10 +30416,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -28564,10 +30475,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -28575,7 +30486,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -28584,10 +30495,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28604,10 +30515,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -28636,10 +30547,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28656,9 +30567,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -28818,10 +30729,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -28829,7 +30740,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -28838,10 +30749,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28858,10 +30769,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -28890,10 +30801,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28910,9 +30821,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
@@ -29036,7 +30947,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -29067,7 +30999,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -29076,10 +31029,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -29088,10 +31041,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -29475,17 +31428,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -29500,12 +31516,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ],
     "teamB": [
@@ -32546,17 +34604,80 @@ export default [
       {
         "playerId": 61800895,
         "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895"
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa"
+        "name": "Vanessa",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam"
+        "name": "Lucie van Dam",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 3566718,
@@ -32571,12 +34692,54 @@ export default [
       {
         "playerId": 29055151,
         "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde"
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        }
       },
       {
         "playerId": 8118206,
         "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason"
+        "name": "Bas Clason",
+        "mvp": "66.7%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       }
     ]
   },
@@ -32600,7 +34763,28 @@ export default [
       {
         "playerId": 1176705,
         "name": "Ali Isik",
-        "url": "https://cuescore.com/player/Ali+Isik/1176705"
+        "url": "https://cuescore.com/player/Ali+Isik/1176705",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 89881966,
@@ -32631,7 +34815,28 @@ export default [
       {
         "playerId": 1176706,
         "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
-        "name": "Laurens den Dulk"
+        "name": "Laurens den Dulk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 37771660,
@@ -32640,10 +34845,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32652,10 +34857,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 7,
+            "framesLost": 6
           }
         }
       },
@@ -32891,10 +35096,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 8,
+            "framesLost": 10
           }
         }
       },
@@ -32902,7 +35107,7 @@ export default [
         "playerId": 88620592,
         "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
         "name": "Kevin Neeft",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -32911,10 +35116,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -32931,10 +35136,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 3
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32963,10 +35168,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -32983,9 +35188,9 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 2
           },
           "9-Ball": {
