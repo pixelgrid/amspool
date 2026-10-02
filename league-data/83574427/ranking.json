@@ -1787,6 +1787,11 @@
             "result": "W",
             "discipline": 14,
             "date": "2026-09-21T17:54:19Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-01T21:22:53Z"
           }
         ]
       },
@@ -4523,6 +4528,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-21T20:31:16Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-01T21:22:53Z"
           }
         ]
       }
