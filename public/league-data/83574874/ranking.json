@@ -200,50 +200,6 @@
         ]
       },
       {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-27T10:43:31Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-27T13:27:17Z"
-          }
-        ]
-      },
-      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter",

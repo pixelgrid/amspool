@@ -1744,38 +1744,6 @@ export default [
         }
       },
       {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -2485,38 +2453,6 @@ export default [
             "matchesWon": 2,
             "framesWon": 16,
             "framesLost": 4
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4123,38 +4059,6 @@ export default [
         }
       },
       {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -5019,38 +4923,6 @@ export default [
             "matchesWon": 2,
             "framesWon": 16,
             "framesLost": 4
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7072,38 +6944,6 @@ export default [
         }
       },
       {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -7386,38 +7226,6 @@ export default [
             "matchesWon": 2,
             "framesWon": 16,
             "framesLost": 4
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8182,38 +7990,6 @@ export default [
         }
       },
       {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -8656,38 +8432,6 @@ export default [
             "matchesWon": 2,
             "framesWon": 16,
             "framesLost": 4
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10561,38 +10305,6 @@ export default [
         }
       },
       {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -10863,38 +10575,6 @@ export default [
             "matchesWon": 2,
             "framesWon": 16,
             "framesLost": 4
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13633,38 +13313,6 @@ export default [
         }
       },
       {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -13947,38 +13595,6 @@ export default [
             "matchesWon": 2,
             "framesWon": 16,
             "framesLost": 4
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15452,38 +15068,6 @@ export default [
             "matchesWon": 2,
             "framesWon": 16,
             "framesLost": 4
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17230,38 +16814,6 @@ export default [
             "matchesWon": 2,
             "framesWon": 16,
             "framesLost": 4
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        }
-      },
-      {
-        "playerId": 1160886,
-        "url": "https://cuescore.com/player/Richard+Eijmberts/1160886",
-        "name": "Richard Eijmberts",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
