@@ -1180,7 +1180,7 @@ export default [
     "playerB": "N-Joyriders",
     "playerAUrl": "https://cuescore.com/team/Beetie+Skwiez/8089925",
     "playerBUrl": "https://cuescore.com/team/N-Joyriders/1172479",
-    "startTime": "2026-10-04T11:00:00Z",
+    "startTime": "2026-10-17T11:00:00Z",
     "venueData": {
       "venueName": "Rene's Poolcafe",
       "venueID": "36729730",
