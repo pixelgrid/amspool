@@ -619,6 +619,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [
@@ -1678,7 +1683,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2026-10-04T11:00:00Z",
+    "startTime": "2026-10-04T10:44:44Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
@@ -2608,6 +2613,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -3157,6 +3167,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [
@@ -5612,6 +5627,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -5727,6 +5747,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [
@@ -8248,6 +8273,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [
@@ -8955,6 +8985,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -10791,6 +10826,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [
@@ -12065,6 +12105,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -13432,6 +13477,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -15067,6 +15117,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [
@@ -15869,6 +15924,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -18145,6 +18205,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [
@@ -18481,6 +18546,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -21056,6 +21126,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -21478,6 +21553,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [
@@ -23562,6 +23642,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ]
   },
@@ -24551,6 +24636,11 @@ export default [
             "framesLost": 7
           }
         }
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein"
       }
     ],
     "teamB": [

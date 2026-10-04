@@ -180,6 +180,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-27T11:05:02Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-04T11:03:25Z"
           }
         ]
       },
@@ -230,6 +235,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-27T13:22:06Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-04T11:03:47Z"
           }
         ]
       }
@@ -878,6 +888,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-27T13:34:51Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-04T11:03:25Z"
           }
         ]
       },
@@ -1006,6 +1021,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-09-27T15:14:35Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-04T11:03:47Z"
           }
         ]
       }
@@ -1119,6 +1139,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-09-27T12:52:10Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-04T11:13:15Z"
           }
         ]
       },
@@ -1132,7 +1157,13 @@
         "playerId": 1105500,
         "url": "https://cuescore.com/player/Patrick+Berkenpas/1105500",
         "name": "Patrick Berkenpas",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-04T11:13:01Z"
+          }
+        ]
       },
       {
         "playerId": 1161320,
@@ -1542,6 +1573,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-27T13:15:46Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-04T11:13:15Z"
           }
         ]
       },
@@ -1567,7 +1603,13 @@
         "playerId": 1162751,
         "url": "https://cuescore.com/player/Joris+van+Amersvoort/1162751",
         "name": "Joris van Amersvoort",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-04T11:13:01Z"
+          }
+        ]
       }
     ]
   }
