@@ -20,19 +20,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -92,16 +92,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -121,7 +121,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -136,16 +136,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -285,7 +285,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -300,10 +300,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -320,10 +320,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -358,10 +358,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -390,10 +390,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -418,13 +418,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -439,10 +439,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -1911,19 +1911,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1983,16 +1983,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2012,41 +2012,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
-          }
-        }
-      }
-    ],
-    "teamB": [
-      {
-        "playerId": 1162183,
-        "name": "Chaka Sanichar",
-        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2064,7 +2030,41 @@ export default [
             "matchesPlayed": 1,
             "matchesWon": 1,
             "pointsWon": 100,
-            "pointsLost": 72
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
+          }
+        }
+      }
+    ],
+    "teamB": [
+      {
+        "playerId": 1162183,
+        "name": "Chaka Sanichar",
+        "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2081,10 +2081,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2119,10 +2119,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2151,10 +2151,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2179,13 +2179,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2200,10 +2200,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -2230,7 +2230,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2245,10 +2245,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2265,10 +2265,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2303,10 +2303,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2335,10 +2335,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2363,13 +2363,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2384,10 +2384,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -2677,19 +2677,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2749,16 +2749,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2778,7 +2778,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2793,16 +2793,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -3863,19 +3863,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3935,16 +3935,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3964,7 +3964,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -3979,16 +3979,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -4106,7 +4106,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -4121,10 +4121,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4141,10 +4141,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4179,10 +4179,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4211,10 +4211,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4239,13 +4239,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4260,10 +4260,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -4811,7 +4811,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -4826,10 +4826,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4846,10 +4846,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4884,10 +4884,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4916,10 +4916,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4944,13 +4944,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4965,10 +4965,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -5103,19 +5103,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5175,16 +5175,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5204,7 +5204,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -5219,16 +5219,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -5798,19 +5798,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5870,16 +5870,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5899,7 +5899,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -5914,16 +5914,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -6100,7 +6100,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -6115,10 +6115,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6135,10 +6135,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6173,10 +6173,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6205,10 +6205,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6233,13 +6233,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6254,10 +6254,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -7296,7 +7296,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -7311,10 +7311,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7331,10 +7331,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7369,10 +7369,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7401,10 +7401,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7429,13 +7429,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7450,10 +7450,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -7603,19 +7603,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7675,16 +7675,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7704,7 +7704,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -7719,16 +7719,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -7868,19 +7868,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7940,16 +7940,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7969,7 +7969,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -7984,16 +7984,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -8143,7 +8143,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -8158,10 +8158,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8178,10 +8178,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8216,10 +8216,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8248,10 +8248,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8276,13 +8276,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8297,10 +8297,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -9646,7 +9646,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -9661,10 +9661,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9681,10 +9681,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -9719,10 +9719,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9751,10 +9751,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9779,13 +9779,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -9800,10 +9800,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -9813,19 +9813,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9885,16 +9885,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9914,7 +9914,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -9929,16 +9929,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -10078,7 +10078,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10093,10 +10093,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10113,10 +10113,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10151,10 +10151,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10183,10 +10183,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10211,13 +10211,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10232,10 +10232,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -10262,19 +10262,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10334,16 +10334,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10363,7 +10363,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10378,16 +10378,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -11689,19 +11689,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -11761,16 +11761,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -11790,7 +11790,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -11805,16 +11805,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -11991,7 +11991,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12006,10 +12006,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12026,10 +12026,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12064,10 +12064,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12096,10 +12096,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12124,13 +12124,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12145,10 +12145,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -12455,7 +12455,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12470,10 +12470,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12490,10 +12490,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12528,10 +12528,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12560,10 +12560,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12588,13 +12588,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12609,10 +12609,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -12730,19 +12730,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12802,16 +12802,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12831,7 +12831,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12846,16 +12846,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -13683,19 +13683,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13755,16 +13755,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13784,7 +13784,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -13799,16 +13799,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }
@@ -13943,7 +13943,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -13958,10 +13958,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13978,10 +13978,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14016,10 +14016,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14048,10 +14048,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14076,13 +14076,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14097,10 +14097,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -14881,7 +14881,7 @@ export default [
         "playerId": 1162183,
         "name": "Chaka Sanichar",
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -14896,10 +14896,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 72
+            "pointsWon": 195,
+            "pointsLost": 172
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14916,10 +14916,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14954,10 +14954,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14986,10 +14986,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15014,13 +15014,13 @@ export default [
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15035,10 +15035,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       }
@@ -15215,19 +15215,19 @@ export default [
         "playerId": 1160441,
         "name": "Michel Drenth",
         "url": "https://cuescore.com/player/Michel+Drenth/1160441",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
+            "framesWon": 15,
+            "framesLost": 12
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15287,16 +15287,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
+            "framesWon": 6,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15316,7 +15316,7 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -15331,16 +15331,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "pointsWon": 100,
+            "pointsLost": 95
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 12
           }
         }
       }

@@ -1559,6 +1559,11 @@ export default [
         }
       },
       {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
+      },
+      {
         "playerId": 1161109,
         "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
         "name": "Lunik Rashrash",
@@ -3414,6 +3419,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
       },
       {
         "playerId": 1161109,
@@ -5996,6 +6006,11 @@ export default [
         }
       },
       {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
+      },
+      {
         "playerId": 1161109,
         "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
         "name": "Lunik Rashrash",
@@ -8465,6 +8480,11 @@ export default [
         }
       },
       {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
+      },
+      {
         "playerId": 1161109,
         "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
         "name": "Lunik Rashrash",
@@ -10456,6 +10476,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
       },
       {
         "playerId": 1161109,
@@ -13447,6 +13472,11 @@ export default [
         }
       },
       {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
+      },
+      {
         "playerId": 1161109,
         "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
         "name": "Lunik Rashrash",
@@ -14939,6 +14969,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
       },
       {
         "playerId": 1161109,
@@ -18517,6 +18552,11 @@ export default [
         }
       },
       {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
+      },
+      {
         "playerId": 1161109,
         "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
         "name": "Lunik Rashrash",
@@ -19318,6 +19358,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
       },
       {
         "playerId": 1161109,
@@ -23629,6 +23674,11 @@ export default [
         }
       },
       {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
+      },
+      {
         "playerId": 1161109,
         "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
         "name": "Lunik Rashrash",
@@ -23807,6 +23857,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
       },
       {
         "playerId": 1161109,
@@ -28240,6 +28295,11 @@ export default [
         }
       },
       {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
+      },
+      {
         "playerId": 1161109,
         "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
         "name": "Lunik Rashrash",
@@ -28925,6 +28985,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
       },
       {
         "playerId": 1161109,
@@ -32728,6 +32793,11 @@ export default [
         }
       },
       {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
+      },
+      {
         "playerId": 1161109,
         "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
         "name": "Lunik Rashrash",
@@ -33980,6 +34050,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 75388042,
+        "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
+        "name": "Pieter Helsloot"
       },
       {
         "playerId": 1161109,
