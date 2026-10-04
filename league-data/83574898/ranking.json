@@ -31,7 +31,13 @@
         "playerId": 1164517,
         "name": "Mark Ekkerman",
         "url": "https://cuescore.com/player/Mark+Ekkerman/1164517",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-04T10:56:34Z"
+          }
+        ]
       },
       {
         "playerId": 1163269,
@@ -288,6 +294,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-09-27T11:13:22Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-04T11:11:49Z"
           }
         ]
       },
@@ -1018,6 +1029,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-27T11:06:33Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-04T11:11:49Z"
           }
         ]
       }
@@ -1100,7 +1116,13 @@
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-04T10:56:34Z"
+          }
+        ]
       },
       {
         "playerId": 1163930,
@@ -1402,6 +1424,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-09-27T13:47:30Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-04T11:10:14Z"
           }
         ]
       },
@@ -1778,6 +1805,18 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-27T14:21:31Z"
+          }
+        ]
+      },
+      {
+        "playerId": 5216947,
+        "url": "https://cuescore.com/player/Steffen+Klein/5216947",
+        "name": "Steffen Klein",
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-04T11:10:14Z"
           }
         ]
       }
