@@ -40,16 +40,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -66,10 +66,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -89,13 +89,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -140,10 +140,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -163,13 +163,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -362,10 +362,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -400,10 +400,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -412,10 +412,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -432,10 +432,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -459,7 +459,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -2085,16 +2112,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -2111,10 +2138,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2134,13 +2161,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -2185,10 +2212,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2208,13 +2235,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2250,10 +2277,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2288,10 +2315,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -2300,10 +2327,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -2320,10 +2347,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2347,7 +2374,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -2380,10 +2434,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2418,10 +2472,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -2430,10 +2484,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -2450,10 +2504,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2477,7 +2531,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -2802,16 +2883,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -2828,10 +2909,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2851,13 +2932,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -2902,10 +2983,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2925,13 +3006,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4113,16 +4194,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -4139,10 +4220,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4162,13 +4243,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -4213,10 +4294,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4236,13 +4317,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4462,10 +4543,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4500,10 +4581,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -4512,10 +4593,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -4532,10 +4613,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4559,7 +4640,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -5196,10 +5304,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -5234,10 +5342,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -5246,10 +5354,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -5266,10 +5374,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5293,7 +5401,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -5483,16 +5618,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -5509,10 +5644,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5532,13 +5667,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -5583,10 +5718,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5606,13 +5741,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6200,16 +6335,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -6226,10 +6361,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6249,13 +6384,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -6300,10 +6435,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6323,13 +6458,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6485,10 +6620,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6523,10 +6658,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -6535,10 +6670,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -6555,10 +6690,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6582,7 +6717,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -7813,10 +7975,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7851,10 +8013,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -7863,10 +8025,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -7883,10 +8045,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7910,7 +8072,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -8078,16 +8267,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -8104,10 +8293,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8127,13 +8316,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -8178,10 +8367,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8201,13 +8390,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8412,16 +8601,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -8438,10 +8627,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8461,13 +8650,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -8512,10 +8701,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8535,13 +8724,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8717,10 +8906,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8755,10 +8944,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -8767,10 +8956,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -8787,10 +8976,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8814,7 +9003,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -10305,10 +10521,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10343,10 +10559,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -10355,10 +10571,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -10375,10 +10591,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10402,7 +10618,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -10430,16 +10673,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -10456,10 +10699,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10479,13 +10722,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -10530,10 +10773,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10553,13 +10796,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10752,10 +10995,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10790,10 +11033,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -10802,10 +11045,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -10822,10 +11065,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10849,7 +11092,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -10894,16 +11164,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -10920,10 +11190,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10943,13 +11213,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -10994,10 +11264,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -11017,13 +11287,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12512,16 +12782,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -12538,10 +12808,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12561,13 +12831,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -12612,10 +12882,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12635,13 +12905,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12834,10 +13104,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12872,10 +13142,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -12884,10 +13154,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -12904,10 +13174,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12931,7 +13201,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -13261,10 +13558,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -13299,10 +13596,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -13311,10 +13608,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -13331,10 +13628,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13358,7 +13655,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -13570,16 +13894,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -13596,10 +13920,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13619,13 +13943,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -13670,10 +13994,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13693,13 +14017,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14535,16 +14859,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -14561,10 +14885,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14584,13 +14908,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -14635,10 +14959,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14658,13 +14982,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14862,10 +15186,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14900,10 +15224,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -14912,10 +15236,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -14932,10 +15256,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14959,7 +15283,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -15942,10 +16293,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15980,10 +16331,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -15992,10 +16343,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -16012,10 +16363,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16039,7 +16390,34 @@ export default [
       {
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
-        "name": "Otman Acharrat"
+        "name": "Otman Acharrat",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 6
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 68
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -16187,16 +16565,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 8
+            "pointsWon": 68,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 10,
+            "framesLost": 16
           }
         }
       },
@@ -16213,10 +16591,10 @@ export default [
             "framesLost": 6
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16236,13 +16614,13 @@ export default [
         "playerId": 9202997,
         "url": "https://cuescore.com/player/Michael+kerck/9202997",
         "name": "Michael kerck",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 1,
@@ -16287,10 +16665,10 @@ export default [
             "framesLost": 2
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16310,13 +16688,13 @@ export default [
         "playerId": 1160337,
         "url": "https://cuescore.com/player/Martin+Hielkema/1160337",
         "name": "Martin Hielkema",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,

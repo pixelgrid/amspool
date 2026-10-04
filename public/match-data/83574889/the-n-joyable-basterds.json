@@ -142,14 +142,14 @@
   {
     "discipline": 4,
     "raceTo": "6",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Kim Uytenbogaardt / Michael kerck",
     "playerB": "Arno Brouwer / Otman Acharrat",
-    "scoreA": "5",
+    "scoreA": "6",
     "scoreB": "4",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88798981",
     "parentId": "88798678"
   },
