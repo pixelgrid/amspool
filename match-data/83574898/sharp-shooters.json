@@ -142,14 +142,14 @@
   {
     "discipline": 4,
     "raceTo": "6",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Idris Coskun / Ryan Semeler",
     "playerB": "Mark Veerman / Danny Bast",
-    "scoreA": "2",
-    "scoreB": "0",
+    "scoreA": "6",
+    "scoreB": "4",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88801855",
     "parentId": "88801432"
   },
