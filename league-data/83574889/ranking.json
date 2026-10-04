@@ -305,6 +305,16 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-27T11:34:14Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-04T15:55:07Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-10-04T16:12:48Z"
           }
         ]
       },
@@ -344,6 +354,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-09-27T11:32:56Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-04T15:53:38Z"
           }
         ]
       },
@@ -383,6 +398,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-27T11:35:02Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-04T16:10:43Z"
           }
         ]
       },
@@ -439,6 +459,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-27T13:32:11Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-04T16:09:52Z"
           }
         ]
       },
@@ -478,6 +503,11 @@
             "result": "W",
             "discipline": 14,
             "date": "2026-09-27T13:32:25Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-04T15:54:35Z"
           }
         ]
       }
@@ -958,6 +988,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-09-27T16:10:54Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-04T16:10:43Z"
           }
         ]
       },
@@ -1002,6 +1037,16 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-27T16:10:41Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-04T15:55:07Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-04T16:09:52Z"
           }
         ]
       },
@@ -1046,6 +1091,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-27T16:11:06Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-04T15:53:38Z"
           }
         ]
       },
@@ -1059,7 +1109,18 @@
         "playerId": 1161679,
         "url": "https://cuescore.com/player/Otman+Acharrat/1161679",
         "name": "Otman Acharrat",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-04T15:54:35Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-04T16:12:48Z"
+          }
+        ]
       }
     ]
   },
