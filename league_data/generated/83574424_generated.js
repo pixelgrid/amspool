@@ -978,7 +978,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -993,10 +993,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1050,16 +1050,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -1079,13 +1079,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1100,10 +1100,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -1442,7 +1442,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -1451,10 +1451,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -1473,7 +1473,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -1551,10 +1578,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1563,10 +1590,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -2893,7 +2920,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -2902,10 +2929,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -2924,7 +2951,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -3002,10 +3056,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3014,10 +3068,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -3082,7 +3136,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -3097,10 +3151,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -3154,16 +3208,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -3183,13 +3237,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3204,10 +3258,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -5162,7 +5216,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -5171,10 +5225,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5193,7 +5247,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -5271,10 +5352,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5283,10 +5364,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -5334,7 +5415,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -5349,10 +5430,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5406,16 +5487,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5435,13 +5516,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5456,10 +5537,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -6844,7 +6925,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -6859,10 +6940,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6916,16 +6997,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -6945,13 +7026,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6966,10 +7047,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -7335,7 +7416,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -7344,10 +7425,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -7366,7 +7447,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -7444,10 +7552,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7456,10 +7564,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -8919,7 +9027,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -8928,10 +9036,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -8950,7 +9058,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -9028,10 +9163,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9040,10 +9175,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -9749,7 +9884,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -9764,10 +9899,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9821,16 +9956,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -9850,13 +9985,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9871,10 +10006,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -10633,7 +10768,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -10648,10 +10783,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10705,16 +10840,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -10734,13 +10869,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10755,10 +10890,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -11814,7 +11949,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -11823,10 +11958,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -11845,7 +11980,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -11923,10 +12085,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -11935,10 +12097,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -12580,7 +12742,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -12589,10 +12751,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -12611,7 +12773,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -12689,10 +12878,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12701,10 +12890,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -14164,7 +14353,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -14179,10 +14368,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14236,16 +14425,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -14265,13 +14454,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14286,10 +14475,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -14525,7 +14714,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -14540,10 +14729,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14597,16 +14786,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -14626,13 +14815,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14647,10 +14836,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -16207,7 +16396,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -16216,10 +16405,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -16238,7 +16427,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -16316,10 +16532,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16328,10 +16544,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -16364,7 +16580,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -16373,10 +16589,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -16395,7 +16611,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -16473,10 +16716,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16485,10 +16728,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -18083,7 +18326,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -18098,10 +18341,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -18155,16 +18398,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -18184,13 +18427,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18205,10 +18448,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -18940,7 +19183,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -18955,10 +19198,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19012,16 +19255,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -19041,13 +19284,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19062,10 +19305,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -20126,7 +20369,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -20135,10 +20378,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20157,7 +20400,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -20235,10 +20505,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -20247,10 +20517,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -20951,7 +21221,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -20960,10 +21230,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20982,7 +21252,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -21060,10 +21357,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21072,10 +21369,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -21776,7 +22073,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -21791,10 +22088,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -21848,16 +22145,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -21877,13 +22174,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21898,10 +22195,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -23274,7 +23571,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -23289,10 +23586,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23346,16 +23643,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -23375,13 +23672,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -23396,10 +23693,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -24050,7 +24347,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -24059,10 +24356,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -24081,7 +24378,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -24159,10 +24483,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -24171,10 +24495,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -25189,7 +25513,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -25198,10 +25522,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -25220,7 +25544,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -25298,10 +25649,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25310,10 +25661,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -25668,7 +26019,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -25683,10 +26034,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -25740,16 +26091,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -25769,13 +26120,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25790,10 +26141,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -27667,7 +28018,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -27682,10 +28033,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -27739,16 +28090,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27768,13 +28119,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -27789,10 +28140,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -27807,7 +28158,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -27816,10 +28167,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27838,7 +28189,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -27916,10 +28294,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -27928,10 +28306,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -29484,7 +29862,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -29499,10 +29877,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -29556,16 +29934,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -29585,13 +29963,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29606,10 +29984,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -29641,7 +30019,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -29650,10 +30028,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -29672,7 +30050,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -29750,10 +30155,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29762,10 +30167,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -31537,7 +31942,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -31546,10 +31951,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -31568,7 +31973,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -31646,10 +32078,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31658,10 +32090,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -32077,7 +32509,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -32092,10 +32524,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -32149,16 +32581,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32178,13 +32610,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32199,10 +32631,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -33241,7 +33673,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -33256,10 +33688,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -33313,16 +33745,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -33342,13 +33774,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -33363,10 +33795,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -34056,7 +34488,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -34065,10 +34497,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -34087,7 +34519,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -34165,10 +34624,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -34177,10 +34636,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -35230,7 +35689,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -35239,10 +35698,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -35261,7 +35720,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -35339,10 +35825,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35351,10 +35837,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -36460,7 +36946,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -36475,10 +36961,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -36532,16 +37018,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -36561,13 +37047,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36582,10 +37068,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -36826,7 +37312,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -36841,10 +37327,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -36898,16 +37384,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -36927,13 +37413,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36948,10 +37434,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -38567,7 +39053,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -38576,10 +39062,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -38598,7 +39084,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -38676,10 +39189,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -38688,10 +39201,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -39009,7 +39522,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -39018,10 +39531,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -39040,7 +39553,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -39118,10 +39658,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -39130,10 +39670,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -40723,7 +41263,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -40738,10 +41278,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -40795,16 +41335,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -40824,13 +41364,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -40845,10 +41385,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -41268,7 +41808,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -41283,10 +41823,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -41340,16 +41880,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -41369,13 +41909,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -41390,10 +41930,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
@@ -42766,7 +43306,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -42775,10 +43315,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -42797,7 +43337,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -42875,10 +43442,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -42887,10 +43454,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -43279,7 +43846,7 @@ export default [
         "playerId": 1161864,
         "name": "Marijn ten Thij",
         "url": "https://cuescore.com/player/Marijn+ten+Thij/1161864",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -43288,10 +43855,10 @@ export default [
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 15,
-            "pointsLost": 60
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 89
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -43310,7 +43877,34 @@ export default [
       {
         "playerId": 1164329,
         "url": "https://cuescore.com/player/Richard+Floris/1164329",
-        "name": "Richard Floris"
+        "name": "Richard Floris",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        }
       },
       {
         "playerId": 1161837,
@@ -43388,10 +43982,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43400,10 +43994,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 8,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -44480,7 +45074,7 @@ export default [
         "playerId": 18968338,
         "url": "https://cuescore.com/player/Judge+Akins/18968338",
         "name": "Judge Akins",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -44495,10 +45089,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 3
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -44552,16 +45146,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 27,
-            "pointsLost": 60
+            "pointsWon": 56,
+            "pointsLost": 120
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -44581,13 +45175,13 @@ export default [
         "playerId": 40427692,
         "url": "https://cuescore.com/player/Diogo+Barbosa/40427692",
         "name": "Diogo Barbosa",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44602,10 +45196,10 @@ export default [
             "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 5
+            "framesWon": 6,
+            "framesLost": 10
           }
         }
       },
