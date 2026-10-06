@@ -3314,7 +3314,18 @@
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-06T18:07:01Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-06T19:22:25Z"
+          }
+        ]
       },
       {
         "playerId": 1161109,
@@ -3379,6 +3390,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-15T21:08:21Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-06T19:51:01Z"
           }
         ]
       },
@@ -3543,6 +3559,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-22T21:36:54Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-06T18:07:01Z"
           }
         ]
       },
@@ -3586,6 +3607,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-22T18:01:07Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-06T19:22:25Z"
           }
         ]
       },
@@ -3675,6 +3701,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-22T19:03:52Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-06T19:51:01Z"
           }
         ]
       },
