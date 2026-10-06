@@ -3973,7 +3973,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2026-10-17T11:00:00Z",
+    "startTime": "2026-10-18T11:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -15984,7 +15984,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2027-02-20T12:00:00Z",
+    "startTime": "2027-02-21T12:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
@@ -19551,7 +19551,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/The+Magicians/9155022",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2027-03-20T12:00:00Z",
+    "startTime": "2027-03-21T12:00:00Z",
     "venueData": {
       "venueName": "The Wizards",
       "venueID": "1168741",
