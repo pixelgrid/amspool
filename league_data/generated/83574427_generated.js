@@ -1611,13 +1611,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1643,13 +1643,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4307,13 +4307,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4339,13 +4339,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6934,13 +6934,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6966,13 +6966,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10428,13 +10428,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10460,13 +10460,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12252,13 +12252,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12284,13 +12284,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16517,13 +16517,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16549,13 +16549,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17553,13 +17553,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17585,13 +17585,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22601,13 +22601,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22633,13 +22633,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22844,13 +22844,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22876,13 +22876,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28076,13 +28076,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28108,13 +28108,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29164,13 +29164,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29196,13 +29196,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -33399,13 +33399,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -33431,13 +33431,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35312,13 +35312,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35344,13 +35344,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -38894,13 +38894,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -38926,13 +38926,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -41229,13 +41229,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -41261,13 +41261,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44222,13 +44222,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44254,13 +44254,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -47318,13 +47318,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -47350,13 +47350,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -49513,13 +49513,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -49545,13 +49545,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -53412,13 +53412,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -53444,13 +53444,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -54836,13 +54836,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -54868,13 +54868,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -59523,13 +59523,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -59555,13 +59555,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -60164,13 +60164,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -60196,13 +60196,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -65396,13 +65396,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -65428,13 +65428,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -66118,13 +66118,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -66150,13 +66150,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -70719,13 +70719,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -70751,13 +70751,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -72207,13 +72207,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 13
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 13,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -72239,13 +72239,13 @@ export default [
         "playerId": 18900496,
         "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
         "name": "Irina Khodareva",
-        "mvp": "33.3%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "Straightpool": {
             "matchesPlayed": null,
