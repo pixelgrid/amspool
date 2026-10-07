@@ -212,14 +212,14 @@
   {
     "discipline": 2,
     "raceTo": "4",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Sam Verheul",
     "playerB": "Matthew Garcia Garcia",
     "scoreA": "4",
     "scoreB": "3",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88260073",
     "parentId": "88259404"
   },
