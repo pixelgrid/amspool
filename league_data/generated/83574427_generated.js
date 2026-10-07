@@ -634,7 +634,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -649,10 +649,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -665,52 +665,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -793,7 +766,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -4933,7 +4933,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -4948,10 +4948,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4964,52 +4964,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5092,7 +5065,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -6718,7 +6718,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -6733,10 +6733,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6749,52 +6749,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -6877,7 +6850,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -10229,7 +10229,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -10244,10 +10244,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10260,52 +10260,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -10388,7 +10361,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -12898,7 +12898,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -12913,10 +12913,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12929,52 +12929,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -13057,7 +13030,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -15552,7 +15552,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -15567,10 +15567,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15583,52 +15583,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -15711,7 +15684,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -18987,7 +18987,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -19002,10 +19002,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19018,52 +19018,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -19146,7 +19119,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -20816,7 +20816,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -20831,10 +20831,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -20847,52 +20847,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20975,7 +20948,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -25098,7 +25098,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -25113,10 +25113,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -25129,52 +25129,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -25257,7 +25230,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -26144,7 +26144,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -26159,10 +26159,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -26175,52 +26175,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -26303,7 +26276,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -31187,7 +31187,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -31202,10 +31202,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -31218,52 +31218,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -31346,7 +31319,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -31634,7 +31634,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -31649,10 +31649,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -31665,52 +31665,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -31793,7 +31766,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -36721,7 +36721,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -36736,10 +36736,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -36752,52 +36752,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -36880,7 +36853,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -37529,7 +37529,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -37544,10 +37544,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -37560,52 +37560,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -37688,7 +37661,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -42216,7 +42216,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -42231,10 +42231,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -42247,52 +42247,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -42375,7 +42348,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -43640,7 +43640,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -43655,10 +43655,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -43671,52 +43671,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -43799,7 +43772,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -47544,7 +47544,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -47559,10 +47559,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -47575,52 +47575,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -47703,7 +47676,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -49756,7 +49756,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -49771,10 +49771,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -49787,52 +49787,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -49915,7 +49888,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -52776,7 +52776,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -52791,10 +52791,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -52807,52 +52807,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -52935,7 +52908,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -55845,7 +55845,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -55860,10 +55860,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -55876,52 +55876,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -56004,7 +55977,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -58099,7 +58099,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -58114,10 +58114,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -58130,52 +58130,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -58258,7 +58231,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -61993,7 +61993,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -62008,10 +62008,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -62024,52 +62024,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -62152,7 +62125,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -63400,7 +63400,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -63415,10 +63415,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -63431,52 +63431,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -63559,7 +63532,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -68077,7 +68077,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -68092,10 +68092,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -68108,52 +68108,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -68236,7 +68209,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -68492,7 +68492,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -68507,10 +68507,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -68523,52 +68523,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -68651,7 +68624,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
@@ -73982,7 +73982,7 @@ export default [
         "playerId": 20948920,
         "name": "🐆 Dominic B 🦞",
         "url": "https://cuescore.com/player/%F0%9F%90%86+Dominic+B+%F0%9F%A6%9E/20948920",
-        "mvp": "50.0%",
+        "mvp": "0.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -73997,10 +73997,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -74013,52 +74013,25 @@ export default [
       {
         "playerId": 31981621,
         "url": "https://cuescore.com/player/Matt+Bodger/31981621",
-        "name": "Matt Bodger",
-        "mvp": "100.0%",
+        "name": "Matt Bodger"
+      },
+      {
+        "playerId": 32966269,
+        "url": "https://cuescore.com/player/Andy+Fung/32966269",
+        "name": "Andy Fung",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "framesWon": 11,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
             "matchesWon": null,
             "pointsWon": null,
             "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 32966269,
-        "url": "https://cuescore.com/player/Andy+Fung/32966269",
-        "name": "Andy Fung",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 15,
-            "framesLost": 18
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -74141,7 +74114,34 @@ export default [
       {
         "playerId": 38816722,
         "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro"
+        "name": "Adrian Muñoz navarro",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 50
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 6207976,
