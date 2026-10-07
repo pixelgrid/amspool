@@ -170,14 +170,14 @@
   {
     "discipline": 4,
     "raceTo": "5",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Jeroen van der Linde / Marko Nielsen",
     "playerB": "Joris de Winkel / Koen Hoevenaars",
-    "scoreA": "4",
+    "scoreA": "5",
     "scoreB": "3",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88251697",
     "parentId": "88251121"
   },
