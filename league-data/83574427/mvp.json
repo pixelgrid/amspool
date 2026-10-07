@@ -825,6 +825,39 @@
     }
   },
   {
+    "playerId": "7675024",
+    "name": "Enes Cumali",
+    "url": "https://cuescore.com/player/Enes+Cumali/7675024",
+    "mvp": "50.0%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 4,
+        "matchesWon": 2,
+        "framesWon": 13,
+        "framesLost": 14
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
     "playerId": "2871018",
     "name": "Mick Remmers",
     "url": "https://cuescore.com/player/Mick+Remmers/2871018",
@@ -1056,39 +1089,6 @@
     }
   },
   {
-    "playerId": "7675024",
-    "name": "Enes Cumali",
-    "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-    "mvp": "33.3%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 1,
-        "framesWon": 8,
-        "framesLost": 13
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "34200361",
     "name": "Tofail Wagid Hosain",
     "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
@@ -1145,39 +1145,6 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "18900496",
-    "name": "Irina Khodareva",
-    "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
-    "mvp": "33.3%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 1
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 0,
-        "framesWon": 6,
-        "framesLost": 12
       },
       "10-Ball": {
         "matchesPlayed": null,
@@ -2438,6 +2405,39 @@
         "matchesWon": 0,
         "framesWon": 3,
         "framesLost": 5
+      }
+    }
+  },
+  {
+    "playerId": "18900496",
+    "name": "Irina Khodareva",
+    "url": "https://cuescore.com/player/Irina+Khodareva/18900496",
+    "mvp": "0.0%",
+    "participationRate": 50,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 0,
+        "framesWon": 6,
+        "framesLost": 12
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
       }
     }
   },
