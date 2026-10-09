@@ -1901,13 +1901,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1954,10 +1954,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -1980,10 +1980,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1997,19 +1997,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -2692,10 +2692,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2730,10 +2730,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -2756,10 +2756,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2774,10 +2774,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -2790,7 +2790,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -2805,10 +2805,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -3171,10 +3171,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3209,10 +3209,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -3235,10 +3235,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3253,10 +3253,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -3269,7 +3269,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -3284,10 +3284,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -3762,13 +3762,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3815,10 +3815,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -3841,10 +3841,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -3858,19 +3858,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -7990,13 +7990,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8043,10 +8043,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -8069,10 +8069,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8086,19 +8086,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -8204,10 +8204,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8242,10 +8242,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -8268,10 +8268,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8286,10 +8286,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -8302,7 +8302,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -8317,10 +8317,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9085,13 +9085,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9138,10 +9138,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -9164,10 +9164,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9181,19 +9181,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -9282,10 +9282,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9320,10 +9320,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -9346,10 +9346,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9364,10 +9364,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -9380,7 +9380,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -9395,10 +9395,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13532,10 +13532,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13570,10 +13570,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -13596,10 +13596,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13614,10 +13614,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -13630,7 +13630,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -13645,10 +13645,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14138,13 +14138,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14191,10 +14191,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -14217,10 +14217,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14234,19 +14234,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -14580,13 +14580,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14633,10 +14633,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -14659,10 +14659,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14676,19 +14676,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -15371,10 +15371,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15409,10 +15409,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -15435,10 +15435,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15453,10 +15453,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -15469,7 +15469,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -15484,10 +15484,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -18823,10 +18823,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18861,10 +18861,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -18887,10 +18887,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18905,10 +18905,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -18921,7 +18921,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -18936,10 +18936,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19677,13 +19677,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19730,10 +19730,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -19756,10 +19756,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19773,19 +19773,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20669,13 +20669,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -20722,10 +20722,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -20748,10 +20748,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -20765,19 +20765,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -21465,10 +21465,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21503,10 +21503,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -21529,10 +21529,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21547,10 +21547,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -21563,7 +21563,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -21578,10 +21578,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -24146,10 +24146,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -24184,10 +24184,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -24210,10 +24210,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -24228,10 +24228,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -24244,7 +24244,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -24259,10 +24259,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -24968,13 +24968,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25021,10 +25021,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -25047,10 +25047,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -25064,19 +25064,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -26763,13 +26763,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26816,10 +26816,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -26842,10 +26842,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -26859,19 +26859,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27576,10 +27576,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -27614,10 +27614,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -27640,10 +27640,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -27658,10 +27658,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -27674,7 +27674,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -27689,10 +27689,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -29474,10 +29474,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29512,10 +29512,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -29538,10 +29538,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29556,10 +29556,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -29572,7 +29572,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -29587,10 +29587,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -30291,13 +30291,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -30344,10 +30344,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -30370,10 +30370,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -30387,19 +30387,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32874,13 +32874,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32927,10 +32927,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -32953,10 +32953,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -32970,19 +32970,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -33692,10 +33692,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -33730,10 +33730,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -33756,10 +33756,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -33774,10 +33774,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -33790,7 +33790,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -33805,10 +33805,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -34706,10 +34706,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -34744,10 +34744,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -34770,10 +34770,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -34788,10 +34788,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -34804,7 +34804,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -34819,10 +34819,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -35619,13 +35619,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35672,10 +35672,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -35698,10 +35698,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -35715,19 +35715,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -38764,13 +38764,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -38817,10 +38817,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -38843,10 +38843,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -38860,19 +38860,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -39646,10 +39646,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -39684,10 +39684,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -39710,10 +39710,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -39728,10 +39728,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -39744,7 +39744,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -39759,10 +39759,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -40029,10 +40029,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -40067,10 +40067,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -40093,10 +40093,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -40111,10 +40111,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -40127,7 +40127,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -40142,10 +40142,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -41082,13 +41082,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -41135,10 +41135,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -41161,10 +41161,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -41178,19 +41178,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -44944,13 +44944,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44997,10 +44997,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -45023,10 +45023,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -45040,19 +45040,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -45487,10 +45487,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -45525,10 +45525,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -45551,10 +45551,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -45569,10 +45569,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -45585,7 +45585,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -45600,10 +45600,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -46177,10 +46177,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -46215,10 +46215,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -46241,10 +46241,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -46259,10 +46259,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -46275,7 +46275,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -46290,10 +46290,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -46405,13 +46405,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -46458,10 +46458,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -46484,10 +46484,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -46501,19 +46501,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -50788,10 +50788,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -50826,10 +50826,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -50852,10 +50852,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -50870,10 +50870,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -50886,7 +50886,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -50901,10 +50901,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -51033,13 +51033,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -51086,10 +51086,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -51112,10 +51112,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -51129,19 +51129,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -51438,13 +51438,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -51491,10 +51491,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -51517,10 +51517,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -51534,19 +51534,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -52261,10 +52261,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52299,10 +52299,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -52325,10 +52325,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52343,10 +52343,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -52359,7 +52359,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -52374,10 +52374,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -56111,10 +56111,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -56149,10 +56149,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -56175,10 +56175,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -56193,10 +56193,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -56209,7 +56209,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -56224,10 +56224,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -56933,13 +56933,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -56986,10 +56986,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -57012,10 +57012,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -57029,19 +57029,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -57559,13 +57559,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -57612,10 +57612,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -57638,10 +57638,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -57655,19 +57655,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -58382,10 +58382,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -58420,10 +58420,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -58446,10 +58446,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -58464,10 +58464,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -58480,7 +58480,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -58495,10 +58495,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -61429,10 +61429,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -61467,10 +61467,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -61493,10 +61493,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -61511,10 +61511,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -61527,7 +61527,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -61542,10 +61542,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -62256,13 +62256,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -62309,10 +62309,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -62335,10 +62335,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -62352,19 +62352,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -63680,13 +63680,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -63733,10 +63733,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -63759,10 +63759,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -63776,19 +63776,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -64471,10 +64471,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -64509,10 +64509,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -64535,10 +64535,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -64553,10 +64553,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -64569,7 +64569,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -64584,10 +64584,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -66730,10 +66730,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -66768,10 +66768,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -66794,10 +66794,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -66812,10 +66812,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -66828,7 +66828,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -66843,10 +66843,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -67574,13 +67574,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -67627,10 +67627,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -67653,10 +67653,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -67670,19 +67670,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -69769,13 +69769,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -69822,10 +69822,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -69848,10 +69848,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -69865,19 +69865,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -70555,10 +70555,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -70593,10 +70593,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -70619,10 +70619,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -70637,10 +70637,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -70653,7 +70653,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -70668,10 +70668,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -72026,10 +72026,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 2,
-            "framesLost": 5
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -72064,10 +72064,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 12
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 100,
+            "pointsLost": 61
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -72090,10 +72090,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -72108,10 +72108,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -72124,7 +72124,7 @@ export default [
         "playerId": 21483490,
         "url": "https://cuescore.com/player/Anthony+Amico/21483490",
         "name": "Anthony Amico",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -72139,10 +72139,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -72875,13 +72875,13 @@ export default [
         "playerId": 41435989,
         "url": "https://cuescore.com/player/Floris+van+de+peppel/41435989",
         "name": "Floris van de peppel",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 11,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -72928,10 +72928,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
+            "framesWon": 7,
+            "framesLost": 10
           }
         }
       },
@@ -72954,10 +72954,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 18,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 24,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -72971,19 +72971,19 @@ export default [
         "playerId": 82144759,
         "url": "https://cuescore.com/player/Casper+Lopes+Cardozo/82144759",
         "name": "Casper Lopes Cardozo",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 50,
-            "pointsLost": 37
+            "framesWon": 5,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 99,
+            "pointsLost": 87
           },
           "9-Ball": {
             "matchesPlayed": null,

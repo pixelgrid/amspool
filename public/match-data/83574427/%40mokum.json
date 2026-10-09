@@ -324,14 +324,14 @@
   {
     "discipline": 4,
     "raceTo": "5",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Martijn de Theye",
     "playerB": "Harry van Schaik",
-    "scoreA": "1",
-    "scoreB": "1",
+    "scoreA": "4",
+    "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88256413",
     "parentId": "88255522"
   },
