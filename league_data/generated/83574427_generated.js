@@ -764,38 +764,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -5063,38 +5031,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -6844,38 +6780,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -10359,38 +10263,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -13028,38 +12900,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -15678,38 +15518,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -19117,38 +18925,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -20942,38 +20718,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -25228,38 +24972,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -26270,38 +25982,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -31317,38 +30997,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -31760,38 +31408,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -36851,38 +36467,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -37655,38 +37239,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -42346,38 +41898,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -43766,38 +43286,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -47674,38 +47162,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -49882,38 +49338,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -52902,38 +52326,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -55975,38 +55367,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -58225,38 +57585,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -62123,38 +61451,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -63526,38 +62822,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -68207,38 +67471,6 @@ export default [
         }
       },
       {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
         "playerId": 6207976,
         "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
         "name": "Bence Mihálka",
@@ -68618,38 +67850,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
@@ -74108,38 +73308,6 @@ export default [
             "matchesWon": 3,
             "framesWon": 15,
             "framesLost": 8
-          }
-        }
-      },
-      {
-        "playerId": 38816722,
-        "url": "https://cuescore.com/player/Adrian+Mu%C3%B1oz+navarro/38816722",
-        "name": "Adrian Muñoz navarro",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 50
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
           }
         }
       },
