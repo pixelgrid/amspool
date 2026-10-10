@@ -2205,11 +2205,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -4047,11 +4042,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -7469,11 +7459,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -10072,11 +10057,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -12726,11 +12706,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -16072,11 +16047,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -17985,11 +17955,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -22119,11 +22084,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -23249,11 +23209,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -28171,11 +28126,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -28417,11 +28367,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -33678,11 +33623,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -34673,11 +34613,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -39072,11 +39007,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -40526,11 +40456,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -44309,11 +44234,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -46546,11 +46466,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -49568,11 +49483,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -52573,11 +52483,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -54852,11 +54757,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -58598,11 +58498,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -60089,11 +59984,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -64618,11 +64508,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -65321,11 +65206,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
@@ -70486,11 +70366,6 @@ export default [
         }
       },
       {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
-      },
-      {
         "playerId": 1160701,
         "url": "https://cuescore.com/player/Marten+Hoekstra/1160701",
         "name": "Marten Hoekstra",
@@ -71115,11 +70990,6 @@ export default [
             "framesLost": null
           }
         }
-      },
-      {
-        "playerId": 2312947,
-        "url": "https://cuescore.com/player/Juhani+Jaakkola/2312947",
-        "name": "Juhani Jaakkola"
       },
       {
         "playerId": 1160701,
