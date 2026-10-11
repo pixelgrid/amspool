@@ -1566,6 +1566,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-09-27T11:53:54Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-11T10:21:11Z"
           }
         ]
       },
@@ -1666,6 +1671,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-27T11:54:44Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-11T13:12:00Z"
           }
         ]
       },
@@ -2368,6 +2378,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-27T12:18:13Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-11T13:12:00Z"
           }
         ]
       },
@@ -2412,6 +2427,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-27T13:07:39Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-11T10:21:11Z"
           }
         ]
       },
