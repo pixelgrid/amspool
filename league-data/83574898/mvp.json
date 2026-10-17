@@ -165,11 +165,44 @@
     }
   },
   {
+    "playerId": "40403023",
+    "name": "Idris Coskun",
+    "url": "https://cuescore.com/player/Idris+Coskun/40403023",
+    "mvp": "80.0%",
+    "participationRate": 100,
+    "stats": {
+      "9-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 3,
+        "framesWon": 24,
+        "framesLost": 11
+      },
+      "8-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "Straightpool": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "pointsWon": 108,
+        "pointsLost": 136
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
     "playerId": "71259715",
     "name": "Ryan Semeler",
     "url": "https://cuescore.com/player/Ryan+Semeler/71259715",
     "mvp": "75.0%",
-    "participationRate": 100,
+    "participationRate": 66.7,
     "stats": {
       "9-Ball": {
         "matchesPlayed": 2,
@@ -231,50 +264,17 @@
     }
   },
   {
-    "playerId": "40403023",
-    "name": "Idris Coskun",
-    "url": "https://cuescore.com/player/Idris+Coskun/40403023",
-    "mvp": "66.7%",
-    "participationRate": 100,
-    "stats": {
-      "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 2,
-        "framesWon": 16,
-        "framesLost": 7
-      },
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "Straightpool": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "pointsWon": 33,
-        "pointsLost": 75
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "1164127",
     "name": "Saalloe S",
     "url": "https://cuescore.com/player/Saalloe+S/1164127",
-    "mvp": "66.7%",
+    "mvp": "60.0%",
     "participationRate": 100,
     "stats": {
       "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 12,
-        "framesLost": 12
+        "matchesPlayed": 4,
+        "matchesWon": 2,
+        "framesWon": 24,
+        "framesLost": 25
       },
       "8-Ball": {
         "matchesPlayed": null,
@@ -300,7 +300,7 @@
     "playerId": "1162691",
     "name": "Maan Sadal",
     "url": "https://cuescore.com/player/Maan+Sadal/1162691",
-    "mvp": "66.7%",
+    "mvp": "60.0%",
     "participationRate": 100,
     "stats": {
       "9-Ball": {
@@ -316,16 +316,16 @@
         "framesLost": 3
       },
       "Straightpool": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 3,
         "matchesWon": 1,
-        "pointsWon": 131,
-        "pointsLost": 141
+        "pointsWon": 192,
+        "pointsLost": 216
       },
       "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 7,
+        "framesLost": 3
       }
     }
   },
@@ -729,20 +729,20 @@
     "playerId": "1160389",
     "name": "Caro Line",
     "url": "https://cuescore.com/player/Caro+Line/1160389",
-    "mvp": "33.3%",
+    "mvp": "40.0%",
     "participationRate": 100,
     "stats": {
       "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "8-Ball": {
         "matchesPlayed": 1,
         "matchesWon": 0,
-        "framesWon": 4,
-        "framesLost": 6
+        "framesWon": 5,
+        "framesLost": 8
+      },
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 10,
+        "framesLost": 10
       },
       "Straightpool": {
         "matchesPlayed": 1,
@@ -825,6 +825,39 @@
     }
   },
   {
+    "playerId": "1187470",
+    "name": "Arthur “ panda “ Sieger",
+    "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
+    "mvp": "33.3%",
+    "participationRate": 66.7,
+    "stats": {
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 6,
+        "framesLost": 5
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 0,
+        "framesWon": 3,
+        "framesLost": 14
+      }
+    }
+  },
+  {
     "playerId": "45094462",
     "name": "Mark Veerman",
     "url": "https://cuescore.com/player/Mark+Veerman/45094462",
@@ -862,7 +895,7 @@
     "name": "Rick .",
     "url": "https://cuescore.com/player/Rick+./1247702",
     "mvp": "0.0%",
-    "participationRate": 100,
+    "participationRate": 66.7,
     "stats": {
       "9-Ball": {
         "matchesPlayed": 1,
@@ -887,39 +920,6 @@
         "matchesWon": 0,
         "framesWon": 2,
         "framesLost": 7
-      }
-    }
-  },
-  {
-    "playerId": "34200361",
-    "name": "Tofail Wagid Hosain",
-    "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
-    "mvp": "0.0%",
-    "participationRate": 100,
-    "stats": {
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "8-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 0,
-        "framesWon": 5,
-        "framesLost": 12
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
       }
     }
   },
@@ -974,6 +974,39 @@
         "matchesWon": 0,
         "framesWon": 4,
         "framesLost": 6
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "34200361",
+    "name": "Tofail Wagid Hosain",
+    "url": "https://cuescore.com/player/Tofail+Wagid+Hosain/34200361",
+    "mvp": "0.0%",
+    "participationRate": 66.7,
+    "stats": {
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 0,
+        "framesWon": 5,
+        "framesLost": 12
       },
       "Straightpool": {
         "matchesPlayed": null,
@@ -1122,39 +1155,6 @@
     }
   },
   {
-    "playerId": "14139304",
-    "name": "Stefan Lam",
-    "url": "https://cuescore.com/player/Stefan+Lam/14139304",
-    "mvp": "100.0%",
-    "participationRate": 50,
-    "stats": {
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 8,
-        "framesLost": 1
-      },
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "1163947",
     "name": "Nima Dabiran Zohouri",
     "url": "https://cuescore.com/player/Nima+Dabiran+Zohouri/1163947",
@@ -1199,6 +1199,39 @@
         "matchesWon": 1,
         "framesWon": 8,
         "framesLost": 5
+      },
+      "8-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "14139304",
+    "name": "Stefan Lam",
+    "url": "https://cuescore.com/player/Stefan+Lam/14139304",
+    "mvp": "100.0%",
+    "participationRate": 33.3,
+    "stats": {
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 8,
+        "framesLost": 1
       },
       "8-Ball": {
         "matchesPlayed": null,
@@ -1419,11 +1452,11 @@
     }
   },
   {
-    "playerId": "1533289",
-    "name": "Leon Qian",
-    "url": "https://cuescore.com/player/Leon+Qian/1533289",
+    "playerId": "1163630",
+    "name": "Rahid Sadal",
+    "url": "https://cuescore.com/player/Rahid+Sadal/1163630",
     "mvp": "0.0%",
-    "participationRate": 50,
+    "participationRate": 33.3,
     "stats": {
       "9-Ball": {
         "matchesPlayed": null,
@@ -1432,10 +1465,10 @@
         "framesLost": null
       },
       "8-Ball": {
-        "matchesPlayed": 1,
+        "matchesPlayed": 2,
         "matchesWon": 0,
-        "framesWon": 1,
-        "framesLost": 6
+        "framesWon": 9,
+        "framesLost": 12
       },
       "Straightpool": {
         "matchesPlayed": null,
@@ -1448,39 +1481,6 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "1187470",
-    "name": "Arthur “ panda “ Sieger",
-    "url": "https://cuescore.com/player/Arthur+%E2%80%9C+panda+%E2%80%9C+Sieger/1187470",
-    "mvp": "0.0%",
-    "participationRate": 50,
-    "stats": {
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 0,
-        "framesLost": 7
       }
     }
   },
@@ -1502,6 +1502,39 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "1533289",
+    "name": "Leon Qian",
+    "url": "https://cuescore.com/player/Leon+Qian/1533289",
+    "mvp": "0.0%",
+    "participationRate": 33.3,
+    "stats": {
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 1,
+        "framesLost": 6
       },
       "Straightpool": {
         "matchesPlayed": null,
