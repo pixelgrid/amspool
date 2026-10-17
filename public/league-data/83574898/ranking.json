@@ -485,6 +485,11 @@
             "result": "W",
             "discipline": 14,
             "date": "2026-10-04T12:49:51Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-10-17T11:02:37Z"
           }
         ]
       },
@@ -580,6 +585,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-27T12:49:36Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-17T11:02:27Z"
           }
         ]
       },
@@ -634,6 +644,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-10-04T13:11:09Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-17T10:59:36Z"
           }
         ]
       }
@@ -1838,6 +1853,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-10-12T08:40:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-17T11:02:27Z"
           }
         ]
       },
@@ -1892,6 +1912,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-12T08:39:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-17T11:02:37Z"
           }
         ]
       },
@@ -1985,6 +2010,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-10-11T10:21:11Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-17T10:59:36Z"
           }
         ]
       },
