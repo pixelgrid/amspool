@@ -228,7 +228,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -237,16 +264,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -266,7 +293,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -275,10 +302,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -287,10 +314,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -1142,7 +1169,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -1157,10 +1184,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1183,10 +1210,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1205,7 +1232,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -1242,7 +1296,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -1335,7 +1416,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -1344,16 +1452,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1373,7 +1481,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -1382,10 +1490,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -1394,10 +1502,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -1444,7 +1552,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -1459,10 +1567,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1485,10 +1593,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1507,7 +1615,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -1544,7 +1679,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -2759,7 +2921,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -2768,16 +2957,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2797,7 +2986,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -2806,10 +2995,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -2818,10 +3007,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -3607,7 +3796,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -3622,10 +3811,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -3648,10 +3837,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3670,7 +3859,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -3707,7 +3923,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -3903,7 +4146,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -3912,16 +4182,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3941,7 +4211,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -3950,10 +4220,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -3962,10 +4232,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -4309,7 +4579,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -4324,10 +4594,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4350,10 +4620,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4372,7 +4642,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -4409,7 +4706,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -5354,7 +5678,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -5363,16 +5714,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5392,7 +5743,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -5401,10 +5752,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -5413,10 +5764,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -5804,7 +6155,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -5819,10 +6170,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5845,10 +6196,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5867,7 +6218,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -5904,7 +6282,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -6471,7 +6876,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -6480,16 +6912,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6509,7 +6941,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -6518,10 +6950,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -6530,10 +6962,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -7211,7 +7643,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -7226,10 +7658,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7252,10 +7684,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7274,7 +7706,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -7311,7 +7770,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -7922,7 +8408,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -7931,16 +8444,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7960,7 +8473,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -7969,10 +8482,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -7981,10 +8494,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -8048,7 +8561,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -8063,10 +8576,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8089,10 +8602,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8111,7 +8624,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -8148,7 +8688,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -9039,7 +9606,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -9048,16 +9642,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9077,7 +9671,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -9086,10 +9680,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -9098,10 +9692,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -9963,7 +10557,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -9978,10 +10572,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10004,10 +10598,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10026,7 +10620,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -10063,7 +10684,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -10292,7 +10940,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -10307,10 +10955,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10333,10 +10981,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10355,7 +11003,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -10392,7 +11067,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -10468,7 +11170,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -10477,16 +11206,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10506,7 +11235,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -10515,10 +11244,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -10527,10 +11256,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -11607,7 +12336,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -11616,16 +12372,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -11645,7 +12401,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -11654,10 +12410,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -11666,10 +12422,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -12698,7 +13454,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -12713,10 +13469,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12739,10 +13495,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12761,7 +13517,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -12798,7 +13581,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -12994,7 +13804,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -13003,16 +13840,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13032,7 +13869,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -13041,10 +13878,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -13053,10 +13890,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -13120,7 +13957,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -13135,10 +13972,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13161,10 +13998,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13183,7 +14020,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -13220,7 +14084,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -14175,7 +15066,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -14184,16 +15102,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14213,7 +15131,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -14222,10 +15140,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -14234,10 +15152,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -14969,7 +15887,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -14984,10 +15902,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15010,10 +15928,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15032,7 +15950,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -15069,7 +16014,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -15636,7 +16608,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -15645,16 +16644,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15674,7 +16673,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -15683,10 +16682,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -15695,10 +16694,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -16059,7 +17058,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -16074,10 +17073,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16100,10 +17099,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16122,7 +17121,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -16159,7 +17185,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,
@@ -16743,7 +17796,34 @@ export default [
       {
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
-        "name": "Oscar Philips"
+        "name": "Oscar Philips",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 33,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1160822,
@@ -16752,16 +17832,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 7
+            "framesWon": 2,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16781,7 +17861,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -16790,10 +17870,10 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -16802,10 +17882,10 @@ export default [
             "pointsLost": 75
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
           }
         }
       },
@@ -17203,7 +18283,7 @@ export default [
         "playerId": 1161623,
         "name": "Joeke Kloosterman",
         "url": "https://cuescore.com/player/Joeke+Kloosterman/1161623",
-        "mvp": "0.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -17218,10 +18298,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 75
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 140,
+            "pointsLost": 108
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -17244,10 +18324,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "framesWon": 4,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17266,7 +18346,34 @@ export default [
       {
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
-        "name": "Jimmy Lin"
+        "name": "Jimmy Lin",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 8
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1187403,
@@ -17303,7 +18410,34 @@ export default [
       {
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
-        "name": "Johan Koops"
+        "name": "Johan Koops",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 1
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1164150,

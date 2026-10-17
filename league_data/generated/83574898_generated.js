@@ -1142,13 +1142,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -1157,10 +1157,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1193,10 +1193,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1216,13 +1216,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -1248,7 +1248,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -1257,10 +1257,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1269,10 +1269,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -1466,13 +1466,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -1487,10 +1487,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -1501,10 +1501,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -1513,10 +1513,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1562,7 +1562,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -1571,10 +1571,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1790,13 +1790,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -1811,10 +1811,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -1825,10 +1825,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -1837,10 +1837,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1886,7 +1886,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -1895,10 +1895,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2033,13 +2033,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2048,10 +2048,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2084,10 +2084,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2107,13 +2107,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2139,7 +2139,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2148,10 +2148,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2160,10 +2160,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -4512,13 +4512,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4533,10 +4533,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -4547,10 +4547,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -4559,10 +4559,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4608,7 +4608,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -4617,10 +4617,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4738,13 +4738,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4753,10 +4753,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4789,10 +4789,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4812,13 +4812,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4844,7 +4844,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -4853,10 +4853,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4865,10 +4865,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -5104,13 +5104,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -5119,10 +5119,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5155,10 +5155,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5178,13 +5178,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -5210,7 +5210,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -5219,10 +5219,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5231,10 +5231,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -5465,13 +5465,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -5486,10 +5486,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -5500,10 +5500,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -5512,10 +5512,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5561,7 +5561,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -5570,10 +5570,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7364,13 +7364,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7385,10 +7385,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -7399,10 +7399,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -7411,10 +7411,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7460,7 +7460,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -7469,10 +7469,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7784,13 +7784,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7799,10 +7799,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7835,10 +7835,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7858,13 +7858,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7890,7 +7890,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -7899,10 +7899,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7911,10 +7911,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -8752,13 +8752,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8767,10 +8767,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8803,10 +8803,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8826,13 +8826,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8858,7 +8858,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -8867,10 +8867,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8879,10 +8879,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -8985,13 +8985,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -9006,10 +9006,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -9020,10 +9020,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -9032,10 +9032,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9081,7 +9081,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -9090,10 +9090,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10418,13 +10418,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10439,10 +10439,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -10453,10 +10453,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -10465,10 +10465,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10514,7 +10514,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -10523,10 +10523,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10764,13 +10764,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10779,10 +10779,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10815,10 +10815,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10838,13 +10838,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10870,7 +10870,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10879,10 +10879,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10891,10 +10891,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -12198,13 +12198,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12213,10 +12213,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12249,10 +12249,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12272,13 +12272,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12304,7 +12304,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12313,10 +12313,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12325,10 +12325,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -12485,13 +12485,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12506,10 +12506,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -12520,10 +12520,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -12532,10 +12532,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12581,7 +12581,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -12590,10 +12590,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13349,13 +13349,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -13370,10 +13370,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -13384,10 +13384,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -13396,10 +13396,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13445,7 +13445,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -13454,10 +13454,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13764,13 +13764,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -13779,10 +13779,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13815,10 +13815,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13838,13 +13838,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -13870,7 +13870,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -13879,10 +13879,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13891,10 +13891,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -15595,13 +15595,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15610,10 +15610,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15646,10 +15646,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15669,13 +15669,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15701,7 +15701,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -15710,10 +15710,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15722,10 +15722,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -15924,13 +15924,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15945,10 +15945,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -15959,10 +15959,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -15971,10 +15971,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16020,7 +16020,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -16029,10 +16029,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16270,13 +16270,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -16291,10 +16291,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -16305,10 +16305,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -16317,10 +16317,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16366,7 +16366,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -16375,10 +16375,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16825,13 +16825,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -16840,10 +16840,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16876,10 +16876,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16899,13 +16899,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -16931,7 +16931,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -16940,10 +16940,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16952,10 +16952,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -19201,13 +19201,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -19216,10 +19216,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19252,10 +19252,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19275,13 +19275,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -19307,7 +19307,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -19316,10 +19316,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19328,10 +19328,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -19341,13 +19341,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -19362,10 +19362,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -19376,10 +19376,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -19388,10 +19388,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19437,7 +19437,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -19446,10 +19446,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19584,13 +19584,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -19599,10 +19599,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19635,10 +19635,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19658,13 +19658,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -19690,7 +19690,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -19699,10 +19699,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19711,10 +19711,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -19886,13 +19886,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -19907,10 +19907,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -19921,10 +19921,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -19933,10 +19933,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19982,7 +19982,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -19991,10 +19991,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22166,13 +22166,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -22187,10 +22187,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -22201,10 +22201,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -22213,10 +22213,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22262,7 +22262,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -22271,10 +22271,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22613,13 +22613,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -22628,10 +22628,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22664,10 +22664,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22687,13 +22687,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -22719,7 +22719,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -22728,10 +22728,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22740,10 +22740,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -23200,13 +23200,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -23215,10 +23215,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23251,10 +23251,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -23274,13 +23274,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -23306,7 +23306,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -23315,10 +23315,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -23327,10 +23327,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -23534,13 +23534,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -23555,10 +23555,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -23569,10 +23569,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -23581,10 +23581,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23630,7 +23630,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -23639,10 +23639,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25146,13 +25146,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -25167,10 +25167,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -25181,10 +25181,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -25193,10 +25193,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -25242,7 +25242,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -25251,10 +25251,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25465,13 +25465,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -25480,10 +25480,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -25516,10 +25516,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25539,13 +25539,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -25571,7 +25571,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -25580,10 +25580,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25592,10 +25592,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -26720,13 +26720,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -26735,10 +26735,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -26771,10 +26771,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26794,13 +26794,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -26826,7 +26826,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -26835,10 +26835,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26847,10 +26847,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
@@ -26980,13 +26980,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -27001,10 +27001,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -27015,10 +27015,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -27027,10 +27027,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -27076,7 +27076,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -27085,10 +27085,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28146,13 +28146,13 @@ export default [
         "playerId": 1162482,
         "name": "Sander Vriens",
         "url": "https://cuescore.com/player/Sander+Vriens/1162482",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 16
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -28167,10 +28167,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 4
           }
         }
       },
@@ -28181,10 +28181,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -28193,10 +28193,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "pointsWon": 126,
-            "pointsLost": 96
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "pointsWon": 201,
+            "pointsLost": 139
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28242,7 +28242,7 @@ export default [
         "playerId": 1161837,
         "url": "https://cuescore.com/player/Espen+Falkenhaug/1161837",
         "name": "Espen Falkenhaug",
-        "mvp": "33.3%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -28251,10 +28251,10 @@ export default [
             "framesLost": 7
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 12
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 18
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28519,13 +28519,13 @@ export default [
         "playerId": 1159802,
         "url": "https://cuescore.com/player/Arthur+%27The+Owner%27+de+Groot/1159802",
         "name": "Arthur 'The Owner' de Groot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -28534,10 +28534,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 30
+            "pointsWon": 118,
+            "pointsLost": 105
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28570,10 +28570,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 6
+            "framesWon": 7,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28593,13 +28593,13 @@ export default [
         "playerId": 1418678,
         "url": "https://cuescore.com/player/Krijn+Schuurman/1418678",
         "name": "Krijn Schuurman",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 14
+            "framesWon": 10,
+            "framesLost": 22
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -28625,7 +28625,7 @@ export default [
         "playerId": 1077455,
         "url": "https://cuescore.com/player/Arno+%E2%80%98The+Joker%E2%80%99+Hartman/1077455",
         "name": "Arno ‘The Joker’ Hartman",
-        "mvp": "75.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -28634,10 +28634,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 6
+            "framesWon": 14,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28646,10 +28646,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 13
+            "framesWon": 17,
+            "framesLost": 20
           }
         }
       }
