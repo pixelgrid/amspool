@@ -1595,7 +1595,13 @@
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-10-17T11:06:42Z"
+          }
+        ]
       },
       {
         "playerId": 1160822,
@@ -1633,6 +1639,16 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-27T11:35:02Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-17T11:06:32Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-17T12:09:29Z"
           }
         ]
       },
@@ -1677,6 +1693,11 @@
             "result": "L",
             "discipline": 14,
             "date": "2026-09-27T13:32:25Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-17T11:06:38Z"
           }
         ]
       },
@@ -1796,6 +1817,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-27T11:48:58Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-17T11:06:42Z"
           }
         ]
       },
@@ -1835,6 +1861,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-27T11:48:55Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-17T11:06:38Z"
           }
         ]
       },
@@ -1842,7 +1873,13 @@
         "playerId": 1161034,
         "url": "https://cuescore.com/player/Jimmy+Lin/1161034",
         "name": "Jimmy Lin",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-17T11:06:32Z"
+          }
+        ]
       },
       {
         "playerId": 1187403,
@@ -1887,7 +1924,13 @@
         "playerId": 1160287,
         "url": "https://cuescore.com/player/Johan+Koops/1160287",
         "name": "Johan Koops",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-17T12:09:29Z"
+          }
+        ]
       },
       {
         "playerId": 1164150,
