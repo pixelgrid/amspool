@@ -418,6 +418,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-04T12:30:05Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-18T11:00:29Z"
           }
         ]
       },
@@ -468,6 +473,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-10-04T11:11:49Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-18T11:55:52Z"
           }
         ]
       },
@@ -512,6 +522,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-10-04T11:17:41Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-18T11:01:02Z"
           }
         ]
       },
@@ -551,6 +566,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-10-04T13:08:50Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-18T11:01:12Z"
           }
         ]
       },
@@ -600,6 +620,11 @@
             "result": "W",
             "discipline": 14,
             "date": "2026-10-04T16:18:43Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-10-18T11:00:13Z"
           }
         ]
       },
@@ -1768,6 +1793,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-10-04T13:11:09Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-18T11:01:12Z"
           }
         ]
       },
@@ -1812,6 +1842,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-10-04T13:11:08Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-18T11:01:02Z"
           }
         ]
       },
@@ -1856,6 +1891,16 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-09-27T12:18:13Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-18T11:00:29Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-18T11:55:52Z"
           }
         ]
       },
@@ -1960,6 +2005,11 @@
             "result": "W",
             "discipline": 14,
             "date": "2026-09-27T13:07:59Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-18T11:00:13Z"
           }
         ]
       }
@@ -2484,6 +2534,11 @@
             "result": "W",
             "discipline": 14,
             "date": "2026-10-04T13:07:41Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-10-18T11:03:37Z"
           }
         ]
       },
@@ -2538,6 +2593,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-10-04T14:20:54Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-18T11:03:37Z"
           }
         ]
       },
@@ -2582,6 +2642,16 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-27T14:21:31Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-18T11:03:36Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-18T12:33:59Z"
           }
         ]
       },
@@ -2700,6 +2770,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-09-27T11:54:44Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-18T11:03:36Z"
           }
         ]
       },
@@ -2750,6 +2825,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-27T11:53:54Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-18T11:03:37Z"
           }
         ]
       },
@@ -2757,7 +2837,18 @@
         "playerId": 1161039,
         "url": "https://cuescore.com/player/David+van+Streepen/1161039",
         "name": "David van Streepen",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-18T11:03:37Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-18T12:33:59Z"
+          }
+        ]
       }
     ]
   }
