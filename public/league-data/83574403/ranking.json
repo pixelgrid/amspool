@@ -306,6 +306,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-07T21:02:58Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-19T17:59:50Z"
           }
         ]
       }
@@ -493,6 +498,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-08T17:59:49Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-19T17:59:50Z"
           }
         ]
       },
