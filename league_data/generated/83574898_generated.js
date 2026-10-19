@@ -6578,7 +6578,7 @@ export default [
     "playerB": "Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
     "playerBUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
-    "startTime": "2026-10-25T12:00:00Z",
+    "startTime": "2026-11-08T12:00:00Z",
     "venueData": {
       "venueName": "Westend Snooker",
       "venueID": "1172316",
