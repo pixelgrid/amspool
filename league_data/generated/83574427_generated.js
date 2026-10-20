@@ -469,6 +469,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -5578,6 +5583,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -5787,6 +5797,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -11124,6 +11139,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -12136,6 +12156,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -16454,6 +16479,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -18345,6 +18375,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -21789,6 +21824,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -24497,6 +24537,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -27085,6 +27130,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -30642,6 +30692,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -32447,6 +32502,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -36792,6 +36852,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -37944,6 +38009,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -42716,6 +42786,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -43328,6 +43403,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -48628,6 +48708,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -49279,6 +49364,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -53990,6 +54080,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -55429,6 +55524,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -59261,6 +59361,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -61574,6 +61679,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -64589,6 +64699,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -67758,6 +67873,11 @@ export default [
         }
       },
       {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
+      },
+      {
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
@@ -69924,6 +70044,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
@@ -73874,6 +73999,11 @@ export default [
             "framesLost": 2
           }
         }
+      },
+      {
+        "playerId": 54101023,
+        "url": "https://cuescore.com/player/Nick+Maaskant/54101023",
+        "name": "Nick Maaskant"
       },
       {
         "playerId": 18389575,
