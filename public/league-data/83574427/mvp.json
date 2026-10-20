@@ -495,39 +495,6 @@
     }
   },
   {
-    "playerId": "1656647",
-    "name": "Alexander Alekberov",
-    "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
-    "mvp": "75.0%",
-    "participationRate": 60,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 2,
-        "framesWon": 14,
-        "framesLost": 9
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 3
-      }
-    }
-  },
-  {
     "playerId": "1163793",
     "name": "Roman Oprinsen",
     "url": "https://cuescore.com/player/Roman+Oprinsen/1163793",
@@ -561,39 +528,6 @@
     }
   },
   {
-    "playerId": "69311032",
-    "name": "Melih Ay",
-    "url": "https://cuescore.com/player/Melih+Ay/69311032",
-    "mvp": "71.4%",
-    "participationRate": 80,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 2
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": 4,
-        "matchesWon": 3,
-        "framesWon": 23,
-        "framesLost": 15
-      },
-      "10-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 9
-      }
-    }
-  },
-  {
     "playerId": "19517899",
     "name": "Greg R",
     "url": "https://cuescore.com/player/Greg+R/19517899",
@@ -623,6 +557,39 @@
         "matchesWon": 3,
         "framesWon": 15,
         "framesLost": 8
+      }
+    }
+  },
+  {
+    "playerId": "69311032",
+    "name": "Melih Ay",
+    "url": "https://cuescore.com/player/Melih+Ay/69311032",
+    "mvp": "66.7%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 2,
+        "framesWon": 12,
+        "framesLost": 11
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": 4,
+        "matchesWon": 3,
+        "framesWon": 23,
+        "framesLost": 15
+      },
+      "10-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 9
       }
     }
   },
@@ -689,6 +656,39 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "1656647",
+    "name": "Alexander Alekberov",
+    "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
+    "mvp": "66.7%",
+    "participationRate": 60,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 9,
+        "framesLost": 5
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 3
       }
     }
   },
@@ -1716,39 +1716,6 @@
     }
   },
   {
-    "playerId": "41867425",
-    "name": "Roderick Cicilia",
-    "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
-    "mvp": "0.0%",
-    "participationRate": 80,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 4,
-        "matchesWon": 0,
-        "framesWon": 9,
-        "framesLost": 20
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 0,
-        "framesWon": 3,
-        "framesLost": 10
-      }
-    }
-  },
-  {
     "playerId": "6207976",
     "name": "Bence Mihálka",
     "url": "https://cuescore.com/player/Bence+Mih%C3%A1lka/6207976",
@@ -1778,6 +1745,39 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "41867425",
+    "name": "Roderick Cicilia",
+    "url": "https://cuescore.com/player/Roderick+Cicilia/41867425",
+    "mvp": "0.0%",
+    "participationRate": 60,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 0,
+        "framesWon": 7,
+        "framesLost": 15
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 0,
+        "framesWon": 3,
+        "framesLost": 10
       }
     }
   },

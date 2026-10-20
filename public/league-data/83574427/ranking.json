@@ -495,11 +495,6 @@
         "lastFive": [
           {
             "result": "W",
-            "discipline": 9,
-            "date": "2026-09-22T21:10:30Z"
-          },
-          {
-            "result": "W",
             "discipline": 10,
             "date": "2026-09-29T20:41:05Z"
           },
@@ -517,6 +512,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-10-05T21:07:33Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-20T19:07:25Z"
           }
         ]
       },
@@ -637,16 +637,6 @@
         "lastFive": [
           {
             "result": "W",
-            "discipline": 14,
-            "date": "2026-09-22T21:09:00Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-29T20:40:40Z"
-          },
-          {
-            "result": "W",
             "discipline": 8,
             "date": "2026-09-29T20:40:50Z"
           },
@@ -659,6 +649,16 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-05T19:46:41Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-20T18:07:19Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-20T19:08:42Z"
           }
         ]
       },
@@ -2952,13 +2952,13 @@
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2981,16 +2981,6 @@
         },
         "lastFive": [
           {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-22T22:01:00Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-22T22:03:23Z"
-          },
-          {
             "result": "L",
             "discipline": 10,
             "date": "2026-09-29T20:41:05Z"
@@ -3004,6 +2994,16 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-10-06T20:50:17Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-20T16:18:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-20T16:20:00Z"
           }
         ]
       },
@@ -3011,13 +3011,13 @@
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3051,11 +3051,6 @@
           },
           {
             "result": "W",
-            "discipline": 8,
-            "date": "2026-10-20T16:18:46Z"
-          },
-          {
-            "result": "W",
             "discipline": 10,
             "date": "2026-10-20T16:21:16Z"
           }
@@ -3074,10 +3069,10 @@
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3101,6 +3096,11 @@
         "lastFive": [
           {
             "result": "L",
+            "discipline": 8,
+            "date": "2026-09-22T22:03:03Z"
+          },
+          {
+            "result": "L",
             "discipline": 10,
             "date": "2026-09-22T22:03:45Z"
           },
@@ -3118,11 +3118,6 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-10-06T22:04:23Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-10-20T16:20:01Z"
           }
         ]
       }
@@ -4324,6 +4319,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-10-05T19:37:23Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-20T19:07:25Z"
           }
         ]
       },
@@ -4570,6 +4570,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-10-05T21:26:23Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-20T18:07:19Z"
           }
         ]
       },
@@ -4624,6 +4629,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-10-05T21:26:23Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-20T19:08:42Z"
           }
         ]
       }
@@ -4861,12 +4871,12 @@
           {
             "result": "L",
             "discipline": 8,
-            "date": "2026-10-20T16:18:46Z"
+            "date": "2026-10-20T16:18:00Z"
           },
           {
             "result": "W",
             "discipline": 8,
-            "date": "2026-10-20T16:20:01Z"
+            "date": "2026-10-20T16:20:00Z"
           }
         ]
       },

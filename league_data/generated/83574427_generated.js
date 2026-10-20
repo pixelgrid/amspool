@@ -89,13 +89,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -121,13 +121,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -161,10 +161,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5451,13 +5451,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5483,13 +5483,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5523,10 +5523,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6480,13 +6480,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6512,13 +6512,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6552,10 +6552,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10823,13 +10823,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10855,13 +10855,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10895,10 +10895,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12640,13 +12640,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12672,13 +12672,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12712,10 +12712,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16104,13 +16104,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16136,13 +16136,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16176,10 +16176,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18795,13 +18795,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18827,13 +18827,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18867,10 +18867,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21444,13 +21444,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21476,13 +21476,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21516,10 +21516,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -24987,13 +24987,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25019,13 +25019,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25059,10 +25059,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26789,13 +26789,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26821,13 +26821,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26861,10 +26861,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31115,13 +31115,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31147,13 +31147,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31187,10 +31187,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32129,13 +32129,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32161,13 +32161,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32201,10 +32201,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -37275,13 +37275,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -37307,13 +37307,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -37347,10 +37347,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -37695,13 +37695,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -37727,13 +37727,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -37767,10 +37767,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43025,13 +43025,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43057,13 +43057,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43097,10 +43097,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43661,13 +43661,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43693,13 +43693,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -43733,10 +43733,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -48365,13 +48365,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -48397,13 +48397,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -48437,10 +48437,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -49789,13 +49789,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -49821,13 +49821,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -49861,10 +49861,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -53705,13 +53705,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -53737,13 +53737,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -53777,10 +53777,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -56008,13 +56008,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -56040,13 +56040,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -56080,10 +56080,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -59050,13 +59050,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -59082,13 +59082,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -59122,10 +59122,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -62168,13 +62168,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -62200,13 +62200,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -62240,10 +62240,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -64358,13 +64358,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -64390,13 +64390,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -64430,10 +64430,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -68323,13 +68323,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -68355,13 +68355,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -68395,10 +68395,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -69730,13 +69730,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -69762,13 +69762,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -69802,10 +69802,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -74483,13 +74483,13 @@ export default [
         "playerId": 69311032,
         "url": "https://cuescore.com/player/Melih+Ay/69311032",
         "name": "Melih Ay",
-        "mvp": "71.4%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -74515,13 +74515,13 @@ export default [
         "playerId": 1656647,
         "url": "https://cuescore.com/player/Alexander+Alekberov/1656647",
         "name": "Alexander Alekberov",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -74555,10 +74555,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 20
+            "framesWon": 7,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
