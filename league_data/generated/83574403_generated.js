@@ -843,7 +843,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -852,16 +852,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -869,13 +869,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -904,10 +904,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1636,7 +1636,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -1645,16 +1645,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -1688,18 +1688,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -1740,13 +1740,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -3561,7 +3561,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -3570,16 +3570,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -3613,18 +3613,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -3665,13 +3665,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -4167,7 +4167,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -4176,16 +4176,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -4193,13 +4193,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -4228,10 +4228,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6280,7 +6280,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -6289,16 +6289,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -6306,13 +6306,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -6341,10 +6341,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6377,7 +6377,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -6386,16 +6386,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -6429,18 +6429,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -6481,13 +6481,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -8855,7 +8855,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -8864,16 +8864,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -8881,13 +8881,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -8916,10 +8916,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8935,7 +8935,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -8944,16 +8944,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -8987,18 +8987,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -9039,13 +9039,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -11122,7 +11122,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -11131,16 +11131,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -11174,18 +11174,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -11226,13 +11226,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -11675,7 +11675,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -11684,16 +11684,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -11701,13 +11701,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -11736,10 +11736,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13642,7 +13642,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -13651,16 +13651,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -13668,13 +13668,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -13703,10 +13703,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14221,7 +14221,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -14230,16 +14230,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -14273,18 +14273,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -14325,13 +14325,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -15909,7 +15909,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -15918,16 +15918,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -15961,18 +15961,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -16013,13 +16013,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -16987,7 +16987,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -16996,16 +16996,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -17013,13 +17013,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -17048,10 +17048,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -18387,7 +18387,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -18396,16 +18396,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -18413,13 +18413,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -18448,10 +18448,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -19637,7 +19637,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -19646,16 +19646,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -19689,18 +19689,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -19741,13 +19741,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -20550,7 +20550,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -20559,16 +20559,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -20602,18 +20602,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -20654,13 +20654,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -22346,7 +22346,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -22355,16 +22355,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -22372,13 +22372,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -22407,10 +22407,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23143,7 +23143,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -23152,16 +23152,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -23169,13 +23169,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -23204,10 +23204,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -25074,7 +25074,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -25083,16 +25083,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -25126,18 +25126,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -25178,13 +25178,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -25280,7 +25280,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -25289,16 +25289,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -25332,18 +25332,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -25384,13 +25384,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -27709,7 +27709,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -27718,16 +27718,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -27735,13 +27735,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27770,10 +27770,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28031,7 +28031,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -28040,16 +28040,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -28057,13 +28057,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -28092,10 +28092,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -29989,7 +29989,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -29998,16 +29998,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -30041,18 +30041,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -30093,13 +30093,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -30744,7 +30744,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -30753,16 +30753,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -30796,18 +30796,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -30848,13 +30848,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -32629,7 +32629,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -32638,16 +32638,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -32655,13 +32655,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32690,10 +32690,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -33317,7 +33317,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -33326,16 +33326,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -33343,13 +33343,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -33378,10 +33378,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -34781,7 +34781,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -34790,16 +34790,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -34833,18 +34833,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -34885,13 +34885,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -36103,7 +36103,7 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -36112,16 +36112,16 @@ export default [
             "framesLost": 0
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 16,
+            "framesLost": 13
           }
         }
       },
@@ -36155,18 +36155,18 @@ export default [
         "playerId": 75388042,
         "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
         "name": "Pieter Helsloot",
-        "mvp": "100.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
+            "framesWon": 6,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 2
           },
           "10-Ball": {
@@ -36207,13 +36207,13 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -37416,7 +37416,7 @@ export default [
         "playerId": 37771660,
         "url": "https://cuescore.com/player/A.+%22Sakalam%22/37771660",
         "name": "A. \"Sakalam\"",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -37425,16 +37425,16 @@ export default [
             "framesLost": 4
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 7
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
@@ -37442,13 +37442,13 @@ export default [
         "playerId": 1187483,
         "url": "https://cuescore.com/player/Hashmatullah+Nazir/1187483",
         "name": "Hashmatullah Nazir",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 13,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -37477,10 +37477,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 5
+            "framesLost": 10
           },
           "10-Ball": {
             "matchesPlayed": null,
