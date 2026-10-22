@@ -1442,10 +1442,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -1491,13 +1491,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1512,10 +1512,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -1558,16 +1558,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -2679,13 +2679,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -2700,10 +2700,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -2743,7 +2743,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -2752,16 +2752,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -2775,13 +2775,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3158,13 +3158,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -3179,10 +3179,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -3222,7 +3222,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -3231,16 +3231,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -3254,13 +3254,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4199,10 +4199,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -4248,13 +4248,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4269,10 +4269,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -4315,16 +4315,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -7661,10 +7661,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -7710,13 +7710,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7731,10 +7731,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -7777,16 +7777,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -8235,13 +8235,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -8256,10 +8256,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -8299,7 +8299,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -8308,16 +8308,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -8331,13 +8331,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9313,13 +9313,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -9334,10 +9334,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -9377,7 +9377,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -9386,16 +9386,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -9409,13 +9409,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9544,10 +9544,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -9593,13 +9593,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9614,10 +9614,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -9660,16 +9660,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -13607,13 +13607,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -13628,10 +13628,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -13671,7 +13671,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -13680,16 +13680,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -13703,13 +13703,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13821,10 +13821,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -13870,13 +13870,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13891,10 +13891,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -13937,16 +13937,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -14852,10 +14852,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -14901,13 +14901,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14922,10 +14922,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -14968,16 +14968,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -15478,13 +15478,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -15499,10 +15499,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -15542,7 +15542,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -15551,16 +15551,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -15574,13 +15574,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18942,13 +18942,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -18963,10 +18963,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -19006,7 +19006,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -19015,16 +19015,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -19038,13 +19038,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19976,10 +19976,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -20025,13 +20025,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -20046,10 +20046,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -20092,16 +20092,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20391,10 +20391,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -20440,13 +20440,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -20461,10 +20461,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -20507,16 +20507,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -21584,13 +21584,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -21605,10 +21605,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -21648,7 +21648,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -21657,16 +21657,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -21680,13 +21680,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -24309,13 +24309,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -24330,10 +24330,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -24373,7 +24373,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -24382,16 +24382,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -24405,13 +24405,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25495,10 +25495,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -25544,13 +25544,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -25565,10 +25565,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -25611,16 +25611,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -26556,10 +26556,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -26605,13 +26605,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26626,10 +26626,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -26672,16 +26672,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27739,13 +27739,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -27760,10 +27760,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -27803,7 +27803,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -27812,16 +27812,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -27835,13 +27835,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29681,13 +29681,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -29702,10 +29702,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -29745,7 +29745,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -29754,16 +29754,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -29777,13 +29777,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -30889,10 +30889,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -30938,13 +30938,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -30959,10 +30959,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -31005,16 +31005,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32689,10 +32689,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -32738,13 +32738,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32759,10 +32759,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -32805,16 +32805,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -33899,13 +33899,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -33920,10 +33920,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -33963,7 +33963,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -33972,16 +33972,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -33995,13 +33995,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -34962,13 +34962,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -34983,10 +34983,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -35026,7 +35026,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -35035,16 +35035,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -35058,13 +35058,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36234,10 +36234,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -36283,13 +36283,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36304,10 +36304,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -36350,16 +36350,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -38650,10 +38650,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -38699,13 +38699,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -38720,10 +38720,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -38766,16 +38766,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -39892,13 +39892,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -39913,10 +39913,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -39956,7 +39956,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -39965,16 +39965,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -39988,13 +39988,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -40302,13 +40302,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -40323,10 +40323,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -40366,7 +40366,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -40375,16 +40375,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -40398,13 +40398,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -41800,10 +41800,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -41849,13 +41849,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -41870,10 +41870,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -41916,16 +41916,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -44810,10 +44810,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -44859,13 +44859,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44880,10 +44880,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -44926,16 +44926,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -45804,13 +45804,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -45825,10 +45825,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -45868,7 +45868,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -45877,16 +45877,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -45900,13 +45900,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -46494,13 +46494,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -46515,10 +46515,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -46558,7 +46558,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -46567,16 +46567,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -46590,13 +46590,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -47081,10 +47081,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -47130,13 +47130,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -47151,10 +47151,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -47197,16 +47197,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -50965,10 +50965,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -51014,13 +51014,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -51035,10 +51035,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -51081,16 +51081,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -51149,13 +51149,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -51170,10 +51170,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -51213,7 +51213,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -51222,16 +51222,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -51245,13 +51245,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52421,10 +52421,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -52470,13 +52470,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52491,10 +52491,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -52537,16 +52537,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -52622,13 +52622,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -52643,10 +52643,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -52686,7 +52686,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -52695,16 +52695,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -52718,13 +52718,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -56484,13 +56484,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -56505,10 +56505,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -56548,7 +56548,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -56557,16 +56557,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -56580,13 +56580,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -57157,10 +57157,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -57206,13 +57206,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -57227,10 +57227,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -57273,16 +57273,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -57535,10 +57535,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -57584,13 +57584,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -57605,10 +57605,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -57651,16 +57651,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -58787,13 +58787,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -58808,10 +58808,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -58851,7 +58851,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -58860,16 +58860,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -58883,13 +58883,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -61878,13 +61878,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -61899,10 +61899,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -61942,7 +61942,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -61951,16 +61951,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -61974,13 +61974,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -63101,10 +63101,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -63150,13 +63150,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -63171,10 +63171,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -63217,16 +63217,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -63764,10 +63764,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -63813,13 +63813,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -63834,10 +63834,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -63880,16 +63880,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -64920,13 +64920,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -64941,10 +64941,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -64984,7 +64984,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -64993,16 +64993,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -65016,13 +65016,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -67223,13 +67223,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -67244,10 +67244,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -67287,7 +67287,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -67296,16 +67296,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -67319,13 +67319,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -68436,10 +68436,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -68485,13 +68485,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -68506,10 +68506,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -68552,16 +68552,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -69870,10 +69870,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -69919,13 +69919,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -69940,10 +69940,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -69986,16 +69986,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -71048,13 +71048,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -71069,10 +71069,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -71112,7 +71112,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -71121,16 +71121,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -71144,13 +71144,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -72563,13 +72563,13 @@ export default [
         "playerId": 17070613,
         "url": "https://cuescore.com/player/Barry+Haarms/17070613",
         "name": "Barry Haarms",
-        "mvp": "100.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 9,
+            "framesLost": 5
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -72584,10 +72584,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 6
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 10
           }
         }
       },
@@ -72627,7 +72627,7 @@ export default [
         "playerId": 55414381,
         "url": "https://cuescore.com/player/Stefanos+Akarepis/55414381",
         "name": "Stefanos Akarepis",
-        "mvp": "100.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -72636,16 +72636,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "pointsWon": 100,
-            "pointsLost": 61
+            "pointsWon": 119,
+            "pointsLost": 111
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "framesWon": 7,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -72659,13 +72659,13 @@ export default [
         "playerId": 1161842,
         "url": "https://cuescore.com/player/Harry+van+Schaik/1161842",
         "name": "Harry van Schaik",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "framesWon": 19,
+            "framesLost": 13
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -73803,10 +73803,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -73852,13 +73852,13 @@ export default [
         "playerId": 40296037,
         "url": "https://cuescore.com/player/Renato+Torres/40296037",
         "name": "Renato Torres",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -73873,10 +73873,10 @@ export default [
             "framesLost": 9
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
+            "framesWon": 9,
+            "framesLost": 6
           }
         }
       },
@@ -73919,16 +73919,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "pointsWon": 51,
-            "pointsLost": 4
+            "framesWon": 5,
+            "framesLost": 4
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 101,
+            "pointsLost": 23
           },
           "9-Ball": {
             "matchesPlayed": null,
