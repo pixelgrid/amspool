@@ -1105,6 +1105,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -4682,6 +4687,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -7253,6 +7263,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -9951,6 +9966,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -13400,6 +13420,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -15281,6 +15306,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -19582,6 +19612,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -20616,6 +20651,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -25700,6 +25740,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -26172,6 +26217,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -31273,6 +31323,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -32268,6 +32323,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -36630,6 +36690,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -38219,6 +38284,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -42159,6 +42229,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -44337,6 +44412,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -47489,6 +47569,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -50548,6 +50633,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -52822,6 +52912,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -56698,6 +56793,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -58120,6 +58220,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -62843,6 +62948,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -63251,6 +63361,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -68750,6 +68865,11 @@ export default [
         }
       },
       {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
+      },
+      {
         "playerId": 26357872,
         "url": "https://cuescore.com/player/Chris+Jones/26357872",
         "name": "Chris Jones",
@@ -69406,6 +69526,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
@@ -74132,6 +74257,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 1164646,
+        "url": "https://cuescore.com/player/Joeri+Ruiter/1164646",
+        "name": "Joeri Ruiter"
       },
       {
         "playerId": 26357872,
