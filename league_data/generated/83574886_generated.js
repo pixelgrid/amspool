@@ -52,7 +52,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -61,16 +61,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -92,16 +92,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -121,13 +121,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -142,10 +142,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -592,7 +592,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -601,10 +601,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -624,13 +624,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -665,16 +665,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -734,7 +734,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ],
     "teamB": [
@@ -1852,7 +1879,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -1861,10 +1888,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1884,13 +1911,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -1925,16 +1952,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1994,7 +2021,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ]
   },
@@ -2051,7 +2105,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2060,16 +2114,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2091,16 +2145,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2120,13 +2174,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2141,10 +2195,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -2635,7 +2689,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2644,10 +2698,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2667,13 +2721,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2708,16 +2762,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2777,7 +2831,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ],
     "teamB": [
@@ -2817,7 +2898,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2826,16 +2907,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2857,16 +2938,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2886,13 +2967,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2907,10 +2988,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -4084,7 +4165,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -4093,16 +4174,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4124,16 +4205,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4153,13 +4234,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4174,10 +4255,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -4489,7 +4570,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -4498,10 +4579,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4521,13 +4602,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4562,16 +4643,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4631,7 +4712,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ]
   },
@@ -4656,7 +4764,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -4665,10 +4773,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4688,13 +4796,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4729,16 +4837,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4798,7 +4906,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ],
     "teamB": [
@@ -5378,7 +5513,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -5387,16 +5522,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5418,16 +5553,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5447,13 +5582,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -5468,10 +5603,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -6100,7 +6235,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -6109,16 +6244,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6140,16 +6275,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6169,13 +6304,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6190,10 +6325,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -6689,7 +6824,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -6698,10 +6833,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6721,13 +6856,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6762,16 +6897,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6831,7 +6966,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ],
     "teamB": [
@@ -7330,7 +7492,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -7339,10 +7501,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7362,13 +7524,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7403,16 +7565,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7472,7 +7634,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ]
   },
@@ -8013,7 +8202,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -8022,16 +8211,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8053,16 +8242,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8082,13 +8271,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8103,10 +8292,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -8278,7 +8467,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -8287,16 +8476,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8318,16 +8507,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8347,13 +8536,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8368,10 +8557,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -8882,7 +9071,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -8891,10 +9080,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8914,13 +9103,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8955,16 +9144,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9024,7 +9213,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ]
   },
@@ -9842,7 +10058,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -9851,10 +10067,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9874,13 +10090,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -9915,16 +10131,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9984,7 +10200,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ],
     "teamB": [
@@ -10331,7 +10574,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10340,16 +10583,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10371,16 +10614,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10400,13 +10643,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10421,10 +10664,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -10780,7 +11023,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10789,16 +11032,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10820,16 +11063,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10849,13 +11092,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10870,10 +11113,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -10883,7 +11126,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10892,10 +11135,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10915,13 +11158,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10956,16 +11199,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -11025,7 +11268,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ]
   },
@@ -12315,7 +12585,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12324,16 +12594,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12355,16 +12625,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12384,13 +12654,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12405,10 +12675,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -12435,7 +12705,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12444,10 +12714,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12467,13 +12737,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12508,16 +12778,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12577,7 +12847,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ],
     "teamB": [
@@ -12882,7 +13179,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12891,10 +13188,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12914,13 +13211,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12955,16 +13252,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13024,7 +13321,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ]
   },
@@ -13383,7 +13707,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -13392,16 +13716,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13423,16 +13747,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13452,13 +13776,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -13473,10 +13797,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -14390,7 +14714,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -14399,16 +14723,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14430,16 +14754,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14459,13 +14783,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14480,10 +14804,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }
@@ -14920,7 +15244,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -14929,10 +15253,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14952,13 +15276,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14993,16 +15317,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15062,7 +15386,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ]
   },
@@ -15335,7 +15686,7 @@ export default [
         "playerId": 1161120,
         "name": "Martin Sawicki",
         "url": "https://cuescore.com/player/Martin+Sawicki/1161120",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -15344,10 +15695,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15367,13 +15718,13 @@ export default [
         "playerId": 1162754,
         "url": "https://cuescore.com/player/Gijs+van+Westenbrugge/1162754",
         "name": "Gijs van Westenbrugge",
-        "mvp": "0.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 15
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15408,16 +15759,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 38
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 67
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15477,7 +15828,34 @@ export default [
       {
         "playerId": 7447551,
         "url": "https://cuescore.com/player/Marcel+Nottebaum/7447551",
-        "name": "Marcel Nottebaum"
+        "name": "Marcel Nottebaum",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 4
+          }
+        }
       }
     ],
     "teamB": [
@@ -16003,7 +16381,7 @@ export default [
         "playerId": 1162674,
         "url": "https://cuescore.com/player/Dennis+Veltman/1162674",
         "name": "Dennis Veltman",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -16012,16 +16390,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 60,
-            "pointsLost": 100
+            "pointsWon": 89,
+            "pointsLost": 200
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16043,16 +16421,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 18
+            "framesWon": 9,
+            "framesLost": 27
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 7
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16072,13 +16450,13 @@ export default [
         "playerId": 1161306,
         "url": "https://cuescore.com/player/Gerrie+Kuik/1161306",
         "name": "Gerrie Kuik",
-        "mvp": "66.7%",
+        "mvp": "40.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -16093,10 +16471,10 @@ export default [
             "pointsLost": 95
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 20
           }
         }
       }

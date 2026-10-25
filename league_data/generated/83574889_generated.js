@@ -229,19 +229,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -264,10 +264,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -282,10 +282,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -293,7 +293,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -302,16 +302,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -389,10 +389,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -418,7 +418,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -427,10 +427,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -450,13 +450,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -471,17 +471,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -502,10 +529,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1417,19 +1444,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -1452,10 +1479,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -1470,10 +1497,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -1481,7 +1508,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -1490,16 +1517,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -2601,10 +2628,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2630,7 +2657,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2639,10 +2666,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -2662,13 +2689,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -2683,17 +2710,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -2714,10 +2768,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2758,10 +2812,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2787,7 +2841,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2796,10 +2850,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -2819,13 +2873,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -2840,17 +2894,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -2871,10 +2952,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2922,19 +3003,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -2957,10 +3038,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -2975,10 +3056,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -2986,7 +3067,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -2995,16 +3076,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -4147,19 +4228,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -4182,10 +4263,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -4200,10 +4281,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -4211,7 +4292,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -4220,16 +4301,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -5164,10 +5245,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -5193,7 +5274,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -5202,10 +5283,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -5225,13 +5306,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -5246,17 +5327,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -5277,10 +5385,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5679,19 +5787,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -5714,10 +5822,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -5732,10 +5840,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -5743,7 +5851,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -5752,16 +5860,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -6006,10 +6114,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6035,7 +6143,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -6044,10 +6152,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -6067,13 +6175,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -6088,17 +6196,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -6119,10 +6254,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6877,19 +7012,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -6912,10 +7047,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -6930,10 +7065,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -6941,7 +7076,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -6950,16 +7085,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -7511,10 +7646,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7540,7 +7675,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -7549,10 +7684,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -7572,13 +7707,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -7593,17 +7728,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -7624,10 +7786,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8409,19 +8571,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -8444,10 +8606,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -8462,10 +8624,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -8473,7 +8635,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -8482,16 +8644,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -9055,10 +9217,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -9084,7 +9246,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -9093,10 +9255,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -9116,13 +9278,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -9137,17 +9299,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -9168,10 +9357,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9607,19 +9796,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -9642,10 +9831,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -9660,10 +9849,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -9671,7 +9860,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -9680,16 +9869,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -10121,10 +10310,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10150,7 +10339,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10159,10 +10348,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -10182,13 +10371,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -10203,17 +10392,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -10234,10 +10450,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -11171,19 +11387,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -11206,10 +11422,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -11224,10 +11440,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -11235,7 +11451,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -11244,16 +11460,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -11979,10 +12195,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12008,7 +12224,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12017,10 +12233,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -12040,13 +12256,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -12061,17 +12277,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -12092,10 +12335,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12337,19 +12580,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -12372,10 +12615,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -12390,10 +12633,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -12401,7 +12644,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -12410,16 +12653,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -12480,10 +12723,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12509,7 +12752,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12518,10 +12761,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -12541,13 +12784,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -12562,17 +12805,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -12593,10 +12863,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13805,19 +14075,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -13840,10 +14110,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -13858,10 +14128,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -13869,7 +14139,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -13878,16 +14148,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -14886,10 +15156,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14915,7 +15185,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -14924,10 +15194,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -14947,13 +15217,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -14968,17 +15238,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -14999,10 +15296,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15067,19 +15364,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -15102,10 +15399,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -15120,10 +15417,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -15131,7 +15428,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -15140,16 +15437,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -15394,10 +15691,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15423,7 +15720,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -15432,10 +15729,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -15455,13 +15752,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -15476,17 +15773,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -15507,10 +15831,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16609,19 +16933,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -16644,10 +16968,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -16662,10 +16986,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -16673,7 +16997,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -16682,16 +17006,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -17265,10 +17589,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -17294,7 +17618,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -17303,10 +17627,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -17326,13 +17650,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -17347,17 +17671,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -17378,10 +17729,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -17797,19 +18148,19 @@ export default [
         "playerId": 55388533,
         "url": "https://cuescore.com/player/Oscar+Philips/55388533",
         "name": "Oscar Philips",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 11
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -17832,10 +18183,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 18
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -17850,10 +18201,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           }
         }
       },
@@ -17861,7 +18212,7 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "50.0%",
+        "mvp": "33.3%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -17870,16 +18221,16 @@ export default [
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "framesWon": 10,
+            "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 75
+            "pointsWon": 60,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -18507,10 +18858,10 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 18
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 36,
+            "framesLost": 25
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -18536,7 +18887,7 @@ export default [
         "playerId": 1161317,
         "url": "https://cuescore.com/player/Arno+Brouwer/1161317",
         "name": "Arno Brouwer",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -18545,10 +18896,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 11,
-            "framesLost": 12
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -18568,13 +18919,13 @@ export default [
         "playerId": 1161381,
         "url": "https://cuescore.com/player/Biao+Wu/1161381",
         "name": "Biao Wu",
-        "mvp": "0.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 9
           },
           "8-Ball": {
             "matchesPlayed": 2,
@@ -18589,17 +18940,44 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 15,
+            "framesLost": 12
           }
         }
       },
       {
         "playerId": 1160379,
         "url": "https://cuescore.com/player/Martijn+Woonings/1160379",
-        "name": "Martijn Woonings"
+        "name": "Martijn Woonings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 1161679,
@@ -18620,10 +18998,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 68
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 71
           },
           "10-Ball": {
             "matchesPlayed": null,
