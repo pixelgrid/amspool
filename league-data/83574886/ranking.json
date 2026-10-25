@@ -3,11 +3,11 @@
     "position": 1,
     "teamName": "Strijders",
     "teamId": 1172428,
-    "played": 2,
-    "wins": 2,
+    "played": 3,
+    "wins": 3,
     "losses": 0,
     "ties": 0,
-    "points": 12,
+    "points": 17,
     "lastFive": [
       {
         "result": "W",
@@ -22,6 +22,13 @@
         "teamScore": 5,
         "opponentScore": 2,
         "date": "2026-10-04T11:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "H.O.B. Most Wanted",
+        "teamScore": 4,
+        "opponentScore": 3,
+        "date": "2026-10-25T12:00:00Z"
       }
     ],
     "games": [
@@ -38,6 +45,13 @@
         "teamScore": 5,
         "opponentScore": 2,
         "date": "2026-10-04T11:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "H.O.B. Most Wanted",
+        "teamScore": 4,
+        "opponentScore": 3,
+        "date": "2026-10-25T12:00:00Z"
       }
     ],
     "members": [
@@ -54,16 +68,16 @@
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 195,
-            "pointsLost": 172
+            "pointsWon": 253,
+            "pointsLost": 272
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -84,9 +98,14 @@
             "date": "2026-10-04T13:30:01Z"
           },
           {
-            "result": "W",
+            "result": "L",
             "discipline": 14,
             "date": "2026-10-25T13:47:48Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-25T15:42:09Z"
           }
         ]
       },
@@ -182,7 +201,7 @@
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "0.0%",
+        "mvp": "25.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -191,10 +210,10 @@
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 14
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 19
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -203,10 +222,10 @@
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 8
           }
         },
         "lastFive": [
@@ -242,13 +261,13 @@
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 9
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 35,
+            "framesLost": 24
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -300,7 +319,7 @@
     ]
   },
   {
-    "position": 1,
+    "position": 2,
     "teamName": "GW Billiards Geldrop",
     "teamId": 63855895,
     "played": 2,
@@ -885,6 +904,578 @@
   },
   {
     "position": 4,
+    "teamName": "Shinobi",
+    "teamId": 1172425,
+    "played": 2,
+    "wins": 1,
+    "losses": 1,
+    "ties": 0,
+    "points": 8,
+    "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Strijders",
+        "teamScore": 2,
+        "opponentScore": 5,
+        "date": "2026-09-27T11:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Mokumse Straatratten",
+        "teamScore": 5,
+        "opponentScore": 2,
+        "date": "2026-10-25T12:00:00Z"
+      }
+    ],
+    "games": [
+      {
+        "result": "L",
+        "opponent": "Strijders",
+        "teamScore": 2,
+        "opponentScore": 5,
+        "date": "2026-09-27T11:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Mokumse Straatratten",
+        "teamScore": 5,
+        "opponentScore": 2,
+        "date": "2026-10-25T12:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 1126363,
+        "name": "Patrick Lie Kiauw",
+        "url": "https://cuescore.com/player/Patrick+Lie+Kiauw/1126363",
+        "lastFive": []
+      },
+      {
+        "playerId": 1162005,
+        "url": "https://cuescore.com/player/Hugo+Leung/1162005",
+        "name": "Hugo Leung",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-25T14:12:47Z"
+          }
+        ]
+      },
+      {
+        "playerId": 9923947,
+        "url": "https://cuescore.com/player/Lesley+Weeterings/9923947",
+        "name": "Lesley Weeterings",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 100,
+            "pointsLost": 88
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-25T11:54:58Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-25T14:12:42Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1539480,
+        "url": "https://cuescore.com/player/Hassan+Osman/1539480",
+        "name": "Hassan Osman",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 72,
+            "pointsLost": 100
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:05:02Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-09-27T12:31:11Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1187493,
+        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
+        "name": "Antonie Nguyen",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160131,
+        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
+        "name": "ACE Cheung",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 0
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 8
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-25T11:54:54Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-25T13:41:02Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1162723,
+        "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
+        "name": "Pascal de Smit",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 8,
+            "framesLost": 18
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T11:05:43Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T13:13:58Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1090809,
+        "url": "https://cuescore.com/player/Hoa+Nguyen/1090809",
+        "name": "Hoa Nguyen",
+        "mvp": "33.3%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 6
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T11:04:55Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-27T13:22:06Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-25T11:54:49Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 4,
+    "teamName": "H.O.B. Most Wanted",
+    "teamId": 46514794,
+    "played": 2,
+    "wins": 1,
+    "losses": 1,
+    "ties": 0,
+    "points": 8,
+    "lastFive": [
+      {
+        "result": "W",
+        "opponent": "The Wizards Crypto.com",
+        "teamScore": 4,
+        "opponentScore": 3,
+        "date": "2026-09-27T11:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Strijders",
+        "teamScore": 3,
+        "opponentScore": 4,
+        "date": "2026-10-25T12:00:00Z"
+      }
+    ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "The Wizards Crypto.com",
+        "teamScore": 4,
+        "opponentScore": 3,
+        "date": "2026-09-27T11:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Strijders",
+        "teamScore": 3,
+        "opponentScore": 4,
+        "date": "2026-10-25T12:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 18194104,
+        "name": "Roberto Gomez",
+        "url": "https://cuescore.com/player/Roberto+Gomez/18194104",
+        "lastFive": []
+      },
+      {
+        "playerId": 18194458,
+        "url": "https://cuescore.com/player/Bruce+Hu/18194458",
+        "name": "Bruce Hu",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 100,
+            "pointsLost": 58
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-25T13:47:48Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-25T14:27:05Z"
+          }
+        ]
+      },
+      {
+        "playerId": 2860328,
+        "url": "https://cuescore.com/player/Wouter+Vels/2860328",
+        "name": "Wouter Vels",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 11
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 6
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T15:15:18Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T15:33:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-25T12:12:11Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-25T14:26:24Z"
+          }
+        ]
+      },
+      {
+        "playerId": 7466068,
+        "url": "https://cuescore.com/player/Marcel+Zwiers/7466068",
+        "name": "Marcel Zwiers",
+        "mvp": "25.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 9,
+            "framesLost": 14
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 100,
+            "pointsLost": 60
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-09-27T11:13:16Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-27T13:34:51Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-25T12:22:33Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-25T15:42:09Z"
+          }
+        ]
+      },
+      {
+        "playerId": 17973718,
+        "url": "https://cuescore.com/player/Jelle+Boersma/17973718",
+        "name": "Jelle Boersma",
+        "lastFive": []
+      },
+      {
+        "playerId": 17337334,
+        "url": "https://cuescore.com/player/Nigel+Huynh/17337334",
+        "name": "Nigel Huynh",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T12:25:32Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-27T15:14:35Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 6,
     "teamName": "The Wizards Crypto.com",
     "teamId": 1172404,
     "played": 3,
@@ -1174,7 +1765,7 @@
     ]
   },
   {
-    "position": 5,
+    "position": 7,
     "teamName": "Focus Billiards 1",
     "teamId": 62655247,
     "played": 1,
@@ -1348,222 +1939,16 @@
     ]
   },
   {
-    "position": 6,
-    "teamName": "H.O.B. Most Wanted",
-    "teamId": 46514794,
-    "played": 1,
-    "wins": 1,
-    "losses": 0,
+    "position": 8,
+    "teamName": "Mokumse Straatratten",
+    "teamId": 62184268,
+    "played": 3,
+    "wins": 0,
+    "losses": 3,
     "ties": 0,
     "points": 5,
     "lastFive": [
       {
-        "result": "W",
-        "opponent": "The Wizards Crypto.com",
-        "teamScore": 4,
-        "opponentScore": 3,
-        "date": "2026-09-27T11:00:00Z"
-      }
-    ],
-    "games": [
-      {
-        "result": "W",
-        "opponent": "The Wizards Crypto.com",
-        "teamScore": 4,
-        "opponentScore": 3,
-        "date": "2026-09-27T11:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 18194104,
-        "name": "Roberto Gomez",
-        "url": "https://cuescore.com/player/Roberto+Gomez/18194104",
-        "lastFive": []
-      },
-      {
-        "playerId": 18194458,
-        "url": "https://cuescore.com/player/Bruce+Hu/18194458",
-        "name": "Bruce Hu",
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 14,
-            "date": "2026-10-25T13:47:48Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-10-25T14:27:05Z"
-          }
-        ]
-      },
-      {
-        "playerId": 2860328,
-        "url": "https://cuescore.com/player/Wouter+Vels/2860328",
-        "name": "Wouter Vels",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 3
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-27T15:15:18Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-27T15:33:00Z"
-          },
-          {
-            "result": "W",
-            "discipline": 10,
-            "date": "2026-10-25T12:12:11Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-25T14:26:24Z"
-          }
-        ]
-      },
-      {
-        "playerId": 7466068,
-        "url": "https://cuescore.com/player/Marcel+Zwiers/7466068",
-        "name": "Marcel Zwiers",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 60
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-09-27T11:13:16Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-27T13:34:51Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-10-25T12:22:33Z"
-          }
-        ]
-      },
-      {
-        "playerId": 17973718,
-        "url": "https://cuescore.com/player/Jelle+Boersma/17973718",
-        "name": "Jelle Boersma",
-        "lastFive": []
-      },
-      {
-        "playerId": 17337334,
-        "url": "https://cuescore.com/player/Nigel+Huynh/17337334",
-        "name": "Nigel Huynh",
-        "mvp": "0.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-27T12:25:32Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-09-27T15:14:35Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "position": 7,
-    "teamName": "Mokumse Straatratten",
-    "teamId": 62184268,
-    "played": 2,
-    "wins": 0,
-    "losses": 2,
-    "ties": 0,
-    "points": 3,
-    "lastFive": [
-      {
         "result": "L",
         "opponent": "Focus Billiards 1",
         "teamScore": 2,
@@ -1576,6 +1961,13 @@
         "teamScore": 1,
         "opponentScore": 6,
         "date": "2026-10-04T11:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Shinobi",
+        "teamScore": 2,
+        "opponentScore": 5,
+        "date": "2026-10-25T12:00:00Z"
       }
     ],
     "games": [
@@ -1592,6 +1984,13 @@
         "teamScore": 1,
         "opponentScore": 6,
         "date": "2026-10-04T11:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Shinobi",
+        "teamScore": 2,
+        "opponentScore": 5,
+        "date": "2026-10-25T12:00:00Z"
       }
     ],
     "members": [
@@ -1608,10 +2007,10 @@
             "framesLost": 9
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -1658,6 +2057,33 @@
         "playerId": 13331119,
         "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
         "name": "Sky van den Berg",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 3
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 7
+          }
+        },
         "lastFive": [
           {
             "result": "W",
@@ -1729,6 +2155,33 @@
         "playerId": 42234562,
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 88,
+            "pointsLost": 100
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
         "lastFive": [
           {
             "result": "L",
@@ -1746,6 +2199,33 @@
         "playerId": 2354384,
         "url": "https://cuescore.com/player/Jolien+Schuurman/2354384",
         "name": "Jolien Schuurman",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
         "lastFive": [
           {
             "result": "L",
@@ -1801,231 +2281,6 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-10-04T14:51:26Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "position": 8,
-    "teamName": "Shinobi",
-    "teamId": 1172425,
-    "played": 1,
-    "wins": 0,
-    "losses": 1,
-    "ties": 0,
-    "points": 2,
-    "lastFive": [
-      {
-        "result": "L",
-        "opponent": "Strijders",
-        "teamScore": 2,
-        "opponentScore": 5,
-        "date": "2026-09-27T11:00:00Z"
-      }
-    ],
-    "games": [
-      {
-        "result": "L",
-        "opponent": "Strijders",
-        "teamScore": 2,
-        "opponentScore": 5,
-        "date": "2026-09-27T11:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 1126363,
-        "name": "Patrick Lie Kiauw",
-        "url": "https://cuescore.com/player/Patrick+Lie+Kiauw/1126363",
-        "lastFive": []
-      },
-      {
-        "playerId": 1162005,
-        "url": "https://cuescore.com/player/Hugo+Leung/1162005",
-        "name": "Hugo Leung",
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-25T14:12:47Z"
-          }
-        ]
-      },
-      {
-        "playerId": 9923947,
-        "url": "https://cuescore.com/player/Lesley+Weeterings/9923947",
-        "name": "Lesley Weeterings",
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-10-25T11:54:58Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-25T14:12:42Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1539480,
-        "url": "https://cuescore.com/player/Hassan+Osman/1539480",
-        "name": "Hassan Osman",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 72,
-            "pointsLost": 100
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-27T11:05:02Z"
-          },
-          {
-            "result": "L",
-            "discipline": 14,
-            "date": "2026-09-27T12:31:11Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1187493,
-        "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
-        "name": "Antonie Nguyen",
-        "lastFive": []
-      },
-      {
-        "playerId": 1160131,
-        "url": "https://cuescore.com/player/ACE+Cheung/1160131",
-        "name": "ACE Cheung",
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-25T11:54:54Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-10-25T13:41:02Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1162723,
-        "url": "https://cuescore.com/player/Pascal+de+Smit/1162723",
-        "name": "Pascal de Smit",
-        "mvp": "0.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 8,
-            "framesLost": 18
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-27T11:05:43Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-27T13:13:58Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1090809,
-        "url": "https://cuescore.com/player/Hoa+Nguyen/1090809",
-        "name": "Hoa Nguyen",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 6
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-27T11:04:55Z"
-          },
-          {
-            "result": "W",
-            "discipline": 10,
-            "date": "2026-09-27T13:22:06Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-10-25T11:54:49Z"
           }
         ]
       }

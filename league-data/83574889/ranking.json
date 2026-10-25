@@ -325,6 +325,314 @@
   },
   {
     "position": 2,
+    "teamName": "De Sjoel 99",
+    "teamId": 1267024,
+    "played": 2,
+    "wins": 2,
+    "losses": 0,
+    "ties": 0,
+    "points": 14,
+    "lastFive": [
+      {
+        "result": "W",
+        "opponent": "N-Joyriders",
+        "teamScore": 7,
+        "opponentScore": 0,
+        "date": "2026-09-27T11:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Nog 1tje dan",
+        "teamScore": 5,
+        "opponentScore": 2,
+        "date": "2026-10-25T12:00:00Z"
+      }
+    ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "N-Joyriders",
+        "teamScore": 7,
+        "opponentScore": 0,
+        "date": "2026-09-27T11:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Nog 1tje dan",
+        "teamScore": 5,
+        "opponentScore": 2,
+        "date": "2026-10-25T12:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 1162054,
+        "name": "Jeroen van Spronsen",
+        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 150,
+            "pointsLost": 121
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-09-27T11:48:51Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-25T15:00:12Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1161998,
+        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
+        "name": "Djay Latuputty",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 3
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:48:55Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1161241,
+        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
+        "name": "Kevin Jansen",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 5
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 1
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T11:48:49Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-27T11:49:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-25T12:11:16Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-25T13:33:27Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1160291,
+        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
+        "name": "Mozes Leeflang",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-25T12:10:55Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-25T18:18:09Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1162349,
+        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
+        "name": "Robin Hospers",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:48:44Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1163715,
+        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
+        "name": "Jacob Siemaszko",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 13,
+            "framesLost": 16
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T11:48:58Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-25T12:10:40Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 3,
     "teamName": "Infinity BiedieBiedie",
     "teamId": 1172419,
     "played": 2,
@@ -604,7 +912,7 @@
     ]
   },
   {
-    "position": 3,
+    "position": 4,
     "teamName": "The N-Joyable Basterds",
     "teamId": 47819962,
     "played": 2,
@@ -896,270 +1204,14 @@
     ]
   },
   {
-    "position": 4,
-    "teamName": "De Sjoel 99",
-    "teamId": 1267024,
-    "played": 1,
-    "wins": 1,
-    "losses": 0,
-    "ties": 0,
-    "points": 8,
-    "lastFive": [
-      {
-        "result": "W",
-        "opponent": "N-Joyriders",
-        "teamScore": 7,
-        "opponentScore": 0,
-        "date": "2026-09-27T11:00:00Z"
-      }
-    ],
-    "games": [
-      {
-        "result": "W",
-        "opponent": "N-Joyriders",
-        "teamScore": 7,
-        "opponentScore": 0,
-        "date": "2026-09-27T11:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 1162054,
-        "name": "Jeroen van Spronsen",
-        "url": "https://cuescore.com/player/Jeroen+van+Spronsen/1162054",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 75,
-            "pointsLost": 65
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-09-27T11:48:51Z"
-          },
-          {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-10-25T15:00:12Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1161998,
-        "url": "https://cuescore.com/player/Djay+Latuputty/1161998",
-        "name": "Djay Latuputty",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-27T11:48:55Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1161241,
-        "url": "https://cuescore.com/player/Kevin+Jansen/1161241",
-        "name": "Kevin Jansen",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 1
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-27T11:48:49Z"
-          },
-          {
-            "result": "W",
-            "discipline": 10,
-            "date": "2026-09-27T11:49:00Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-25T12:11:16Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-25T13:33:27Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1160291,
-        "url": "https://cuescore.com/player/Mozes+Leeflang/1160291",
-        "name": "Mozes Leeflang",
-        "lastFive": []
-      },
-      {
-        "playerId": 1162349,
-        "url": "https://cuescore.com/player/Robin+Hospers/1162349",
-        "name": "Robin Hospers",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-27T11:48:44Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1163715,
-        "url": "https://cuescore.com/player/Jacob+Siemaszko/1163715",
-        "name": "Jacob Siemaszko",
-        "mvp": "100.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-27T11:48:58Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-10-25T12:10:40Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "position": 5,
     "teamName": "Nog 1tje dan",
     "teamId": 30886165,
-    "played": 2,
+    "played": 3,
     "wins": 1,
-    "losses": 1,
+    "losses": 2,
     "ties": 0,
-    "points": 7,
+    "points": 9,
     "lastFive": [
       {
         "result": "W",
@@ -1174,6 +1226,13 @@
         "teamScore": 2,
         "opponentScore": 5,
         "date": "2026-10-04T11:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "De Sjoel 99",
+        "teamScore": 2,
+        "opponentScore": 5,
+        "date": "2026-10-25T12:00:00Z"
       }
     ],
     "games": [
@@ -1190,6 +1249,13 @@
         "teamScore": 2,
         "opponentScore": 5,
         "date": "2026-10-04T11:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "De Sjoel 99",
+        "teamScore": 2,
+        "opponentScore": 5,
+        "date": "2026-10-25T12:00:00Z"
       }
     ],
     "members": [
@@ -1206,16 +1272,16 @@
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "pointsWon": 47,
-            "pointsLost": 75
+            "framesWon": 2,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "pointsWon": 103,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1246,12 +1312,77 @@
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
         "name": "Marten de Haas",
-        "lastFive": []
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 9
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 5
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-25T12:10:55Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-25T18:18:09Z"
+          }
+        ]
       },
       {
         "playerId": 1160504,
         "url": "https://cuescore.com/player/Ronald+Haanstra/1160504",
         "name": "Ronald Haanstra",
+        "mvp": "50.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 7
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
         "lastFive": [
           {
             "result": "W",

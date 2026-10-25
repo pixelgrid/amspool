@@ -240,14 +240,14 @@
   {
     "discipline": 4,
     "raceTo": "6",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Jolien Schuurman / Richard Floris",
     "playerB": "Hoa Nguyen / Hugo Leung",
     "scoreA": "1",
-    "scoreB": "2",
+    "scoreB": "6",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88797700",
     "parentId": "88797343"
   },

@@ -338,14 +338,14 @@
   {
     "discipline": 4,
     "raceTo": "6",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Caro Line / Shoaib Momand",
     "playerB": "Mark Ekkerman / Ritesh Badal",
-    "scoreA": "3",
-    "scoreB": "2",
+    "scoreA": "6",
+    "scoreB": "3",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88802044",
     "parentId": "88801459"
   },
