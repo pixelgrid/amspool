@@ -672,6 +672,11 @@ export default [
         }
       },
       {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
+      },
+      {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
@@ -932,6 +937,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
       },
       {
         "playerId": 3220720,
@@ -4342,6 +4352,11 @@ export default [
         }
       },
       {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
+      },
+      {
         "playerId": 3220720,
         "url": "https://cuescore.com/player/Jin+Binda/3220720",
         "name": "Jin Binda",
@@ -4779,6 +4794,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
       },
       {
         "playerId": 76149370,
@@ -5614,6 +5634,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
       },
       {
         "playerId": 76149370,
@@ -6495,6 +6520,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
       },
       {
         "playerId": 3220720,
@@ -9156,6 +9186,11 @@ export default [
         }
       },
       {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
+      },
+      {
         "playerId": 3220720,
         "url": "https://cuescore.com/player/Jin+Binda/3220720",
         "name": "Jin Binda",
@@ -10224,6 +10259,11 @@ export default [
         }
       },
       {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
+      },
+      {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
@@ -10423,6 +10463,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
       },
       {
         "playerId": 76149370,
@@ -11400,7 +11445,7 @@ export default [
     "playerB": "Just the tip.",
     "playerAUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
     "playerBUrl": "https://cuescore.com/team/Just+the+tip./47449828",
-    "startTime": "2026-10-27T19:00:00Z",
+    "startTime": "2026-11-03T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
@@ -12016,6 +12061,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
       },
       {
         "playerId": 3220720,
@@ -14069,6 +14119,11 @@ export default [
         }
       },
       {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
+      },
+      {
         "playerId": 3220720,
         "url": "https://cuescore.com/player/Jin+Binda/3220720",
         "name": "Jin Binda",
@@ -15192,6 +15247,11 @@ export default [
         }
       },
       {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
+      },
+      {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
@@ -16175,6 +16235,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
       },
       {
         "playerId": 76149370,
@@ -17454,6 +17519,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
       },
       {
         "playerId": 3220720,
@@ -18940,6 +19010,11 @@ export default [
         }
       },
       {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
+      },
+      {
         "playerId": 3220720,
         "url": "https://cuescore.com/player/Jin+Binda/3220720",
         "name": "Jin Binda",
@@ -20004,6 +20079,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
       },
       {
         "playerId": 76149370,
@@ -21698,6 +21778,11 @@ export default [
         }
       },
       {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
+      },
+      {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
@@ -22941,6 +23026,11 @@ export default [
         }
       },
       {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
+      },
+      {
         "playerId": 3220720,
         "url": "https://cuescore.com/player/Jin+Binda/3220720",
         "name": "Jin Binda",
@@ -23799,6 +23889,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
       },
       {
         "playerId": 3220720,
@@ -24917,6 +25012,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
       },
       {
         "playerId": 76149370,
@@ -27136,6 +27236,11 @@ export default [
         }
       },
       {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
+      },
+      {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
@@ -28451,6 +28556,11 @@ export default [
         }
       },
       {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
+      },
+      {
         "playerId": 3220720,
         "url": "https://cuescore.com/player/Jin+Binda/3220720",
         "name": "Jin Binda",
@@ -28813,6 +28923,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
       },
       {
         "playerId": 3220720,
@@ -29788,6 +29903,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
       },
       {
         "playerId": 76149370,
@@ -32621,6 +32741,11 @@ export default [
         }
       },
       {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
+      },
+      {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
@@ -33497,6 +33622,11 @@ export default [
         }
       },
       {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
+      },
+      {
         "playerId": 3220720,
         "url": "https://cuescore.com/player/Jin+Binda/3220720",
         "name": "Jin Binda",
@@ -34227,6 +34357,11 @@ export default [
         }
       },
       {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
+      },
+      {
         "playerId": 3220720,
         "url": "https://cuescore.com/player/Jin+Binda/3220720",
         "name": "Jin Binda",
@@ -34649,6 +34784,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
       },
       {
         "playerId": 76149370,
@@ -38131,6 +38271,11 @@ export default [
         }
       },
       {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt"
+      },
+      {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
@@ -38408,6 +38553,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 47693500,
+        "url": "https://cuescore.com/player/Rashied+Badal/47693500",
+        "name": "Rashied Badal"
       },
       {
         "playerId": 3220720,

@@ -579,34 +579,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -2248,34 +2221,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -3984,34 +3930,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -4838,34 +4757,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -7303,34 +7195,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -7718,34 +7583,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -10126,34 +9964,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -10912,34 +10723,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -12942,34 +12726,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -14290,34 +14047,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -15537,34 +15267,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -17700,34 +17403,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -18051,34 +17727,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,
@@ -20803,34 +20452,7 @@ export default [
       {
         "playerId": 1162010,
         "url": "https://cuescore.com/player/Marten+de+Haas/1162010",
-        "name": "Marten de Haas",
-        "mvp": "50.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 9
-          },
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 5
-          }
-        }
+        "name": "Marten de Haas"
       },
       {
         "playerId": 1160504,

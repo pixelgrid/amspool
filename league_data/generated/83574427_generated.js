@@ -1005,6 +1005,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -5363,6 +5368,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -6399,6 +6409,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -11496,6 +11511,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -11707,6 +11727,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -17079,6 +17104,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -18098,6 +18128,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -22360,6 +22395,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -24253,6 +24293,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -27700,6 +27745,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -30445,6 +30495,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -33045,6 +33100,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -36573,6 +36633,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -38611,6 +38676,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -42571,6 +42641,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -43946,6 +44021,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -48677,6 +48757,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -49313,6 +49398,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -54621,6 +54711,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -55247,6 +55342,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -59961,6 +60061,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -61466,6 +61571,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -65306,6 +65416,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -67626,6 +67741,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
@@ -70614,6 +70734,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ]
   },
@@ -73781,6 +73906,11 @@ export default [
             "framesLost": null
           }
         }
+      },
+      {
+        "playerId": 82959079,
+        "url": "https://cuescore.com/player/Luis+Araujo/82959079",
+        "name": "Luis Araujo"
       }
     ],
     "teamB": [
