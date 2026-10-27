@@ -102,11 +102,6 @@
         },
         "lastFive": [
           {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-23T12:34:00Z"
-          },
-          {
             "result": "W",
             "discipline": 8,
             "date": "2026-10-07T21:26:00Z"
@@ -125,6 +120,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-19T19:14:12Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-27T20:53:44Z"
           }
         ]
       },
@@ -161,11 +161,6 @@
         },
         "lastFive": [
           {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-14T18:05:30Z"
-          },
-          {
             "result": "W",
             "discipline": 8,
             "date": "2026-09-23T12:33:00Z"
@@ -179,6 +174,16 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-19T21:03:04Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-27T19:28:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-27T21:19:35Z"
           }
         ]
       },
@@ -276,16 +281,6 @@
         "lastFive": [
           {
             "result": "W",
-            "discipline": 10,
-            "date": "2026-09-14T18:40:54Z"
-          },
-          {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-09-14T19:32:08Z"
-          },
-          {
-            "result": "W",
             "discipline": 14,
             "date": "2026-09-23T00:27:00Z"
           },
@@ -298,6 +293,16 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-07T21:27:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-10-27T19:28:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-27T20:56:49Z"
           }
         ]
       }
@@ -795,6 +800,16 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-06T19:00:32Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-10-27T18:56:27Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-27T20:42:42Z"
           }
         ]
       },
@@ -839,6 +854,16 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-10-19T19:51:16Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-27T20:43:55Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-27T21:18:23Z"
           }
         ]
       },
@@ -980,11 +1005,6 @@
         "lastFive": [
           {
             "result": "L",
-            "discipline": 10,
-            "date": "2026-09-17T18:06:31Z"
-          },
-          {
-            "result": "L",
             "discipline": 14,
             "date": "2026-09-17T20:08:39Z"
           },
@@ -1002,6 +1022,11 @@
             "result": "L",
             "discipline": 14,
             "date": "2026-10-19T17:55:15Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-27T18:56:28Z"
           }
         ]
       },
@@ -1150,11 +1175,6 @@
         },
         "lastFive": [
           {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-09-24T18:00:14Z"
-          },
-          {
             "result": "L",
             "discipline": 8,
             "date": "2026-09-24T19:54:38Z"
@@ -1168,6 +1188,16 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-10-13T19:46:42Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-27T19:28:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-27T21:19:35Z"
           }
         ]
       },
@@ -1293,11 +1323,6 @@
         "lastFive": [
           {
             "result": "W",
-            "discipline": 8,
-            "date": "2026-09-21T18:51:04Z"
-          },
-          {
-            "result": "W",
             "discipline": 14,
             "date": "2026-09-21T19:21:31Z"
           },
@@ -1310,6 +1335,16 @@
             "result": "W",
             "discipline": 14,
             "date": "2026-10-13T19:16:13Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-27T19:28:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-27T20:56:49Z"
           }
         ]
       },
@@ -1323,7 +1358,13 @@
         "playerId": 58879426,
         "url": "https://cuescore.com/player/Enes+Coskun/58879426",
         "name": "Enes Coskun",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-27T20:53:44Z"
+          }
+        ]
       },
       {
         "playerId": 2433503,
@@ -2888,11 +2929,6 @@
         },
         "lastFive": [
           {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-29T19:32:51Z"
-          },
-          {
             "result": "W",
             "discipline": 8,
             "date": "2026-10-06T19:57:23Z"
@@ -2906,6 +2942,16 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-10-20T19:34:05Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-27T18:56:27Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-27T21:18:23Z"
           }
         ]
       },
@@ -3053,6 +3099,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-10-20T18:05:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-27T20:42:42Z"
           }
         ]
       },
@@ -3104,7 +3155,13 @@
         "playerId": 42234562,
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-27T20:43:55Z"
+          }
+        ]
       },
       {
         "playerId": 9596878,
@@ -3142,6 +3199,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-10-20T18:41:07Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-27T18:56:28Z"
           }
         ]
       },
