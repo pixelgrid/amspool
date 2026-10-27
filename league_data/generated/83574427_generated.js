@@ -499,13 +499,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -520,10 +520,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -534,16 +534,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -595,7 +595,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -610,10 +610,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1643,13 +1643,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1664,10 +1664,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -1707,13 +1707,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -1771,7 +1771,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -1780,16 +1780,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4410,13 +4410,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4431,10 +4431,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -4474,13 +4474,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -4538,7 +4538,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -4547,16 +4547,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5655,13 +5655,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -5676,10 +5676,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -5690,16 +5690,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5751,7 +5751,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -5766,10 +5766,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5866,13 +5866,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -5887,10 +5887,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -5901,16 +5901,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5962,7 +5962,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -5977,10 +5977,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7042,13 +7042,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7063,10 +7063,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -7106,13 +7106,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -7170,7 +7170,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -7179,16 +7179,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10639,13 +10639,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10660,10 +10660,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -10703,13 +10703,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -10767,7 +10767,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -10776,16 +10776,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -11270,13 +11270,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -11291,10 +11291,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -11305,16 +11305,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -11366,7 +11366,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -11381,10 +11381,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12321,13 +12321,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -12342,10 +12342,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -12356,16 +12356,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -12417,7 +12417,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -12432,10 +12432,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12500,13 +12500,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12521,10 +12521,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -12564,13 +12564,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -12628,7 +12628,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -12637,16 +12637,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16674,13 +16674,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -16695,10 +16695,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -16709,16 +16709,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -16770,7 +16770,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -16785,10 +16785,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16836,13 +16836,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16857,10 +16857,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -16900,13 +16900,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -16964,7 +16964,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -16973,16 +16973,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -17904,13 +17904,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17925,10 +17925,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -17968,13 +17968,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -18032,7 +18032,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -18041,16 +18041,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -18604,13 +18604,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -18625,10 +18625,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -18639,16 +18639,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -18700,7 +18700,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -18715,10 +18715,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22083,13 +22083,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -22104,10 +22104,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -22118,16 +22118,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -22179,7 +22179,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -22194,10 +22194,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23033,13 +23033,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -23054,10 +23054,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -23097,13 +23097,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -23161,7 +23161,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -23170,16 +23170,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23276,13 +23276,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -23297,10 +23297,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -23340,13 +23340,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -23404,7 +23404,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -23413,16 +23413,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -24828,13 +24828,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -24849,10 +24849,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -24863,16 +24863,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -24924,7 +24924,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -24939,10 +24939,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -27455,13 +27455,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -27476,10 +27476,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -27490,16 +27490,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27551,7 +27551,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -27566,10 +27566,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28621,13 +28621,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28642,10 +28642,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -28685,13 +28685,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -28749,7 +28749,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -28758,16 +28758,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -29753,13 +29753,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29774,10 +29774,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -29817,13 +29817,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -29881,7 +29881,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -29890,16 +29890,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -31047,13 +31047,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -31068,10 +31068,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -31082,16 +31082,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -31143,7 +31143,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -31158,10 +31158,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -32891,13 +32891,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -32912,10 +32912,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -32926,16 +32926,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32987,7 +32987,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -33002,10 +33002,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -34025,13 +34025,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -34046,10 +34046,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -34089,13 +34089,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -34153,7 +34153,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -34162,16 +34162,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -36009,13 +36009,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36030,10 +36030,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -36073,13 +36073,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -36137,7 +36137,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -36146,16 +36146,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -37276,13 +37276,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -37297,10 +37297,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -37311,16 +37311,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -37372,7 +37372,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -37387,10 +37387,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -38457,13 +38457,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -38478,10 +38478,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -38492,16 +38492,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -38553,7 +38553,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -38568,10 +38568,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -39628,13 +39628,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -39649,10 +39649,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -39692,13 +39692,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -39756,7 +39756,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -39765,16 +39765,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -42034,13 +42034,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -42055,10 +42055,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -42098,13 +42098,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -42162,7 +42162,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -42171,16 +42171,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -43274,13 +43274,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -43295,10 +43295,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -43309,16 +43309,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -43370,7 +43370,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -43385,10 +43385,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -43915,13 +43915,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -43936,10 +43936,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -43950,16 +43950,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -44011,7 +44011,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -44026,10 +44026,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -45064,13 +45064,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -45085,10 +45085,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -45128,13 +45128,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -45192,7 +45192,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -45201,16 +45201,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -48263,13 +48263,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -48284,10 +48284,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -48327,13 +48327,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -48391,7 +48391,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -48400,16 +48400,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -49260,13 +49260,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -49281,10 +49281,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -49295,16 +49295,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -49356,7 +49356,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -49371,10 +49371,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -49945,13 +49945,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -49966,10 +49966,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -49980,16 +49980,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -50041,7 +50041,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -50056,10 +50056,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -50463,13 +50463,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -50484,10 +50484,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -50527,13 +50527,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -50591,7 +50591,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -50600,16 +50600,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -54433,13 +54433,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -54454,10 +54454,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -54497,13 +54497,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -54561,7 +54561,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -54570,16 +54570,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -54691,13 +54691,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -54712,10 +54712,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -54726,16 +54726,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -54787,7 +54787,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -54802,10 +54802,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -55894,13 +55894,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -55915,10 +55915,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -55958,13 +55958,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -56022,7 +56022,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -56031,16 +56031,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -56169,13 +56169,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -56190,10 +56190,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -56204,16 +56204,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -56265,7 +56265,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -56280,10 +56280,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -60036,13 +60036,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -60057,10 +60057,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -60071,16 +60071,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -60132,7 +60132,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -60147,10 +60147,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -60657,13 +60657,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -60678,10 +60678,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -60721,13 +60721,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -60785,7 +60785,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -60794,16 +60794,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -61325,13 +61325,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -61346,10 +61346,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -61389,13 +61389,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -61453,7 +61453,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -61462,16 +61462,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -62388,13 +62388,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -62409,10 +62409,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -62423,16 +62423,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -62484,7 +62484,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -62499,10 +62499,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -65440,13 +65440,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -65461,10 +65461,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -65475,16 +65475,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -65536,7 +65536,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -65551,10 +65551,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -66638,13 +66638,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -66659,10 +66659,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -66702,13 +66702,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -66766,7 +66766,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -66775,16 +66775,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -67382,13 +67382,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -67403,10 +67403,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -67446,13 +67446,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -67510,7 +67510,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -67519,16 +67519,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -68644,13 +68644,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -68665,10 +68665,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -68679,16 +68679,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -68740,7 +68740,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -68755,10 +68755,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -70849,13 +70849,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -70870,10 +70870,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -70884,16 +70884,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -70945,7 +70945,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -70960,10 +70960,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -72047,13 +72047,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -72068,10 +72068,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -72111,13 +72111,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -72175,7 +72175,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -72184,16 +72184,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -73606,13 +73606,13 @@ export default [
         "playerId": 7675024,
         "name": "Enes Cumali",
         "url": "https://cuescore.com/player/Enes+Cumali/7675024",
-        "mvp": "50.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 13,
-            "framesLost": 14
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 18,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -73627,10 +73627,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
           }
         }
       },
@@ -73670,13 +73670,13 @@ export default [
         "playerId": 1160738,
         "url": "https://cuescore.com/player/Etienne+Verheem/1160738",
         "name": "Etienne Verheem",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 3,
@@ -73734,7 +73734,7 @@ export default [
         "playerId": 5692607,
         "url": "https://cuescore.com/player/Mohamed+Al-Attas/5692607",
         "name": "Mohamed Al-Attas",
-        "mvp": "25.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -73743,16 +73743,16 @@ export default [
             "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "pointsWon": 95,
-            "pointsLost": 91
+            "pointsWon": 120,
+            "pointsLost": 141
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 6
+            "framesWon": 10,
+            "framesLost": 12
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -74836,13 +74836,13 @@ export default [
         "playerId": 18389575,
         "url": "https://cuescore.com/player/Anton+Bardakhan/18389575",
         "name": "Anton Bardakhan",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 2,
-            "framesWon": 20,
-            "framesLost": 22
+            "framesWon": 21,
+            "framesLost": 27
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -74857,10 +74857,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 5
           }
         }
       },
@@ -74871,16 +74871,16 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 0
+            "framesWon": 7,
+            "framesLost": 5
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 44,
-            "pointsLost": 50
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "pointsWon": 94,
+            "pointsLost": 75
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -74932,7 +74932,7 @@ export default [
         "playerId": 78893989,
         "url": "https://cuescore.com/player/Egor+Sokolov/78893989",
         "name": "Egor Sokolov",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -74947,10 +74947,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 17,
-            "framesLost": 18
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": null,
