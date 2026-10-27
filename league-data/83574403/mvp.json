@@ -135,6 +135,60 @@
     }
   },
   {
+    "playerId": "82382911",
+    "name": "Stefan van der Linden",
+    "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+    "mvp": "80.0%",
+    "participationRate": 80,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 2,
+        "framesWon": 8,
+        "framesLost": 2
+      },
+      "9-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 2,
+        "framesWon": 10,
+        "framesLost": 5
+      },
+      "10-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 1,
+        "framesLost": 5
+      }
+    }
+  },
+  {
+    "playerId": "1163634",
+    "name": "Wout Terstappen",
+    "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
+    "mvp": "80.0%",
+    "participationRate": 80,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 3,
+        "framesWon": 12,
+        "framesLost": 3
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 2,
+        "framesLost": 5
+      },
+      "10-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 4
+      }
+    }
+  },
+  {
     "playerId": "47238124",
     "name": "matt jones",
     "url": "https://cuescore.com/player/matt+jones/47238124",
@@ -158,33 +212,6 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "82382911",
-    "name": "Stefan van der Linden",
-    "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-    "mvp": "75.0%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 4,
-        "framesLost": 1
-      },
-      "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 2,
-        "framesWon": 10,
-        "framesLost": 5
-      },
-      "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 1,
-        "framesLost": 5
       }
     }
   },
@@ -216,29 +243,56 @@
     }
   },
   {
-    "playerId": "1163634",
-    "name": "Wout Terstappen",
-    "url": "https://cuescore.com/player/Wout+Terstappen/1163634",
+    "playerId": "52320367",
+    "name": "Jurij Menih",
+    "url": "https://cuescore.com/player/Jurij+Menih/52320367",
     "mvp": "75.0%",
-    "participationRate": 75,
+    "participationRate": 66.7,
     "stats": {
       "8-Ball": {
-        "matchesPlayed": 2,
+        "matchesPlayed": 3,
         "matchesWon": 2,
         "framesWon": 8,
-        "framesLost": 2
+        "framesLost": 7
       },
       "9-Ball": {
         "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 2,
-        "framesLost": 5
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 3
       },
       "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "64409926",
+    "name": "Sjoerd van Heiningen",
+    "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
+    "mvp": "75.0%",
+    "participationRate": 60,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 4,
+        "framesLost": 1
+      },
+      "9-Ball": {
         "matchesPlayed": 1,
         "matchesWon": 1,
         "framesWon": 5,
-        "framesLost": 4
+        "framesLost": 3
+      },
+      "10-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 9,
+        "framesLost": 8
       }
     }
   },
@@ -297,6 +351,33 @@
     }
   },
   {
+    "playerId": "51496804",
+    "name": "Bjorn Lucas",
+    "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
+    "mvp": "71.4%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 2,
+        "framesWon": 10,
+        "framesLost": 4
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 0
+      },
+      "10-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 2,
+        "framesWon": 12,
+        "framesLost": 9
+      }
+    }
+  },
+  {
     "playerId": "63515920",
     "name": "Martin Van Eeuwijk",
     "url": "https://cuescore.com/player/Martin+Van+Eeuwijk/63515920",
@@ -351,36 +432,9 @@
     }
   },
   {
-    "playerId": "51496804",
-    "name": "Bjorn Lucas",
-    "url": "https://cuescore.com/player/Bjorn+Lucas/51496804",
-    "mvp": "66.7%",
-    "participationRate": 100,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 2,
-        "framesWon": 10,
-        "framesLost": 4
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 0
-      },
-      "10-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 7,
-        "framesLost": 6
-      }
-    }
-  },
-  {
-    "playerId": "46399831",
-    "name": "Gurps",
-    "url": "https://cuescore.com/player/Gurps/46399831",
+    "playerId": "15499606",
+    "name": "Toby Griffioen",
+    "url": "https://cuescore.com/player/Toby+Griffioen/15499606",
     "mvp": "66.7%",
     "participationRate": 100,
     "stats": {
@@ -391,16 +445,16 @@
         "framesLost": 7
       },
       "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 8,
-        "framesLost": 8
+        "matchesPlayed": 3,
+        "matchesWon": 3,
+        "framesWon": 15,
+        "framesLost": 7
       },
       "10-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 2,
-        "framesWon": 10,
-        "framesLost": 4
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 4,
+        "framesLost": 5
       }
     }
   },
@@ -486,60 +540,6 @@
     }
   },
   {
-    "playerId": "7788998",
-    "name": "Elmar Lochtenberg",
-    "url": "https://cuescore.com/player/Elmar+Lochtenberg/7788998",
-    "mvp": "66.7%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 2,
-        "framesWon": 13,
-        "framesLost": 12
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "30138355",
-    "name": "Oscar Boot",
-    "url": "https://cuescore.com/player/Oscar+Boot/30138355",
-    "mvp": "66.7%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 6,
-        "framesLost": 5
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 4
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "22961686",
     "name": "Vasil Savov",
     "url": "https://cuescore.com/player/Vasil+Savov/22961686",
@@ -567,23 +567,50 @@
     }
   },
   {
-    "playerId": "52320367",
-    "name": "Jurij Menih",
-    "url": "https://cuescore.com/player/Jurij+Menih/52320367",
+    "playerId": "7788998",
+    "name": "Elmar Lochtenberg",
+    "url": "https://cuescore.com/player/Elmar+Lochtenberg/7788998",
     "mvp": "66.7%",
     "participationRate": 60,
     "stats": {
       "8-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 2,
-        "framesWon": 8,
-        "framesLost": 7
-      },
-      "9-Ball": {
         "matchesPlayed": null,
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 2,
+        "framesWon": 13,
+        "framesLost": 12
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "30138355",
+    "name": "Oscar Boot",
+    "url": "https://cuescore.com/player/Oscar+Boot/30138355",
+    "mvp": "66.7%",
+    "participationRate": 60,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 6,
+        "framesLost": 5
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 4
       },
       "10-Ball": {
         "matchesPlayed": null,
@@ -621,29 +648,29 @@
     }
   },
   {
-    "playerId": "15499606",
-    "name": "Toby Griffioen",
-    "url": "https://cuescore.com/player/Toby+Griffioen/15499606",
+    "playerId": "25604179",
+    "name": "Sanne Withagen",
+    "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
     "mvp": "60.0%",
     "participationRate": 100,
     "stats": {
       "8-Ball": {
         "matchesPlayed": 1,
         "matchesWon": 0,
-        "framesWon": 1,
+        "framesWon": 2,
         "framesLost": 4
       },
       "9-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 3,
-        "framesWon": 15,
-        "framesLost": 7
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
       },
       "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 4,
-        "framesLost": 5
+        "matchesPlayed": 4,
+        "matchesWon": 3,
+        "framesWon": 18,
+        "framesLost": 8
       }
     }
   },
@@ -671,6 +698,33 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "46399831",
+    "name": "Gurps",
+    "url": "https://cuescore.com/player/Gurps/46399831",
+    "mvp": "57.1%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 1,
+        "framesWon": 6,
+        "framesLost": 11
+      },
+      "9-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 8,
+        "framesLost": 8
+      },
+      "10-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 2,
+        "framesWon": 10,
+        "framesLost": 4
       }
     }
   },
@@ -756,33 +810,6 @@
     }
   },
   {
-    "playerId": "25604179",
-    "name": "Sanne Withagen",
-    "url": "https://cuescore.com/player/Sanne+Withagen/25604179",
-    "mvp": "50.0%",
-    "participationRate": 100,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 2,
-        "framesLost": 4
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 2,
-        "framesWon": 13,
-        "framesLost": 5
-      }
-    }
-  },
-  {
     "playerId": "15765149",
     "name": "Sam Vrind",
     "url": "https://cuescore.com/player/Sam+Vrind/15765149",
@@ -833,33 +860,6 @@
         "matchesWon": 0,
         "framesWon": 1,
         "framesLost": 5
-      }
-    }
-  },
-  {
-    "playerId": "64409698",
-    "name": "Yulia Lukianchuk",
-    "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-    "mvp": "50.0%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 1,
-        "framesWon": 7,
-        "framesLost": 10
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 3
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
       }
     }
   },
@@ -918,6 +918,33 @@
     }
   },
   {
+    "playerId": "64409698",
+    "name": "Yulia Lukianchuk",
+    "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
+    "mvp": "50.0%",
+    "participationRate": 60,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 1,
+        "framesWon": 7,
+        "framesLost": 10
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 3
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
     "playerId": "53251651",
     "name": "Matthew Garcia Garcia",
     "url": "https://cuescore.com/player/Matthew+Garcia+Garcia/53251651",
@@ -935,33 +962,6 @@
         "matchesWon": 1,
         "framesWon": 5,
         "framesLost": 2
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "75953749",
-    "name": "Ties Stief",
-    "url": "https://cuescore.com/player/Ties+Stief/75953749",
-    "mvp": "40.0%",
-    "participationRate": 100,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 1,
-        "framesLost": 4
-      },
-      "9-Ball": {
-        "matchesPlayed": 4,
-        "matchesWon": 2,
-        "framesWon": 16,
-        "framesLost": 18
       },
       "10-Ball": {
         "matchesPlayed": null,
@@ -995,33 +995,6 @@
         "matchesWon": 0,
         "framesWon": 8,
         "framesLost": 10
-      }
-    }
-  },
-  {
-    "playerId": "1163611",
-    "name": "Marieke de Boer",
-    "url": "https://cuescore.com/player/Marieke+de+Boer/1163611",
-    "mvp": "40.0%",
-    "participationRate": 100,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 4,
-        "matchesWon": 2,
-        "framesWon": 12,
-        "framesLost": 10
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 0,
-        "framesLost": 5
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
       }
     }
   },
@@ -1103,6 +1076,60 @@
         "matchesWon": 0,
         "framesWon": 4,
         "framesLost": 5
+      }
+    }
+  },
+  {
+    "playerId": "75953749",
+    "name": "Ties Stief",
+    "url": "https://cuescore.com/player/Ties+Stief/75953749",
+    "mvp": "33.3%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 1,
+        "framesLost": 4
+      },
+      "9-Ball": {
+        "matchesPlayed": 5,
+        "matchesWon": 2,
+        "framesWon": 19,
+        "framesLost": 23
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "1163611",
+    "name": "Marieke de Boer",
+    "url": "https://cuescore.com/player/Marieke+de+Boer/1163611",
+    "mvp": "33.3%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 5,
+        "matchesWon": 2,
+        "framesWon": 15,
+        "framesLost": 14
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 0,
+        "framesLost": 5
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
       }
     }
   },
@@ -1350,33 +1377,6 @@
     }
   },
   {
-    "playerId": "27151660",
-    "name": "Maks Smit",
-    "url": "https://cuescore.com/player/Maks+Smit/27151660",
-    "mvp": "25.0%",
-    "participationRate": 100,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 6,
-        "framesLost": 6
-      },
-      "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 0,
-        "framesWon": 5,
-        "framesLost": 10
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "16669231",
     "name": "Dave Haig",
     "url": "https://cuescore.com/player/Dave+Haig/16669231",
@@ -1408,7 +1408,7 @@
     "name": "Riska de Wit",
     "url": "https://cuescore.com/player/Riska+de+Wit/5028032",
     "mvp": "25.0%",
-    "participationRate": 100,
+    "participationRate": 80,
     "stats": {
       "8-Ball": {
         "matchesPlayed": null,
@@ -1458,6 +1458,60 @@
     }
   },
   {
+    "playerId": "34202416",
+    "name": "Hasjiem WH",
+    "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
+    "mvp": "25.0%",
+    "participationRate": 60,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 1,
+        "framesLost": 4
+      },
+      "9-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 1,
+        "framesWon": 10,
+        "framesLost": 13
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "1187416",
+    "name": "Peter Van Unnik",
+    "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+    "mvp": "25.0%",
+    "participationRate": 60,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 6,
+        "framesLost": 8
+      },
+      "10-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 0,
+        "framesWon": 6,
+        "framesLost": 10
+      }
+    }
+  },
+  {
     "playerId": "88620592",
     "name": "Kevin Neeft",
     "url": "https://cuescore.com/player/Kevin+Neeft/88620592",
@@ -1475,6 +1529,33 @@
         "matchesWon": 1,
         "framesWon": 13,
         "framesLost": 23
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "27151660",
+    "name": "Maks Smit",
+    "url": "https://cuescore.com/player/Maks+Smit/27151660",
+    "mvp": "20.0%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 1,
+        "framesWon": 7,
+        "framesLost": 10
+      },
+      "9-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 0,
+        "framesWon": 5,
+        "framesLost": 10
       },
       "10-Ball": {
         "matchesPlayed": null,
@@ -1539,6 +1620,87 @@
     }
   },
   {
+    "playerId": "29054050",
+    "name": "Dylan McLean",
+    "url": "https://cuescore.com/player/Dylan+McLean/29054050",
+    "mvp": "0.0%",
+    "participationRate": 80,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 0,
+        "framesWon": 2,
+        "framesLost": 8
+      },
+      "9-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 0,
+        "framesWon": 8,
+        "framesLost": 15
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "1163470",
+    "name": "Bob B.",
+    "url": "https://cuescore.com/player/Bob+B./1163470",
+    "mvp": "0.0%",
+    "participationRate": 80,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 2,
+        "framesLost": 4
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 3,
+        "framesLost": 5
+      },
+      "10-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 0,
+        "framesWon": 6,
+        "framesLost": 15
+      }
+    }
+  },
+  {
+    "playerId": "9034494",
+    "name": "Eve Hoongrajok",
+    "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
+    "mvp": "0.0%",
+    "participationRate": 80,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 0,
+        "framesWon": 5,
+        "framesLost": 12
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 3,
+        "framesLost": 5
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
     "playerId": "3566718",
     "name": "Monique Post",
     "url": "https://cuescore.com/player/Monique+Post/3566718",
@@ -1566,60 +1728,6 @@
     }
   },
   {
-    "playerId": "9034494",
-    "name": "Eve Hoongrajok",
-    "url": "https://cuescore.com/player/Eve+Hoongrajok/9034494",
-    "mvp": "0.0%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 0,
-        "framesWon": 5,
-        "framesLost": 12
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "29054050",
-    "name": "Dylan McLean",
-    "url": "https://cuescore.com/player/Dylan+McLean/29054050",
-    "mvp": "0.0%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 1,
-        "framesLost": 4
-      },
-      "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 0,
-        "framesWon": 5,
-        "framesLost": 10
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "1163677",
     "name": "Jeroen van der Zee",
     "url": "https://cuescore.com/player/Jeroen+van+der+Zee/1163677",
@@ -1637,60 +1745,6 @@
         "matchesWon": 0,
         "framesWon": 6,
         "framesLost": 10
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "1163470",
-    "name": "Bob B.",
-    "url": "https://cuescore.com/player/Bob+B./1163470",
-    "mvp": "0.0%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 2,
-        "framesLost": 4
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 0,
-        "framesWon": 3,
-        "framesLost": 10
-      }
-    }
-  },
-  {
-    "playerId": "85446898",
-    "name": "Jos Honkoop",
-    "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
-    "mvp": "100.0%",
-    "participationRate": 50,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 4,
-        "framesLost": 2
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 1
       },
       "10-Ball": {
         "matchesPlayed": null,
@@ -1728,6 +1782,33 @@
     }
   },
   {
+    "playerId": "85446898",
+    "name": "Jos Honkoop",
+    "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+    "mvp": "100.0%",
+    "participationRate": 40,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 4,
+        "framesLost": 2
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 1
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
     "playerId": "1163818",
     "name": "Jotte Kop",
     "url": "https://cuescore.com/player/Jotte+Kop/1163818",
@@ -1751,33 +1832,6 @@
         "matchesWon": 1,
         "framesWon": 5,
         "framesLost": 3
-      }
-    }
-  },
-  {
-    "playerId": "52337302",
-    "name": "Nicky Lee Roelofs",
-    "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
-    "mvp": "100.0%",
-    "participationRate": 25,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 4
       }
     }
   },
@@ -1832,6 +1886,33 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "52337302",
+    "name": "Nicky Lee Roelofs",
+    "url": "https://cuescore.com/player/Nicky+Lee+Roelofs/52337302",
+    "mvp": "100.0%",
+    "participationRate": 20,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 4
       }
     }
   },
@@ -1944,60 +2025,6 @@
     }
   },
   {
-    "playerId": "8034949",
-    "name": "Michel van der Bilt",
-    "url": "https://cuescore.com/player/Michel+van+der+Bilt/8034949",
-    "mvp": "50.0%",
-    "participationRate": 50,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 1,
-        "framesLost": 5
-      },
-      "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 3
-      }
-    }
-  },
-  {
-    "playerId": "64409926",
-    "name": "Sjoerd van Heiningen",
-    "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
-    "mvp": "50.0%",
-    "participationRate": 50,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 9,
-        "framesLost": 8
-      }
-    }
-  },
-  {
     "playerId": "1176706",
     "name": "Laurens den Dulk",
     "url": "https://cuescore.com/player/Laurens+den+Dulk/1176706",
@@ -2079,11 +2106,38 @@
     }
   },
   {
-    "playerId": "1187416",
-    "name": "Peter Van Unnik",
-    "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-    "mvp": "33.3%",
-    "participationRate": 50,
+    "playerId": "8034949",
+    "name": "Michel van der Bilt",
+    "url": "https://cuescore.com/player/Michel+van+der+Bilt/8034949",
+    "mvp": "50.0%",
+    "participationRate": 40,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 1,
+        "framesLost": 5
+      },
+      "10-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 3
+      }
+    }
+  },
+  {
+    "playerId": "46976365",
+    "name": "Dave Lanfermeijer",
+    "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
+    "mvp": "50.0%",
+    "participationRate": 40,
     "stats": {
       "8-Ball": {
         "matchesPlayed": null,
@@ -2094,14 +2148,14 @@
       "9-Ball": {
         "matchesPlayed": 2,
         "matchesWon": 1,
-        "framesWon": 6,
+        "framesWon": 8,
         "framesLost": 8
       },
       "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 3,
-        "framesLost": 5
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
       }
     }
   },
@@ -2129,33 +2183,6 @@
         "matchesWon": 1,
         "framesWon": 5,
         "framesLost": 4
-      }
-    }
-  },
-  {
-    "playerId": "34202416",
-    "name": "Hasjiem WH",
-    "url": "https://cuescore.com/player/Hasjiem+WH/34202416",
-    "mvp": "0.0%",
-    "participationRate": 50,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 1,
-        "framesLost": 4
-      },
-      "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 0,
-        "framesWon": 5,
-        "framesLost": 10
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
       }
     }
   },
@@ -2349,60 +2376,6 @@
     }
   },
   {
-    "playerId": "46976365",
-    "name": "Dave Lanfermeijer",
-    "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
-    "mvp": "0.0%",
-    "participationRate": 25,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 3,
-        "framesLost": 5
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "34168213",
-    "name": "Sela Klootwijk",
-    "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
-    "mvp": "0.0%",
-    "participationRate": 25,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 1,
-        "framesLost": 4
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "1161109",
     "name": "Lunik Rashrash",
     "url": "https://cuescore.com/player/Lunik+Rashrash/1161109",
@@ -2433,6 +2406,33 @@
     "playerId": "61800895",
     "name": "Suzanne van de Velde",
     "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+    "mvp": "0.0%",
+    "participationRate": 20,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 1,
+        "framesLost": 4
+      },
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
+    "playerId": "34168213",
+    "name": "Sela Klootwijk",
+    "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
     "mvp": "0.0%",
     "participationRate": 20,
     "stats": {
