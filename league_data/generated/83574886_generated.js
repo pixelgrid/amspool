@@ -5143,7 +5143,7 @@ export default [
     "playerB": "GW Billiards Geldrop",
     "playerAUrl": "https://cuescore.com/team/Strijders/1172428",
     "playerBUrl": "https://cuescore.com/team/GW+Billiards+Geldrop/63855895",
-    "startTime": "2026-11-22T12:00:00Z",
+    "startTime": "2026-11-07T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
