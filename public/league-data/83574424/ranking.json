@@ -1309,6 +1309,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-10-20T19:03:59Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-28T19:33:18Z"
           }
         ]
       },
@@ -1358,6 +1363,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-10-08T18:02:03Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-10-28T18:52:40Z"
           }
         ]
       },
@@ -3574,11 +3584,6 @@
         },
         "lastFive": [
           {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-09-16T19:31:18Z"
-          },
-          {
             "result": "L",
             "discipline": 14,
             "date": "2026-09-23T00:27:00Z"
@@ -3597,6 +3602,11 @@
             "result": "L",
             "discipline": 14,
             "date": "2026-10-20T18:58:16Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-10-28T18:52:40Z"
           }
         ]
       },
@@ -3685,6 +3695,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-13T17:46:58Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-28T19:33:18Z"
           }
         ]
       },
