@@ -338,14 +338,14 @@
   {
     "discipline": 4,
     "raceTo": "5",
-    "status": "waiting",
+    "status": "finished",
     "playerA": "Casper Verstegen / Michiel Hiep",
     "playerB": "Enes Coskun / Jan Rempe",
-    "scoreA": "0",
-    "scoreB": "0",
+    "scoreA": "2",
+    "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88252003",
     "parentId": "88251172"
   },
