@@ -1452,6 +1452,39 @@
     }
   },
   {
+    "playerId": "1164213",
+    "name": "Jeroen van Dokkum",
+    "url": "https://cuescore.com/player/Jeroen+van+Dokkum/1164213",
+    "mvp": "0.0%",
+    "participationRate": 60,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 0,
+        "framesWon": 3,
+        "framesLost": 10
+      },
+      "Straightpool": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "pointsWon": null,
+        "pointsLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 0,
+        "framesLost": 5
+      }
+    }
+  },
+  {
     "playerId": "1163687",
     "name": "Jeffrey Bosch",
     "url": "https://cuescore.com/player/Jeffrey+Bosch/1163687",
@@ -2046,39 +2079,6 @@
     }
   },
   {
-    "playerId": "1164213",
-    "name": "Jeroen van Dokkum",
-    "url": "https://cuescore.com/player/Jeroen+van+Dokkum/1164213",
-    "mvp": "0.0%",
-    "participationRate": 40,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 0,
-        "framesWon": 3,
-        "framesLost": 10
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
     "playerId": "58879426",
     "name": "Enes Coskun",
     "url": "https://cuescore.com/player/Enes+Coskun/58879426",
@@ -2207,39 +2207,6 @@
         "matchesWon": null,
         "framesWon": null,
         "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "42234562",
-    "name": "Youssef Jouidi",
-    "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-    "mvp": "0.0%",
-    "participationRate": 20,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "Straightpool": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "pointsWon": null,
-        "pointsLost": null
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      },
-      "10-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 0,
-        "framesLost": 5
       }
     }
   }

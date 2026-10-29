@@ -510,7 +510,7 @@
           {
             "result": "W",
             "discipline": 10,
-            "date": "2026-10-27T20:43:55Z"
+            "date": "2026-10-27T20:43:00Z"
           },
           {
             "result": "W",
@@ -3416,10 +3416,10 @@
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 5
           }
         },
         "lastFive": [
@@ -3432,6 +3432,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-10-06T19:38:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-27T20:43:00Z"
           }
         ]
       },
@@ -3439,40 +3444,7 @@
         "playerId": 42234562,
         "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
         "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-10-27T20:43:55Z"
-          }
-        ]
+        "lastFive": []
       },
       {
         "playerId": 9596878,

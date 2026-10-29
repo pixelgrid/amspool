@@ -999,44 +999,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -4208,44 +4181,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -5350,44 +5296,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -9362,44 +9281,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -9637,44 +9529,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -13983,44 +13848,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -14867,44 +14705,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -18339,44 +18150,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -19984,44 +19768,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -22749,44 +22506,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -25101,44 +24831,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -27235,44 +26938,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -30051,44 +29727,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -31559,44 +31208,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -35168,44 +34790,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -35873,44 +35468,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -40133,44 +39701,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -40737,44 +40278,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -44570,44 +44084,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -45849,44 +45336,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -48921,44 +48381,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
@@ -50907,44 +50340,17 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
-      },
-      {
-        "playerId": 42234562,
-        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
-        "name": "Youssef Jouidi",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
             "framesWon": 0,
             "framesLost": 5
           }
         }
+      },
+      {
+        "playerId": 42234562,
+        "url": "https://cuescore.com/player/Youssef+Jouidi/42234562",
+        "name": "Youssef Jouidi"
       },
       {
         "playerId": 9596878,
