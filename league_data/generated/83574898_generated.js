@@ -18790,7 +18790,7 @@ export default [
     "playerB": "Sharp Shooters",
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Sharp+Shooters/9202001",
-    "startTime": "2027-02-20T12:00:00Z",
+    "startTime": "2027-02-21T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",

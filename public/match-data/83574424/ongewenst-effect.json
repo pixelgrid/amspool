@@ -338,14 +338,14 @@
   {
     "discipline": 4,
     "raceTo": "5",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Matthew van Gestel / Moudar Ali",
     "playerB": "Barry Lambers / Judge Akins",
     "scoreA": "4",
     "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88251985",
     "parentId": "88251169"
   },
@@ -394,14 +394,14 @@
   {
     "discipline": 3,
     "raceTo": "6",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Matthew van Gestel",
     "playerB": "Joris Collet",
     "scoreA": "4",
     "scoreB": "6",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88251997",
     "parentId": "88251169"
   },
