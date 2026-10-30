@@ -14845,7 +14845,7 @@ export default [
     "playerB": "Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
     "playerBUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
-    "startTime": "2027-01-30T12:00:00Z",
+    "startTime": "2027-02-07T12:00:00Z",
     "venueData": {
       "venueName": "Padoc",
       "venueID": "1172420",
