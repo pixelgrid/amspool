@@ -1557,8 +1557,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -4367,8 +4367,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -6596,8 +6596,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -10108,8 +10108,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -11770,8 +11770,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -15781,8 +15781,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -16809,8 +16809,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -21605,8 +21605,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -21780,8 +21780,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -26824,8 +26824,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -27762,8 +27762,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -31946,8 +31946,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -33430,8 +33430,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -37047,8 +37047,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
@@ -39145,8 +39145,8 @@ export default [
       },
       {
         "playerId": 30158077,
-        "url": "https://cuescore.com/player/Chris+Ruddock/30158077",
-        "name": "Chris Ruddock",
+        "url": "https://cuescore.com/player/Chris+Rudd/30158077",
+        "name": "Chris Rudd",
         "mvp": "83.3%",
         "stats": {
           "8-Ball": {
