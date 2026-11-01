@@ -270,33 +270,6 @@
     }
   },
   {
-    "playerId": "37095604",
-    "name": "Milo Alexander",
-    "url": "https://cuescore.com/player/Milo+Alexander/37095604",
-    "mvp": "75.0%",
-    "participationRate": 100,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 4,
-        "framesLost": 1
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 5,
-        "framesLost": 3
-      },
-      "10-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 7,
-        "framesLost": 7
-      }
-    }
-  },
-  {
     "playerId": "47238124",
     "name": "matt jones",
     "url": "https://cuescore.com/player/matt+jones/47238124",
@@ -567,6 +540,33 @@
     }
   },
   {
+    "playerId": "37095604",
+    "name": "Milo Alexander",
+    "url": "https://cuescore.com/player/Milo+Alexander/37095604",
+    "mvp": "66.7%",
+    "participationRate": 75,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 1,
+        "framesWon": 5,
+        "framesLost": 3
+      },
+      "10-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 7,
+        "framesLost": 7
+      }
+    }
+  },
+  {
     "playerId": "7788998",
     "name": "Elmar Lochtenberg",
     "url": "https://cuescore.com/player/Elmar+Lochtenberg/7788998",
@@ -806,6 +806,33 @@
         "matchesWon": 0,
         "framesWon": 4,
         "framesLost": 5
+      }
+    }
+  },
+  {
+    "playerId": "50945791",
+    "name": "Lewis Fontes",
+    "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
+    "mvp": "50.0%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 4,
+        "matchesWon": 2,
+        "framesWon": 10,
+        "framesLost": 12
+      },
+      "9-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
       }
     }
   },
@@ -1205,33 +1232,6 @@
         "matchesWon": 0,
         "framesWon": 0,
         "framesLost": 5
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
-      }
-    }
-  },
-  {
-    "playerId": "50945791",
-    "name": "Lewis Fontes",
-    "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-    "mvp": "33.3%",
-    "participationRate": 75,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 3,
-        "matchesWon": 1,
-        "framesWon": 6,
-        "framesLost": 11
-      },
-      "9-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
       },
       "10-Ball": {
         "matchesPlayed": null,
