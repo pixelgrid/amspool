@@ -2131,13 +2131,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -2183,13 +2183,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -3501,13 +3501,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -3553,13 +3553,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -7201,13 +7201,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -7253,13 +7253,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -9283,13 +9283,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -9335,13 +9335,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -12240,13 +12240,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -12292,13 +12292,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -15024,13 +15024,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -15076,13 +15076,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -17414,13 +17414,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -17466,13 +17466,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -20697,13 +20697,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20749,13 +20749,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -22453,13 +22453,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -22505,13 +22505,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -26521,13 +26521,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -26573,13 +26573,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -27476,13 +27476,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27528,13 +27528,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -32293,13 +32293,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32345,13 +32345,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -32468,13 +32468,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32520,13 +32520,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -37590,13 +37590,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -37642,13 +37642,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -38346,13 +38346,13 @@ export default [
         "playerId": 50945791,
         "name": "Lewis Fontes",
         "url": "https://cuescore.com/player/Lewis+Fontes/50945791",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 11
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 12
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -38398,13 +38398,13 @@ export default [
         "playerId": 37095604,
         "url": "https://cuescore.com/player/Milo+Alexander/37095604",
         "name": "Milo Alexander",
-        "mvp": "75.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
           },
           "9-Ball": {
             "matchesPlayed": 1,
