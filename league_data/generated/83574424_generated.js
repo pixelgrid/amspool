@@ -8664,7 +8664,7 @@ export default [
     "playerB": "Mokum Mavericks",
     "playerAUrl": "https://cuescore.com/team/Restless/1176532",
     "playerBUrl": "https://cuescore.com/team/Mokum+Mavericks/1266638",
-    "startTime": "2026-10-22T18:00:00Z",
+    "startTime": "2026-11-05T19:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
