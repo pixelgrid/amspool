@@ -513,33 +513,6 @@
     }
   },
   {
-    "playerId": "1163435",
-    "name": "Rory Jones",
-    "url": "https://cuescore.com/player/Rory+Jones/1163435",
-    "mvp": "66.7%",
-    "participationRate": 80,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 1,
-        "framesWon": 4,
-        "framesLost": 0
-      },
-      "9-Ball": {
-        "matchesPlayed": 1,
-        "matchesWon": 0,
-        "framesWon": 2,
-        "framesLost": 5
-      },
-      "10-Ball": {
-        "matchesPlayed": 4,
-        "matchesWon": 3,
-        "framesWon": 16,
-        "framesLost": 13
-      }
-    }
-  },
-  {
     "playerId": "7788998",
     "name": "Elmar Lochtenberg",
     "url": "https://cuescore.com/player/Elmar+Lochtenberg/7788998",
@@ -729,6 +702,33 @@
     }
   },
   {
+    "playerId": "20525473",
+    "name": "Sam Verheul",
+    "url": "https://cuescore.com/player/Sam+Verheul/20525473",
+    "mvp": "60.0%",
+    "participationRate": 80,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 3,
+        "matchesWon": 2,
+        "framesWon": 10,
+        "framesLost": 8
+      },
+      "9-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 7,
+        "framesLost": 6
+      },
+      "10-Ball": {
+        "matchesPlayed": null,
+        "matchesWon": null,
+        "framesWon": null,
+        "framesLost": null
+      }
+    }
+  },
+  {
     "playerId": "75388042",
     "name": "Pieter Helsloot",
     "url": "https://cuescore.com/player/Pieter+Helsloot/75388042",
@@ -810,6 +810,33 @@
     }
   },
   {
+    "playerId": "1163435",
+    "name": "Rory Jones",
+    "url": "https://cuescore.com/player/Rory+Jones/1163435",
+    "mvp": "57.1%",
+    "participationRate": 100,
+    "stats": {
+      "8-Ball": {
+        "matchesPlayed": 2,
+        "matchesWon": 1,
+        "framesWon": 6,
+        "framesLost": 4
+      },
+      "9-Ball": {
+        "matchesPlayed": 1,
+        "matchesWon": 0,
+        "framesWon": 2,
+        "framesLost": 5
+      },
+      "10-Ball": {
+        "matchesPlayed": 4,
+        "matchesWon": 3,
+        "framesWon": 16,
+        "framesLost": 13
+      }
+    }
+  },
+  {
     "playerId": "74922817",
     "name": "Sirvan Panahi",
     "url": "https://cuescore.com/player/Sirvan+Panahi/74922817",
@@ -860,33 +887,6 @@
         "matchesWon": 2,
         "framesWon": 13,
         "framesLost": 16
-      }
-    }
-  },
-  {
-    "playerId": "20525473",
-    "name": "Sam Verheul",
-    "url": "https://cuescore.com/player/Sam+Verheul/20525473",
-    "mvp": "50.0%",
-    "participationRate": 80,
-    "stats": {
-      "8-Ball": {
-        "matchesPlayed": 4,
-        "matchesWon": 2,
-        "framesWon": 12,
-        "framesLost": 12
-      },
-      "9-Ball": {
-        "matchesPlayed": 2,
-        "matchesWon": 1,
-        "framesWon": 7,
-        "framesLost": 7
-      },
-      "10-Ball": {
-        "matchesPlayed": null,
-        "matchesWon": null,
-        "framesWon": null,
-        "framesLost": null
       }
     }
   },
@@ -1522,7 +1522,7 @@
         "matchesPlayed": 3,
         "matchesWon": 1,
         "framesWon": 7,
-        "framesLost": 10
+        "framesLost": 8
       },
       "9-Ball": {
         "matchesPlayed": 2,
@@ -1635,7 +1635,7 @@
       "9-Ball": {
         "matchesPlayed": 6,
         "matchesWon": 1,
-        "framesWon": 15,
+        "framesWon": 14,
         "framesLost": 28
       },
       "10-Ball": {
@@ -1791,7 +1791,7 @@
       "8-Ball": {
         "matchesPlayed": 1,
         "matchesWon": 0,
-        "framesWon": 2,
+        "framesWon": 0,
         "framesLost": 4
       },
       "9-Ball": {
