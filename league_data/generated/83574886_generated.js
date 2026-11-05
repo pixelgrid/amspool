@@ -2037,7 +2037,7 @@ export default [
     "playerB": "GW Billiards Geldrop",
     "playerAUrl": "https://cuescore.com/team/Shinobi/1172425",
     "playerBUrl": "https://cuescore.com/team/GW+Billiards+Geldrop/63855895",
-    "startTime": "2026-10-04T11:00:00Z",
+    "startTime": "2026-12-19T12:00:00Z",
     "venueData": {
       "venueName": "Poolcentrum Walburg",
       "venueID": "30113122",

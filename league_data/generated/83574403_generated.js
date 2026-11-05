@@ -364,7 +364,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -532,7 +532,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -732,7 +732,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -1793,13 +1793,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -1897,19 +1897,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -3865,13 +3865,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -3969,19 +3969,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4862,7 +4862,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -5045,7 +5045,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -5280,7 +5280,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -5460,7 +5460,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -5906,7 +5906,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -6356,7 +6356,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -6827,13 +6827,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -6931,19 +6931,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9642,13 +9642,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -9746,19 +9746,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9885,7 +9885,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -10499,7 +10499,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -10718,7 +10718,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -10924,7 +10924,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -11494,7 +11494,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -11902,13 +11902,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -12006,19 +12006,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12128,7 +12128,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -14929,7 +14929,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -15284,13 +15284,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -15388,19 +15388,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15522,7 +15522,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -15916,7 +15916,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -16927,7 +16927,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -17045,13 +17045,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -17149,19 +17149,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -17266,7 +17266,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -17822,7 +17822,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -20077,7 +20077,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -20566,7 +20566,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -20960,7 +20960,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -21061,13 +21061,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -21165,19 +21165,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22037,13 +22037,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -22141,19 +22141,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22699,7 +22699,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -22960,7 +22960,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -23537,7 +23537,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -25178,7 +25178,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -25714,7 +25714,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -26082,7 +26082,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -26854,13 +26854,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -26958,19 +26958,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -27060,13 +27060,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -27164,19 +27164,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28367,7 +28367,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -28675,7 +28675,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -29283,7 +29283,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -30212,7 +30212,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -30815,7 +30815,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -31183,7 +31183,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -32104,13 +32104,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -32208,19 +32208,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -32964,13 +32964,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -33068,19 +33068,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -34082,7 +34082,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -34421,7 +34421,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -35060,7 +35060,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -35419,7 +35419,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
@@ -35849,7 +35849,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -36253,7 +36253,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -37252,13 +37252,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -37356,19 +37356,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -38679,13 +38679,13 @@ export default [
         "playerId": 1163435,
         "name": "Rory Jones",
         "url": "https://cuescore.com/player/Rory+Jones/1163435",
-        "mvp": "66.7%",
+        "mvp": "57.1%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 0
+            "framesWon": 6,
+            "framesLost": 4
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -38783,19 +38783,19 @@ export default [
         "playerId": 20525473,
         "url": "https://cuescore.com/player/Sam+Verheul/20525473",
         "name": "Sam Verheul",
-        "mvp": "50.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 4,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 12
+            "framesWon": 10,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 7
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -39864,7 +39864,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 0,
-            "framesWon": 2,
+            "framesWon": 0,
             "framesLost": 4
           },
           "9-Ball": {
@@ -40198,7 +40198,7 @@ export default [
             "matchesPlayed": 3,
             "matchesWon": 1,
             "framesWon": 7,
-            "framesLost": 10
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -40383,7 +40383,7 @@ export default [
           "9-Ball": {
             "matchesPlayed": 6,
             "matchesWon": 1,
-            "framesWon": 15,
+            "framesWon": 14,
             "framesLost": 28
           },
           "10-Ball": {
