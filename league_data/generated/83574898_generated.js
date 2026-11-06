@@ -1177,8 +1177,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -2913,8 +2913,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -4272,8 +4272,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -6757,8 +6757,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -7569,8 +7569,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -10527,8 +10527,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -10743,8 +10743,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -13880,8 +13880,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -14808,8 +14808,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -17221,8 +17221,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -18549,8 +18549,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -20316,8 +20316,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -22494,8 +22494,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -23512,8 +23512,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -26237,8 +26237,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -26782,8 +26782,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -29887,8 +29887,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -30486,8 +30486,8 @@ export default [
       },
       {
         "playerId": 1247702,
-        "url": "https://cuescore.com/player/Rick+./1247702",
-        "name": "Rick .",
+        "url": "https://cuescore.com/player/Rick+T/1247702",
+        "name": "Rick T",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
