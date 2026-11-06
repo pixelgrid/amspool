@@ -34,10 +34,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -46,10 +46,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -60,10 +60,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -72,10 +72,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -156,10 +156,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1297,7 +1297,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -1306,10 +1306,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -1334,7 +1334,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -1349,16 +1349,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -1403,13 +1403,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3789,7 +3789,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -3798,10 +3798,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -3826,7 +3826,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -3841,16 +3841,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -3895,13 +3895,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4402,10 +4402,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -4414,10 +4414,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -4428,10 +4428,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4440,10 +4440,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4524,10 +4524,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5500,10 +5500,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5512,10 +5512,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -5526,10 +5526,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5538,10 +5538,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5622,10 +5622,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5675,7 +5675,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -5684,10 +5684,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -5712,7 +5712,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -5727,16 +5727,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -5781,13 +5781,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8802,10 +8802,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -8814,10 +8814,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -8828,10 +8828,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8840,10 +8840,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8924,10 +8924,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -8960,7 +8960,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -8969,10 +8969,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -8997,7 +8997,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -9012,16 +9012,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -9066,13 +9066,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10043,7 +10043,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -10052,10 +10052,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -10080,7 +10080,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -10095,16 +10095,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -10149,13 +10149,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10612,10 +10612,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -10624,10 +10624,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -10638,10 +10638,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10650,10 +10650,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10734,10 +10734,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13212,10 +13212,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -13224,10 +13224,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -13238,10 +13238,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13250,10 +13250,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13334,10 +13334,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14227,7 +14227,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -14236,10 +14236,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -14264,7 +14264,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -14279,16 +14279,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -14333,13 +14333,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14384,7 +14384,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -14393,10 +14393,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -14421,7 +14421,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -14436,16 +14436,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -14490,13 +14490,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15810,10 +15810,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -15822,10 +15822,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -15836,10 +15836,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15848,10 +15848,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15932,10 +15932,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17649,10 +17649,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -17661,10 +17661,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -17675,10 +17675,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17687,10 +17687,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -17771,10 +17771,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18848,7 +18848,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -18857,10 +18857,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -18885,7 +18885,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -18900,16 +18900,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -18954,13 +18954,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19749,7 +19749,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -19758,10 +19758,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -19786,7 +19786,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -19801,16 +19801,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -19855,13 +19855,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -20981,10 +20981,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -20993,10 +20993,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -21007,10 +21007,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21019,10 +21019,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -21103,10 +21103,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -21990,10 +21990,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -22002,10 +22002,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -22016,10 +22016,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22028,10 +22028,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22112,10 +22112,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -23226,7 +23226,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -23235,10 +23235,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -23263,7 +23263,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -23278,16 +23278,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -23332,13 +23332,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -24888,7 +24888,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -24897,10 +24897,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -24925,7 +24925,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -24940,16 +24940,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -24994,13 +24994,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26179,10 +26179,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -26191,10 +26191,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -26205,10 +26205,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26217,10 +26217,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -26301,10 +26301,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26567,10 +26567,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -26579,10 +26579,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -26593,10 +26593,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -26605,10 +26605,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -26689,10 +26689,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -27862,7 +27862,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -27871,10 +27871,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -27899,7 +27899,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -27914,16 +27914,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -27968,13 +27968,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -29924,7 +29924,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -29933,10 +29933,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -29961,7 +29961,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -29976,16 +29976,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -30030,13 +30030,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -30967,10 +30967,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -30979,10 +30979,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -30993,10 +30993,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31005,10 +31005,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -31089,10 +31089,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31603,10 +31603,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -31615,10 +31615,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -31629,10 +31629,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -31641,10 +31641,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -31725,10 +31725,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32203,7 +32203,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -32212,10 +32212,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -32240,7 +32240,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -32255,16 +32255,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -32309,13 +32309,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35122,7 +35122,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -35131,10 +35131,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -35159,7 +35159,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -35174,16 +35174,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -35228,13 +35228,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35276,10 +35276,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -35288,10 +35288,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -35302,10 +35302,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -35314,10 +35314,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -35398,10 +35398,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36608,7 +36608,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -36617,10 +36617,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -36645,7 +36645,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -36660,16 +36660,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -36714,13 +36714,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36779,10 +36779,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -36791,10 +36791,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -36805,10 +36805,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -36817,10 +36817,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -36901,10 +36901,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -39740,10 +39740,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -39752,10 +39752,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -39766,10 +39766,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -39778,10 +39778,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -39862,10 +39862,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -40330,7 +40330,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -40339,10 +40339,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -40367,7 +40367,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -40382,16 +40382,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -40436,13 +40436,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -40917,7 +40917,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -40926,10 +40926,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -40954,7 +40954,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -40969,16 +40969,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -41023,13 +41023,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -41945,10 +41945,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -41957,10 +41957,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -41971,10 +41971,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -41983,10 +41983,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -42067,10 +42067,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44118,10 +44118,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -44130,10 +44130,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -44144,10 +44144,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44156,10 +44156,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -44240,10 +44240,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -45349,7 +45349,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -45358,10 +45358,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -45386,7 +45386,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -45401,16 +45401,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -45455,13 +45455,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -45889,7 +45889,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -45898,10 +45898,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -45926,7 +45926,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -45941,16 +45941,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -45995,13 +45995,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -47084,10 +47084,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -47096,10 +47096,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -47110,10 +47110,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -47122,10 +47122,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -47206,10 +47206,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -48523,10 +48523,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -48535,10 +48535,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -48549,10 +48549,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -48561,10 +48561,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -48645,10 +48645,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -49759,7 +49759,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -49768,10 +49768,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -49796,7 +49796,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -49811,16 +49811,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -49865,13 +49865,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -51087,7 +51087,7 @@ export default [
         "playerId": 1159670,
         "name": "Arny de la Mar",
         "url": "https://cuescore.com/player/Arny+de+la+Mar/1159670",
-        "mvp": "50.0%",
+        "mvp": "42.9%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -51096,10 +51096,10 @@ export default [
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "pointsWon": 155,
-            "pointsLost": 160
+            "pointsWon": 170,
+            "pointsLost": 220
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -51124,7 +51124,7 @@ export default [
         "playerId": 30756268,
         "url": "https://cuescore.com/player/Dean+Mitchell/30756268",
         "name": "Dean Mitchell",
-        "mvp": "100.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 4,
@@ -51139,16 +51139,16 @@ export default [
             "pointsLost": 30
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 12
           }
         }
       },
@@ -51193,13 +51193,13 @@ export default [
         "playerId": 1163468,
         "url": "https://cuescore.com/player/Jeroen+Hoosemans/1163468",
         "name": "Jeroen Hoosemans",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
+            "framesLost": 6
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52319,10 +52319,10 @@ export default [
             "framesLost": 1
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 30
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 45
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -52331,10 +52331,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 15,
-            "framesLost": 8
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 20,
+            "framesLost": 9
           }
         }
       },
@@ -52345,10 +52345,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 9,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -52357,10 +52357,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 5
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -52441,10 +52441,10 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 5
+            "framesWon": 1,
+            "framesLost": 10
           },
           "Straightpool": {
             "matchesPlayed": null,
