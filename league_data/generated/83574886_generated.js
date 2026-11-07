@@ -344,13 +344,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -408,7 +408,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -423,10 +423,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -439,13 +439,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -454,10 +481,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -767,16 +794,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -801,7 +828,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -816,23 +843,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -2324,16 +2378,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -2358,7 +2412,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -2373,23 +2427,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -2618,13 +2699,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2682,7 +2763,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2697,10 +2778,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -2713,13 +2794,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -2728,10 +2836,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2802,13 +2910,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -2866,7 +2974,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -2881,10 +2989,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -2897,13 +3005,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -2912,10 +3047,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3161,16 +3296,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -3195,7 +3330,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -3210,23 +3345,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -5191,13 +5353,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -5255,7 +5417,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -5270,10 +5432,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -5286,13 +5448,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -5301,10 +5490,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5393,16 +5582,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -5427,7 +5616,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -5442,23 +5631,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -5587,16 +5803,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -5621,7 +5837,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -5636,23 +5852,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -6085,13 +6328,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6149,7 +6392,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -6164,10 +6407,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -6180,13 +6423,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -6195,10 +6465,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7617,13 +7887,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7681,7 +7951,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -7696,10 +7966,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -7712,13 +7982,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -7727,10 +8024,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7944,16 +8241,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -7978,7 +8275,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -7993,23 +8290,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -8801,16 +9125,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -8835,7 +9159,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -8850,23 +9174,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -9137,13 +9488,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -9201,7 +9552,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -9216,10 +9567,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -9232,13 +9583,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -9247,10 +9625,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10173,13 +10551,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10237,7 +10615,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10252,10 +10630,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -10268,13 +10646,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -10283,10 +10688,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10569,16 +10974,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -10603,7 +11008,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -10618,23 +11023,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -11745,16 +12177,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -11779,7 +12211,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -11794,23 +12226,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -12108,13 +12567,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12172,7 +12631,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12187,10 +12646,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -12203,13 +12662,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -12218,10 +12704,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12567,13 +13053,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12631,7 +13117,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12646,10 +13132,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -12662,13 +13148,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -12677,10 +13190,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12921,16 +13434,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -12955,7 +13468,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -12970,23 +13483,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -14851,16 +15391,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -14885,7 +15425,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -14900,23 +15440,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -14993,13 +15560,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15057,7 +15624,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -15072,10 +15639,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -15088,13 +15655,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -15103,10 +15697,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15352,16 +15946,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -15386,7 +15980,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -15401,23 +15995,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -15511,13 +16132,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15575,7 +16196,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -15590,10 +16211,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -15606,13 +16227,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -15621,10 +16269,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17350,13 +17998,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -17414,7 +18062,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -17429,10 +18077,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -17445,13 +18093,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -17460,10 +18135,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17768,16 +18443,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -17802,7 +18477,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -17817,23 +18492,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -18318,16 +19020,16 @@ export default [
         "mvp": "100.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 5
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 4
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -18352,7 +19054,7 @@ export default [
         "playerId": 1161675,
         "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
         "name": "Aziz Moussati",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 1,
@@ -18367,23 +19069,50 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 101,
+            "pointsLost": 78
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 12,
+            "framesLost": 13
           }
         }
       },
       {
         "playerId": 5671648,
         "url": "https://cuescore.com/player/Ugur+T%C3%BCrk%C3%BC/5671648",
-        "name": "Ugur Türkü"
+        "name": "Ugur Türkü",
+        "mvp": "100.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 4
+          },
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 48200953,
@@ -18585,13 +19314,13 @@ export default [
         "playerId": 1163808,
         "url": "https://cuescore.com/player/Muhsin+Yagli/1163808",
         "name": "Muhsin Yagli",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "framesWon": 27,
+            "framesLost": 26
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -18649,7 +19378,7 @@ export default [
         "playerId": 40988236,
         "url": "https://cuescore.com/player/Umut+Sarkas/40988236",
         "name": "Umut Sarkas",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -18664,10 +19393,10 @@ export default [
             "framesLost": 19
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 78,
+            "pointsLost": 101
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -18680,13 +19409,40 @@ export default [
       {
         "playerId": 1185870,
         "url": "https://cuescore.com/player/Willie+Brouwer/1185870",
-        "name": "Willie Brouwer"
+        "name": "Willie Brouwer",
+        "mvp": "0.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 8
+          }
+        }
       },
       {
         "playerId": 1105513,
         "url": "https://cuescore.com/player/Jan+Rempe/1105513",
         "name": "Jan Rempe",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": 4,
@@ -18695,10 +19451,10 @@ export default [
             "framesLost": 24
           },
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 7,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
