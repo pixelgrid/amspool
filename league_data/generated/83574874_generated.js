@@ -1497,8 +1497,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -1946,8 +1946,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -2680,8 +2680,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -2864,8 +2864,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -6358,8 +6358,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -6989,8 +6989,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -8779,8 +8779,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -9611,8 +9611,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -11276,8 +11276,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -12081,8 +12081,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -12744,8 +12744,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -13083,8 +13083,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -15587,8 +15587,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
@@ -16110,8 +16110,8 @@ export default [
       },
       {
         "playerId": 1160321,
-        "url": "https://cuescore.com/player/Joel+Kartowikromo/1160321",
-        "name": "Joel Kartowikromo",
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
         "mvp": "75.0%",
         "stats": {
           "8-Ball": {
