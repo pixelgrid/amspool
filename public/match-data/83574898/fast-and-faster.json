@@ -338,14 +338,14 @@
   {
     "discipline": 4,
     "raceTo": "6",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Olesya Bila / Ahmet Bozkurt",
     "playerB": "Danny Bast / Mattias B",
-    "scoreA": "1",
-    "scoreB": "1",
+    "scoreA": "2",
+    "scoreB": "6",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88802086",
     "parentId": "88801465"
   },
@@ -358,7 +358,7 @@
     "scoreA": "6",
     "scoreB": "5",
     "runoutsA": "0",
-    "runoutsB": "0",
+    "runoutsB": "1",
     "winner": 1,
     "matchId": "88802089",
     "parentId": "88801465"
