@@ -670,7 +670,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -679,10 +679,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -695,13 +695,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -710,10 +731,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -742,10 +763,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -1086,12 +1107,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -1101,10 +1122,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -1138,7 +1159,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -1147,10 +1168,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1216,19 +1237,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4650,12 +4671,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -4665,10 +4686,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -4702,7 +4723,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -4711,10 +4732,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4780,19 +4801,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4983,7 +5004,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -4992,10 +5013,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5008,13 +5029,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -5023,10 +5065,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -5055,10 +5097,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -5844,7 +5886,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -5853,10 +5895,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -5869,13 +5911,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -5884,10 +5947,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -5916,10 +5979,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -6161,12 +6224,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -6176,10 +6239,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -6213,7 +6276,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -6222,10 +6285,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -6291,19 +6354,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10292,12 +10355,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -10307,10 +10370,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -10344,7 +10407,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -10353,10 +10416,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10422,19 +10485,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10656,7 +10719,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -10665,10 +10728,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10681,13 +10744,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -10696,10 +10780,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -10728,10 +10812,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -10862,7 +10946,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -10871,10 +10955,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -10887,13 +10971,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -10902,10 +11007,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -10934,10 +11039,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -11304,12 +11409,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -11319,10 +11424,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -11356,7 +11461,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -11365,10 +11470,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -11434,19 +11539,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15854,7 +15959,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -15863,10 +15968,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15879,13 +15984,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -15894,10 +16020,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -15926,10 +16052,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -16069,12 +16195,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -16084,10 +16210,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -16121,7 +16247,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -16130,10 +16256,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16199,19 +16325,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16296,12 +16422,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -16311,10 +16437,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -16348,7 +16474,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -16357,10 +16483,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16426,19 +16552,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16865,7 +16991,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -16874,10 +17000,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16890,13 +17016,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -16905,10 +17052,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -16937,10 +17084,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -20898,7 +21045,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -20907,10 +21054,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -20923,13 +21070,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -20938,10 +21106,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -20970,10 +21138,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -21319,12 +21487,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -21334,10 +21502,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -21371,7 +21539,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -21380,10 +21548,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -21449,19 +21617,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22278,12 +22446,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -22293,10 +22461,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -22330,7 +22498,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -22339,10 +22507,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22408,19 +22576,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22637,7 +22805,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -22646,10 +22814,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -22662,13 +22830,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -22677,10 +22866,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -22709,10 +22898,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -26020,7 +26209,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -26029,10 +26218,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -26045,13 +26234,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -26060,10 +26270,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -26092,10 +26302,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -26363,12 +26573,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -26378,10 +26588,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -26415,7 +26625,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -26424,10 +26634,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -26493,19 +26703,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -27972,12 +28182,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -27987,10 +28197,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -28024,7 +28234,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -28033,10 +28243,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28102,19 +28312,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28305,7 +28515,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -28314,10 +28524,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28330,13 +28540,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -28345,10 +28576,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -28377,10 +28608,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -31121,7 +31352,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -31130,10 +31361,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -31146,13 +31377,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -31161,10 +31413,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -31193,10 +31445,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -31511,12 +31763,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -31526,10 +31778,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -31563,7 +31815,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -31572,10 +31824,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -31641,19 +31893,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -33687,12 +33939,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -33702,10 +33954,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -33739,7 +33991,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -33748,10 +34000,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -33817,19 +34069,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -34020,7 +34272,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -34029,10 +34281,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -34045,13 +34297,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -34060,10 +34333,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -34092,10 +34365,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -36191,7 +36464,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -36200,10 +36473,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -36216,13 +36489,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -36231,10 +36525,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -36263,10 +36557,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
@@ -36612,12 +36906,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -36627,10 +36921,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -36664,7 +36958,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -36673,10 +36967,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -36742,19 +37036,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -39433,12 +39727,12 @@ export default [
         "playerId": 64409926,
         "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
         "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
             "framesLost": 1
           },
           "9-Ball": {
@@ -39448,10 +39742,10 @@ export default [
             "framesLost": 3
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
           }
         }
       },
@@ -39485,7 +39779,7 @@ export default [
         "playerId": 64409698,
         "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
         "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
+        "mvp": "40.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -39494,10 +39788,10 @@ export default [
             "framesLost": 10
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
+            "framesWon": 9,
+            "framesLost": 8
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -39563,19 +39857,19 @@ export default [
         "playerId": 30138355,
         "url": "https://cuescore.com/player/Oscar+Boot/30138355",
         "name": "Oscar Boot",
-        "mvp": "66.7%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -39802,7 +40096,7 @@ export default [
         "playerId": 62590984,
         "url": "https://cuescore.com/player/Vanessa/62590984",
         "name": "Vanessa",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -39811,10 +40105,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
+            "framesWon": 8,
+            "framesLost": 9
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -39827,13 +40121,34 @@ export default [
       {
         "playerId": 88497499,
         "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt"
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 76149370,
         "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
         "name": "Lucie van Dam",
-        "mvp": "20.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -39842,10 +40157,10 @@ export default [
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -39874,10 +40189,10 @@ export default [
             "framesLost": 5
           },
           "10-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
+            "framesWon": 3,
+            "framesLost": 15
           }
         }
       },
