@@ -1,6 +1,468 @@
 [
   {
     "position": 1,
+    "teamName": "Nice Rack",
+    "teamId": 1176648,
+    "played": 6,
+    "wins": 4,
+    "losses": 0,
+    "ties": 2,
+    "points": 28,
+    "lastFive": [
+      {
+        "result": "W",
+        "opponent": "Veel Stress!!",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-23T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Just the tip.",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-10-06T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Rising Legends",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-10-20T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Plan Babes",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-10-27T19:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Mokumse mikmak",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-11-09T19:00:00Z"
+      }
+    ],
+    "games": [
+      {
+        "result": "D",
+        "opponent": "Scratch That!",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-09-15T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Veel Stress!!",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-23T18:00:00Z"
+      },
+      {
+        "result": "D",
+        "opponent": "Just the tip.",
+        "teamScore": 3,
+        "opponentScore": 3,
+        "date": "2026-10-06T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Rising Legends",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-10-20T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Plan Babes",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-10-27T19:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Mokumse mikmak",
+        "teamScore": 5,
+        "opponentScore": 1,
+        "date": "2026-11-09T19:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 46976365,
+        "name": "Dave Lanfermeijer",
+        "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 8
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-15T18:51:36Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-27T22:33:33Z"
+          }
+        ]
+      },
+      {
+        "playerId": 82382911,
+        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
+        "name": "Stefan van der Linden",
+        "mvp": "80.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 2
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:17Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-09-23T22:13:09Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-06T21:40:55Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-20T19:39:58Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-27T22:33:10Z"
+          }
+        ]
+      },
+      {
+        "playerId": 64409926,
+        "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
+        "name": "Sjoerd van Heiningen",
+        "mvp": "83.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 8,
+            "framesLost": 1
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 3
+          },
+          "10-Ball": {
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 10
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-10-20T19:40:14Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-27T22:31:51Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-27T22:32:32Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-11-09T20:10:31Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-09T21:21:52Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1187416,
+        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
+        "name": "Peter Van Unnik",
+        "mvp": "25.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 6,
+            "framesLost": 8
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 6,
+            "framesLost": 10
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-23T22:12:32Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-06T21:42:26Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-06T21:43:16Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-27T22:33:55Z"
+          }
+        ]
+      },
+      {
+        "playerId": 64409698,
+        "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
+        "name": "Yulia Lukianchuk",
+        "mvp": "40.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 10
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 9,
+            "framesLost": 8
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-23T22:12:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-06T21:40:28Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-20T18:03:45Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-20T20:33:42Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-09T20:10:34Z"
+          }
+        ]
+      },
+      {
+        "playerId": 34168213,
+        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
+        "name": "Sela Klootwijk",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-15T17:56:26Z"
+          }
+        ]
+      },
+      {
+        "playerId": 85446898,
+        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
+        "name": "Jos Honkoop",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 2
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-15T19:42:23Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-23T22:12:00Z"
+          }
+        ]
+      },
+      {
+        "playerId": 30138355,
+        "url": "https://cuescore.com/player/Oscar+Boot/30138355",
+        "name": "Oscar Boot",
+        "mvp": "80.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 5
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 7
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-15T19:07:21Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-06T21:41:58Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-20T18:39:13Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-09T19:03:15Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-09T21:16:55Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 2,
     "teamName": "Smokum’s Finest",
     "teamId": 84070885,
     "played": 6,
@@ -353,7 +815,7 @@
     ]
   },
   {
-    "position": 2,
+    "position": 3,
     "teamName": "Mokum's Running English",
     "teamId": 61336255,
     "played": 5,
@@ -694,7 +1156,7 @@
     ]
   },
   {
-    "position": 3,
+    "position": 4,
     "teamName": "Pat’s Purple Sinners",
     "teamId": 1176664,
     "played": 5,
@@ -1119,442 +1581,7 @@
     ]
   },
   {
-    "position": 4,
-    "teamName": "Nice Rack",
-    "teamId": 1176648,
-    "played": 5,
-    "wins": 3,
-    "losses": 0,
-    "ties": 2,
-    "points": 22,
-    "lastFive": [
-      {
-        "result": "D",
-        "opponent": "Scratch That!",
-        "teamScore": 3,
-        "opponentScore": 3,
-        "date": "2026-09-15T18:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "Veel Stress!!",
-        "teamScore": 4,
-        "opponentScore": 2,
-        "date": "2026-09-23T18:00:00Z"
-      },
-      {
-        "result": "D",
-        "opponent": "Just the tip.",
-        "teamScore": 3,
-        "opponentScore": 3,
-        "date": "2026-10-06T18:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "Rising Legends",
-        "teamScore": 5,
-        "opponentScore": 1,
-        "date": "2026-10-20T18:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "Plan Babes",
-        "teamScore": 4,
-        "opponentScore": 2,
-        "date": "2026-10-27T19:00:00Z"
-      }
-    ],
-    "games": [
-      {
-        "result": "D",
-        "opponent": "Scratch That!",
-        "teamScore": 3,
-        "opponentScore": 3,
-        "date": "2026-09-15T18:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "Veel Stress!!",
-        "teamScore": 4,
-        "opponentScore": 2,
-        "date": "2026-09-23T18:00:00Z"
-      },
-      {
-        "result": "D",
-        "opponent": "Just the tip.",
-        "teamScore": 3,
-        "opponentScore": 3,
-        "date": "2026-10-06T18:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "Rising Legends",
-        "teamScore": 5,
-        "opponentScore": 1,
-        "date": "2026-10-20T18:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "Plan Babes",
-        "teamScore": 4,
-        "opponentScore": 2,
-        "date": "2026-10-27T19:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 46976365,
-        "name": "Dave Lanfermeijer",
-        "url": "https://cuescore.com/player/Dave+Lanfermeijer/46976365",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 8
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-15T18:51:36Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-27T22:33:33Z"
-          }
-        ]
-      },
-      {
-        "playerId": 82382911,
-        "url": "https://cuescore.com/player/Stefan+van+der+Linden/82382911",
-        "name": "Stefan van der Linden",
-        "mvp": "80.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 8,
-            "framesLost": 2
-          },
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-23T22:12:17Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-09-23T22:13:09Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-06T21:40:55Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-20T19:39:58Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-27T22:33:10Z"
-          }
-        ]
-      },
-      {
-        "playerId": 64409926,
-        "url": "https://cuescore.com/player/Sjoerd+van+Heiningen/64409926",
-        "name": "Sjoerd van Heiningen",
-        "mvp": "75.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 1
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
-          },
-          "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-09-15T19:59:14Z"
-          },
-          {
-            "result": "W",
-            "discipline": 10,
-            "date": "2026-10-20T19:40:14Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-27T22:31:51Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-27T22:32:32Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1187416,
-        "url": "https://cuescore.com/player/Peter+Van+Unnik/1187416",
-        "name": "Peter Van Unnik",
-        "mvp": "25.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 8
-          },
-          "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 10
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-23T22:12:32Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-10-06T21:42:26Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-10-06T21:43:16Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-10-27T22:33:55Z"
-          }
-        ]
-      },
-      {
-        "playerId": 64409698,
-        "url": "https://cuescore.com/player/Yulia+Lukianchuk/64409698",
-        "name": "Yulia Lukianchuk",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 10
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 3
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-23T22:12:00Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-10-06T21:40:28Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-20T18:03:45Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-20T20:33:42Z"
-          }
-        ]
-      },
-      {
-        "playerId": 34168213,
-        "url": "https://cuescore.com/player/Sela+Klootwijk/34168213",
-        "name": "Sela Klootwijk",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 4
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-15T17:56:26Z"
-          }
-        ]
-      },
-      {
-        "playerId": 85446898,
-        "url": "https://cuescore.com/player/Jos+Honkoop/85446898",
-        "name": "Jos Honkoop",
-        "mvp": "100.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 2
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-15T19:42:23Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-23T22:12:00Z"
-          }
-        ]
-      },
-      {
-        "playerId": 30138355,
-        "url": "https://cuescore.com/player/Oscar+Boot/30138355",
-        "name": "Oscar Boot",
-        "mvp": "66.7%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 5
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-15T19:07:21Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-06T21:41:58Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-10-20T18:39:13Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "position": 4,
+    "position": 5,
     "teamName": "Beunhazen Boven 't IJ",
     "teamId": 17929510,
     "played": 5,
@@ -4094,6 +4121,458 @@
   },
   {
     "position": 12,
+    "teamName": "Mokumse mikmak",
+    "teamId": 63569641,
+    "played": 6,
+    "wins": 2,
+    "losses": 4,
+    "ties": 0,
+    "points": 14,
+    "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Just the tip.",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-21T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Rising Legends",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-10-05T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Plan Babes",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-10-21T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Pat’s Purple Sinners",
+        "teamScore": 0,
+        "opponentScore": 6,
+        "date": "2026-10-26T19:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Nice Rack",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-11-09T19:00:00Z"
+      }
+    ],
+    "games": [
+      {
+        "result": "W",
+        "opponent": "Veel Stress!!",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-09-14T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Just the tip.",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-09-21T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Rising Legends",
+        "teamScore": 2,
+        "opponentScore": 4,
+        "date": "2026-10-05T18:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Plan Babes",
+        "teamScore": 4,
+        "opponentScore": 2,
+        "date": "2026-10-21T18:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Pat’s Purple Sinners",
+        "teamScore": 0,
+        "opponentScore": 6,
+        "date": "2026-10-26T19:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Nice Rack",
+        "teamScore": 1,
+        "opponentScore": 5,
+        "date": "2026-11-09T19:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 61800895,
+        "name": "Suzanne van de Velde",
+        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-30T15:10:43Z"
+          }
+        ]
+      },
+      {
+        "playerId": 62590984,
+        "url": "https://cuescore.com/player/Vanessa/62590984",
+        "name": "Vanessa",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 8,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-14T20:08:36Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-09T21:16:55Z"
+          }
+        ]
+      },
+      {
+        "playerId": 88497499,
+        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
+        "name": "Fernanda van der Bilt",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 8
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-11-09T19:03:15Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-11-09T21:21:52Z"
+          }
+        ]
+      },
+      {
+        "playerId": 76149370,
+        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
+        "name": "Lucie van Dam",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 15,
+            "framesLost": 23
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-30T19:31:51Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-05T19:09:26Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-26T19:34:06Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-26T20:49:28Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-09T20:10:34Z"
+          }
+        ]
+      },
+      {
+        "playerId": 3566718,
+        "url": "https://cuescore.com/player/Monique+Post/3566718",
+        "name": "Monique Post",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 0,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 1,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 3,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 15
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-05T19:54:53Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-22T10:39:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-10-22T10:39:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-10-26T20:30:39Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-11-09T20:10:31Z"
+          }
+        ]
+      },
+      {
+        "playerId": 2431367,
+        "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
+        "name": "Yvette van Schooneveld-Hoekstra",
+        "mvp": "75.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 4,
+            "framesLost": 7
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 10,
+            "framesLost": 8
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-05T19:08:15Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-22T10:39:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-22T10:39:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-26T20:35:05Z"
+          }
+        ]
+      },
+      {
+        "playerId": 29055151,
+        "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
+        "name": "Damian van de Velde",
+        "mvp": "33.3%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 4
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 5
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 4
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-14T18:51:48Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-30T15:13:34Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-09-30T15:14:11Z"
+          }
+        ]
+      },
+      {
+        "playerId": 8118206,
+        "url": "https://cuescore.com/player/Bas+Clason/8118206",
+        "name": "Bas Clason",
+        "mvp": "57.1%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 5,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 14
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 1
+          },
+          "10-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-09-30T15:12:49Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-05T18:00:49Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-10-05T20:29:35Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-10-22T10:39:00Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-10-26T19:02:10Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 13,
     "teamName": "Rising Legends",
     "teamId": 84677638,
     "played": 5,
@@ -4338,409 +4817,6 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-10-29T00:22:20Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "position": 13,
-    "teamName": "Mokumse mikmak",
-    "teamId": 63569641,
-    "played": 5,
-    "wins": 2,
-    "losses": 3,
-    "ties": 0,
-    "points": 13,
-    "lastFive": [
-      {
-        "result": "W",
-        "opponent": "Veel Stress!!",
-        "teamScore": 4,
-        "opponentScore": 2,
-        "date": "2026-09-14T18:00:00Z"
-      },
-      {
-        "result": "L",
-        "opponent": "Just the tip.",
-        "teamScore": 1,
-        "opponentScore": 5,
-        "date": "2026-09-21T18:00:00Z"
-      },
-      {
-        "result": "L",
-        "opponent": "Rising Legends",
-        "teamScore": 2,
-        "opponentScore": 4,
-        "date": "2026-10-05T18:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "Plan Babes",
-        "teamScore": 4,
-        "opponentScore": 2,
-        "date": "2026-10-21T18:00:00Z"
-      },
-      {
-        "result": "L",
-        "opponent": "Pat’s Purple Sinners",
-        "teamScore": 0,
-        "opponentScore": 6,
-        "date": "2026-10-26T19:00:00Z"
-      }
-    ],
-    "games": [
-      {
-        "result": "W",
-        "opponent": "Veel Stress!!",
-        "teamScore": 4,
-        "opponentScore": 2,
-        "date": "2026-09-14T18:00:00Z"
-      },
-      {
-        "result": "L",
-        "opponent": "Just the tip.",
-        "teamScore": 1,
-        "opponentScore": 5,
-        "date": "2026-09-21T18:00:00Z"
-      },
-      {
-        "result": "L",
-        "opponent": "Rising Legends",
-        "teamScore": 2,
-        "opponentScore": 4,
-        "date": "2026-10-05T18:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "Plan Babes",
-        "teamScore": 4,
-        "opponentScore": 2,
-        "date": "2026-10-21T18:00:00Z"
-      },
-      {
-        "result": "L",
-        "opponent": "Pat’s Purple Sinners",
-        "teamScore": 0,
-        "opponentScore": 6,
-        "date": "2026-10-26T19:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 61800895,
-        "name": "Suzanne van de Velde",
-        "url": "https://cuescore.com/player/Suzanne+van+de+Velde/61800895",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 4
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-30T15:10:43Z"
-          }
-        ]
-      },
-      {
-        "playerId": 62590984,
-        "url": "https://cuescore.com/player/Vanessa/62590984",
-        "name": "Vanessa",
-        "mvp": "100.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-14T20:08:36Z"
-          }
-        ]
-      },
-      {
-        "playerId": 88497499,
-        "url": "https://cuescore.com/player/Fernanda+van+der+Bilt/88497499",
-        "name": "Fernanda van der Bilt",
-        "lastFive": []
-      },
-      {
-        "playerId": 76149370,
-        "url": "https://cuescore.com/player/Lucie+van+Dam/76149370",
-        "name": "Lucie van Dam",
-        "mvp": "20.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 19
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-30T15:11:50Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-30T19:31:51Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-10-05T19:09:26Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-10-26T19:34:06Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-10-26T20:49:28Z"
-          }
-        ]
-      },
-      {
-        "playerId": 3566718,
-        "url": "https://cuescore.com/player/Monique+Post/3566718",
-        "name": "Monique Post",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 0,
-            "framesLost": 4
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 1,
-            "framesLost": 10
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-10-05T19:54:53Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-10-22T10:39:00Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-10-22T10:39:00Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-10-26T20:30:39Z"
-          }
-        ]
-      },
-      {
-        "playerId": 2431367,
-        "url": "https://cuescore.com/player/Yvette+van+Schooneveld-Hoekstra/2431367",
-        "name": "Yvette van Schooneveld-Hoekstra",
-        "mvp": "75.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 4,
-            "framesLost": 7
-          },
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 8
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-05T19:08:15Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-22T10:39:00Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-22T10:39:00Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-10-26T20:35:05Z"
-          }
-        ]
-      },
-      {
-        "playerId": 29055151,
-        "url": "https://cuescore.com/player/Damian+van+de+Velde/29055151",
-        "name": "Damian van de Velde",
-        "mvp": "33.3%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 4
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 5
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 4
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-14T18:51:48Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-30T15:13:34Z"
-          },
-          {
-            "result": "W",
-            "discipline": 10,
-            "date": "2026-09-30T15:14:11Z"
-          }
-        ]
-      },
-      {
-        "playerId": 8118206,
-        "url": "https://cuescore.com/player/Bas+Clason/8118206",
-        "name": "Bas Clason",
-        "mvp": "57.1%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 5,
-            "matchesWon": 2,
-            "framesWon": 12,
-            "framesLost": 14
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 1
-          },
-          "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 5,
-            "framesLost": 2
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-30T15:12:49Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-10-05T18:00:49Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-10-05T20:29:35Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-10-22T10:39:00Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-10-26T19:02:10Z"
           }
         ]
       }
