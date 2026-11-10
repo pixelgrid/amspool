@@ -548,14 +548,14 @@
   {
     "discipline": 2,
     "raceTo": "5",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Joachim Sullivan",
     "playerB": "Melih Ay",
     "scoreA": "2",
-    "scoreB": "3",
+    "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88256821",
     "parentId": "88255591"
   },
