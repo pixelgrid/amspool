@@ -576,14 +576,14 @@
   {
     "discipline": 4,
     "raceTo": "5",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Marten Hoekstra",
     "playerB": "Anton Bardakhan",
     "scoreA": "3",
-    "scoreB": "4",
+    "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 2,
     "matchId": "88256809",
     "parentId": "88255588"
   },
