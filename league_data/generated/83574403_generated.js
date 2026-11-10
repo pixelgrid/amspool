@@ -15288,7 +15288,7 @@ export default [
     "playerB": "Natural Spawn Killers",
     "playerAUrl": "https://cuescore.com/team/Rising+Legends/84677638",
     "playerBUrl": "https://cuescore.com/team/Natural+Spawn+Killers/6229472",
-    "startTime": "2026-11-10T19:00:00Z",
+    "startTime": "2026-12-15T19:00:00Z",
     "venueData": {
       "venueName": "Oscar’s Bowling & Pool",
       "venueID": "76096633",
