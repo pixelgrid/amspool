@@ -1127,11 +1127,6 @@
         },
         "lastFive": [
           {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-16T20:22:28Z"
-          },
-          {
             "result": "L",
             "discipline": 10,
             "date": "2026-09-30T20:05:36Z"
@@ -1150,6 +1145,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-10-29T20:47:32Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-11-10T19:01:24Z"
           }
         ]
       }
@@ -5177,11 +5177,6 @@
           {
             "result": "L",
             "discipline": 10,
-            "date": "2026-09-22T21:37:06Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
             "date": "2026-10-06T20:20:29Z"
           },
           {
@@ -5198,6 +5193,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-11-03T20:36:42Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-11-10T19:01:24Z"
           }
         ]
       }
