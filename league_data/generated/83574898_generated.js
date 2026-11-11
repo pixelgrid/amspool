@@ -3301,7 +3301,7 @@ export default [
     "playerB": "Fast and Faster",
     "playerAUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
     "playerBUrl": "https://cuescore.com/team/Fast+and+Faster/30160531",
-    "startTime": "2026-11-15T11:00:00Z",
+    "startTime": "2026-11-15T11:30:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -9649,7 +9649,7 @@ export default [
     "playerB": "Brokum",
     "playerAUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
     "playerBUrl": "https://cuescore.com/team/Brokum/86164435",
-    "startTime": "2026-12-06T11:00:00Z",
+    "startTime": "2026-12-06T11:30:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -10218,7 +10218,7 @@ export default [
     "playerB": "Maan & de sterren",
     "playerAUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
     "playerBUrl": "https://cuescore.com/team/Maan+%2526+de+sterren/83759572",
-    "startTime": "2026-12-06T12:00:00Z",
+    "startTime": "2026-12-06T12:30:00Z",
     "venueData": {
       "venueName": "Poolcentrum Boven 't IJ",
       "venueID": "1172427",
@@ -12744,7 +12744,7 @@ export default [
     "playerB": "De bende van Noord",
     "playerAUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
     "playerBUrl": "https://cuescore.com/team/De+bende+van+Noord/6556590",
-    "startTime": "2027-01-24T11:00:00Z",
+    "startTime": "2027-01-24T11:30:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -19683,7 +19683,7 @@ export default [
     "playerB": "Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
     "playerBUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
-    "startTime": "2027-03-07T11:00:00Z",
+    "startTime": "2027-03-07T11:30:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -23549,7 +23549,7 @@ export default [
     "playerB": "The Magicians",
     "playerAUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
     "playerBUrl": "https://cuescore.com/team/The+Magicians/9155022",
-    "startTime": "2027-04-04T10:00:00Z",
+    "startTime": "2027-04-04T10:30:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -27415,7 +27415,7 @@ export default [
     "playerB": "Padoc 🥇",
     "playerAUrl": "https://cuescore.com/team/Mokum+Oost/84039106",
     "playerBUrl": "https://cuescore.com/team/Padoc+%F0%9F%A5%87/2890074",
-    "startTime": "2027-05-23T10:00:00Z",
+    "startTime": "2027-05-23T10:30:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
@@ -29232,7 +29232,7 @@ export default [
     "playerB": "Boven 't IJ",
     "playerAUrl": "https://cuescore.com/team/Brokum/86164435",
     "playerBUrl": "https://cuescore.com/team/Boven+%27t+IJ/83804128",
-    "startTime": "2027-05-30T11:00:00Z",
+    "startTime": "2027-05-23T11:00:00Z",
     "venueData": {
       "venueName": "Mokum Pool & Darts",
       "venueID": "60451687",
