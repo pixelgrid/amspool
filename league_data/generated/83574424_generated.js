@@ -671,7 +671,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -686,10 +686,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -703,13 +703,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -735,7 +735,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -744,10 +744,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -767,7 +767,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -788,10 +788,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -799,13 +799,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2289,12 +2289,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -2310,10 +2310,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -2362,16 +2362,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2416,7 +2416,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -2704,12 +2731,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -2725,10 +2752,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -2777,16 +2804,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2831,7 +2858,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -4005,7 +4059,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -4020,10 +4074,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -4037,13 +4091,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -4069,7 +4123,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -4078,10 +4132,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -4101,7 +4155,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -4122,10 +4176,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -4133,13 +4187,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -5928,7 +5982,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -5943,10 +5997,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -5960,13 +6014,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -5992,7 +6046,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -6001,10 +6055,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -6024,7 +6078,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -6045,10 +6099,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -6056,13 +6110,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6996,12 +7050,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -7017,10 +7071,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -7069,16 +7123,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7123,7 +7177,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -7929,12 +8010,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -7950,10 +8031,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -8002,16 +8083,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8056,7 +8137,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -8523,7 +8631,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -8538,10 +8646,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -8555,13 +8663,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -8587,7 +8695,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -8596,10 +8704,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -8619,7 +8727,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -8640,10 +8748,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -8651,13 +8759,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -11148,7 +11256,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -11163,10 +11271,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -11180,13 +11288,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -11212,7 +11320,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -11221,10 +11329,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -11244,7 +11352,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -11265,10 +11373,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -11276,13 +11384,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -11391,12 +11499,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -11412,10 +11520,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -11464,16 +11572,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -11518,7 +11626,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -12955,7 +13090,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -12970,10 +13105,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -12987,13 +13122,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -13019,7 +13154,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -13028,10 +13163,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -13051,7 +13186,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -13072,10 +13207,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -13083,13 +13218,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13181,12 +13316,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -13202,10 +13337,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -13254,16 +13389,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -13308,7 +13443,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -15850,12 +16012,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -15871,10 +16033,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -15923,16 +16085,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15977,7 +16139,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -16341,7 +16530,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -16356,10 +16545,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -16373,13 +16562,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -16405,7 +16594,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -16414,10 +16603,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -16437,7 +16626,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -16458,10 +16647,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -16469,13 +16658,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -17414,7 +17603,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -17429,10 +17618,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -17446,13 +17635,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -17478,7 +17667,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -17487,10 +17676,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -17510,7 +17699,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -17531,10 +17720,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -17542,13 +17731,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18443,12 +18632,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -18464,10 +18653,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -18516,16 +18705,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -18570,7 +18759,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -20186,12 +20402,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -20207,10 +20423,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -20259,16 +20475,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -20313,7 +20529,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -21630,7 +21873,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -21645,10 +21888,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -21662,13 +21905,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -21694,7 +21937,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -21703,10 +21946,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -21726,7 +21969,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -21747,10 +21990,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -21758,13 +22001,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -22040,7 +22283,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -22055,10 +22298,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -22072,13 +22315,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -22104,7 +22347,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -22113,10 +22356,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -22136,7 +22379,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -22157,10 +22400,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -22168,13 +22411,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -23700,12 +23943,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -23721,10 +23964,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -23773,16 +24016,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -23827,7 +24070,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -24704,12 +24974,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -24725,10 +24995,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -24777,16 +25047,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -24831,7 +25101,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -26300,7 +26597,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -26315,10 +26612,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -26332,13 +26629,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -26364,7 +26661,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -26373,10 +26670,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -26396,7 +26693,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -26417,10 +26714,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -26428,13 +26725,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -27071,7 +27368,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -27086,10 +27383,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -27103,13 +27400,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -27135,7 +27432,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -27144,10 +27441,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -27167,7 +27464,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -27188,10 +27485,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -27199,13 +27496,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -28726,12 +29023,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -28747,10 +29044,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -28799,16 +29096,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -28853,7 +29150,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -29136,12 +29460,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -29157,10 +29481,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -29209,16 +29533,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -29263,7 +29587,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -30894,7 +31245,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -30909,10 +31260,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -30926,13 +31277,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -30958,7 +31309,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -30967,10 +31318,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -30990,7 +31341,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -31011,10 +31362,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -31022,13 +31373,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -32419,7 +32770,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -32434,10 +32785,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -32451,13 +32802,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -32483,7 +32834,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -32492,10 +32843,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -32515,7 +32866,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -32536,10 +32887,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -32547,13 +32898,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -33762,12 +34113,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -33783,10 +34134,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -33835,16 +34186,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -33889,7 +34240,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -34329,12 +34707,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -34350,10 +34728,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -34402,16 +34780,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -34456,7 +34834,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -35321,7 +35726,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -35336,10 +35741,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -35353,13 +35758,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -35385,7 +35790,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -35394,10 +35799,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -35417,7 +35822,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -35438,10 +35843,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -35449,13 +35854,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -37585,7 +37990,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -37600,10 +38005,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -37617,13 +38022,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -37649,7 +38054,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -37658,10 +38063,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -37681,7 +38086,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -37702,10 +38107,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -37713,13 +38118,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -38221,12 +38626,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -38242,10 +38647,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -38294,16 +38699,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -38348,7 +38753,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -39618,12 +40050,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -39639,10 +40071,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -39691,16 +40123,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -39745,7 +40177,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -39785,7 +40244,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -39800,10 +40259,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -39817,13 +40276,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -39849,7 +40308,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -39858,10 +40317,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -39881,7 +40340,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -39902,10 +40361,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -39913,13 +40372,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -42653,12 +43112,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -42674,10 +43133,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -42726,16 +43185,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -42780,7 +43239,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -42837,7 +43323,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -42852,10 +43338,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -42869,13 +43355,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -42901,7 +43387,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -42910,10 +43396,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -42933,7 +43419,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -42954,10 +43440,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -42965,13 +43451,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44276,7 +44762,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -44291,10 +44777,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -44308,13 +44794,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -44340,7 +44826,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -44349,10 +44835,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -44372,7 +44858,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -44393,10 +44879,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -44404,13 +44890,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -44843,12 +45329,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -44864,10 +45350,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -44916,16 +45402,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -44970,7 +45456,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -47075,12 +47588,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -47096,10 +47609,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -47148,16 +47661,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -47202,7 +47715,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -48062,7 +48602,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -48077,10 +48617,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -48094,13 +48634,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -48126,7 +48666,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -48135,10 +48675,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -48158,7 +48698,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -48179,10 +48719,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -48190,13 +48730,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -48472,7 +49012,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -48487,10 +49027,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -48504,13 +49044,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -48536,7 +49076,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -48545,10 +49085,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -48568,7 +49108,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -48589,10 +49129,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -48600,13 +49140,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -50191,12 +50731,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -50212,10 +50752,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -50264,16 +50804,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -50318,7 +50858,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ],
     "teamB": [
@@ -51502,12 +52069,12 @@ export default [
         "playerId": 52502593,
         "url": "https://cuescore.com/player/Moudar+Ali/52502593",
         "name": "Moudar Ali",
-        "mvp": "75.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 10,
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 15,
             "framesLost": 1
           },
           "Straightpool": {
@@ -51523,10 +52090,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 11
           }
         }
       },
@@ -51575,16 +52142,16 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 60,
-            "pointsLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 120,
+            "pointsLost": 23
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 6,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 12,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -51629,7 +52196,34 @@ export default [
       {
         "playerId": 1162183,
         "url": "https://cuescore.com/player/Chaka+Sanichar/1162183",
-        "name": "Chaka Sanichar"
+        "name": "Chaka Sanichar",
+        "mvp": "100.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 5,
+            "framesLost": 2
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       }
     ]
   },
@@ -53103,7 +53697,7 @@ export default [
         "playerId": 1549170,
         "url": "https://cuescore.com/player/Andrej+Karamesic/1549170",
         "name": "Andrej Karamesic",
-        "mvp": "80.0%",
+        "mvp": "66.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -53118,10 +53712,10 @@ export default [
             "pointsLost": null
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 3,
+            "framesLost": 6
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -53135,13 +53729,13 @@ export default [
         "playerId": 1161646,
         "url": "https://cuescore.com/player/Omar+Maalikoum/1161646",
         "name": "Omar Maalikoum",
-        "mvp": "40.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
             "framesWon": 5,
-            "framesLost": 2
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": 1,
@@ -53167,7 +53761,7 @@ export default [
         "playerId": 1162690,
         "url": "https://cuescore.com/player/Jerrel+Nanhekhan/1162690",
         "name": "Jerrel Nanhekhan",
-        "mvp": "75.0%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -53176,10 +53770,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 2,
-            "pointsWon": 142,
-            "pointsLost": 137
+            "pointsWon": 164,
+            "pointsLost": 197
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -53199,7 +53793,7 @@ export default [
         "playerId": 1162691,
         "url": "https://cuescore.com/player/Maan+Sadal/1162691",
         "name": "Maan Sadal",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -53220,10 +53814,10 @@ export default [
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 5
           }
         }
       },
@@ -53231,13 +53825,13 @@ export default [
         "playerId": 1160401,
         "url": "https://cuescore.com/player/Roberto+Vasselli/1160401",
         "name": "Roberto Vasselli",
-        "mvp": "60.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 2,
-            "framesWon": 10,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 9
           },
           "Straightpool": {
             "matchesPlayed": null,
