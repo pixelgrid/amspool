@@ -253,6 +253,11 @@ export default [
         }
       },
       {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
+      },
+      {
         "playerId": 1163965,
         "url": "https://cuescore.com/player/Cyriel+Ledoux/1163965",
         "name": "Cyriel Ledoux",
@@ -1074,6 +1079,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
       },
       {
         "playerId": 1163965,
@@ -4604,6 +4614,11 @@ export default [
         }
       },
       {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
+      },
+      {
         "playerId": 1163965,
         "url": "https://cuescore.com/player/Cyriel+Ledoux/1163965",
         "name": "Cyriel Ledoux",
@@ -4759,6 +4774,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
       },
       {
         "playerId": 1163965,
@@ -5785,6 +5805,11 @@ export default [
         }
       },
       {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
+      },
+      {
         "playerId": 1163965,
         "url": "https://cuescore.com/player/Cyriel+Ledoux/1163965",
         "name": "Cyriel Ledoux",
@@ -6075,6 +6100,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
       },
       {
         "playerId": 1163965,
@@ -8670,6 +8700,11 @@ export default [
         }
       },
       {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
+      },
+      {
         "playerId": 1163965,
         "url": "https://cuescore.com/player/Cyriel+Ledoux/1163965",
         "name": "Cyriel Ledoux",
@@ -9316,6 +9351,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
       },
       {
         "playerId": 1163965,
@@ -11815,6 +11855,11 @@ export default [
         }
       },
       {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
+      },
+      {
         "playerId": 1163965,
         "url": "https://cuescore.com/player/Cyriel+Ledoux/1163965",
         "name": "Cyriel Ledoux",
@@ -12277,6 +12322,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
       },
       {
         "playerId": 1163965,
@@ -14457,6 +14507,11 @@ export default [
         }
       },
       {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
+      },
+      {
         "playerId": 1163965,
         "url": "https://cuescore.com/player/Cyriel+Ledoux/1163965",
         "name": "Cyriel Ledoux",
@@ -14612,6 +14667,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
       },
       {
         "playerId": 1163965,
@@ -15169,6 +15229,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
       },
       {
         "playerId": 1163965,
@@ -16898,6 +16963,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161831,
+        "url": "https://cuescore.com/player/Ronny+Brocken/1161831",
+        "name": "Ronny Brocken"
       },
       {
         "playerId": 1163965,
