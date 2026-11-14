@@ -118,6 +118,11 @@ export default [
         }
       },
       {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
+      },
+      {
         "playerId": 57004225,
         "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
         "name": "Amadeo Durnez",
@@ -445,6 +450,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
       },
       {
         "playerId": 57004225,
@@ -1754,6 +1764,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -2473,6 +2488,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -3104,6 +3124,11 @@ export default [
         }
       },
       {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
+      },
+      {
         "playerId": 57004225,
         "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
         "name": "Amadeo Durnez",
@@ -3421,6 +3446,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
       },
       {
         "playerId": 57004225,
@@ -4067,6 +4097,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
       },
       {
         "playerId": 1047268,
@@ -4951,6 +4986,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
       },
       {
         "playerId": 1047268,
@@ -6635,6 +6675,11 @@ export default [
         }
       },
       {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
+      },
+      {
         "playerId": 57004225,
         "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
         "name": "Amadeo Durnez",
@@ -6974,6 +7019,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -7266,6 +7316,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -7372,6 +7427,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
       },
       {
         "playerId": 57004225,
@@ -8020,6 +8080,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -8470,6 +8535,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
       },
       {
         "playerId": 1047268,
@@ -9061,6 +9131,11 @@ export default [
         }
       },
       {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
+      },
+      {
         "playerId": 57004225,
         "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
         "name": "Amadeo Durnez",
@@ -9528,6 +9603,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
       },
       {
         "playerId": 57004225,
@@ -10345,6 +10425,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -10623,6 +10708,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
       },
       {
         "playerId": 1047268,
@@ -11212,6 +11302,11 @@ export default [
         }
       },
       {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
+      },
+      {
         "playerId": 57004225,
         "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
         "name": "Amadeo Durnez",
@@ -11701,6 +11796,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
       },
       {
         "playerId": 57004225,
@@ -12673,6 +12773,11 @@ export default [
         }
       },
       {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
+      },
+      {
         "playerId": 57004225,
         "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
         "name": "Amadeo Durnez",
@@ -13363,6 +13468,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -13486,6 +13596,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
       },
       {
         "playerId": 57004225,
@@ -13653,6 +13768,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
       },
       {
         "playerId": 1047268,
@@ -15138,6 +15258,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -16054,6 +16179,11 @@ export default [
         }
       },
       {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
+      },
+      {
         "playerId": 57004225,
         "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
         "name": "Amadeo Durnez",
@@ -16889,6 +17019,11 @@ export default [
         }
       },
       {
+        "playerId": 1161675,
+        "url": "https://cuescore.com/player/Aziz+Moussati/1161675",
+        "name": "Aziz Moussati"
+      },
+      {
         "playerId": 1047268,
         "url": "https://cuescore.com/player/Tim+De+Ruyter/1047268",
         "name": "Tim De Ruyter"
@@ -17157,6 +17292,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 1164203,
+        "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
+        "name": "Kenny Liessens"
       },
       {
         "playerId": 57004225,
