@@ -17671,7 +17671,7 @@ export default [
     "playerB": "Rising Legends",
     "playerAUrl": "https://cuescore.com/team/Ball+in+Hand/64415623",
     "playerBUrl": "https://cuescore.com/team/Rising+Legends/84677638",
-    "startTime": "2026-11-16T19:00:00Z",
+    "startTime": "2026-11-17T19:00:00Z",
     "venueData": {
       "venueName": "Poollokaal De Gracht",
       "venueID": "1168481",
