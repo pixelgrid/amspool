@@ -17,9 +17,36 @@ export default [
     "matchno": "1",
     "teamA": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -126,38 +153,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -2602,9 +2597,36 @@ export default [
     "matchno": "8",
     "teamA": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -2711,38 +2733,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -3508,9 +3498,36 @@ export default [
     ],
     "teamB": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -3617,38 +3634,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -5143,9 +5128,36 @@ export default [
     "matchno": "15",
     "teamA": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -5252,38 +5264,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -6864,9 +6844,36 @@ export default [
     ],
     "teamB": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -6973,38 +6980,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -7770,9 +7745,36 @@ export default [
     "matchno": "22",
     "teamA": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -7879,38 +7881,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -10134,9 +10104,36 @@ export default [
     ],
     "teamB": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -10243,38 +10240,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -10495,9 +10460,36 @@ export default [
     ],
     "teamB": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -10604,38 +10596,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -13080,9 +13040,36 @@ export default [
     ],
     "teamB": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -13189,38 +13176,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -13625,9 +13580,36 @@ export default [
     "matchno": "38",
     "teamA": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -13734,38 +13716,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -15648,9 +15598,36 @@ export default [
     ],
     "teamB": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -15757,38 +15734,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -16976,9 +16921,36 @@ export default [
     "matchno": "47",
     "teamA": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -17085,38 +17057,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -18184,9 +18124,36 @@ export default [
     ],
     "teamB": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -18293,38 +18260,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
@@ -20241,9 +20176,36 @@ export default [
     "matchno": "56",
     "teamA": [
       {
-        "playerId": 1160283,
-        "name": "Andre Broersma",
-        "url": "https://cuescore.com/player/Andre+Broersma/1160283"
+        "playerId": 1176676,
+        "name": "Kim Uytenbogaardt",
+        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
+        "mvp": "80.0%",
+        "stats": {
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 5
+          },
+          "8-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 20,
+            "pointsLost": 75
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          }
+        }
       },
       {
         "playerId": 56566297,
@@ -20350,38 +20312,6 @@ export default [
         "playerId": 1160289,
         "url": "https://cuescore.com/player/Richard+Hesling/1160289",
         "name": "Richard Hesling"
-      },
-      {
-        "playerId": 1176676,
-        "url": "https://cuescore.com/player/Kim+Uytenbogaardt/1176676",
-        "name": "Kim Uytenbogaardt",
-        "mvp": "80.0%",
-        "stats": {
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 5
-          },
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 8
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 20,
-            "pointsLost": 75
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          }
-        }
       },
       {
         "playerId": 1160337,
