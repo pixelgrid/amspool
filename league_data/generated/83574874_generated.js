@@ -2231,6 +2231,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ]
   },
@@ -2383,6 +2388,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ],
     "teamB": [
@@ -3343,6 +3353,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ],
     "teamB": [
@@ -3822,6 +3837,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ]
   },
@@ -5460,6 +5480,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ],
     "teamB": [
@@ -6069,6 +6094,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ],
     "teamB": [
@@ -7803,6 +7833,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ]
   },
@@ -8680,6 +8715,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ]
   },
@@ -10148,6 +10188,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ],
     "teamB": [
@@ -11025,6 +11070,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ],
     "teamB": [
@@ -14382,6 +14432,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ]
   },
@@ -14996,6 +15051,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ]
   },
@@ -15735,6 +15795,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ],
     "teamB": [
@@ -17496,6 +17561,11 @@ export default [
             "pointsLost": null
           }
         }
+      },
+      {
+        "playerId": 13331119,
+        "url": "https://cuescore.com/player/Sky+van+den+Berg/13331119",
+        "name": "Sky van den Berg"
       }
     ]
   }
