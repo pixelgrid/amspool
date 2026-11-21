@@ -1238,8 +1238,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -2183,8 +2183,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -5158,8 +5158,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -5578,8 +5578,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -8528,8 +8528,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -9577,8 +9577,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -11751,8 +11751,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -13401,8 +13401,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -15075,8 +15075,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -17122,8 +17122,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -18433,8 +18433,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -21079,8 +21079,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -21462,8 +21462,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -24815,8 +24815,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -25456,8 +25456,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -27964,8 +27964,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -29381,8 +29381,8 @@ export default [
     "teamA": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
@@ -31288,8 +31288,8 @@ export default [
     "teamB": [
       {
         "playerId": 1161638,
-        "name": "Sacha Sidespin Romero",
-        "url": "https://cuescore.com/player/Sacha+Sidespin+Romero/1161638",
+        "name": "Sacha Romero",
+        "url": "https://cuescore.com/player/Sacha+Romero/1161638",
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
