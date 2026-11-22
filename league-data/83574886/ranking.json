@@ -876,6 +876,11 @@
             "result": "W",
             "discipline": 14,
             "date": "2026-10-04T14:51:14Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T15:57:22Z"
           }
         ]
       },
@@ -883,7 +888,18 @@
         "playerId": 1172532,
         "url": "https://cuescore.com/player/Bram+Hofland/1172532",
         "name": "Bram Hofland",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-11-22T15:56:22Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-11-22T15:57:49Z"
+          }
+        ]
       },
       {
         "playerId": 1105500,
@@ -965,6 +981,16 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-09-27T11:09:28Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T15:56:01Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-22T15:56:56Z"
           }
         ]
       },
@@ -1115,6 +1141,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-10-25T14:12:47Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-22T13:38:06Z"
           }
         ]
       },
@@ -1203,6 +1234,16 @@
             "result": "L",
             "discipline": 14,
             "date": "2026-09-27T12:31:11Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-11-22T12:05:53Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T13:38:35Z"
           }
         ]
       },
@@ -1210,7 +1251,13 @@
         "playerId": 1187493,
         "url": "https://cuescore.com/player/Antonie+Nguyen/1187493",
         "name": "Antonie Nguyen",
-        "lastFive": []
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T13:37:50Z"
+          }
+        ]
       },
       {
         "playerId": 1160131,
@@ -1346,6 +1393,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-10-25T11:54:49Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-11-22T12:06:15Z"
           }
         ]
       }
@@ -1440,6 +1492,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-10-25T14:27:05Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-22T15:56:22Z"
           }
         ]
       },
@@ -1477,11 +1534,6 @@
         "lastFive": [
           {
             "result": "W",
-            "discipline": 9,
-            "date": "2026-09-27T15:15:18Z"
-          },
-          {
-            "result": "W",
             "discipline": 8,
             "date": "2026-09-27T15:33:00Z"
           },
@@ -1494,6 +1546,16 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-10-25T14:26:24Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-11-22T15:56:56Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T15:57:22Z"
           }
         ]
       },
@@ -1598,6 +1660,16 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-09-27T15:14:35Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T15:56:01Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-11-22T15:57:49Z"
           }
         ]
       }
@@ -1962,6 +2034,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-09-27T13:15:45Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T13:37:50Z"
           }
         ]
       },
@@ -2018,6 +2095,16 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-09-27T13:15:46Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-11-22T12:05:53Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T13:38:35Z"
           }
         ]
       },
@@ -2062,6 +2149,16 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-09-27T13:15:48Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-11-22T12:06:15Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-11-22T13:38:06Z"
           }
         ]
       }
