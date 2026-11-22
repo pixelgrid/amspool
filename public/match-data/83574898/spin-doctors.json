@@ -436,14 +436,14 @@
   {
     "discipline": 4,
     "raceTo": "6",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Mattias B / Danny Bast",
     "playerB": "Ron Fortgens / Andy Fung",
-    "scoreA": "3",
-    "scoreB": "3",
+    "scoreA": "6",
+    "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88802107",
     "parentId": "88801468"
   },

@@ -422,14 +422,14 @@
   {
     "discipline": 5,
     "raceTo": "75",
-    "status": "waiting",
+    "status": "finished",
     "playerA": "Jiwan Chaturi",
     "playerB": "Richard van velthoven",
-    "scoreA": "0",
-    "scoreB": "0",
+    "scoreA": "75",
+    "scoreB": "56",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88802146",
     "parentId": "88801474"
   },

@@ -436,14 +436,14 @@
   {
     "discipline": 4,
     "raceTo": "6",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Niels van der Horst / Sander Vriens",
     "playerB": "Idris Coskun / Leon Qian",
-    "scoreA": "3",
-    "scoreB": "1",
+    "scoreA": "6",
+    "scoreB": "3",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88802170",
     "parentId": "88801477"
   },

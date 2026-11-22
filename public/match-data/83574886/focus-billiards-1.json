@@ -310,14 +310,14 @@
   {
     "discipline": 2,
     "raceTo": "7",
-    "status": "playing",
+    "status": "finished",
     "playerA": "Hoa Nguyen",
     "playerB": "Tjeerd Hoekema",
-    "scoreA": "6",
-    "scoreB": "4",
+    "scoreA": "7",
+    "scoreB": "5",
     "runoutsA": "0",
     "runoutsB": "0",
-    "winner": 0,
+    "winner": 1,
     "matchId": "88797757",
     "parentId": "88797352"
   },

@@ -3,11 +3,11 @@
     "position": 1,
     "teamName": "SPC Woensel.nl",
     "teamId": 1172423,
-    "played": 3,
-    "wins": 3,
+    "played": 4,
+    "wins": 4,
     "losses": 0,
     "ties": 0,
-    "points": 17,
+    "points": 25,
     "lastFive": [
       {
         "result": "W",
@@ -28,6 +28,13 @@
         "opponent": "Sonny's Billiard Supplies/ PC Geldrop",
         "teamScore": 4,
         "opponentScore": 3,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Sport Pub Goes",
+        "teamScore": 7,
+        "opponentScore": 0,
         "date": "2026-11-22T10:00:00Z"
       }
     ],
@@ -52,6 +59,13 @@
         "teamScore": 4,
         "opponentScore": 3,
         "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Sport Pub Goes",
+        "teamScore": 7,
+        "opponentScore": 0,
+        "date": "2026-11-22T10:00:00Z"
       }
     ],
     "members": [
@@ -59,19 +73,19 @@
         "playerId": 1172510,
         "url": "https://cuescore.com/player/Ivar+Saris/1172510",
         "name": "Ivar Saris",
-        "mvp": "80.0%",
+        "mvp": "85.7%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "framesWon": 7,
+            "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 27,
+            "framesLost": 11
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -87,11 +101,6 @@
           }
         },
         "lastFive": [
-          {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-09-27T13:27:19Z"
-          },
           {
             "result": "W",
             "discipline": 9,
@@ -111,6 +120,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-11-22T13:48:22Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-22T15:12:00Z"
           }
         ]
       },
@@ -118,7 +132,7 @@
         "playerId": 1164592,
         "url": "https://cuescore.com/player/Mika+van+Berkel/1164592",
         "name": "Mika van Berkel",
-        "mvp": "66.7%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -127,16 +141,16 @@
             "framesLost": 7
           },
           "9-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 3,
-            "framesWon": 33,
-            "framesLost": 29
+            "matchesPlayed": 5,
+            "matchesWon": 4,
+            "framesWon": 42,
+            "framesLost": 31
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 7
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -183,7 +197,7 @@
         "playerId": 1163152,
         "url": "https://cuescore.com/player/Tim+Jonkman/1163152",
         "name": "Tim Jonkman",
-        "mvp": "75.0%",
+        "mvp": "80.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -204,10 +218,10 @@
             "framesLost": 4
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 100,
+            "pointsLost": 73
           }
         },
         "lastFive": [
@@ -245,10 +259,10 @@
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -294,11 +308,11 @@
     "position": 2,
     "teamName": "Sonny's Billiard Supplies/ PC Geldrop",
     "teamId": 1172443,
-    "played": 3,
-    "wins": 2,
+    "played": 4,
+    "wins": 3,
     "losses": 1,
     "ties": 0,
-    "points": 14,
+    "points": 22,
     "lastFive": [
       {
         "result": "W",
@@ -319,6 +333,13 @@
         "opponent": "SPC Woensel.nl",
         "teamScore": 3,
         "opponentScore": 4,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Eurohandel Snookercentrum Maastricht",
+        "teamScore": 7,
+        "opponentScore": 0,
         "date": "2026-11-22T10:00:00Z"
       }
     ],
@@ -343,6 +364,13 @@
         "teamScore": 3,
         "opponentScore": 4,
         "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Eurohandel Snookercentrum Maastricht",
+        "teamScore": 7,
+        "opponentScore": 0,
+        "date": "2026-11-22T10:00:00Z"
       }
     ],
     "members": [
@@ -356,13 +384,13 @@
         "playerId": 8115984,
         "url": "https://cuescore.com/player/Kevin+Lannoye/8115984",
         "name": "Kevin Lannoye",
-        "mvp": "33.3%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 3,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 10,
+            "framesLost": 9
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -410,7 +438,7 @@
         "playerId": 1164604,
         "url": "https://cuescore.com/player/Yannick+Pongers/1164604",
         "name": "Yannick Pongers",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -419,10 +447,10 @@
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 15
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -431,10 +459,10 @@
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 0
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 26
           }
         },
         "lastFive": [
@@ -464,13 +492,13 @@
         "playerId": 1164605,
         "url": "https://cuescore.com/player/Quinten+Pongers/1164605",
         "name": "Quinten Pongers",
-        "mvp": "80.0%",
+        "mvp": "83.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 3,
-            "framesWon": 21,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 4,
+            "framesWon": 28,
+            "framesLost": 15
           },
           "9-Ball": {
             "matchesPlayed": 1,
@@ -579,7 +607,7 @@
         "playerId": 7086003,
         "url": "https://cuescore.com/player/Andre+Wansner/7086003",
         "name": "Andre Wansner",
-        "mvp": "50.0%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -588,16 +616,16 @@
             "framesLost": 3
           },
           "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 18
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 25
           },
           "10-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 12,
-            "framesLost": 10
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 20,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -607,11 +635,6 @@
           }
         },
         "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-27T13:36:47Z"
-          },
           {
             "result": "W",
             "discipline": 10,
@@ -631,6 +654,11 @@
             "result": "W",
             "discipline": 10,
             "date": "2026-11-22T13:34:00Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T14:54:49Z"
           }
         ]
       },
@@ -646,11 +674,11 @@
     "position": 3,
     "teamName": "Hague 5 1",
     "teamId": 1172407,
-    "played": 3,
-    "wins": 2,
+    "played": 4,
+    "wins": 3,
     "losses": 1,
     "ties": 0,
-    "points": 14,
+    "points": 20,
     "lastFive": [
       {
         "result": "W",
@@ -671,6 +699,13 @@
         "opponent": "GO Customs",
         "teamScore": 4,
         "opponentScore": 3,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "1. Mokum Pool & Darts",
+        "teamScore": 5,
+        "opponentScore": 2,
         "date": "2026-11-22T10:00:00Z"
       }
     ],
@@ -694,6 +729,13 @@
         "opponent": "GO Customs",
         "teamScore": 4,
         "opponentScore": 3,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "1. Mokum Pool & Darts",
+        "teamScore": 5,
+        "opponentScore": 2,
         "date": "2026-11-22T10:00:00Z"
       }
     ],
@@ -729,10 +771,10 @@
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 10,
+            "pointsLost": 100
           }
         },
         "lastFive": [
@@ -757,13 +799,13 @@
         "playerId": 1162069,
         "url": "https://cuescore.com/player/Marc+Bijsterbosch/1162069",
         "name": "Marc Bijsterbosch",
-        "mvp": "83.3%",
+        "mvp": "87.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 5
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -772,10 +814,10 @@
             "framesLost": 6
           },
           "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 2,
-            "framesWon": 21,
-            "framesLost": 10
+            "matchesPlayed": 4,
+            "matchesWon": 3,
+            "framesWon": 29,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -828,7 +870,7 @@
         "playerId": 40803217,
         "url": "https://cuescore.com/player/Mohammad+Al+Asfar/40803217",
         "name": "Mohammad Al Asfar",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -837,10 +879,10 @@
             "framesLost": 7
           },
           "9-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "framesWon": 20,
-            "framesLost": 24
+            "framesWon": 25,
+            "framesLost": 33
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -875,6 +917,11 @@
             "result": "L",
             "discipline": 9,
             "date": "2026-11-22T10:10:10Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T14:19:00Z"
           }
         ]
       },
@@ -924,16 +971,16 @@
         "mvp": "100.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 7,
-            "framesLost": 5
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 14,
+            "framesLost": 6
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 1
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 4
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -949,11 +996,6 @@
           }
         },
         "lastFive": [
-          {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-09-27T13:51:05Z"
-          },
           {
             "result": "W",
             "discipline": 8,
@@ -973,18 +1015,366 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-11-22T14:19:57Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T15:22:00Z"
           }
         ]
       }
     ]
   },
   {
-    "position": 3,
+    "position": 4,
+    "teamName": "GO Customs",
+    "teamId": 1172462,
+    "played": 4,
+    "wins": 2,
+    "losses": 2,
+    "ties": 0,
+    "points": 16,
+    "lastFive": [
+      {
+        "result": "L",
+        "opponent": "Eurohandel Snookercentrum Maastricht",
+        "teamScore": 2,
+        "opponentScore": 5,
+        "date": "2026-09-27T09:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "1. Mokum Pool & Darts",
+        "teamScore": 5,
+        "opponentScore": 2,
+        "date": "2026-09-27T09:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Hague 5 1",
+        "teamScore": 3,
+        "opponentScore": 4,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Goesting 2.0",
+        "teamScore": 4,
+        "opponentScore": 3,
+        "date": "2026-11-22T10:00:00Z"
+      }
+    ],
+    "games": [
+      {
+        "result": "L",
+        "opponent": "Eurohandel Snookercentrum Maastricht",
+        "teamScore": 2,
+        "opponentScore": 5,
+        "date": "2026-09-27T09:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "1. Mokum Pool & Darts",
+        "teamScore": 5,
+        "opponentScore": 2,
+        "date": "2026-09-27T09:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Hague 5 1",
+        "teamScore": 3,
+        "opponentScore": 4,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "W",
+        "opponent": "Goesting 2.0",
+        "teamScore": 4,
+        "opponentScore": 3,
+        "date": "2026-11-22T10:00:00Z"
+      }
+    ],
+    "members": [
+      {
+        "playerId": 1130184,
+        "name": "Goran Kobas",
+        "url": "https://cuescore.com/player/Goran+Kobas/1130184",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 9
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T09:13:22Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1162583,
+        "url": "https://cuescore.com/player/Johan+van+der+Leest/1162583",
+        "name": "Johan van der Leest",
+        "lastFive": []
+      },
+      {
+        "playerId": 1160321,
+        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
+        "name": "Joël Kartowikromo",
+        "mvp": "50.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 5,
+            "matchesWon": 3,
+            "framesWon": 23,
+            "framesLost": 27
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 17,
+            "framesLost": 13
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 39,
+            "pointsLost": 100
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T15:15:11Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-11-22T10:10:10Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-11-22T11:51:13Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-22T14:09:19Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T15:43:33Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1163657,
+        "url": "https://cuescore.com/player/Rani+Matti/1163657",
+        "name": "Rani Matti",
+        "mvp": "57.1%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 23,
+            "framesLost": 22
+          },
+          "10-Ball": {
+            "matchesPlayed": 4,
+            "matchesWon": 2,
+            "framesWon": 21,
+            "framesLost": 28
+          },
+          "Straightpool": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "pointsWon": null,
+            "pointsLost": null
+          }
+        },
+        "lastFive": [
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-09-27T15:15:17Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T10:10:10Z"
+          },
+          {
+            "result": "L",
+            "discipline": 10,
+            "date": "2026-11-22T11:52:54Z"
+          },
+          {
+            "result": "W",
+            "discipline": 10,
+            "date": "2026-11-22T14:09:19Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T15:51:54Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1161359,
+        "url": "https://cuescore.com/player/Ralf+Zigahn/1161359",
+        "name": "Ralf Zigahn",
+        "mvp": "75.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": 3,
+            "matchesWon": 3,
+            "framesWon": 21,
+            "framesLost": 11
+          },
+          "9-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 65,
+            "pointsLost": 100
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-09-27T11:16:13Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-09-27T15:15:22Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-22T10:10:08Z"
+          },
+          {
+            "result": "W",
+            "discipline": 8,
+            "date": "2026-11-22T16:06:00Z"
+          }
+        ]
+      },
+      {
+        "playerId": 1160650,
+        "url": "https://cuescore.com/player/Sha+Chong+Woo/1160650",
+        "name": "Sha Chong Woo",
+        "mvp": "0.0%",
+        "stats": {
+          "8-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "9-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "framesWon": 9,
+            "framesLost": 18
+          },
+          "10-Ball": {
+            "matchesPlayed": null,
+            "matchesWon": null,
+            "framesWon": null,
+            "framesLost": null
+          },
+          "Straightpool": {
+            "matchesPlayed": 2,
+            "matchesWon": 0,
+            "pointsWon": 124,
+            "pointsLost": 200
+          }
+        },
+        "lastFive": [
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-09-27T09:13:24Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-09-27T15:15:26Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T10:10:09Z"
+          },
+          {
+            "result": "L",
+            "discipline": 14,
+            "date": "2026-11-22T15:51:51Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "position": 5,
     "teamName": "Sport Pub Goes",
     "teamId": 17377786,
-    "played": 3,
+    "played": 4,
     "wins": 2,
-    "losses": 1,
+    "losses": 2,
     "ties": 0,
     "points": 14,
     "lastFive": [
@@ -1008,6 +1398,13 @@
         "teamScore": 4,
         "opponentScore": 3,
         "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "SPC Woensel.nl",
+        "teamScore": 0,
+        "opponentScore": 7,
+        "date": "2026-11-22T10:00:00Z"
       }
     ],
     "games": [
@@ -1030,6 +1427,13 @@
         "opponent": "Eurohandel Snookercentrum Maastricht",
         "teamScore": 4,
         "opponentScore": 3,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "SPC Woensel.nl",
+        "teamScore": 0,
+        "opponentScore": 7,
         "date": "2026-11-22T10:00:00Z"
       }
     ],
@@ -1088,13 +1492,13 @@
         "playerId": 1164134,
         "url": "https://cuescore.com/player/Joey+Haegmans/1164134",
         "name": "Joey Haegmans",
-        "mvp": "33.3%",
+        "mvp": "25.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "framesWon": 16,
-            "framesLost": 18
+            "framesWon": 21,
+            "framesLost": 25
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -1151,10 +1555,10 @@
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 9
+            "framesWon": 7,
+            "framesLost": 18
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1186,13 +1590,13 @@
         "playerId": 1163965,
         "url": "https://cuescore.com/player/Cyriel+Ledoux/1163965",
         "name": "Cyriel Ledoux",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 2,
+            "matchesPlayed": 3,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 12
+            "framesWon": 14,
+            "framesLost": 19
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -1207,18 +1611,13 @@
             "framesLost": 11
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "pointsWon": 73,
+            "pointsLost": 100
           }
         },
         "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-27T13:36:47Z"
-          },
           {
             "result": "W",
             "discipline": 9,
@@ -1238,6 +1637,11 @@
             "result": "L",
             "discipline": 14,
             "date": "2026-11-22T13:34:07Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-11-22T15:12:00Z"
           }
         ]
       },
@@ -1251,7 +1655,7 @@
         "playerId": 1161937,
         "url": "https://cuescore.com/player/Ivo+Aarts/1161937",
         "name": "Ivo Aarts",
-        "mvp": "83.3%",
+        "mvp": "62.5%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -1260,16 +1664,16 @@
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 27,
-            "framesLost": 14
+            "framesWon": 29,
+            "framesLost": 23
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 8
+            "framesWon": 5,
+            "framesLost": 16
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -1309,12 +1713,12 @@
     ]
   },
   {
-    "position": 5,
+    "position": 6,
     "teamName": "Eurohandel Snookercentrum Maastricht",
     "teamId": 1172442,
-    "played": 3,
+    "played": 4,
     "wins": 1,
-    "losses": 2,
+    "losses": 3,
     "ties": 0,
     "points": 12,
     "lastFive": [
@@ -1331,6 +1735,13 @@
         "teamScore": 3,
         "opponentScore": 4,
         "date": "2026-09-27T09:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Sonny's Billiard Supplies/ PC Geldrop",
+        "teamScore": 0,
+        "opponentScore": 7,
+        "date": "2026-11-22T10:00:00Z"
       },
       {
         "result": "L",
@@ -1357,6 +1768,13 @@
       },
       {
         "result": "L",
+        "opponent": "Sonny's Billiard Supplies/ PC Geldrop",
+        "teamScore": 0,
+        "opponentScore": 7,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "L",
         "opponent": "Sport Pub Goes",
         "teamScore": 3,
         "opponentScore": 4,
@@ -1368,7 +1786,7 @@
         "playerId": 1161246,
         "name": "Tamara Peeters-Rademakers",
         "url": "https://cuescore.com/player/Tamara+Peeters-Rademakers/1161246",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": null,
@@ -1383,10 +1801,10 @@
             "framesLost": 17
           },
           "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 8
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -1433,7 +1851,7 @@
         "playerId": 1164584,
         "url": "https://cuescore.com/player/Jim+Telfer/1164584",
         "name": "Jim Telfer",
-        "mvp": "40.0%",
+        "mvp": "28.6%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 1,
@@ -1442,10 +1860,10 @@
             "framesLost": 5
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "10-Ball": {
             "matchesPlayed": 2,
@@ -1454,18 +1872,13 @@
             "framesLost": 16
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 65
+            "pointsWon": 126,
+            "pointsLost": 165
           }
         },
         "lastFive": [
-          {
-            "result": "W",
-            "discipline": 14,
-            "date": "2026-09-27T11:16:13Z"
-          },
           {
             "result": "W",
             "discipline": 8,
@@ -1485,6 +1898,11 @@
             "result": "L",
             "discipline": 14,
             "date": "2026-11-22T13:34:18Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T14:54:49Z"
           }
         ]
       },
@@ -1492,13 +1910,13 @@
         "playerId": 1164603,
         "url": "https://cuescore.com/player/Sonny+Haegmans/1164603",
         "name": "Sonny Haegmans",
-        "mvp": "66.7%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 2,
+            "framesLost": 7
           },
           "9-Ball": {
             "matchesPlayed": 2,
@@ -1546,19 +1964,19 @@
         "playerId": 1160314,
         "url": "https://cuescore.com/player/Jesse+Thehu/1160314",
         "name": "Jesse Thehu",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 5,
+            "matchesPlayed": 6,
             "matchesWon": 3,
-            "framesWon": 31,
-            "framesLost": 24
+            "framesWon": 36,
+            "framesLost": 31
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 9
+            "framesWon": 10,
+            "framesLost": 18
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1610,333 +2028,14 @@
     ]
   },
   {
-    "position": 6,
-    "teamName": "GO Customs",
-    "teamId": 1172462,
-    "played": 3,
-    "wins": 1,
-    "losses": 2,
-    "ties": 0,
-    "points": 11,
-    "lastFive": [
-      {
-        "result": "L",
-        "opponent": "Eurohandel Snookercentrum Maastricht",
-        "teamScore": 2,
-        "opponentScore": 5,
-        "date": "2026-09-27T09:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "1. Mokum Pool & Darts",
-        "teamScore": 5,
-        "opponentScore": 2,
-        "date": "2026-09-27T09:00:00Z"
-      },
-      {
-        "result": "L",
-        "opponent": "Hague 5 1",
-        "teamScore": 3,
-        "opponentScore": 4,
-        "date": "2026-11-22T10:00:00Z"
-      }
-    ],
-    "games": [
-      {
-        "result": "L",
-        "opponent": "Eurohandel Snookercentrum Maastricht",
-        "teamScore": 2,
-        "opponentScore": 5,
-        "date": "2026-09-27T09:00:00Z"
-      },
-      {
-        "result": "W",
-        "opponent": "1. Mokum Pool & Darts",
-        "teamScore": 5,
-        "opponentScore": 2,
-        "date": "2026-09-27T09:00:00Z"
-      },
-      {
-        "result": "L",
-        "opponent": "Hague 5 1",
-        "teamScore": 3,
-        "opponentScore": 4,
-        "date": "2026-11-22T10:00:00Z"
-      }
-    ],
-    "members": [
-      {
-        "playerId": 1130184,
-        "name": "Goran Kobas",
-        "url": "https://cuescore.com/player/Goran+Kobas/1130184",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 9
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-27T09:13:22Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1162583,
-        "url": "https://cuescore.com/player/Johan+van+der+Leest/1162583",
-        "name": "Johan van der Leest",
-        "lastFive": []
-      },
-      {
-        "playerId": 1160321,
-        "url": "https://cuescore.com/player/Jo%C3%ABl+Kartowikromo/1160321",
-        "name": "Joël Kartowikromo",
-        "mvp": "50.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 4,
-            "matchesWon": 2,
-            "framesWon": 16,
-            "framesLost": 22
-          },
-          "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 4
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 39,
-            "pointsLost": 100
-          }
-        },
-        "lastFive": [
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-27T13:32:11Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-27T15:15:11Z"
-          },
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-11-22T10:10:10Z"
-          },
-          {
-            "result": "L",
-            "discipline": 14,
-            "date": "2026-11-22T11:51:13Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-11-22T14:09:19Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1163657,
-        "url": "https://cuescore.com/player/Rani+Matti/1163657",
-        "name": "Rani Matti",
-        "mvp": "60.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 18,
-            "framesLost": 13
-          },
-          "10-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 1,
-            "framesWon": 13,
-            "framesLost": 23
-          },
-          "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-09-27T13:32:11Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-09-27T15:15:17Z"
-          },
-          {
-            "result": "W",
-            "discipline": 9,
-            "date": "2026-11-22T10:10:10Z"
-          },
-          {
-            "result": "L",
-            "discipline": 10,
-            "date": "2026-11-22T11:52:54Z"
-          },
-          {
-            "result": "W",
-            "discipline": 10,
-            "date": "2026-11-22T14:09:19Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1161359,
-        "url": "https://cuescore.com/player/Ralf+Zigahn/1161359",
-        "name": "Ralf Zigahn",
-        "mvp": "66.7%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 2,
-            "framesWon": 14,
-            "framesLost": 5
-          },
-          "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 65,
-            "pointsLost": 100
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 14,
-            "date": "2026-09-27T11:16:13Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-09-27T15:15:22Z"
-          },
-          {
-            "result": "W",
-            "discipline": 8,
-            "date": "2026-11-22T10:10:08Z"
-          }
-        ]
-      },
-      {
-        "playerId": 1160650,
-        "url": "https://cuescore.com/player/Sha+Chong+Woo/1160650",
-        "name": "Sha Chong Woo",
-        "mvp": "0.0%",
-        "stats": {
-          "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "9-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "framesWon": 9,
-            "framesLost": 18
-          },
-          "10-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "pointsWon": 57,
-            "pointsLost": 100
-          }
-        },
-        "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-27T09:13:24Z"
-          },
-          {
-            "result": "L",
-            "discipline": 14,
-            "date": "2026-09-27T15:15:26Z"
-          },
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-11-22T10:10:09Z"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "position": 7,
     "teamName": "1. Mokum Pool & Darts",
     "teamId": 83993461,
-    "played": 3,
+    "played": 4,
     "wins": 1,
-    "losses": 2,
+    "losses": 3,
     "ties": 0,
-    "points": 8,
+    "points": 10,
     "lastFive": [
       {
         "result": "L",
@@ -1957,6 +2056,13 @@
         "opponent": "Goesting 2.0",
         "teamScore": 4,
         "opponentScore": 3,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Hague 5 1",
+        "teamScore": 2,
+        "opponentScore": 5,
         "date": "2026-11-22T10:00:00Z"
       }
     ],
@@ -1980,6 +2086,13 @@
         "opponent": "Goesting 2.0",
         "teamScore": 4,
         "opponentScore": 3,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "Hague 5 1",
+        "teamScore": 2,
+        "opponentScore": 5,
         "date": "2026-11-22T10:00:00Z"
       }
     ],
@@ -1991,10 +2104,10 @@
         "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 4,
+            "framesLost": 7
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -2009,10 +2122,10 @@
             "framesLost": 8
           },
           "Straightpool": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "pointsWon": 100,
-            "pointsLost": 6
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "pointsWon": 200,
+            "pointsLost": 16
           }
         },
         "lastFive": [
@@ -2135,19 +2248,19 @@
         "playerId": 1160344,
         "url": "https://cuescore.com/player/Gilliano+Smit/1160344",
         "name": "Gilliano Smit",
-        "mvp": "50.0%",
+        "mvp": "37.5%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 3,
+            "matchesPlayed": 4,
             "matchesWon": 1,
-            "framesWon": 12,
-            "framesLost": 18
+            "framesWon": 13,
+            "framesLost": 25
           },
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 4
+            "framesWon": 12,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2163,11 +2276,6 @@
           }
         },
         "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-27T13:32:11Z"
-          },
           {
             "result": "W",
             "discipline": 14,
@@ -2187,6 +2295,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-11-22T14:19:57Z"
+          },
+          {
+            "result": "L",
+            "discipline": 9,
+            "date": "2026-11-22T15:22:00Z"
           }
         ]
       },
@@ -2194,7 +2307,7 @@
         "playerId": 1162911,
         "url": "https://cuescore.com/player/Casper+Verstegen/1162911",
         "name": "Casper Verstegen",
-        "mvp": "25.0%",
+        "mvp": "20.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -2209,10 +2322,10 @@
             "framesLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 9,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2262,10 +2375,10 @@
             "framesLost": null
           },
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 8
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 18,
+            "framesLost": 13
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -2285,6 +2398,11 @@
             "result": "W",
             "discipline": 9,
             "date": "2026-11-22T12:08:48Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T14:19:00Z"
           }
         ]
       }
@@ -2294,11 +2412,11 @@
     "position": 8,
     "teamName": "Goesting 2.0",
     "teamId": 9264197,
-    "played": 3,
+    "played": 4,
     "wins": 0,
-    "losses": 3,
+    "losses": 4,
     "ties": 0,
-    "points": 6,
+    "points": 9,
     "lastFive": [
       {
         "result": "L",
@@ -2313,6 +2431,13 @@
         "teamScore": 1,
         "opponentScore": 6,
         "date": "2026-09-27T09:00:00Z"
+      },
+      {
+        "result": "L",
+        "opponent": "GO Customs",
+        "teamScore": 3,
+        "opponentScore": 4,
+        "date": "2026-11-22T10:00:00Z"
       },
       {
         "result": "L",
@@ -2339,6 +2464,13 @@
       },
       {
         "result": "L",
+        "opponent": "GO Customs",
+        "teamScore": 3,
+        "opponentScore": 4,
+        "date": "2026-11-22T10:00:00Z"
+      },
+      {
+        "result": "L",
         "opponent": "1. Mokum Pool & Darts",
         "teamScore": 3,
         "opponentScore": 4,
@@ -2356,7 +2488,7 @@
         "playerId": 1531947,
         "url": "https://cuescore.com/player/Piotr+Haraszczuk/1531947",
         "name": "Piotr Haraszczuk",
-        "mvp": "0.0%",
+        "mvp": "16.7%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 3,
@@ -2377,18 +2509,13 @@
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": 2,
-            "matchesWon": 0,
-            "pointsWon": 84,
-            "pointsLost": 200
+            "matchesPlayed": 3,
+            "matchesWon": 1,
+            "pointsWon": 184,
+            "pointsLost": 267
           }
         },
         "lastFive": [
-          {
-            "result": "L",
-            "discipline": 8,
-            "date": "2026-09-27T09:12:12Z"
-          },
           {
             "result": "L",
             "discipline": 14,
@@ -2408,6 +2535,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-11-22T12:05:09Z"
+          },
+          {
+            "result": "W",
+            "discipline": 14,
+            "date": "2026-11-22T15:51:51Z"
           }
         ]
       },
@@ -2508,13 +2640,13 @@
         "playerId": 1164203,
         "url": "https://cuescore.com/player/Kenny+Liessens/1164203",
         "name": "Kenny Liessens",
-        "mvp": "100.0%",
+        "mvp": "50.0%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 4
+            "framesWon": 14,
+            "framesLost": 11
           },
           "9-Ball": {
             "matchesPlayed": null,
@@ -2540,6 +2672,11 @@
             "result": "W",
             "discipline": 8,
             "date": "2026-11-22T12:08:49Z"
+          },
+          {
+            "result": "L",
+            "discipline": 8,
+            "date": "2026-11-22T16:06:00Z"
           }
         ]
       },
@@ -2547,7 +2684,7 @@
         "playerId": 57004225,
         "url": "https://cuescore.com/player/Amadeo+Durnez/57004225",
         "name": "Amadeo Durnez",
-        "mvp": "66.7%",
+        "mvp": "60.0%",
         "stats": {
           "8-Ball": {
             "matchesPlayed": 2,
@@ -2556,16 +2693,16 @@
             "framesLost": 12
           },
           "9-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
-          },
-          "10-Ball": {
             "matchesPlayed": 1,
             "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 7
+            "framesWon": 9,
+            "framesLost": 8
+          },
+          "10-Ball": {
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 13,
+            "framesLost": 15
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -2594,6 +2731,11 @@
             "result": "L",
             "discipline": 10,
             "date": "2026-11-22T14:09:19Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T15:43:33Z"
           }
         ]
       },
@@ -2601,19 +2743,19 @@
         "playerId": 6795765,
         "url": "https://cuescore.com/player/Anthony+Vandenbussche/6795765",
         "name": "Anthony Vandenbussche",
-        "mvp": "25.0%",
+        "mvp": "33.3%",
         "stats": {
           "8-Ball": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "framesWon": null,
-            "framesLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 0,
+            "framesWon": 5,
+            "framesLost": 7
           },
           "9-Ball": {
-            "matchesPlayed": 3,
-            "matchesWon": 0,
-            "framesWon": 18,
-            "framesLost": 27
+            "matchesPlayed": 4,
+            "matchesWon": 1,
+            "framesWon": 27,
+            "framesLost": 32
           },
           "10-Ball": {
             "matchesPlayed": 1,
@@ -2629,11 +2771,6 @@
           }
         },
         "lastFive": [
-          {
-            "result": "L",
-            "discipline": 9,
-            "date": "2026-09-27T09:12:14Z"
-          },
           {
             "result": "W",
             "discipline": 10,
@@ -2653,6 +2790,11 @@
             "result": "L",
             "discipline": 8,
             "date": "2026-11-22T14:09:19Z"
+          },
+          {
+            "result": "W",
+            "discipline": 9,
+            "date": "2026-11-22T15:51:54Z"
           }
         ]
       }
