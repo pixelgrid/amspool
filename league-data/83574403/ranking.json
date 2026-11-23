@@ -2464,7 +2464,7 @@
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -2504,7 +2504,7 @@
           {
             "result": "W",
             "discipline": 8,
-            "date": "2026-11-17T22:19:03Z"
+            "date": "2026-11-17T22:19:00Z"
           }
         ]
       }
@@ -6011,7 +6011,7 @@
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -6050,7 +6050,7 @@
           {
             "result": "L",
             "discipline": 8,
-            "date": "2026-11-17T22:19:03Z"
+            "date": "2026-11-17T22:19:00Z"
           }
         ]
       },
