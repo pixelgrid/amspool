@@ -57,7 +57,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -2329,7 +2329,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -3741,7 +3741,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -5368,7 +5368,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -6233,7 +6233,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -7567,7 +7567,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -9712,7 +9712,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -10507,7 +10507,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -12194,7 +12194,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -12753,7 +12753,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -15621,7 +15621,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -15698,7 +15698,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -18095,7 +18095,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -18155,7 +18155,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -20967,7 +20967,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -21462,7 +21462,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -23281,7 +23281,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -24012,7 +24012,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -26236,7 +26236,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -27475,7 +27475,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -28472,7 +28472,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -29895,7 +29895,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -31474,7 +31474,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -33436,7 +33436,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -33611,7 +33611,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -35866,7 +35866,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -36660,7 +36660,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
@@ -38880,7 +38880,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -39678,7 +39678,7 @@ export default [
           "8-Ball": {
             "matchesPlayed": 4,
             "matchesWon": 3,
-            "framesWon": 13,
+            "framesWon": 12,
             "framesLost": 10
           },
           "9-Ball": {
@@ -41775,7 +41775,7 @@ export default [
             "matchesPlayed": 2,
             "matchesWon": 0,
             "framesWon": 1,
-            "framesLost": 9
+            "framesLost": 8
           },
           "9-Ball": {
             "matchesPlayed": 5,
