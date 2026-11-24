@@ -192,7 +192,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -201,10 +201,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -213,10 +213,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -288,19 +288,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -325,13 +325,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -340,10 +340,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -967,16 +967,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -993,10 +993,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -1011,10 +1011,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -1030,16 +1030,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1515,7 +1515,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -1524,10 +1524,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -1536,10 +1536,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -1611,19 +1611,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -1648,13 +1648,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -1663,10 +1663,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1934,16 +1934,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -1960,10 +1960,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -1978,10 +1978,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -1997,16 +1997,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3177,7 +3177,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -3186,10 +3186,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -3198,10 +3198,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -3273,19 +3273,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -3310,13 +3310,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -3325,10 +3325,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4394,16 +4394,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4420,10 +4420,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4438,10 +4438,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -4457,16 +4457,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4505,7 +4505,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -4514,10 +4514,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -4526,10 +4526,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -4601,19 +4601,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -4638,13 +4638,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4653,10 +4653,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4681,16 +4681,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -4707,10 +4707,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -4725,10 +4725,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -4744,16 +4744,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6194,7 +6194,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -6203,10 +6203,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -6215,10 +6215,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -6290,19 +6290,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -6327,13 +6327,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -6342,10 +6342,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7180,16 +7180,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -7206,10 +7206,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7224,10 +7224,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -7243,16 +7243,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7495,7 +7495,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -7504,10 +7504,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -7516,10 +7516,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -7591,19 +7591,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -7628,13 +7628,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -7643,10 +7643,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8064,16 +8064,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -8090,10 +8090,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -8108,10 +8108,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -8127,16 +8127,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9184,7 +9184,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -9193,10 +9193,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -9205,10 +9205,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -9280,19 +9280,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -9317,13 +9317,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -9332,10 +9332,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9814,16 +9814,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -9840,10 +9840,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -9858,10 +9858,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -9877,16 +9877,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10485,7 +10485,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -10494,10 +10494,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -10506,10 +10506,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -10581,19 +10581,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -10618,13 +10618,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -10633,10 +10633,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -11238,16 +11238,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -11264,10 +11264,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -11282,10 +11282,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -11301,16 +11301,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12206,7 +12206,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -12215,10 +12215,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -12227,10 +12227,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -12302,19 +12302,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -12339,13 +12339,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12354,10 +12354,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12593,16 +12593,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -12619,10 +12619,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -12637,10 +12637,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -12656,16 +12656,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13475,7 +13475,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -13484,10 +13484,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -13496,10 +13496,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -13571,19 +13571,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -13608,13 +13608,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -13623,10 +13623,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14633,16 +14633,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -14659,10 +14659,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -14677,10 +14677,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -14696,16 +14696,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -14979,16 +14979,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -15005,10 +15005,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15023,10 +15023,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -15042,16 +15042,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15073,7 +15073,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -15082,10 +15082,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -15094,10 +15094,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -15169,19 +15169,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -15206,13 +15206,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -15221,10 +15221,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -16465,7 +16465,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -16474,10 +16474,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -16486,10 +16486,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -16561,19 +16561,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -16598,13 +16598,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -16613,10 +16613,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -17849,16 +17849,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -17875,10 +17875,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -17893,10 +17893,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -17912,16 +17912,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18164,7 +18164,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -18173,10 +18173,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -18185,10 +18185,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -18260,19 +18260,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -18297,13 +18297,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -18312,10 +18312,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -18357,16 +18357,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -18383,10 +18383,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -18401,10 +18401,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -18420,16 +18420,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19455,7 +19455,7 @@ export default [
         "playerId": 1160366,
         "name": "Iede Koffeman",
         "url": "https://cuescore.com/player/Iede+Koffeman/1160366",
-        "mvp": "50.0%",
+        "mvp": "75.0%",
         "stats": {
           "9-Ball": {
             "matchesPlayed": null,
@@ -19464,10 +19464,10 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 4,
-            "framesLost": 7
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 12
           },
           "Straightpool": {
             "matchesPlayed": null,
@@ -19476,10 +19476,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 1,
-            "framesWon": 8,
-            "framesLost": 3
+            "matchesPlayed": 2,
+            "matchesWon": 2,
+            "framesWon": 16,
+            "framesLost": 10
           }
         }
       },
@@ -19551,19 +19551,19 @@ export default [
         "playerId": 1160634,
         "url": "https://cuescore.com/player/Eddie+Lutjes/1160634",
         "name": "Eddie Lutjes",
-        "mvp": "33.3%",
+        "mvp": "37.5%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 6,
-            "framesLost": 9
+            "framesWon": 14,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 2,
-            "matchesWon": 1,
-            "framesWon": 10,
-            "framesLost": 8
+            "matchesPlayed": 3,
+            "matchesWon": 2,
+            "framesWon": 17,
+            "framesLost": 11
           },
           "Straightpool": {
             "matchesPlayed": 2,
@@ -19588,13 +19588,13 @@ export default [
         "playerId": 63543538,
         "url": "https://cuescore.com/player/Jacco+Wieringa/63543538",
         "name": "Jacco Wieringa",
-        "mvp": "0.0%",
+        "mvp": "66.7%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 2,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 11,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -19603,10 +19603,10 @@ export default [
             "framesLost": null
           },
           "Straightpool": {
-            "matchesPlayed": null,
-            "matchesWon": null,
-            "pointsWon": null,
-            "pointsLost": null
+            "matchesPlayed": 1,
+            "matchesWon": 1,
+            "pointsWon": 75,
+            "pointsLost": 59
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -20446,16 +20446,16 @@ export default [
             "framesLost": null
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 8,
+            "framesLost": 14
           },
           "Straightpool": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "pointsWon": 4,
-            "pointsLost": 75
+            "pointsWon": 63,
+            "pointsLost": 150
           },
           "10-Ball": {
             "matchesPlayed": null,
@@ -20472,10 +20472,10 @@ export default [
         "mvp": "50.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
-            "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "matchesPlayed": 2,
+            "matchesWon": 1,
+            "framesWon": 16,
+            "framesLost": 17
           },
           "8-Ball": {
             "matchesPlayed": null,
@@ -20490,10 +20490,10 @@ export default [
             "pointsLost": null
           },
           "10-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 1,
-            "framesWon": 9,
-            "framesLost": 7
+            "framesWon": 16,
+            "framesLost": 15
           }
         }
       },
@@ -20509,16 +20509,16 @@ export default [
         "mvp": "0.0%",
         "stats": {
           "9-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 7,
-            "framesLost": 9
+            "framesWon": 15,
+            "framesLost": 18
           },
           "8-Ball": {
-            "matchesPlayed": 1,
+            "matchesPlayed": 2,
             "matchesWon": 0,
-            "framesWon": 5,
-            "framesLost": 7
+            "framesWon": 10,
+            "framesLost": 14
           },
           "Straightpool": {
             "matchesPlayed": null,
